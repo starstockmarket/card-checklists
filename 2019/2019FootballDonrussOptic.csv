@@ -1,19 +1,4 @@
 Card Set,Number,Player,Team,Seq.
-1989 Tribute,1,Ezekiel Elliott,Dallas Cowboys,
-1989 Tribute,2,Khalil Mack,Chicago Bears,
-1989 Tribute,3,Jimmy Garoppolo,San Francisco 49ers,
-1989 Tribute,4,Patrick Mahomes II,Kansas City Chiefs,
-1989 Tribute,5,Alvin Kamara,New Orleans Saints,
-1989 Tribute,6,Lamar Jackson,Baltimore Ravens,
-1989 Tribute,7,JuJu Smith-Schuster,Pittsburgh Steelers,
-1989 Tribute,8,Julio Jones,Atlanta Falcons,
-1989 Tribute,9,Larry Fitzgerald,Arizona Cardinals,
-1989 Tribute,10,Russell Wilson,Seattle Seahawks,
-1989 Tribute,11,Adam Thielen,Minnesota Vikings,
-1989 Tribute,12,Tom Brady,New England Patriots,
-1989 Tribute,13,Cam Newton,Carolina Panthers,
-1989 Tribute,14,Michael Thomas,New Orleans Saints,
-1989 Tribute,15,J.J. Watt,Houston Texans,
 1989 Tribute Autographs,1,Ezekiel Elliott,Dallas Cowboys,15
 1989 Tribute Autographs,2,Khalil Mack,Chicago Bears,15
 1989 Tribute Autographs,4,Patrick Mahomes II,Kansas City Chiefs,15
@@ -32,21 +17,21 @@ Card Set,Number,Player,Team,Seq.
 1989 Tribute Autographs Gold Vinyl,11,Adam Thielen,Minnesota Vikings,1
 1989 Tribute Autographs Gold Vinyl,12,Tom Brady,New England Patriots,1
 1989 Tribute Autographs Gold Vinyl,15,J.J. Watt,Houston Texans,1
-1999 Tribute,1,Tom Brady,New England Patriots,
-1999 Tribute,2,Baker Mayfield,Cleveland Browns,
-1999 Tribute,3,Drew Brees,New Orleans Saints,
-1999 Tribute,4,Adrian Peterson,New Orleans Saints,
-1999 Tribute,5,Mitchell Trubisky,Chicago Bears,
-1999 Tribute,6,Deshaun Watson,Houston Texans,
-1999 Tribute,7,Saquon Barkley,New York Giants,
-1999 Tribute,8,Aaron Rodgers,Green Bay Packers,
-1999 Tribute,9,Patrick Mahomes II,Kansas City Chiefs,
-1999 Tribute,10,Aaron Donald,Los Angeles Rams,
-1999 Tribute,11,Andrew Luck,Indianapolis Colts,
-1999 Tribute,12,Amari Cooper,Dallas Cowboys,
-1999 Tribute,13,Carson Wentz,Philadelphia Eagles,
-1999 Tribute,14,Josh Allen,Buffalo Bills,
-1999 Tribute,15,Von Miller,Denver Broncos,
+1989 Tribute,1,Ezekiel Elliott,Dallas Cowboys,
+1989 Tribute,2,Khalil Mack,Chicago Bears,
+1989 Tribute,3,Jimmy Garoppolo,San Francisco 49ers,
+1989 Tribute,4,Patrick Mahomes II,Kansas City Chiefs,
+1989 Tribute,5,Alvin Kamara,New Orleans Saints,
+1989 Tribute,6,Lamar Jackson,Baltimore Ravens,
+1989 Tribute,7,JuJu Smith-Schuster,Pittsburgh Steelers,
+1989 Tribute,8,Julio Jones,Atlanta Falcons,
+1989 Tribute,9,Larry Fitzgerald,Arizona Cardinals,
+1989 Tribute,10,Russell Wilson,Seattle Seahawks,
+1989 Tribute,11,Adam Thielen,Minnesota Vikings,
+1989 Tribute,12,Tom Brady,New England Patriots,
+1989 Tribute,13,Cam Newton,Carolina Panthers,
+1989 Tribute,14,Michael Thomas,New Orleans Saints,
+1989 Tribute,15,J.J. Watt,Houston Texans,
 1999 Tribute Autographs,1,Tom Brady,New England Patriots,5
 1999 Tribute Autographs,2,Baker Mayfield,Cleveland Browns,15
 1999 Tribute Autographs,3,Drew Brees,New Orleans Saints,15
@@ -73,6 +58,21 @@ Card Set,Number,Player,Team,Seq.
 1999 Tribute Autographs Gold Vinyl,12,Amari Cooper,Dallas Cowboys,1
 1999 Tribute Autographs Gold Vinyl,13,Carson Wentz,Philadelphia Eagles,1
 1999 Tribute Autographs Gold Vinyl,14,Josh Allen,Buffalo Bills,1
+1999 Tribute,1,Tom Brady,New England Patriots,
+1999 Tribute,2,Baker Mayfield,Cleveland Browns,
+1999 Tribute,3,Drew Brees,New Orleans Saints,
+1999 Tribute,4,Adrian Peterson,New Orleans Saints,
+1999 Tribute,5,Mitchell Trubisky,Chicago Bears,
+1999 Tribute,6,Deshaun Watson,Houston Texans,
+1999 Tribute,7,Saquon Barkley,New York Giants,
+1999 Tribute,8,Aaron Rodgers,Green Bay Packers,
+1999 Tribute,9,Patrick Mahomes II,Kansas City Chiefs,
+1999 Tribute,10,Aaron Donald,Los Angeles Rams,
+1999 Tribute,11,Andrew Luck,Indianapolis Colts,
+1999 Tribute,12,Amari Cooper,Dallas Cowboys,
+1999 Tribute,13,Carson Wentz,Philadelphia Eagles,
+1999 Tribute,14,Josh Allen,Buffalo Bills,
+1999 Tribute,15,Von Miller,Denver Broncos,
 Base,1,Patrick Mahomes II,Kansas City Chiefs,
 Base,2,Travis Kelce,Kansas City Chiefs,
 Base,3,Tyreek Hill,Kansas City Chiefs,
@@ -1625,36 +1625,6 @@ Dynamic Patch Autographs Gold Vinyl,27,Russell Wilson,Seattle Seahawks,1
 Dynamic Patch Autographs Gold Vinyl,28,Jameis Winston,Tampa Bay Buccaneers,1
 Dynamic Patch Autographs Gold Vinyl,29,Marcus Mariota,Tennessee Titans,1
 Dynamic Patch Autographs Gold Vinyl,30,Adrian Peterson,Washington Redskins,1
-Elite Series,1,Aaron Rodgers,Green Bay Packers,
-Elite Series,2,LeSean McCoy,Kansas City Chiefs,
-Elite Series,3,Derek Carr,Oakland Raiders,
-Elite Series,4,Jameis Winston,Tampa Bay Buccaneers,
-Elite Series,5,Kirk Cousins,Minnesota Vikings,
-Elite Series,6,Lamar Jackson,Baltimore Ravens,
-Elite Series,7,Saquon Barkley,New York Giants,
-Elite Series,8,Joe Mixon,Cincinnati Bengals,
-Elite Series,9,JuJu Smith-Schuster,Pittsburgh Steelers,
-Elite Series,10,Dak Prescott,Dallas Cowboys,
-Elite Series,11,Corey Davis,Tennessee Titans,
-Elite Series,12,Alshon Jeffery,Philadelphia Eagles,
-Elite Series,13,Josh Rosen,Miami Dolphins,
-Elite Series,14,Baker Mayfield,Cleveland Browns,
-Elite Series,15,Michael Thomas,New Orleans Saints,
-Elite Series,16,Phillip Lindsay,Denver Broncos,
-Elite Series,17,Bobby Wagner,Seattle Seahawks,
-Elite Series,18,Jared Goff,Los Angeles Rams,
-Elite Series,19,DeAndre Hopkins,Houston Texans,
-Elite Series,20,Adrian Peterson,Washington Redskins,
-Elite Series,21,Christian McCaffrey,Carolina Panthers,
-Elite Series,22,Melvin Gordon III,Los Angeles Chargers,
-Elite Series,23,Patrick Mahomes II,Kansas City Chiefs,
-Elite Series,24,Matt Ryan,Atlanta Falcons,
-Elite Series,25,Mitchell Trubisky,Chicago Bears,
-Elite Series,26,George Kittle,San Francisco 49ers,
-Elite Series,27,Rob Gronkowski,New England Patriots,
-Elite Series,28,T.Y. Hilton,Indianapolis Colts,
-Elite Series,29,Sam Darnold,New York Jets,
-Elite Series,30,Jalen Ramsey,Jacksonville Jaguars,
 Elite Series Autographs,1,Aaron Rodgers,Green Bay Packers,10
 Elite Series Autographs,3,Derek Carr,Oakland Raiders,15
 Elite Series Autographs,4,Jameis Winston,Tampa Bay Buccaneers,15
@@ -1699,15 +1669,45 @@ Elite Series Autographs Gold Vinyl,24,Matt Ryan,Atlanta Falcons,1
 Elite Series Autographs Gold Vinyl,25,Mitchell Trubisky,Chicago Bears,1
 Elite Series Autographs Gold Vinyl,26,George Kittle,San Francisco 49ers,1
 Elite Series Autographs Gold Vinyl,27,Rob Gronkowski,New England Patriots,1
-Fans of the Game,1,Erin Andrews,No Team,
-Fans of the Game,2,Rob Riggle,No Team,
-Fans of the Game,3,Melissa Baker,No Team,
+Elite Series,1,Aaron Rodgers,Green Bay Packers,
+Elite Series,2,LeSean McCoy,Kansas City Chiefs,
+Elite Series,3,Derek Carr,Oakland Raiders,
+Elite Series,4,Jameis Winston,Tampa Bay Buccaneers,
+Elite Series,5,Kirk Cousins,Minnesota Vikings,
+Elite Series,6,Lamar Jackson,Baltimore Ravens,
+Elite Series,7,Saquon Barkley,New York Giants,
+Elite Series,8,Joe Mixon,Cincinnati Bengals,
+Elite Series,9,JuJu Smith-Schuster,Pittsburgh Steelers,
+Elite Series,10,Dak Prescott,Dallas Cowboys,
+Elite Series,11,Corey Davis,Tennessee Titans,
+Elite Series,12,Alshon Jeffery,Philadelphia Eagles,
+Elite Series,13,Josh Rosen,Miami Dolphins,
+Elite Series,14,Baker Mayfield,Cleveland Browns,
+Elite Series,15,Michael Thomas,New Orleans Saints,
+Elite Series,16,Phillip Lindsay,Denver Broncos,
+Elite Series,17,Bobby Wagner,Seattle Seahawks,
+Elite Series,18,Jared Goff,Los Angeles Rams,
+Elite Series,19,DeAndre Hopkins,Houston Texans,
+Elite Series,20,Adrian Peterson,Washington Redskins,
+Elite Series,21,Christian McCaffrey,Carolina Panthers,
+Elite Series,22,Melvin Gordon III,Los Angeles Chargers,
+Elite Series,23,Patrick Mahomes II,Kansas City Chiefs,
+Elite Series,24,Matt Ryan,Atlanta Falcons,
+Elite Series,25,Mitchell Trubisky,Chicago Bears,
+Elite Series,26,George Kittle,San Francisco 49ers,
+Elite Series,27,Rob Gronkowski,New England Patriots,
+Elite Series,28,T.Y. Hilton,Indianapolis Colts,
+Elite Series,29,Sam Darnold,New York Jets,
+Elite Series,30,Jalen Ramsey,Jacksonville Jaguars,
 Fans of the Game Autographs,1,Erin Andrews,No Team,25
 Fans of the Game Autographs,2,Rob Riggle,No Team,25
 Fans of the Game Autographs,3,Melissa Baker,No Team,25
 Fans of the Game Autographs Gold Vinyl,1,Erin Andrews,No Team,1
 Fans of the Game Autographs Gold Vinyl,2,Rob Riggle,No Team,1
 Fans of the Game Autographs Gold Vinyl,3,Melissa Baker,No Team,1
+Fans of the Game,1,Erin Andrews,No Team,
+Fans of the Game,2,Rob Riggle,No Team,
+Fans of the Game,3,Melissa Baker,No Team,
 Legendary Patch Autographs,1,Joe Montana,San Francisco 49ers,10
 Legendary Patch Autographs,2,Lawrence Taylor,New York Giants,25
 Legendary Patch Autographs,3,Barry Sanders,Detroit Lions,10
@@ -1898,21 +1898,6 @@ Mythical Gold Vinyl,17,Kyler Murray,Arizona Cardinals,1
 Mythical Gold Vinyl,18,Dwayne Haskins,Washington Redskins,1
 Mythical Gold Vinyl,19,Nick Bosa,San Francisco 49ers,1
 Mythical Gold Vinyl,20,Will Grier,Carolina Panthers,1
-Power Formulas,1,Phillip Lindsay,Denver Broncos,
-Power Formulas,2,DeAndre Hopkins,Houston Texans,
-Power Formulas,3,Lamar Jackson,Baltimore Ravens,
-Power Formulas,4,Odell Beckham Jr.,Cleveland Browns,
-Power Formulas,5,Nick Chubb,Cleveland Browns,
-Power Formulas,6,Alvin Kamara,New Orleans Saints,
-Power Formulas,7,Adam Thielen,Minnesota Vikings,
-Power Formulas,8,Russell Wilson,Seattle Seahawks,
-Power Formulas,9,Saquon Barkley,New York Giants,
-Power Formulas,10,Cam Newton,Carolina Panthers,
-Power Formulas,11,Davante Adams,Green Bay Packers,
-Power Formulas,12,Leonard Fournette,Jacksonville Jaguars,
-Power Formulas,13,Ezekiel Elliott,Dallas Cowboys,
-Power Formulas,14,Kerryon Johnson,Detroit Lions,
-Power Formulas,15,James Conner,Pittsburgh Steelers,
 Power Formulas Autographs,1,Phillip Lindsay,Denver Broncos,25
 Power Formulas Autographs,2,DeAndre Hopkins,Houston Texans,25
 Power Formulas Autographs,3,Lamar Jackson,Baltimore Ravens,10
@@ -1935,106 +1920,21 @@ Power Formulas Autographs Gold Vinyl,12,Leonard Fournette,Jacksonville Jaguars,1
 Power Formulas Autographs Gold Vinyl,13,Ezekiel Elliott,Dallas Cowboys,1
 Power Formulas Autographs Gold Vinyl,14,Kerryon Johnson,Detroit Lions,1
 Power Formulas Autographs Gold Vinyl,15,James Conner,Pittsburgh Steelers,1
-Rated Rookies,151,Dwayne Haskins,Washington Redskins,
-Rated Rookies,152,Kyler Murray,Arizona Cardinals,
-Rated Rookies,153,Drew Lock,Denver Broncos,
-Rated Rookies,154,Daniel Jones,New York Giants,
-Rated Rookies,155,Will Grier,Carolina Panthers,
-Rated Rookies,156,Ryan Finley,Cincinnati Bengals,
-Rated Rookies,157,Jarrett Stidham,New England Patriots,
-Rated Rookies,158,Josh Jacobs,Oakland Raiders,
-Rated Rookies,159,Damien Harris,New England Patriots,
-Rated Rookies,160,Darrell Henderson,Los Angeles Rams,
-Rated Rookies,161,David Montgomery,Chicago Bears,
-Rated Rookies,162,Marquise Brown,Baltimore Ravens,
-Rated Rookies,163,D.K. Metcalf,Seattle Seahawks,
-Rated Rookies,164,A.J. Brown,Tennessee Titans,
-Rated Rookies,165,Parris Campbell,Indianapolis Colts,
-Rated Rookies,166,Hakeem Butler,Arizona Cardinals,
-Rated Rookies,167,Deebo Samuel,San Francisco 49ers,
-Rated Rookies,168,Nick Bosa,San Francisco 49ers,
-Rated Rookies,169,N'Keal Harry,New England Patriots,
-Rated Rookies,170,Noah Fant,Denver Broncos,
-Rated Rookies,171,T.J. Hockenson,Detroit Lions,
-Rated Rookies,172,Miles Sanders,Philadelphia Eagles,
-Rated Rookies,173,JJ Arcega-Whiteside,Philadelphia Eagles,
-Rated Rookies,174,Irv Smith Jr.,Minnesota Vikings,
-Rated Rookies,175,Mecole Hardman Jr.,Kansas City Chiefs,
-Rated Rookies,176,Andy Isabella,Arizona Cardinals,
-Rated Rookies,177,Diontae Johnson,Pittsburgh Steelers,
-Rated Rookies,178,Devin Singletary,Buffalo Bills,
-Rated Rookies,179,Terry McLaurin,Washington Redskins,
-Rated Rookies,180,Miles Boykin,Baltimore Ravens,
-Rated Rookies,181,Alexander Mattison,Minnesota Vikings,
-Rated Rookies,182,Bryce Love,Washington Redskins,
-Rated Rookies,183,Justice Hill,Baltimore Ravens,
-Rated Rookies,184,Gary Jennings Jr.,Seattle Seahawks,
-Rated Rookies,185,Benny Snell Jr.,Pittsburgh Steelers,
-Rated Rookies,186,Riley Ridley,Chicago Bears,
-Rated Rookies,187,Tony Pollard,Dallas Cowboys,
-Rated Rookies,188,Darius Slayton,New York Giants,
-Rated Rookies,189,Easton Stick,Los Angeles Chargers,
-Rated Rookies,190,Hunter Renfrow,Oakland Raiders,
-Rated Rookies,191,Jalen Hurd,San Francisco 49ers,
-Rated Rookies,192,Devin White,Tampa Bay Buccaneers,
-Rated Rookies,193,Josh Allen,Jacksonville Jaguars,
-Rated Rookies,194,Devin Bush II,Pittsburgh Steelers,
-Rated Rookies,195,Rashan Gary,Green Bay Packers,
-Rated Rookies,196,Trace McSorley,Baltimore Ravens,
-Rated Rookies,197,Ed Oliver,Buffalo Bills,
-Rated Rookies,198,Jace Sternberger,Green Bay Packers,
-Rated Rookies,199,Qadree Ollison,Atlanta Falcons,
-Rated Rookies,200,Clayton Thorson,Philadelphia Eagles,
-Rated Rookies Aqua,151,Dwayne Haskins,Washington Redskins,299
-Rated Rookies Aqua,152,Kyler Murray,Arizona Cardinals,299
-Rated Rookies Aqua,153,Drew Lock,Denver Broncos,299
-Rated Rookies Aqua,154,Daniel Jones,New York Giants,299
-Rated Rookies Aqua,155,Will Grier,Carolina Panthers,299
-Rated Rookies Aqua,156,Ryan Finley,Cincinnati Bengals,299
-Rated Rookies Aqua,157,Jarrett Stidham,New England Patriots,299
-Rated Rookies Aqua,158,Josh Jacobs,Oakland Raiders,299
-Rated Rookies Aqua,159,Damien Harris,New England Patriots,299
-Rated Rookies Aqua,160,Darrell Henderson,Los Angeles Rams,299
-Rated Rookies Aqua,161,David Montgomery,Chicago Bears,299
-Rated Rookies Aqua,162,Marquise Brown,Baltimore Ravens,299
-Rated Rookies Aqua,163,D.K. Metcalf,Seattle Seahawks,299
-Rated Rookies Aqua,164,A.J. Brown,Tennessee Titans,299
-Rated Rookies Aqua,165,Parris Campbell,Indianapolis Colts,299
-Rated Rookies Aqua,166,Hakeem Butler,Arizona Cardinals,299
-Rated Rookies Aqua,167,Deebo Samuel,San Francisco 49ers,299
-Rated Rookies Aqua,168,Nick Bosa,San Francisco 49ers,299
-Rated Rookies Aqua,169,N'Keal Harry,New England Patriots,299
-Rated Rookies Aqua,170,Noah Fant,Denver Broncos,299
-Rated Rookies Aqua,171,T.J. Hockenson,Detroit Lions,299
-Rated Rookies Aqua,172,Miles Sanders,Philadelphia Eagles,299
-Rated Rookies Aqua,173,JJ Arcega-Whiteside,Philadelphia Eagles,299
-Rated Rookies Aqua,174,Irv Smith Jr.,Minnesota Vikings,299
-Rated Rookies Aqua,175,Mecole Hardman Jr.,Kansas City Chiefs,299
-Rated Rookies Aqua,176,Andy Isabella,Arizona Cardinals,299
-Rated Rookies Aqua,177,Diontae Johnson,Pittsburgh Steelers,299
-Rated Rookies Aqua,178,Devin Singletary,Buffalo Bills,299
-Rated Rookies Aqua,179,Terry McLaurin,Washington Redskins,299
-Rated Rookies Aqua,180,Miles Boykin,Baltimore Ravens,299
-Rated Rookies Aqua,181,Alexander Mattison,Minnesota Vikings,299
-Rated Rookies Aqua,182,Bryce Love,Washington Redskins,299
-Rated Rookies Aqua,183,Justice Hill,Baltimore Ravens,299
-Rated Rookies Aqua,184,Gary Jennings Jr.,Seattle Seahawks,299
-Rated Rookies Aqua,185,Benny Snell Jr.,Pittsburgh Steelers,299
-Rated Rookies Aqua,186,Riley Ridley,Chicago Bears,299
-Rated Rookies Aqua,187,Tony Pollard,Dallas Cowboys,299
-Rated Rookies Aqua,188,Darius Slayton,New York Giants,299
-Rated Rookies Aqua,189,Easton Stick,Los Angeles Chargers,299
-Rated Rookies Aqua,190,Hunter Renfrow,Oakland Raiders,299
-Rated Rookies Aqua,191,Jalen Hurd,San Francisco 49ers,299
-Rated Rookies Aqua,192,Devin White,Tampa Bay Buccaneers,299
-Rated Rookies Aqua,193,Josh Allen,Jacksonville Jaguars,299
-Rated Rookies Aqua,194,Devin Bush II,Pittsburgh Steelers,299
-Rated Rookies Aqua,195,Rashan Gary,Green Bay Packers,299
-Rated Rookies Aqua,196,Trace McSorley,Baltimore Ravens,299
-Rated Rookies Aqua,197,Ed Oliver,Buffalo Bills,299
-Rated Rookies Aqua,198,Jace Sternberger,Green Bay Packers,299
-Rated Rookies Aqua,199,Qadree Ollison,Atlanta Falcons,299
-Rated Rookies Aqua,200,Clayton Thorson,Philadelphia Eagles,299
+Power Formulas,1,Phillip Lindsay,Denver Broncos,
+Power Formulas,2,DeAndre Hopkins,Houston Texans,
+Power Formulas,3,Lamar Jackson,Baltimore Ravens,
+Power Formulas,4,Odell Beckham Jr.,Cleveland Browns,
+Power Formulas,5,Nick Chubb,Cleveland Browns,
+Power Formulas,6,Alvin Kamara,New Orleans Saints,
+Power Formulas,7,Adam Thielen,Minnesota Vikings,
+Power Formulas,8,Russell Wilson,Seattle Seahawks,
+Power Formulas,9,Saquon Barkley,New York Giants,
+Power Formulas,10,Cam Newton,Carolina Panthers,
+Power Formulas,11,Davante Adams,Green Bay Packers,
+Power Formulas,12,Leonard Fournette,Jacksonville Jaguars,
+Power Formulas,13,Ezekiel Elliott,Dallas Cowboys,
+Power Formulas,14,Kerryon Johnson,Detroit Lions,
+Power Formulas,15,James Conner,Pittsburgh Steelers,
 Rated Rookies Autographs,151,Dwayne Haskins,Washington Redskins,60
 Rated Rookies Autographs,152,Kyler Murray,Arizona Cardinals,60
 Rated Rookies Autographs,153,Drew Lock,Denver Broncos,125
@@ -2563,6 +2463,106 @@ Rated Rookies Autographs Red,196,Trace McSorley,Baltimore Ravens,50
 Rated Rookies Autographs Red,197,Ed Oliver,Buffalo Bills,50
 Rated Rookies Autographs Red,198,Jace Sternberger,Green Bay Packers,50
 Rated Rookies Autographs Red,199,Qadree Ollison,Atlanta Falcons,50
+Rated Rookies,151,Dwayne Haskins,Washington Redskins,
+Rated Rookies,152,Kyler Murray,Arizona Cardinals,
+Rated Rookies,153,Drew Lock,Denver Broncos,
+Rated Rookies,154,Daniel Jones,New York Giants,
+Rated Rookies,155,Will Grier,Carolina Panthers,
+Rated Rookies,156,Ryan Finley,Cincinnati Bengals,
+Rated Rookies,157,Jarrett Stidham,New England Patriots,
+Rated Rookies,158,Josh Jacobs,Oakland Raiders,
+Rated Rookies,159,Damien Harris,New England Patriots,
+Rated Rookies,160,Darrell Henderson,Los Angeles Rams,
+Rated Rookies,161,David Montgomery,Chicago Bears,
+Rated Rookies,162,Marquise Brown,Baltimore Ravens,
+Rated Rookies,163,D.K. Metcalf,Seattle Seahawks,
+Rated Rookies,164,A.J. Brown,Tennessee Titans,
+Rated Rookies,165,Parris Campbell,Indianapolis Colts,
+Rated Rookies,166,Hakeem Butler,Arizona Cardinals,
+Rated Rookies,167,Deebo Samuel,San Francisco 49ers,
+Rated Rookies,168,Nick Bosa,San Francisco 49ers,
+Rated Rookies,169,N'Keal Harry,New England Patriots,
+Rated Rookies,170,Noah Fant,Denver Broncos,
+Rated Rookies,171,T.J. Hockenson,Detroit Lions,
+Rated Rookies,172,Miles Sanders,Philadelphia Eagles,
+Rated Rookies,173,JJ Arcega-Whiteside,Philadelphia Eagles,
+Rated Rookies,174,Irv Smith Jr.,Minnesota Vikings,
+Rated Rookies,175,Mecole Hardman Jr.,Kansas City Chiefs,
+Rated Rookies,176,Andy Isabella,Arizona Cardinals,
+Rated Rookies,177,Diontae Johnson,Pittsburgh Steelers,
+Rated Rookies,178,Devin Singletary,Buffalo Bills,
+Rated Rookies,179,Terry McLaurin,Washington Redskins,
+Rated Rookies,180,Miles Boykin,Baltimore Ravens,
+Rated Rookies,181,Alexander Mattison,Minnesota Vikings,
+Rated Rookies,182,Bryce Love,Washington Redskins,
+Rated Rookies,183,Justice Hill,Baltimore Ravens,
+Rated Rookies,184,Gary Jennings Jr.,Seattle Seahawks,
+Rated Rookies,185,Benny Snell Jr.,Pittsburgh Steelers,
+Rated Rookies,186,Riley Ridley,Chicago Bears,
+Rated Rookies,187,Tony Pollard,Dallas Cowboys,
+Rated Rookies,188,Darius Slayton,New York Giants,
+Rated Rookies,189,Easton Stick,Los Angeles Chargers,
+Rated Rookies,190,Hunter Renfrow,Oakland Raiders,
+Rated Rookies,191,Jalen Hurd,San Francisco 49ers,
+Rated Rookies,192,Devin White,Tampa Bay Buccaneers,
+Rated Rookies,193,Josh Allen,Jacksonville Jaguars,
+Rated Rookies,194,Devin Bush II,Pittsburgh Steelers,
+Rated Rookies,195,Rashan Gary,Green Bay Packers,
+Rated Rookies,196,Trace McSorley,Baltimore Ravens,
+Rated Rookies,197,Ed Oliver,Buffalo Bills,
+Rated Rookies,198,Jace Sternberger,Green Bay Packers,
+Rated Rookies,199,Qadree Ollison,Atlanta Falcons,
+Rated Rookies,200,Clayton Thorson,Philadelphia Eagles,
+Rated Rookies Aqua,151,Dwayne Haskins,Washington Redskins,299
+Rated Rookies Aqua,152,Kyler Murray,Arizona Cardinals,299
+Rated Rookies Aqua,153,Drew Lock,Denver Broncos,299
+Rated Rookies Aqua,154,Daniel Jones,New York Giants,299
+Rated Rookies Aqua,155,Will Grier,Carolina Panthers,299
+Rated Rookies Aqua,156,Ryan Finley,Cincinnati Bengals,299
+Rated Rookies Aqua,157,Jarrett Stidham,New England Patriots,299
+Rated Rookies Aqua,158,Josh Jacobs,Oakland Raiders,299
+Rated Rookies Aqua,159,Damien Harris,New England Patriots,299
+Rated Rookies Aqua,160,Darrell Henderson,Los Angeles Rams,299
+Rated Rookies Aqua,161,David Montgomery,Chicago Bears,299
+Rated Rookies Aqua,162,Marquise Brown,Baltimore Ravens,299
+Rated Rookies Aqua,163,D.K. Metcalf,Seattle Seahawks,299
+Rated Rookies Aqua,164,A.J. Brown,Tennessee Titans,299
+Rated Rookies Aqua,165,Parris Campbell,Indianapolis Colts,299
+Rated Rookies Aqua,166,Hakeem Butler,Arizona Cardinals,299
+Rated Rookies Aqua,167,Deebo Samuel,San Francisco 49ers,299
+Rated Rookies Aqua,168,Nick Bosa,San Francisco 49ers,299
+Rated Rookies Aqua,169,N'Keal Harry,New England Patriots,299
+Rated Rookies Aqua,170,Noah Fant,Denver Broncos,299
+Rated Rookies Aqua,171,T.J. Hockenson,Detroit Lions,299
+Rated Rookies Aqua,172,Miles Sanders,Philadelphia Eagles,299
+Rated Rookies Aqua,173,JJ Arcega-Whiteside,Philadelphia Eagles,299
+Rated Rookies Aqua,174,Irv Smith Jr.,Minnesota Vikings,299
+Rated Rookies Aqua,175,Mecole Hardman Jr.,Kansas City Chiefs,299
+Rated Rookies Aqua,176,Andy Isabella,Arizona Cardinals,299
+Rated Rookies Aqua,177,Diontae Johnson,Pittsburgh Steelers,299
+Rated Rookies Aqua,178,Devin Singletary,Buffalo Bills,299
+Rated Rookies Aqua,179,Terry McLaurin,Washington Redskins,299
+Rated Rookies Aqua,180,Miles Boykin,Baltimore Ravens,299
+Rated Rookies Aqua,181,Alexander Mattison,Minnesota Vikings,299
+Rated Rookies Aqua,182,Bryce Love,Washington Redskins,299
+Rated Rookies Aqua,183,Justice Hill,Baltimore Ravens,299
+Rated Rookies Aqua,184,Gary Jennings Jr.,Seattle Seahawks,299
+Rated Rookies Aqua,185,Benny Snell Jr.,Pittsburgh Steelers,299
+Rated Rookies Aqua,186,Riley Ridley,Chicago Bears,299
+Rated Rookies Aqua,187,Tony Pollard,Dallas Cowboys,299
+Rated Rookies Aqua,188,Darius Slayton,New York Giants,299
+Rated Rookies Aqua,189,Easton Stick,Los Angeles Chargers,299
+Rated Rookies Aqua,190,Hunter Renfrow,Oakland Raiders,299
+Rated Rookies Aqua,191,Jalen Hurd,San Francisco 49ers,299
+Rated Rookies Aqua,192,Devin White,Tampa Bay Buccaneers,299
+Rated Rookies Aqua,193,Josh Allen,Jacksonville Jaguars,299
+Rated Rookies Aqua,194,Devin Bush II,Pittsburgh Steelers,299
+Rated Rookies Aqua,195,Rashan Gary,Green Bay Packers,299
+Rated Rookies Aqua,196,Trace McSorley,Baltimore Ravens,299
+Rated Rookies Aqua,197,Ed Oliver,Buffalo Bills,299
+Rated Rookies Aqua,198,Jace Sternberger,Green Bay Packers,299
+Rated Rookies Aqua,199,Qadree Ollison,Atlanta Falcons,299
+Rated Rookies Aqua,200,Clayton Thorson,Philadelphia Eagles,299
 Rated Rookies Black Pandora,151,Dwayne Haskins,Washington Redskins,25
 Rated Rookies Black Pandora,152,Kyler Murray,Arizona Cardinals,25
 Rated Rookies Black Pandora,153,Drew Lock,Denver Broncos,25
@@ -3383,28 +3383,6 @@ Rookie Dual Autographs Gold Vinyl,7,Hunter Renfrow - Josh Jacobs,Oakland Raiders
 Rookie Dual Autographs Gold Vinyl,8,Bryce Love - Dwayne Haskins,Washington Redskins - Washington Redskins,1
 Rookie Dual Autographs Gold Vinyl,9,JJ Arcega-Whiteside - Miles Sanders,Philadelphia Eagles - Philadelphia Eagles,1
 Rookie Dual Autographs Gold Vinyl,10,Deebo Samuel - Nick Bosa,San Francisco 49ers - San Francisco 49ers,1
-Rookie Elite Series,1,Dwayne Haskins,Washington Redskins,
-Rookie Elite Series,2,Kyler Murray,Arizona Cardinals,
-Rookie Elite Series,3,Drew Lock,Denver Broncos,
-Rookie Elite Series,4,Daniel Jones,New York Giants,
-Rookie Elite Series,5,Benny Snell Jr.,Pittsburgh Steelers,
-Rookie Elite Series,6,Ryan Finley,Cincinnati Bengals,
-Rookie Elite Series,7,Diontae Johnson,Pittsburgh Steelers,
-Rookie Elite Series,8,JJ Arcega-Whiteside,Philadelphia Eagles,
-Rookie Elite Series,9,Damien Harris,New England Patriots,
-Rookie Elite Series,10,Tony Pollard,Dallas Cowboys,
-Rookie Elite Series,11,David Montgomery,Chicago Bears,
-Rookie Elite Series,12,Marquise Brown,Baltimore Ravens,
-Rookie Elite Series,13,D.K. Metcalf,Seattle Seahawks,
-Rookie Elite Series,14,Easton Stick,Los Angeles Chargers,
-Rookie Elite Series,15,Parris Campbell,Indianapolis Colts,
-Rookie Elite Series,16,Hakeem Butler,Arizona Cardinals,
-Rookie Elite Series,17,Deebo Samuel,San Francisco 49ers,
-Rookie Elite Series,18,Bryce Love,Washington Redskins,
-Rookie Elite Series,19,N'Keal Harry,New England Patriots,
-Rookie Elite Series,20,Hunter Renfrow,Oakland Raiders,
-Rookie Elite Series,21,Alexander Mattison,Minnesota Vikings,
-Rookie Elite Series,22,Mecole Hardman Jr.,Kansas City Chiefs,
 Rookie Elite Series Autographs,1,Dwayne Haskins,Washington Redskins,25
 Rookie Elite Series Autographs,2,Kyler Murray,Arizona Cardinals,25
 Rookie Elite Series Autographs,3,Drew Lock,Denver Broncos,25
@@ -3471,6 +3449,28 @@ Rookie Elite Series Autographs Purple Stars,19,N'Keal Harry,New England Patriots
 Rookie Elite Series Autographs Purple Stars,20,Hunter Renfrow,Oakland Raiders,25
 Rookie Elite Series Autographs Purple Stars,21,Alexander Mattison,Minnesota Vikings,25
 Rookie Elite Series Autographs Purple Stars,22,Mecole Hardman Jr.,Kansas City Chiefs,25
+Rookie Elite Series,1,Dwayne Haskins,Washington Redskins,
+Rookie Elite Series,2,Kyler Murray,Arizona Cardinals,
+Rookie Elite Series,3,Drew Lock,Denver Broncos,
+Rookie Elite Series,4,Daniel Jones,New York Giants,
+Rookie Elite Series,5,Benny Snell Jr.,Pittsburgh Steelers,
+Rookie Elite Series,6,Ryan Finley,Cincinnati Bengals,
+Rookie Elite Series,7,Diontae Johnson,Pittsburgh Steelers,
+Rookie Elite Series,8,JJ Arcega-Whiteside,Philadelphia Eagles,
+Rookie Elite Series,9,Damien Harris,New England Patriots,
+Rookie Elite Series,10,Tony Pollard,Dallas Cowboys,
+Rookie Elite Series,11,David Montgomery,Chicago Bears,
+Rookie Elite Series,12,Marquise Brown,Baltimore Ravens,
+Rookie Elite Series,13,D.K. Metcalf,Seattle Seahawks,
+Rookie Elite Series,14,Easton Stick,Los Angeles Chargers,
+Rookie Elite Series,15,Parris Campbell,Indianapolis Colts,
+Rookie Elite Series,16,Hakeem Butler,Arizona Cardinals,
+Rookie Elite Series,17,Deebo Samuel,San Francisco 49ers,
+Rookie Elite Series,18,Bryce Love,Washington Redskins,
+Rookie Elite Series,19,N'Keal Harry,New England Patriots,
+Rookie Elite Series,20,Hunter Renfrow,Oakland Raiders,
+Rookie Elite Series,21,Alexander Mattison,Minnesota Vikings,
+Rookie Elite Series,22,Mecole Hardman Jr.,Kansas City Chiefs,
 Rookie Kings Autographs,1,Dwayne Haskins,Washington Redskins,25
 Rookie Kings Autographs,2,Kyler Murray,Arizona Cardinals,25
 Rookie Kings Autographs,3,Drew Lock,Denver Broncos,25
@@ -3881,106 +3881,6 @@ Rookie Triple Autographs Gold Vinyl,2,Jarrett Stidham - Ryan Finley - Will Grier
 Rookie Triple Autographs Gold Vinyl,3,Damien Harris - Jarrett Stidham - N'Keal Harry,New England Patriots - New England Patriots - New England Patriots,1
 Rookie Triple Autographs Gold Vinyl,4,Andy Isabella - Hakeem Butler - Kyler Murray,Arizona Cardinals - Arizona Cardinals - Arizona Cardinals,1
 Rookie Triple Autographs Gold Vinyl,5,Bryce Love - Dwayne Haskins - Terry McLaurin,Washington Redskins - Washington Redskins - Washington Redskins,1
-Rookies,101,Ryquell Armstead,Jacksonville Jaguars,
-Rookies,102,Jordan Scarlett,Carolina Panthers,
-Rookies,103,Quinnen Williams,New York Jets,
-Rookies,104,Clelin Ferrell,Oakland Raiders,
-Rookies,105,Christian Wilkins,Miami Dolphins,
-Rookies,106,Brian Burns,Carolina Panthers,
-Rookies,107,Dexter Lawrence,New York Giants,
-Rookies,108,Jeffery Simmons,Tennessee Titans,
-Rookies,109,Darnell Savage Jr.,Green Bay Packers,
-Rookies,110,Montez Sweat,Washington Redskins,
-Rookies,111,Johnathan Abram,Oakland Raiders,
-Rookies,112,Julian Love,New York Giants,
-Rookies,113,L.J. Collier,Seattle Seahawks,
-Rookies,114,Deandre Baker,New York Giants,
-Rookies,115,Byron Murphy,Arizona Cardinals,
-Rookies,116,Rock Ya-Sin,Indianapolis Colts,
-Rookies,117,Dakota Allen,Los Angeles Rams,
-Rookies,118,Sean Murphy-Bunting,Tampa Bay Buccaneers,
-Rookies,119,Trayvon Mullen Jr.,Oakland Raiders,
-Rookies,120,Jahlani Tavai,Detroit Lions,
-Rookies,121,Joejuan Williams,New England Patriots,
-Rookies,122,Greedy Williams,Cleveland Browns,
-Rookies,123,Marquise Blair,Seattle Seahawks,
-Rookies,124,Ben Banogu,Indianapolis Colts,
-Rookies,125,Drew Sample,Cincinnati Bengals,
-Rookies,126,Lonnie Johnson Jr.,Houston Texans,
-Rookies,127,Trysten Hill,Dallas Cowboys,
-Rookies,128,Nasir Adderley,Los Angeles Chargers,
-Rookies,129,Taylor Rapp,Los Angeles Rams,
-Rookies,130,Juan Thornhill,Kansas City Chiefs,
-Rookies,131,Myles Gaskin,Miami Dolphins,
-Rookies,132,Chandler Cox,Miami Dolphins,
-Rookies,133,Tyree Jackson,Buffalo Bills,
-Rookies,134,Rodney Anderson,Cincinnati Bengals,
-Rookies,135,Jamel Dean,Tampa Bay Buccaneers,
-Rookies,136,Mike Edwards,Tampa Bay Buccaneers,
-Rookies,137,Chauncey Gardner-Johnson,New Orleans Saints,
-Rookies,138,Saquan Hampton,New Orleans Saints,
-Rookies,139,Alize Mack,New Orleans Saints,
-Rookies,140,Amani Hooker,Tennessee Titans,
-Rookies,141,D'Andre Walker,Tennessee Titans,
-Rookies,142,Gardner Minshew II,Jacksonville Jaguars,
-Rookies,143,Trayveon Williams,Cincinnati Bengals,
-Rookies,144,Travis Fulgham,Detroit Lions,
-Rookies,145,Ty Johnson,Detroit Lions,
-Rookies,146,Dexter Williams,Green Bay Packers,
-Rookies,147,Juwann Winfree,Denver Broncos,
-Rookies,148,Travis Homer,Seattle Seahawks,
-Rookies,149,Kelvin Harmon,Washington Redskins,
-Rookies,150,Zach Allen,Arizona Cardinals,
-Rookies Aqua,101,Ryquell Armstead,Jacksonville Jaguars,299
-Rookies Aqua,102,Jordan Scarlett,Carolina Panthers,299
-Rookies Aqua,103,Quinnen Williams,New York Jets,299
-Rookies Aqua,104,Clelin Ferrell,Oakland Raiders,299
-Rookies Aqua,105,Christian Wilkins,Miami Dolphins,299
-Rookies Aqua,106,Brian Burns,Carolina Panthers,299
-Rookies Aqua,107,Dexter Lawrence,New York Giants,299
-Rookies Aqua,108,Jeffery Simmons,Tennessee Titans,299
-Rookies Aqua,109,Darnell Savage Jr.,Green Bay Packers,299
-Rookies Aqua,110,Montez Sweat,Washington Redskins,299
-Rookies Aqua,111,Johnathan Abram,Oakland Raiders,299
-Rookies Aqua,112,Julian Love,New York Giants,299
-Rookies Aqua,113,L.J. Collier,Seattle Seahawks,299
-Rookies Aqua,114,Deandre Baker,New York Giants,299
-Rookies Aqua,115,Byron Murphy,Arizona Cardinals,299
-Rookies Aqua,116,Rock Ya-Sin,Indianapolis Colts,299
-Rookies Aqua,117,Dakota Allen,Los Angeles Rams,299
-Rookies Aqua,118,Sean Murphy-Bunting,Tampa Bay Buccaneers,299
-Rookies Aqua,119,Trayvon Mullen Jr.,Oakland Raiders,299
-Rookies Aqua,120,Jahlani Tavai,Detroit Lions,299
-Rookies Aqua,121,Joejuan Williams,New England Patriots,299
-Rookies Aqua,122,Greedy Williams,Cleveland Browns,299
-Rookies Aqua,123,Marquise Blair,Seattle Seahawks,299
-Rookies Aqua,124,Ben Banogu,Indianapolis Colts,299
-Rookies Aqua,125,Drew Sample,Cincinnati Bengals,299
-Rookies Aqua,126,Lonnie Johnson Jr.,Houston Texans,299
-Rookies Aqua,127,Trysten Hill,Dallas Cowboys,299
-Rookies Aqua,128,Nasir Adderley,Los Angeles Chargers,299
-Rookies Aqua,129,Taylor Rapp,Los Angeles Rams,299
-Rookies Aqua,130,Juan Thornhill,Kansas City Chiefs,299
-Rookies Aqua,131,Myles Gaskin,Miami Dolphins,299
-Rookies Aqua,132,Chandler Cox,Miami Dolphins,299
-Rookies Aqua,133,Tyree Jackson,Buffalo Bills,299
-Rookies Aqua,134,Rodney Anderson,Cincinnati Bengals,299
-Rookies Aqua,135,Jamel Dean,Tampa Bay Buccaneers,299
-Rookies Aqua,136,Mike Edwards,Tampa Bay Buccaneers,299
-Rookies Aqua,137,Chauncey Gardner-Johnson,New Orleans Saints,299
-Rookies Aqua,138,Saquan Hampton,New Orleans Saints,299
-Rookies Aqua,139,Alize Mack,New Orleans Saints,299
-Rookies Aqua,140,Amani Hooker,Tennessee Titans,299
-Rookies Aqua,141,D'Andre Walker,Tennessee Titans,299
-Rookies Aqua,142,Gardner Minshew II,Jacksonville Jaguars,299
-Rookies Aqua,143,Trayveon Williams,Cincinnati Bengals,299
-Rookies Aqua,144,Travis Fulgham,Detroit Lions,299
-Rookies Aqua,145,Ty Johnson,Detroit Lions,299
-Rookies Aqua,146,Dexter Williams,Green Bay Packers,299
-Rookies Aqua,147,Juwann Winfree,Denver Broncos,299
-Rookies Aqua,148,Travis Homer,Seattle Seahawks,299
-Rookies Aqua,149,Kelvin Harmon,Washington Redskins,299
-Rookies Aqua,150,Zach Allen,Arizona Cardinals,299
 Rookies Autographs,101,Ryquell Armstead,Jacksonville Jaguars,60
 Rookies Autographs,102,Jordan Scarlett,Carolina Panthers,60
 Rookies Autographs,104,Clelin Ferrell,Oakland Raiders,60
@@ -4425,6 +4325,106 @@ Rookies Autographs Red,147,Juwann Winfree,Denver Broncos,50
 Rookies Autographs Red,148,Travis Homer,Seattle Seahawks,50
 Rookies Autographs Red,149,Kelvin Harmon,Washington Redskins,50
 Rookies Autographs Red,150,Zach Allen,Arizona Cardinals,50
+Rookies,101,Ryquell Armstead,Jacksonville Jaguars,
+Rookies,102,Jordan Scarlett,Carolina Panthers,
+Rookies,103,Quinnen Williams,New York Jets,
+Rookies,104,Clelin Ferrell,Oakland Raiders,
+Rookies,105,Christian Wilkins,Miami Dolphins,
+Rookies,106,Brian Burns,Carolina Panthers,
+Rookies,107,Dexter Lawrence,New York Giants,
+Rookies,108,Jeffery Simmons,Tennessee Titans,
+Rookies,109,Darnell Savage Jr.,Green Bay Packers,
+Rookies,110,Montez Sweat,Washington Redskins,
+Rookies,111,Johnathan Abram,Oakland Raiders,
+Rookies,112,Julian Love,New York Giants,
+Rookies,113,L.J. Collier,Seattle Seahawks,
+Rookies,114,Deandre Baker,New York Giants,
+Rookies,115,Byron Murphy,Arizona Cardinals,
+Rookies,116,Rock Ya-Sin,Indianapolis Colts,
+Rookies,117,Dakota Allen,Los Angeles Rams,
+Rookies,118,Sean Murphy-Bunting,Tampa Bay Buccaneers,
+Rookies,119,Trayvon Mullen Jr.,Oakland Raiders,
+Rookies,120,Jahlani Tavai,Detroit Lions,
+Rookies,121,Joejuan Williams,New England Patriots,
+Rookies,122,Greedy Williams,Cleveland Browns,
+Rookies,123,Marquise Blair,Seattle Seahawks,
+Rookies,124,Ben Banogu,Indianapolis Colts,
+Rookies,125,Drew Sample,Cincinnati Bengals,
+Rookies,126,Lonnie Johnson Jr.,Houston Texans,
+Rookies,127,Trysten Hill,Dallas Cowboys,
+Rookies,128,Nasir Adderley,Los Angeles Chargers,
+Rookies,129,Taylor Rapp,Los Angeles Rams,
+Rookies,130,Juan Thornhill,Kansas City Chiefs,
+Rookies,131,Myles Gaskin,Miami Dolphins,
+Rookies,132,Chandler Cox,Miami Dolphins,
+Rookies,133,Tyree Jackson,Buffalo Bills,
+Rookies,134,Rodney Anderson,Cincinnati Bengals,
+Rookies,135,Jamel Dean,Tampa Bay Buccaneers,
+Rookies,136,Mike Edwards,Tampa Bay Buccaneers,
+Rookies,137,Chauncey Gardner-Johnson,New Orleans Saints,
+Rookies,138,Saquan Hampton,New Orleans Saints,
+Rookies,139,Alize Mack,New Orleans Saints,
+Rookies,140,Amani Hooker,Tennessee Titans,
+Rookies,141,D'Andre Walker,Tennessee Titans,
+Rookies,142,Gardner Minshew II,Jacksonville Jaguars,
+Rookies,143,Trayveon Williams,Cincinnati Bengals,
+Rookies,144,Travis Fulgham,Detroit Lions,
+Rookies,145,Ty Johnson,Detroit Lions,
+Rookies,146,Dexter Williams,Green Bay Packers,
+Rookies,147,Juwann Winfree,Denver Broncos,
+Rookies,148,Travis Homer,Seattle Seahawks,
+Rookies,149,Kelvin Harmon,Washington Redskins,
+Rookies,150,Zach Allen,Arizona Cardinals,
+Rookies Aqua,101,Ryquell Armstead,Jacksonville Jaguars,299
+Rookies Aqua,102,Jordan Scarlett,Carolina Panthers,299
+Rookies Aqua,103,Quinnen Williams,New York Jets,299
+Rookies Aqua,104,Clelin Ferrell,Oakland Raiders,299
+Rookies Aqua,105,Christian Wilkins,Miami Dolphins,299
+Rookies Aqua,106,Brian Burns,Carolina Panthers,299
+Rookies Aqua,107,Dexter Lawrence,New York Giants,299
+Rookies Aqua,108,Jeffery Simmons,Tennessee Titans,299
+Rookies Aqua,109,Darnell Savage Jr.,Green Bay Packers,299
+Rookies Aqua,110,Montez Sweat,Washington Redskins,299
+Rookies Aqua,111,Johnathan Abram,Oakland Raiders,299
+Rookies Aqua,112,Julian Love,New York Giants,299
+Rookies Aqua,113,L.J. Collier,Seattle Seahawks,299
+Rookies Aqua,114,Deandre Baker,New York Giants,299
+Rookies Aqua,115,Byron Murphy,Arizona Cardinals,299
+Rookies Aqua,116,Rock Ya-Sin,Indianapolis Colts,299
+Rookies Aqua,117,Dakota Allen,Los Angeles Rams,299
+Rookies Aqua,118,Sean Murphy-Bunting,Tampa Bay Buccaneers,299
+Rookies Aqua,119,Trayvon Mullen Jr.,Oakland Raiders,299
+Rookies Aqua,120,Jahlani Tavai,Detroit Lions,299
+Rookies Aqua,121,Joejuan Williams,New England Patriots,299
+Rookies Aqua,122,Greedy Williams,Cleveland Browns,299
+Rookies Aqua,123,Marquise Blair,Seattle Seahawks,299
+Rookies Aqua,124,Ben Banogu,Indianapolis Colts,299
+Rookies Aqua,125,Drew Sample,Cincinnati Bengals,299
+Rookies Aqua,126,Lonnie Johnson Jr.,Houston Texans,299
+Rookies Aqua,127,Trysten Hill,Dallas Cowboys,299
+Rookies Aqua,128,Nasir Adderley,Los Angeles Chargers,299
+Rookies Aqua,129,Taylor Rapp,Los Angeles Rams,299
+Rookies Aqua,130,Juan Thornhill,Kansas City Chiefs,299
+Rookies Aqua,131,Myles Gaskin,Miami Dolphins,299
+Rookies Aqua,132,Chandler Cox,Miami Dolphins,299
+Rookies Aqua,133,Tyree Jackson,Buffalo Bills,299
+Rookies Aqua,134,Rodney Anderson,Cincinnati Bengals,299
+Rookies Aqua,135,Jamel Dean,Tampa Bay Buccaneers,299
+Rookies Aqua,136,Mike Edwards,Tampa Bay Buccaneers,299
+Rookies Aqua,137,Chauncey Gardner-Johnson,New Orleans Saints,299
+Rookies Aqua,138,Saquan Hampton,New Orleans Saints,299
+Rookies Aqua,139,Alize Mack,New Orleans Saints,299
+Rookies Aqua,140,Amani Hooker,Tennessee Titans,299
+Rookies Aqua,141,D'Andre Walker,Tennessee Titans,299
+Rookies Aqua,142,Gardner Minshew II,Jacksonville Jaguars,299
+Rookies Aqua,143,Trayveon Williams,Cincinnati Bengals,299
+Rookies Aqua,144,Travis Fulgham,Detroit Lions,299
+Rookies Aqua,145,Ty Johnson,Detroit Lions,299
+Rookies Aqua,146,Dexter Williams,Green Bay Packers,299
+Rookies Aqua,147,Juwann Winfree,Denver Broncos,299
+Rookies Aqua,148,Travis Homer,Seattle Seahawks,299
+Rookies Aqua,149,Kelvin Harmon,Washington Redskins,299
+Rookies Aqua,150,Zach Allen,Arizona Cardinals,299
 Rookies Black Pandora,101,Ryquell Armstead,Jacksonville Jaguars,25
 Rookies Black Pandora,102,Jordan Scarlett,Carolina Panthers,25
 Rookies Black Pandora,103,Quinnen Williams,New York Jets,25
