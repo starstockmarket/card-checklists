@@ -8393,21 +8393,21 @@ Hype,12,Keenan Allen,Los Angeles Chargers,
 Hype,13,Amari Cooper,Dallas Cowboys,
 Hype,14,Dalvin Cook,Minnesota Vikings,
 Hype,15,Alshon Jeffery,Philadelphia Eagles,
-Hype Prizms Black FInite,1,Ezekiel Elliott,Dallas Cowboys,1
-Hype Prizms Black FInite,2,Cam Newton,Carolina Panthers,1
-Hype Prizms Black FInite,3,David Njoku,Cleveland Browns,1
-Hype Prizms Black FInite,4,Aaron Rodgers,Green Bay Packers,1
-Hype Prizms Black FInite,5,J.J. Watt,Houston Texans,1
-Hype Prizms Black FInite,6,Von Miller,Denver Broncos,1
-Hype Prizms Black FInite,7,JuJu Smith-Schuster,Pittsburgh Steelers,1
-Hype Prizms Black FInite,8,Josh Allen,Buffalo Bills,1
-Hype Prizms Black FInite,9,Michael Thomas,New Orleans Saints,1
-Hype Prizms Black FInite,10,Patrick Mahomes II,Kansas City Chiefs,1
-Hype Prizms Black FInite,11,Baker Mayfield,Cleveland Browns,1
-Hype Prizms Black FInite,12,Keenan Allen,Los Angeles Chargers,1
-Hype Prizms Black FInite,13,Amari Cooper,Dallas Cowboys,1
-Hype Prizms Black FInite,14,Dalvin Cook,Minnesota Vikings,1
-Hype Prizms Black FInite,15,Alshon Jeffery,Philadelphia Eagles,1
+Hype Prizms Black Finite,1,Ezekiel Elliott,Dallas Cowboys,1
+Hype Prizms Black Finite,2,Cam Newton,Carolina Panthers,1
+Hype Prizms Black Finite,3,David Njoku,Cleveland Browns,1
+Hype Prizms Black Finite,4,Aaron Rodgers,Green Bay Packers,1
+Hype Prizms Black Finite,5,J.J. Watt,Houston Texans,1
+Hype Prizms Black Finite,6,Von Miller,Denver Broncos,1
+Hype Prizms Black Finite,7,JuJu Smith-Schuster,Pittsburgh Steelers,1
+Hype Prizms Black Finite,8,Josh Allen,Buffalo Bills,1
+Hype Prizms Black Finite,9,Michael Thomas,New Orleans Saints,1
+Hype Prizms Black Finite,10,Patrick Mahomes II,Kansas City Chiefs,1
+Hype Prizms Black Finite,11,Baker Mayfield,Cleveland Browns,1
+Hype Prizms Black Finite,12,Keenan Allen,Los Angeles Chargers,1
+Hype Prizms Black Finite,13,Amari Cooper,Dallas Cowboys,1
+Hype Prizms Black Finite,14,Dalvin Cook,Minnesota Vikings,1
+Hype Prizms Black Finite,15,Alshon Jeffery,Philadelphia Eagles,1
 Hype Prizms Gold,1,Ezekiel Elliott,Dallas Cowboys,10
 Hype Prizms Gold,2,Cam Newton,Carolina Panthers,10
 Hype Prizms Gold,3,David Njoku,Cleveland Browns,10
@@ -9973,44 +9973,44 @@ Rookie Gear Pink,27,Hunter Renfrow,Oakland Raiders,
 Rookie Gear Pink,28,T.J. Hockenson,Detroit Lions,
 Rookie Gear Pink,29,Noah Fant,Denver Broncos,
 Rookie Gear Pink,30,Irv Smith Jr.,Minnesota Vikings,
-Rookie Patch Autographs Prizm,1,Kyler Murray,Arizona Cardinals,49
-Rookie Patch Autographs Prizm,2,Daniel Jones,New York Giants,49
-Rookie Patch Autographs Prizm,3,Dwayne Haskins,Washington Redskins,49
-Rookie Patch Autographs Prizm,4,Drew Lock,Denver Broncos,49
-Rookie Patch Autographs Prizm,5,Will Grier,Carolina Panthers,49
-Rookie Patch Autographs Prizm,6,Ryan Finley,Cincinnati Bengals,49
-Rookie Patch Autographs Prizm,7,Easton Stick,Los Angeles Chargers,49
-Rookie Patch Autographs Prizm,8,Jarrett Stidham,New England Patriots,49
-Rookie Patch Autographs Prizm,9,Nick Bosa,San Francisco 49ers,49
-Rookie Patch Autographs Prizm,10,Josh Jacobs,Oakland Raiders,49
-Rookie Patch Autographs Prizm,11,Damien Harris,New England Patriots,60
-Rookie Patch Autographs Prizm,12,Bryce Love,Washington Redskins,60
-Rookie Patch Autographs Prizm,13,Miles Sanders,Philadelphia Eagles,60
-Rookie Patch Autographs Prizm,15,Justice Hill,Baltimore Ravens,60
-Rookie Patch Autographs Prizm,16,Darrell Henderson,Los Angeles Rams,60
-Rookie Patch Autographs Prizm,17,Alexander Mattison,Minnesota Vikings,60
-Rookie Patch Autographs Prizm,18,Benny Snell Jr.,Pittsburgh Steelers,60
-Rookie Patch Autographs Prizm,19,Devin Singletary,Buffalo Bills,60
-Rookie Patch Autographs Prizm,20,Tony Pollard,Dallas Cowboys,60
-Rookie Patch Autographs Prizm,21,Marquise Brown,Baltimore Ravens,60
-Rookie Patch Autographs Prizm,22,N'Keal Harry,New England Patriots,60
-Rookie Patch Autographs Prizm,23,D.K. Metcalf,Seattle Seahawks,60
-Rookie Patch Autographs Prizm,24,A.J. Brown,Tennessee Titans,60
-Rookie Patch Autographs Prizm,25,Mecole Hardman Jr.,Kansas City Chiefs,60
-Rookie Patch Autographs Prizm,26,Deebo Samuel,San Francisco 49ers,60
-Rookie Patch Autographs Prizm,27,Parris Campbell,Indianapolis Colts,60
-Rookie Patch Autographs Prizm,29,Andy Isabella,Arizona Cardinals,60
-Rookie Patch Autographs Prizm,30,Hakeem Butler,Arizona Cardinals,60
-Rookie Patch Autographs Prizm,31,Miles Boykin,Baltimore Ravens,60
-Rookie Patch Autographs Prizm,32,Diontae Johnson,Pittsburgh Steelers,60
-Rookie Patch Autographs Prizm,33,Terry McLaurin,Washington Redskins,60
-Rookie Patch Autographs Prizm,34,Riley Ridley,Chicago Bears,60
-Rookie Patch Autographs Prizm,35,Gary Jennings Jr.,Seattle Seahawks,60
-Rookie Patch Autographs Prizm,36,Darius Slayton,New York Giants,60
-Rookie Patch Autographs Prizm,37,Hunter Renfrow,Oakland Raiders,60
-Rookie Patch Autographs Prizm,38,T.J. Hockenson,Detroit Lions,60
-Rookie Patch Autographs Prizm,39,Noah Fant,Denver Broncos,60
-Rookie Patch Autographs Prizm,40,Irv Smith Jr.,Minnesota Vikings,60
+Rookie Patch Autographs,1,Kyler Murray,Arizona Cardinals,49
+Rookie Patch Autographs,2,Daniel Jones,New York Giants,49
+Rookie Patch Autographs,3,Dwayne Haskins,Washington Redskins,49
+Rookie Patch Autographs,4,Drew Lock,Denver Broncos,49
+Rookie Patch Autographs,5,Will Grier,Carolina Panthers,49
+Rookie Patch Autographs,6,Ryan Finley,Cincinnati Bengals,49
+Rookie Patch Autographs,7,Easton Stick,Los Angeles Chargers,49
+Rookie Patch Autographs,8,Jarrett Stidham,New England Patriots,49
+Rookie Patch Autographs,9,Nick Bosa,San Francisco 49ers,49
+Rookie Patch Autographs,10,Josh Jacobs,Oakland Raiders,49
+Rookie Patch Autographs,11,Damien Harris,New England Patriots,60
+Rookie Patch Autographs,12,Bryce Love,Washington Redskins,60
+Rookie Patch Autographs,13,Miles Sanders,Philadelphia Eagles,60
+Rookie Patch Autographs,15,Justice Hill,Baltimore Ravens,60
+Rookie Patch Autographs,16,Darrell Henderson,Los Angeles Rams,60
+Rookie Patch Autographs,17,Alexander Mattison,Minnesota Vikings,60
+Rookie Patch Autographs,18,Benny Snell Jr.,Pittsburgh Steelers,60
+Rookie Patch Autographs,19,Devin Singletary,Buffalo Bills,60
+Rookie Patch Autographs,20,Tony Pollard,Dallas Cowboys,60
+Rookie Patch Autographs,21,Marquise Brown,Baltimore Ravens,60
+Rookie Patch Autographs,22,N'Keal Harry,New England Patriots,60
+Rookie Patch Autographs,23,D.K. Metcalf,Seattle Seahawks,60
+Rookie Patch Autographs,24,A.J. Brown,Tennessee Titans,60
+Rookie Patch Autographs,25,Mecole Hardman Jr.,Kansas City Chiefs,60
+Rookie Patch Autographs,26,Deebo Samuel,San Francisco 49ers,60
+Rookie Patch Autographs,27,Parris Campbell,Indianapolis Colts,60
+Rookie Patch Autographs,29,Andy Isabella,Arizona Cardinals,60
+Rookie Patch Autographs,30,Hakeem Butler,Arizona Cardinals,60
+Rookie Patch Autographs,31,Miles Boykin,Baltimore Ravens,60
+Rookie Patch Autographs,32,Diontae Johnson,Pittsburgh Steelers,60
+Rookie Patch Autographs,33,Terry McLaurin,Washington Redskins,60
+Rookie Patch Autographs,34,Riley Ridley,Chicago Bears,60
+Rookie Patch Autographs,35,Gary Jennings Jr.,Seattle Seahawks,60
+Rookie Patch Autographs,36,Darius Slayton,New York Giants,60
+Rookie Patch Autographs,37,Hunter Renfrow,Oakland Raiders,60
+Rookie Patch Autographs,38,T.J. Hockenson,Detroit Lions,60
+Rookie Patch Autographs,39,Noah Fant,Denver Broncos,60
+Rookie Patch Autographs,40,Irv Smith Jr.,Minnesota Vikings,60
 Rookie Patch Autographs Prizm Black Finite,1,Kyler Murray,Arizona Cardinals,1
 Rookie Patch Autographs Prizm Black Finite,2,Daniel Jones,New York Giants,1
 Rookie Patch Autographs Prizm Black Finite,3,Dwayne Haskins,Washington Redskins,1
