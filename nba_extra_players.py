@@ -229,4 +229,6 @@
     {"start_year": 2019, "end_year": None, "name": "Jonah Bolden", "position": "F"},
     {"start_year": 1986, "end_year": 1999, "name": "Joe Dumars", "position": "G"},
     {"start_year": 1975, "end_year": 1995, "name": "Moses Malone", "position": "C-F"},
+    {"start_year": 1995, "end_year": 2011, "name": "Joe Smith", "position": "F"},
+    {"start_year": 1996, "end_year": 2014, "name": "Derek Fisher", "position": "G"},
 ]

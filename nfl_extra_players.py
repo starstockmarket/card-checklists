@@ -236,4 +236,7 @@
         "name": "Jimmy Johnson",
         "position": "DB-HB",
     },
+    {"start_year": 1993, "end_year": 2007, "name": "Troy Brown", "position": "WR"},
+    {"start_year": 2007, "end_year": 2017, "name": "Joe Thomas", "position": "T"},
+    {"start_year": 2002, "end_year": 2009, "name": "Adrian Peterson", "position": "RB"},
 ]
