@@ -1,0 +1,544 @@
+Card Set,Number,Player,Team
+Base,1,Ronald Acuña Jr.,Atlanta Braves
+Base,2,Chris Davis,Baltimore Orioles
+Base,3,Jake Bauers,Cleveland Indians
+Base,4,Yasiel Puig,Cincinnati Reds
+Base,5,Jake Cave,Minnesota Twins
+Base,6,Corey Kluber,Cleveland Indians
+Base,7,Christin Stewart,Detroit Tigers
+Base,8,David Peralta,Arizona Diamondbacks
+Base,9,DJ Stewart,Baltimore Orioles
+Base,10,Brandon Lowe,Tampa Bay Rays
+Base,11,Kolby Allard,Atlanta Braves
+Base,12,Jonathan Loaisiga,New York Yankees
+Base,13,Francisco Lindor,Cleveland Indians
+Base,14,Dansby Swanson,Atlanta Braves
+Base,15,Blake Snell,Tampa Bay Rays
+Base,16,Chance Adams,New York Yankees
+Base,17,Brandon Belt,San Francisco Giants
+Base,18,Eddie Rosario,Minnesota Twins
+Base,19,Ian Kinsler,San Diego Padres
+Base,20,Starling Marte,Pittsburgh Pirates
+Base,21,Yoan Moncada,Chicago White Sox
+Base,22,Whit Merrifield,Kansas City Royals
+Base,23,Miguel Cabrera,Detroit Tigers
+Base,24,Dakota Hudson,St. Louis Cardinals
+Base,25,Kyle Tucker,Houston Astros
+Base,26,Fernando Tatis Jr.,San Diego Padres
+Base,27,Nolan Arenado,Colorado Rockies
+Base,28,Rowdy Tellez,Toronto Blue Jays
+Base,29,Cedric Mullins,Baltimore Orioles
+Base,30,Lourdes Gurriel Jr.,Toronto Blue Jays
+Base,31,Manny Machado,San Diego Padres
+Base,32,Corbin Burnes,Milwaukee Brewers
+Base,33,Josh Hader,Milwaukee Brewers
+Base,34,Taylor Ward,Los Angeles Angels
+Base,35,Mark Trumbo,Baltimore Orioles
+Base,36,Enyel De Los Santos,Philadelphia Phillies
+Base,37,Ryan Borucki,Toronto Blue Jays
+Base,38,Giancarlo Stanton,New York Yankees
+Base,39,Joey Votto,Cincinnati Reds
+Base,40,Willians Astudillo,Minnesota Twins
+Base,41,Billy Hamilton,Kansas City Royals
+Base,42,Keston Hiura,Milwaukee Brewers
+Base,43,Josh James,Houston Astros
+Base,44,Juan Soto,Washington Nationals
+Base,45,Griffin Canning,Los Angeles Angels
+Base,46,Khris Davis,Oakland Athletics
+Base,47,Cal Quantrill,San Diego Padres
+Base,48,Pete Alonso,New York Mets
+Base,49,Jacob deGrom,New York Mets
+Base,50,Shohei Ohtani,Los Angeles Angels
+Base,51,Josh Bell,Pittsburgh Pirates
+Base,52,Charlie Blackmon,Colorado Rockies
+Base,53,Luis Urias,San Diego Padres
+Base,54,Brad Keller,Kansas City Royals
+Base,55,Bryce Harper,Philadelphia Phillies
+Base,56,Anthony Rizzo,Chicago Cubs
+Base,57,Zack Greinke,Arizona Diamondbacks
+Base,58,Justus Sheffield,Seattle Mariners
+Base,59,Jon Duplantier,Arizona Diamondbacks
+Base,60,Alex Bregman,Houston Astros
+Base,61,Rhys Hoskins,Philadelphia Phillies
+Base,62,Bryse Wilson,Atlanta Braves
+Base,63,Christian Yelich,Milwaukee Brewers
+Base,64,Clayton Kershaw,Los Angeles Dodgers
+Base,65,Lewis Brinson,Miami Marlins
+Base,66,Robinson Cano,New York Mets
+Base,67,Ramon Laureano,Oakland Athletics
+Base,68,Joey Gallo,Texas Rangers
+Base,69,Jose Abreu,Chicago White Sox
+Base,70,Nelson Cruz,Minnesota Twins
+Base,71,Edwin Encarnacion,Seattle Mariners
+Base,72,Buster Posey,San Francisco Giants
+Base,73,Vladimir Guerrero Jr.,Toronto Blue Jays
+Base,74,Carter Kieboom,Washington Nationals
+Base,75,Mookie Betts,Boston Red Sox
+Base,76,Kyle Wright,Atlanta Braves
+Base,77,Brian Anderson,Miami Marlins
+Base,78,Blake Treinen,Oakland Athletics
+Base,79,Willy Adames,Tampa Bay Rays
+Base,80,Nicholas Castellanos,Detroit Tigers
+Base,81,Eloy Jimenez,Chicago White Sox
+Base,82,Michael Kopech,Chicago White Sox
+Base,83,Jose Altuve,Houston Astros
+Base,84,Austin Riley,Atlanta Braves
+Base,85,Chris Sale,Boston Red Sox
+Base,86,Kris Bryant,Chicago Cubs
+Base,87,Marcus Stroman,Toronto Blue Jays
+Base,88,Danny Jansen,Toronto Blue Jays
+Base,89,Touki Toussaint,Atlanta Braves
+Base,90,Aaron Judge,New York Yankees
+Base,91,Yusei Kikuchi,Seattle Mariners
+Base,92,Ryan O'Hearn,Kansas City Royals
+Base,93,Paul DeJong,St. Louis Cardinals
+Base,94,Miles Mikolas,St. Louis Cardinals
+Base,95,Ronald Guzman,Texas Rangers
+Base,96,Mitch Haniger,Seattle Mariners
+Base,97,Victor Robles,Washington Nationals
+Base,98,Nick Senzel,Cincinnati Reds
+Base,99,Justin Turner,Los Angeles Dodgers
+Base,100,Mike Trout,Los Angeles Angels
+Prospects,BCP-151,Royce Lewis,Minnesota Twins
+Prospects,BCP-152,Zack Brown,Milwaukee Brewers
+Prospects,BCP-153,Robinson Ortiz,Los Angeles Dodgers
+Prospects,BCP-154,Bobby Dalbec,Boston Red Sox
+Prospects,BCP-155,Nolan Jones,Cleveland Indians
+Prospects,BCP-156,Tim Tebow,New York Mets
+Prospects,BCP-157,Bryan Abreu,Houston Astros
+Prospects,BCP-158,Taylor Trammell,Cincinnati Reds
+Prospects,BCP-159,Adbert Alzolay,Chicago Cubs
+Prospects,BCP-160,Roansy Contreras,New York Yankees
+Prospects,BCP-161,Spencer Howard,Philadelphia Phillies
+Prospects,BCP-162,Michael King,New York Yankees
+Prospects,BCP-163,Alec Bohm,Philadelphia Phillies
+Prospects,BCP-164,Micker Adolfo,Chicago White Sox
+Prospects,BCP-165,Kristian Robinson,Arizona Diamondbacks
+Prospects,BCP-166,Eric Pardinho,Toronto Blue Jays
+Prospects,BCP-167,Jarred Kelenic,Seattle Mariners
+Prospects,BCP-168,Eli White,Texas Rangers
+Prospects,BCP-169,Nick Green,New York Yankees
+Prospects,BCP-170,Owen Miller,San Diego Padres
+Prospects,BCP-171,Brice Turang,Milwaukee Brewers
+Prospects,BCP-172,Mitchell White,Los Angeles Dodgers
+Prospects,BCP-173,Nick Madrigal,Chicago White Sox
+Prospects,BCP-174,Joey Bart,San Francisco Giants
+Prospects,BCP-175,Parker Meadows,Detroit Tigers
+Prospects,BCP-176,Jose Devers,Miami Marlins
+Prospects,BCP-177,Austin Warner,St. Louis Cardinals
+Prospects,BCP-178,Jahmai Jones,Los Angeles Angels
+Prospects,BCP-179,Daulton Varsho,Arizona Diamondbacks
+Prospects,BCP-180,Leonardo Jimenez,Toronto Blue Jays
+Prospects,BCP-181,Grayson Rodriguez,Baltimore Orioles
+Prospects,BCP-182,Estevan Florial,New York Yankees
+Prospects,BCP-183,Sean Hjelle,San Francisco Giants
+Prospects,BCP-184,Miguel Hiraldo,Toronto Blue Jays
+Prospects,BCP-185,Jesus Sanchez,Tampa Bay Rays
+Prospects,BCP-186,Alex Kirilloff,Minnesota Twins
+Prospects,BCP-187,Genesis Cabrera,St. Louis Cardinals
+Prospects,BCP-188,Richard Gallardo,Chicago Cubs
+Prospects,BCP-189,Kyle Funkhouser,Detroit Tigers
+Prospects,BCP-190,Nick Pratto,Kansas City Royals
+Prospects,BCP-191,Geraldo Perdomo,Arizona Diamondbacks
+Prospects,BCP-192,Logan Gilbert,Seattle Mariners
+Prospects,BCP-193,Anderson Tejeda,Texas Rangers
+Prospects,BCP-194,Bo Naylor,Cleveland Indians
+Prospects,BCP-195,Kyle Muller,Atlanta Braves
+Prospects,BCP-196,Ryan Rolison,Colorado Rockies
+Prospects,BCP-197,Hansel Moreno,New York Mets
+Prospects,BCP-198,Jameson Hannah,Oakland Athletics
+Prospects,BCP-199,Tony Santillan,Cincinnati Reds
+Prospects,BCP-200,Victor Victor Mesa,Miami Marlins
+Prospects,BCP-201,Briam Campusano,New York Mets
+Prospects,BCP-202,Alejandro Kirk,Toronto Blue Jays
+Prospects,BCP-203,Jordan Yamamoto,Miami Marlins
+Prospects,BCP-204,Isiah Gilliam,New York Yankees
+Prospects,BCP-205,Sixto Sanchez,Miami Marlins
+Prospects,BCP-206,Wander Javier,Minnesota Twins
+Prospects,BCP-207,Corey Ray,Milwaukee Brewers
+Prospects,BCP-208,Aramis Ademan,Chicago Cubs
+Prospects,BCP-209,Brayan Rocchio,Cleveland Indians
+Prospects,BCP-210,Hans Crouse,Texas Rangers
+Prospects,BCP-211,Shaun Anderson,San Francisco Giants
+Prospects,BCP-212,Lazaro Armenteros,Oakland Athletics
+Prospects,BCP-213,Triston Casas,Boston Red Sox
+Prospects,BCP-214,Deon Stafford,Pittsburgh Pirates
+Prospects,BCP-215,Khalil Lee,Kansas City Royals
+Prospects,BCP-216,Wenceel Perez,Detroit Tigers
+Prospects,BCP-217,Jorge Mateo,Oakland Athletics
+Prospects,BCP-218,Luis Gil,New York Yankees
+Prospects,BCP-219,Mason Englert,Texas Rangers
+Prospects,BCP-220,Konnor Pilkington,Chicago White Sox
+Prospects,BCP-221,Nolan Gorman,St. Louis Cardinals
+Prospects,BCP-222,Garrett Whitlock,New York Yankees
+Prospects,BCP-223,Mason Denaburg,Washington Nationals
+Prospects,BCP-224,Joe Jacques,Pittsburgh Pirates
+Prospects,BCP-225,Jhoan Duran,Minnesota Twins
+Prospects,BCP-226,Grant Lavigne,Colorado Rockies
+Prospects,BCP-227,Corbin Martin,Houston Astros
+Prospects,BCP-228,Mike Siani,Cincinnati Reds
+Prospects,BCP-229,Ryan Feltner,Colorado Rockies
+Prospects,BCP-230,Hudson Potts,San Diego Padres
+Prospects,BCP-231,Ryan McKenna,Baltimore Orioles
+Prospects,BCP-232,Tommy Wilson,New York Mets
+Prospects,BCP-233,J.B. Bukauskas,Houston Astros
+Prospects,BCP-234,Bo Bichette,Toronto Blue Jays
+Prospects,BCP-235,Keibert Ruiz,Los Angeles Dodgers
+Prospects,BCP-236,Patrick Sandoval,Los Angeles Angels
+Prospects,BCP-237,Luis Garcia,Philadelphia Phillies
+Prospects,BCP-238,Cam Roegner,Milwaukee Brewers
+Prospects,BCP-239,Brendan McKay,Tampa Bay Rays
+Prospects,BCP-240,Casey Mize,Detroit Tigers
+Prospects,BCP-241,Deivi Garcia,New York Yankees
+Prospects,BCP-242,Quintin Torres-Costa,Milwaukee Brewers
+Prospects,BCP-243,Yefri Del Rosario,Kansas City Royals
+Prospects,BCP-244,Francisco Morales,Philadelphia Phillies
+Prospects,BCP-245,MacKenzie Gore,San Diego Padres
+Prospects,BCP-246,Sam Hentges,Cleveland Indians
+Prospects,BCP-247,Israel Pineda,Washington Nationals
+Prospects,BCP-248,Shervyen Newton,New York Mets
+Prospects,BCP-249,Clarke Schmidt,New York Yankees
+Prospects,BCP-250,Jo Adell,Los Angeles Angels
+Rookie Short Print Image Variations,3,Jake Bauers,Cleveland Indians
+Rookie Short Print Image Variations,7,Christin Stewart,Detroit Tigers
+Rookie Short Print Image Variations,11,Kolby Allard,Atlanta Braves
+Rookie Short Print Image Variations,16,Chance Adams,New York Yankees
+Rookie Short Print Image Variations,25,Kyle Tucker,Houston Astros
+Rookie Short Print Image Variations,29,Cedric Mullins,Baltimore Orioles
+Rookie Short Print Image Variations,32,Corbin Burnes,Milwaukee Brewers
+Rookie Short Print Image Variations,37,Ryan Borucki,Toronto Blue Jays
+Rookie Short Print Image Variations,42,Chris Shaw,San Francisco Giants
+Rookie Short Print Image Variations,53,Luis Urias,San Diego Padres
+Rookie Short Print Image Variations,58,Justus Sheffield,Seattle Mariners
+Rookie Short Print Image Variations,76,Kyle Wright,Atlanta Braves
+Rookie Short Print Image Variations,82,Michael Kopech,Chicago White Sox
+Rookie Short Print Image Variations,88,Danny Jansen,Toronto Blue Jays
+Rookie Short Print Image Variations,92,Ryan O'Hearn,Kansas City Royals
+Stat Tracker,ST-AB,Alec Bohm,Philadelphia Phillies
+Stat Tracker,ST-AK,Andrew Knizner,St. Louis Cardinals
+Stat Tracker,ST-AM,Adonis Medina,Philadelphia Phillies
+Stat Tracker,ST-BD,Brock Deatherage,Detroit Tigers
+Stat Tracker,ST-BS,Brady Singer,Kansas City Royals
+Stat Tracker,ST-BT,Brice Turang,Milwaukee Brewers
+Stat Tracker,ST-CM,Casey Mize,Detroit Tigers
+Stat Tracker,ST-CS,Connor Scott,Miami Marlins
+Stat Tracker,ST-DW,Drew Waters,Atlanta Braves
+Stat Tracker,ST-EM,Elehuris Montero,St. Louis Cardinals
+Stat Tracker,ST-GC,Genesis Cabrera,St. Louis Cardinals
+Stat Tracker,ST-HC,Hans Crouse,Texas Rangers
+Stat Tracker,ST-JA,Jordyn Adams,Los Angeles Angels
+Stat Tracker,ST-JB,Joey Bart,San Francisco Giants
+Stat Tracker,ST-JG,Jordan Groshans,Toronto Blue Jays
+Stat Tracker,ST-JI,Jonathan India,Cincinnati Reds
+Stat Tracker,ST-JK,Jarred Kelenic,Seattle Mariners
+Stat Tracker,ST-JPM,Julio Pablo Martinez,Texas Rangers
+Stat Tracker,ST-MA,Miguel Amaya,Chicago Cubs
+Stat Tracker,ST-NG,Nolan Gorman,St. Louis Cardinals
+Stat Tracker,ST-NH,Nico Hoerner,Chicago Cubs
+Stat Tracker,ST-NM,Nick Madrigal,Chicago White Sox
+Stat Tracker,ST-RH,Ronaldo Hernandez,Tampa Bay Rays
+Stat Tracker,ST-RM,Ronny Mauricio,New York Mets
+Stat Tracker,ST-RW,Ryan Weathers,San Diego Padres
+Stat Tracker,ST-SB,Seth Beer,Houston Astros
+Stat Tracker,ST-SM,Seuly Matias,Kansas City Royals
+Stat Tracker,ST-TS,Travis Swaggerty,Pittsburgh Pirates
+Stat Tracker,ST-VB,Vidal Brujan,Tampa Bay Rays
+Stat Tracker,ST-WF,Wander Franco,Tampa Bay Rays
+2018 AFL Fall Stars,AFL-AG,Andres Gimenez,New York Mets
+2018 AFL Fall Stars,AFL-BD,Bobby Dalbec,Boston Red Sox
+2018 AFL Fall Stars,AFL-BR,Buddy Reed,San Diego Padres
+2018 AFL Fall Stars,AFL-CB,Cavan Biggio,Toronto Blue Jays
+2018 AFL Fall Stars,AFL-CK,Carter Kieboom,Washington Nationals
+2018 AFL Fall Stars,AFL-CP,Cristian Pache,Atlanta Braves
+2018 AFL Fall Stars,AFL-DC,Daz Cameron,Detroit Tigers
+2018 AFL Fall Stars,AFL-DH,Darwinzon Hernandez,Boston Red Sox
+2018 AFL Fall Stars,AFL-DJ,Daniel Johnson,Cleveland Indians
+2018 AFL Fall Stars,AFL-DV,Daulton Varsho,Arizona Diamondbacks
+2018 AFL Fall Stars,AFL-EF,Estevan Florial,New York Yankees
+2018 AFL Fall Stars,AFL-EW,Evan White,Seattle Mariners
+2018 AFL Fall Stars,AFL-FW,Forrest Whitley,Houston Astros
+2018 AFL Fall Stars,AFL-GS,Gregory Soto,Detroit Tigers
+2018 AFL Fall Stars,AFL-JD,Jon Duplantier,Arizona Diamondbacks
+2018 AFL Fall Stars,AFL-JPM,Julio Pablo Martinez,Texas Rangers
+2018 AFL Fall Stars,AFL-JR,Jake Rogers,Detroit Tigers
+2018 AFL Fall Stars,AFL-JY,Jordan Yamamoto,Miami Marlins
+2018 AFL Fall Stars,AFL-KH,Keston Hiura,Milwaukee Brewers
+2018 AFL Fall Stars,AFL-KR,Keibert Ruiz,Los Angeles Dodgers
+2018 AFL Fall Stars,AFL-LJC,Li-Jen Chu,Cleveland Indians
+2018 AFL Fall Stars,AFL-LR,Luis Robert,Chicago White Sox
+2018 AFL Fall Stars,AFL-NH,Nico Hoerner,Chicago Cubs
+2018 AFL Fall Stars,AFL-NP,Nate Pearson,Toronto Blue Jays
+2018 AFL Fall Stars,AFL-PA,Pete Alonso,New York Mets
+2018 AFL Fall Stars,AFL-RH,Ronaldo Hernandez,Tampa Bay Rays
+2018 AFL Fall Stars,AFL-RM,Ryan McKenna,Baltimore Orioles
+2018 AFL Fall Stars,AFL-SL,Shed Long,Seattle Mariners
+2018 AFL Fall Stars,AFL-VGJ,Vladimir Guerrero Jr.,Toronto Blue Jays
+2018 AFL Fall Stars,AFL-ZB,Zack Burdi,Chicago White Sox
+AFL Alumni,AFLA-AJ,Aaron Judge,New York Yankees
+AFL Alumni,AFLA-AP,Albert Pujols,St. Louis Cardinals
+AFL Alumni,AFLA-BB,Byron Buxton,Minnesota Twins
+AFL Alumni,AFLA-BH,Bryce Harper,Washington Nationals
+AFL Alumni,AFLA-BP,Buster Posey,San Francisco Giants
+AFL Alumni,AFLA-CB,Cody Bellinger,Los Angeles Dodgers
+AFL Alumni,AFLA-CK,Craig Kimbrel,Atlanta Braves
+AFL Alumni,AFLA-CS,Corey Seager,Los Angeles Dodgers
+AFL Alumni,AFLA-DG,Didi Gregorius,Cincinnati Reds
+AFL Alumni,AFLA-DJ,Derek Jeter,New York Yankees
+AFL Alumni,AFLA-FL,Francisco Lindor,Cleveland Indians
+AFL Alumni,AFLA-GB,Greg Bird,New York Yankees
+AFL Alumni,AFLA-GS,Gary Sanchez,New York Yankees
+AFL Alumni,AFLA-GT,Gleyber Torres,New York Yankees
+AFL Alumni,AFLA-HB,Harrison Bader,St. Louis Cardinals
+AFL Alumni,AFLA-IH,Ian Happ,Chicago Cubs
+AFL Alumni,AFLA-KB,Kris Bryant,Chicago Cubs
+AFL Alumni,AFLA-KD,Khris Davis,Milwaukee Brewers
+AFL Alumni,AFLA-MB,Mookie Betts,Boston Red Sox
+AFL Alumni,AFLA-MP,Mike Piazza,Los Angeles Dodgers
+AFL Alumni,AFLA-MT,Mike Trout,Los Angeles Angels
+AFL Alumni,AFLA-NA,Nolan Arenado,Colorado Rockies
+AFL Alumni,AFLA-RAJ,Ronald Acuña Jr.,Atlanta Braves
+AFL Alumni,AFLA-RB,Ryan Braun,Milwaukee Brewers
+2018 AFL MVP Short Print,AFLS-BR,Buddy Reed,San Diego Padres
+Elite Farmhands,EF-BB,Bo Bichette,Toronto Blue Jays
+Elite Farmhands,EF-CM,Casey Mize,Detroit Tigers
+Elite Farmhands,EF-JA,Jordyn Adams,Los Angeles Angels
+Elite Farmhands,EF-JB,Joey Bart,San Francisco Giants
+Elite Farmhands,EF-JI,Jonathan India,Cincinnati Reds
+Elite Farmhands,EF-JK,Jarred Kelenic,Seattle Mariners
+Elite Farmhands,EF-JPM,Julio Pablo Martinez,Texas Rangers
+Elite Farmhands,EF-MA,Miguel Amaya,Chicago Cubs
+Elite Farmhands,EF-NG,Nolan Gorman,St. Louis Cardinals
+Elite Farmhands,EF-RL,Royce Lewis,Minnesota Twins
+Elite Farmhands,EF-SM,Seuly Matias,Kansas City Royals
+Elite Farmhands,EF-TS,Travis Swaggerty,Pittsburgh Pirates
+Elite Farmhands,EF-VMJ,Victor Mesa Jr.,Miami Marlins
+Elite Farmhands,EF-VVM,Victor Victor Mesa,Miami Marlins
+Elite Farmhands,EF-WF,Wander Franco,Tampa Bay Rays
+Rookie Short Print Image Variation Autographs,11,Kolby Allard,Atlanta Braves
+Rookie Short Print Image Variation Autographs,16,Chance Adams,New York Yankees
+Rookie Short Print Image Variation Autographs,58,Justus Sheffield,Seattle Mariners
+Rookie Short Print Image Variation Autographs,76,Kyle Wright,Atlanta Braves
+2018 AFL Fall Stars Autographs,AFL-BR,Buddy Reed,San Diego Padres
+2018 AFL Fall Stars Autographs,AFL-CK,Carter Kieboom,Washington Nationals
+2018 AFL Fall Stars Autographs,AFL-DC,Daz Cameron,Detroit Tigers
+2018 AFL Fall Stars Autographs,AFL-DJ,Daniel Johnson,Cleveland Indians
+2018 AFL Fall Stars Autographs,AFL-DV,Daulton Varsho,Arizona Diamondbacks
+2018 AFL Fall Stars Autographs,AFL-EW,Evan White,Seattle Mariners
+2018 AFL Fall Stars Autographs,AFL-GS,Gregory Soto,Detroit Tigers
+2018 AFL Fall Stars Autographs,AFL-JPM,Julio Pablo Martinez,Texas Rangers
+2018 AFL Fall Stars Autographs,AFL-JR,Jake Rogers,Detroit Tigers
+2018 AFL Fall Stars Autographs,AFL-JY,Jordan Yamamoto,Miami Marlins
+2018 AFL Fall Stars Autographs,AFL-KH,Keston Hiura,Milwaukee Brewers
+2018 AFL Fall Stars Autographs,AFL-LJC,Li-Jen Chu,Cleveland Indians
+2018 AFL Fall Stars Autographs,AFL-LR,Luis Robert,Chicago White Sox
+2018 AFL Fall Stars Autographs,AFL-NH,Nico Hoerner,Chicago Cubs
+2018 AFL Fall Stars Autographs,AFL-NP,Nate Pearson,Toronto Blue Jays
+2018 AFL Fall Stars Autographs,AFL-PA,Pete Alonso,New York Mets
+2018 AFL Fall Stars Autographs,AFL-RH,Ronaldo Hernandez,Tampa Bay Rays
+2018 AFL Fall Stars Autographs,AFL-RM,Ryan McKenna,Baltimore Orioles
+2018 AFL Fall Stars Autographs,AFL-SL,Shed Long,Seattle Mariners
+2018 AFL Fall Stars Autographs,AFL-ZB,Zack Burdi,Chicago White Sox
+AFL Alumni Autographs,AFLA-AJ,Aaron Judge,New York Yankees
+AFL Alumni Autographs,AFLA-BP,Buster Posey,San Francisco Giants
+AFL Alumni Autographs,AFLA-DG,Didi Gregorius,New York Yankees
+AFL Alumni Autographs,AFLA-DJ,Derek Jeter,New York Yankees
+AFL Alumni Autographs,AFLA-FL,Francisco Lindor,Cleveland Indians
+AFL Alumni Autographs,AFLA-IH,Ian Happ,Chicago Cubs
+AFL Alumni Autographs,AFLA-KB,Kris Bryant,Chicago Cubs
+AFL Alumni Autographs,AFLA-KD,Khris Davis,Oakland Athletics
+AFL Alumni Autographs,AFLA-MT,Mike Trout,Los Angeles Angels
+AFL Alumni Autographs,AFLA-RAJ,Ronald Acuña Jr.,Atlanta Braves
+2018 AFL MVP Short Print Autographs,AFLS-BR,Buddy Reed,San Diego Padres
+Prospects Autographs,CPA-AC,Alexander Canario,San Francisco Giants
+Prospects Autographs,CPA-AK,Alejandro Kirk,Toronto Blue Jays
+Prospects Autographs,CPA-AKL,Adam Kloffenstein,Toronto Blue Jays
+Prospects Autographs,CPA-AT,Abraham Toro,Houston Astros
+Prospects Autographs,CPA-AW,Austin Warner,St. Louis Cardinals
+Prospects Autographs,CPA-BA,Bryan Abreu,Houston Astros
+Prospects Autographs,CPA-BB,Brandon Bielak,Houston Astros
+Prospects Autographs,CPA-BK,Blaine Knight,Baltimore Orioles
+Prospects Autographs,CPA-BM,Brailyn Marquez,Chicago Cubs
+Prospects Autographs,CPA-BR,Brayan Rocchio,Cleveland Indians
+Prospects Autographs,CPA-CH,Carlos Hernandez,Kansas City Royals
+Prospects Autographs,CPA-CI,Cole Irvin,Philadelphia Phillies
+Prospects Autographs,CPA-CJ,Cristian Javier,Houston Astros
+Prospects Autographs,CPA-CR,Cal Raleigh,Seattle Mariners
+Prospects Autographs,CPA-CR,Cam Roegner,Milwaukee Brewers
+Prospects Autographs,CPA-DD,Danny Diaz,Boston Red Sox
+Prospects Autographs,CPA-DF,Durbin Feltman,Boston Red Sox
+Prospects Autographs,CPA-DG,Deivi Garcia,New York Yankees
+Prospects Autographs,CPA-EU,Edwin Uceta,Los Angeles Dodgers
+Prospects Autographs,CPA-EW,Eli White,Texas Rangers
+Prospects Autographs,CPA-FM,Francisco Morales,Philadelphia Phillies
+Prospects Autographs,CPA-FN,Freudis Nova,Houston Astros
+Prospects Autographs,CPA-GG,Gregory Guerrero,New York Mets
+Prospects Autographs,CPA-GP,Geraldo Perdomo,Arizona Diamondbacks
+Prospects Autographs,CPA-GW,Garrett Whitlock,New York Yankees
+Prospects Autographs,CPA-IG,Isiah Gilliam,New York Yankees
+Prospects Autographs,CPA-IP,Israel Pineda,Washington Nationals
+Prospects Autographs,CPA-JA,Jorge Alcala,Minnesota Twins
+Prospects Autographs,CPA-JB,James Bourque,Washington Nationals
+Prospects Autographs,CPA-JD,Jose Devers,Miami Marlins
+Prospects Autographs,CPA-JDU,Jhoan Duran,Minnesota Twins
+Prospects Autographs,CPA-JHA,Jameson Hannah,Oakland Athletics
+Prospects Autographs,CPA-JM,Jonatan Machado,St. Louis Cardinals
+Prospects Autographs,CPA-JO,Jared Oliva,Pittsburgh Pirates
+Prospects Autographs,CPA-JOR,Jonathan Ornelas,Texas Rangers
+Prospects Autographs,CPA-JY,Jordan Yamamoto,Miami Marlins
+Prospects Autographs,CPA-KP,Konnor Pilkington,Chicago White Sox
+Prospects Autographs,CPA-LG,Luis Garcia,Philadelphia Phillies
+Prospects Autographs,CPA-LGI,Luis Gil,New York Yankees
+Prospects Autographs,CPA-LJ,Leonardo Jimenez,Toronto Blue Jays
+Prospects Autographs,CPA-LS,Livan Soto,Los Angeles Angels
+Prospects Autographs,CPA-MA,Melvin Adon,San Francisco Giants
+Prospects Autographs,CPA-ME,Mason Englert,Texas Rangers
+Prospects Autographs,CPA-MG,Moises Gomez,Tampa Bay Rays
+Prospects Autographs,CPA-MH,Miguel Hiraldo,Toronto Blue Jays
+Prospects Autographs,CPA-MK,Michael King,New York Yankees
+Prospects Autographs,CPA-MS,Mike Siani,Cincinnati Reds
+Prospects Autographs,CPA-NG,Nick Green,New York Yankees
+Prospects Autographs,CPA-NM,Noelvi Marte,Seattle Mariners
+Prospects Autographs,CPA-OM,Orelvis Martinez,Toronto Blue Jays
+Prospects Autographs,CPA-OM,Owen Miller,San Diego Padres
+Prospects Autographs,CPA-PH,Payton Henry,Milwaukee Brewers
+Prospects Autographs,CPA-PS,Patrick Sandoval,Los Angeles Angels
+Prospects Autographs,CPA-QTC,Quintin Torres-Costa,Milwaukee Brewers
+Prospects Autographs,CPA-RF,Ryan Feltner,Colorado Rockies
+Prospects Autographs,CPA-RG,Richard Gallardo,Chicago Cubs
+Prospects Autographs,CPA-RM,Ryan McKenna,Baltimore Orioles
+Prospects Autographs,CPA-RO,Robinson Ortiz,Los Angeles Dodgers
+Prospects Autographs,CPA-SB,Seth Beer,Houston Astros
+Prospects Autographs,CPA-SH,Sean Hjelle,San Francisco Giants
+Prospects Autographs,CPA-SHE,Sam Hentges,Cleveland Indians
+Prospects Autographs,CPA-SN,Shervyen Newton,New York Mets
+Prospects Autographs,CPA-TA,Telmito Agustin,Washington Nationals
+Prospects Autographs,CPA-TP,Tyler Phillips,Texas Rangers
+Prospects Autographs,CPA-TV,Terrin Vavra,Colorado Rockies
+Prospects Autographs,CPA-WP,Wenceel Perez,Detroit Tigers
+Prospects Autographs,CPA-YDR,Yefri Del Rosario,Kansas City Royals
+Prospects Autographs,CPA-ZB,Zack Brown,Milwaukee Brewers
+Rookie Autographs,CRA-CA,Chance Adams,New York Yankees
+Rookie Autographs,CRA-CB,Corbin Burnes,Milwaukee Brewers
+Rookie Autographs,CRA-DJ,Danny Jansen,Toronto Blue Jays
+Rookie Autographs,CRA-DS,DJ Stewart,Baltimore Orioles
+Rookie Autographs,CRA-FTJ,Fernando Tatis Jr.,San Diego Padres
+Rookie Autographs,CRA-JC,Jake Cave,Minnesota Twins
+Rookie Autographs,CRA-JS,Justus Sheffield,Seattle Mariners
+Rookie Autographs,CRA-KH,Keston Hiura,Milwaukee Brewers
+Rookie Autographs,CRA-KW,Kyle Wright,Atlanta Braves
+Rookie Autographs,CRA-PA,Pete Alonso,New York Mets
+Rookie Autographs,CRA-RB,Ryan Borucki,Toronto Blue Jays
+Rookie Autographs,CRA-VGJ,Vladimir Guerrero Jr.,Toronto Blue Jays
+Rookie Autographs,CRA-WA,Willians Astudillo,Minnesota Twins
+Rookie Autographs,CRA-YK,Yusei Kikuchi,Seattle Mariners
+Prime Chrome Signatures,PCS-AB,Alec Bohm,Philadelphia Phillies
+Prime Chrome Signatures,PCS-AK,Andrew Knizner,St. Louis Cardinals
+Prime Chrome Signatures,PCS-CM,Casey Mize,Detroit Tigers
+Prime Chrome Signatures,PCS-DC,Diego Cartaya,Los Angeles Dodgers
+Prime Chrome Signatures,PCS-EJ,Eloy Jimenez,Chicago White Sox
+Prime Chrome Signatures,PCS-EM,Elehuris Montero,St. Louis Cardinals
+Prime Chrome Signatures,PCS-FTJ,Fernando Tatis Jr.,San Diego Padres
+Prime Chrome Signatures,PCS-GC,Genesis Cabrera,St. Louis Cardinals
+Prime Chrome Signatures,PCS-JA,Jordyn Adams,Los Angeles Angels
+Prime Chrome Signatures,PCS-JB,Joey Bart,San Francisco Giants
+Prime Chrome Signatures,PCS-JI,Jonathan India,Cincinnati Reds
+Prime Chrome Signatures,PCS-JK,Jarred Kelenic,Seattle Mariners
+Prime Chrome Signatures,PCS-JPM,Julio Pablo Martinez,Texas Rangers
+Prime Chrome Signatures,PCS-JR,Julio Rodriguez,Seattle Mariners
+Prime Chrome Signatures,PCS-LG,Luis Garcia,Philadelphia Phillies
+Prime Chrome Signatures,PCS-MA,Miguel Amaya,Chicago Cubs
+Prime Chrome Signatures,PCS-NH,Nico Hoerner,Chicago Cubs
+Prime Chrome Signatures,PCS-NM,Nick Madrigal,Chicago White Sox
+Prime Chrome Signatures,PCS-RH,Ronaldo Hernandez,Tampa Bay Rays
+Prime Chrome Signatures,PCS-RM,Ronny Mauricio,New York Mets
+Prime Chrome Signatures,PCS-SB,Seth Beer,Houston Astros
+Prime Chrome Signatures,PCS-SM,Seuly Matias,Kansas City Royals
+Prime Chrome Signatures,PCS-TW,Travis Swaggerty,Pittsburgh Pirates
+Prime Chrome Signatures,PCS-VGJ,Vladimir Guerrero Jr.,Toronto Blue Jays
+Prime Chrome Signatures,PCS-VMJ,Victor Mesa Jr.,Miami Marlins
+Prime Chrome Signatures,PCS-VVM,Victor Victor Mesa,Miami Marlins
+Prime Chrome Signatures,PCS-WF,Wander Franco,Tampa Bay Rays
+Elite Farmhands Autographs,EFA-CM,Casey Mize,Detroit Tigers
+Elite Farmhands Autographs,EFA-FTJ,Fernando Tatis Jr.,San Diego Padres
+Elite Farmhands Autographs,EFA-JA,Jordyn Adams,Los Angeles Angels
+Elite Farmhands Autographs,EFA-JB,Joey Bart,San Francisco Giants
+Elite Farmhands Autographs,EFA-JK,Jarred Kelenic,Seattle Mariners
+Elite Farmhands Autographs,EFA-SM,Seuly Matias,Kansas City Royals
+Elite Farmhands Autographs,EFA-VMJ,Victor Mesa Jr.,Miami Marlins
+Elite Farmhands Autographs,EFA-VVM,Victor Victor Mesa,Miami Marlins
+Elite Farmhands Autographs,EFA-WF,Wander Franco,Tampa Bay Rays
+Stat Tracker Autographs,STA-AK,Andrew Knizner,St. Louis Cardinals
+Stat Tracker Autographs,STA-BS,Brady Singer,Kansas City Royals
+Stat Tracker Autographs,STA-BT,Brice Turang,Milwaukee Brewers
+Stat Tracker Autographs,STA-CM,Casey Mize,Detroit Tigers
+Stat Tracker Autographs,STA-CS,Connor Scott,Miami Marlins
+Stat Tracker Autographs,STA-EM,Elehuris Montero,St. Louis Cardinals
+Stat Tracker Autographs,STA-FTJ,Fernando Tatis Jr.,San Diego Padres
+Stat Tracker Autographs,STA-GC,Genesis Cabrera,St. Louis Cardinals
+Stat Tracker Autographs,STA-JA,Jordyn Adams,Los Angeles Angels
+Stat Tracker Autographs,STA-JB,Joey Bart,San Francisco Giants
+Stat Tracker Autographs,STA-JG,Jordan Groshans,Toronto Blue Jays
+Stat Tracker Autographs,STA-JI,Jonathan India,Cincinnati Reds
+Stat Tracker Autographs,STA-MA,Miguel Amaya,Chicago Cubs
+Stat Tracker Autographs,STA-NH,Nico Hoerner,Chicago Cubs
+Stat Tracker Autographs,STA-NM,Nick Madrigal,Chicago White Sox
+Stat Tracker Autographs,STA-RH,Ronaldo Hernandez,Tampa Bay Rays
+Stat Tracker Autographs,STA-RM,Ronny Mauricio,New York Mets
+Stat Tracker Autographs,STA-SB,Seth Beer,Houston Astros
+Stat Tracker Autographs,STA-SM,Seuly Matias,Kansas City Royals
+Stat Tracker Autographs,STA-WF,Wander Franco,Tampa Bay Rays
+All-America Game Autographs,1,Seth Beer,2014 Under Armour
+All-America Game Autographs,2,Alex Thomas,2017 Under Armour
+All-America Game Autographs,3,Ethan Hankins,2017 Under Armour
+All-America Game Autographs,4,Matthew Liberatore,2017 Under Armour
+All-America Game Autographs,5,Mike Siani,2017 Under Armour
+Chrome Autographed Relics,BCAR-AK,Andrew Knizner,St. Louis Cardinals
+Chrome Autographed Relics,BCAR-AR,Anthony Rizzo,Chicago Cubs
+Chrome Autographed Relics,BCAR-BD,Bobby Dalbec,Boston Red Sox
+Chrome Autographed Relics,BCAR-CR,Corey Ray,Milwaukee Brewers
+Chrome Autographed Relics,BCAR-DH,Darwinzon Hernandez,Boston Red Sox
+Chrome Autographed Relics,BCAR-DJ,Danny Jansen,Toronto Blue Jays
+Chrome Autographed Relics,BCAR-FTJ,Fernando Tatis Jr.,San Diego Padres
+Chrome Autographed Relics,BCAR-JSO,Juan Soto,Washington Nationals
+Chrome Autographed Relics,BCAR-KB,Kris Bryant,Chicago Cubs
+Chrome Autographed Relics,BCAR-KH,Keston Hiura,Milwaukee Brewers
+Chrome Autographed Relics,BCAR-KR,Keibert Ruiz,Los Angeles Dodgers
+Chrome Autographed Relics,BCAR-LU,Luis Urias,San Diego Padres
+Chrome Autographed Relics,BCAR-MA,Miguel Amaya,Chicago Cubs
+Chrome Autographed Relics,BCAR-MAN,Miguel Andujar,New York Yankees
+Chrome Autographed Relics,BCAR-MM,Miles Mikolas,St. Louis Cardinals
+Chrome Autographed Relics,BCAR-MT,Mike Trout,Los Angeles Angels
+Chrome Autographed Relics,BCAR-NH,Nico Hoerner,Chicago Cubs
+Chrome Autographed Relics,BCAR-NL,Nate Lowe,Tampa Bay Rays
+Chrome Autographed Relics,BCAR-PA,Peter Alonso,New York Mets
+Chrome Autographed Relics,BCAR-PD,Paul DeJong,St. Louis Cardinals
+Chrome Autographed Relics,BCAR-SM,Seuly Matias,Kansas City Royals
+2018 AFL Fall Stars Autograph Relics,AFLR-BD,Bobby Dalbec,Boston Red Sox
+2018 AFL Fall Stars Autograph Relics,AFLR-DH,Darwinzon Hernandez,Boston Red Sox
+2018 AFL Fall Stars Autograph Relics,AFLR-KH,Keston Hiura,Milwaukee Brewers
+2018 AFL Fall Stars Autograph Relics,AFLR-KR,Keibert Ruiz,Los Angeles Dodgers
+2018 AFL Fall Stars Autograph Relics,AFLR-NH,Nico Hoerner,Chicago Cubs
+2018 AFL Fall Stars Autograph Relics,AFLR-PA,Peter Alonso,New York Mets
+2018 AFL Fall Stars Autograph Relics,AFLR-RM,Ryan McKenna,Baltimore Orioles
+2018 AFL Fall Stars Relics,AFLR-AG,Andres Gimenez,New York Mets
+2018 AFL Fall Stars Relics,AFLR-BD,Bobby Dalbec,Boston Red Sox
+2018 AFL Fall Stars Relics,AFLR-CB,Cavan Biggio,Toronto Blue Jays
+2018 AFL Fall Stars Relics,AFLR-CK,Carter Kieboom,Washington Nationals
+2018 AFL Fall Stars Relics,AFLR-CP,Cristian Pache,Atlanta Braves
+2018 AFL Fall Stars Relics,AFLR-CT,Cole Tucker,Pittsburgh Pirates
+2018 AFL Fall Stars Relics,AFLR-DH,Darwinzon Hernandez,Boston Red Sox
+2018 AFL Fall Stars Relics,AFLR-EF,Estevan Florial,New York Yankees
+2018 AFL Fall Stars Relics,AFLR-EW,Evan White,Seattle Mariners
+2018 AFL Fall Stars Relics,AFLR-FW,Forrest Whitley,Houston Astros
+2018 AFL Fall Stars Relics,AFLR-JD,Jon Duplantier,Arizona Diamondbacks
+2018 AFL Fall Stars Relics,AFLR-JJ,Jahmai Jones,Los Angeles Angels
+2018 AFL Fall Stars Relics,AFLR-KH,Keston Hiura,Milwaukee Brewers
+2018 AFL Fall Stars Relics,AFLR-KL,Khalil Lee,Kansas City Royals
+2018 AFL Fall Stars Relics,AFLR-KR,Keibert Ruiz,Los Angeles Dodgers
+2018 AFL Fall Stars Relics,AFLR-LR,Luis Robert,Chicago White Sox
+2018 AFL Fall Stars Relics,AFLR-NH,Nico Hoerner,Chicago Cubs
+2018 AFL Fall Stars Relics,AFLR-NP,Nate Pearson,Toronto Blue Jays
+2018 AFL Fall Stars Relics,AFLR-PA,Peter Alonso,New York Mets
+2018 AFL Fall Stars Relics,AFLR-RM,Ryan McKenna,Baltimore Orioles
+2018 AFL Fall Stars Relics,AFLR-SL,Shed Long,Cincinnati Reds
+2018 AFL Fall Stars Relics,AFLR-VGJ,Vladimir Guerrero Jr.,Toronto Blue Jays
