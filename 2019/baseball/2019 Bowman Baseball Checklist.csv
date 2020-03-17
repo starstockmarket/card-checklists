@@ -1,0 +1,1005 @@
+BASE,,,
+BASE CARDS,,,
+1,Mike Trout,Angels®,
+2,Cody Bellinger,Los Angeles Dodgers®,
+3,Joey Wendle,Tampa Bay RaysTM,
+3,Bryce Harper,Philadelphia Phillies®,
+4,Cedric Mullins,Baltimore Orioles®,Rookie
+5,Kyle Freeland,Colorado RockiesTM,
+6,Brad Keller,Kansas City Royals®,Rookie
+7,Jonathan Loaisiga,New York Yankees®,Rookie
+8,Scooter Gennett,Cincinnati Reds®,
+9,Khris Davis,Oakland AthleticsTM,
+10,Willy Adames,Tampa Bay RaysTM,
+11,Matt Chapman,Oakland AthleticsTM,
+12,Justus Sheffield,Seattle MarinersTM,Rookie
+13,Aaron Nola,Philadelphia Phillies®,
+14,Christian Yelich,Milwaukee BrewersTM,
+15,Clayton Kershaw,Los Angeles Dodgers®,
+16,Aaron Judge,New York Yankees®,
+17,Trey Mancini,Baltimore Orioles®,
+18,Anthony Rizzo,Chicago Cubs®,
+19,Touki Toussaint,Atlanta BravesTM,Rookie
+20,Bryse Wilson,Atlanta BravesTM,Rookie
+21,Miguel Cabrera,Detroit Tigers®,
+22,Nolan Arenado,Colorado RockiesTM,
+23,Salvador Perez,Kansas City Royals®,
+24,Willians Astudillo,Minnesota Twins®,Rookie
+25,Luis Urias,San Diego PadresTM,Rookie
+26,Edwin Diaz,New York Mets®,
+27,Yoan Moncada,Chicago White Sox®,
+28,Rowdy Tellez,Toronto Blue Jays®,Rookie
+29,Taylor Ward,Angels®,Rookie
+30,Steven Duggar,San Francisco Giants®,Rookie
+31,Francisco Arcia,Chicago Cubs®,Rookie
+32,Eugenio Suarez,Cincinnati Reds®,
+33,Christin Stewart,Detroit Tigers®,Rookie
+34,Shohei Ohtani,Angels®,
+35,J.D. Martinez,Boston Red Sox®,
+36,Yadier Molina,St. Louis Cardinals®,
+37,Jose Berrios,Minnesota Twins®,
+38,Ramon Laureano,Oakland AthleticsTM,Rookie
+39,Luis Guillorme,New York Mets®,Rookie
+40,Marcus Stroman,Toronto Blue Jays®,
+41,Zack Greinke,Arizona Diamondbacks®,
+42,Chris Shaw,San Francisco Giants®,Rookie
+43,Giancarlo Stanton,New York Yankees®,
+44,Ryan Borucki,Toronto Blue Jays®,Rookie
+45,Whit Merrifield,Kansas City Royals®,
+46,Chris Archer,Pittsburgh Pirates®,
+47,Maikel Franco,Philadelphia Phillies®,
+48,Danny Jansen,Toronto Blue Jays®,Rookie
+
+49,David Fletcher,Angels®,Rookie
+50,Mookie Betts,Boston Red Sox®,
+51,Kris Bryant,Chicago Cubs®,
+52,Kyle Wright,Atlanta BravesTM,Rookie
+53,Aramis Garcia,San Francisco Giants®,Rookie
+54,Kevin Newman,Pittsburgh Pirates®,Rookie
+55,Jose Abreu,Chicago White Sox®,
+56,Mychal Givens,Baltimore Orioles®,
+57,Brandon Crawford,San Francisco Giants®,
+58,Sean Reid-Foley,Toronto Blue Jays®,Rookie
+59,Evan Longoria,San Francisco Giants®,
+60,Kevin Kramer,Pittsburgh Pirates®,Rookie
+61,Jake Cave,Minnesota Twins®,Rookie
+62,Jose Altuve,Houston Astros®,
+63,Eddie Rosario,Minnesota Twins®,
+64,Justin Verlander,Houston Astros®,
+65,Corbin Burnes,Milwaukee BrewersTM,Rookie
+66,Jose Ramirez,Cleveland Indians®,
+67,DJ Stewart,Baltimore Orioles®,Rookie
+68,Starling Marte,Pittsburgh Pirates®,
+69,Chance Adams,New York Yankees®,Rookie
+70,Enyel De Los Santos,Philadelphia Phillies®,Rookie
+71,Max Scherzer,Washington Nationals®,
+72,Kolby Allard,Atlanta BravesTM,Rookie
+73,Dakota Hudson,St. Louis Cardinals®,Rookie
+74,Matt Carpenter,St. Louis Cardinals®,
+75,Michael Kopech,Chicago White Sox®,Rookie
+76,Jake Bauers,Cleveland Indians®,Rookie
+77,Rougned Odor,Texas Rangers®,
+78,Ronald Acuña Jr.,Atlanta BravesTM,
+79,J.T. Realmuto,Miami Marlins®,
+80,Mitch Haniger,Seattle MarinersTM,
+81,Nicholas Castellanos,Detroit Tigers®,
+82,Dawel Lugo,Detroit Tigers®,Rookie
+83,Amed Rosario,New York Mets®,
+84,Adolis Garcia,St. Louis Cardinals®,Rookie
+85,Paul Goldschmidt,St. Louis Cardinals®,
+86,Eric Hosmer,San Diego PadresTM,
+87,Josh James,Houston Astros®,Rookie
+88,Ronald Guzman,Texas Rangers®,
+89,Francisco Lindor,Cleveland Indians®,
+90,Jeff McNeil,New York Mets®,Rookie
+91,Brian Anderson,Miami Marlins®,
+92,Juan Soto,Washington Nationals®,
+93,Ryan O'Hearn,Kansas City Royals®,Rookie
+94,Kyle Tucker,Houston Astros®,Rookie
+95,Kevin Pillar,Toronto Blue Jays®,
+96,Ozzie Albies,Atlanta BravesTM,
+97,Josh Hader,Milwaukee BrewersTM,
+98,Brandon Lowe,Tampa Bay RaysTM,Rookie
+99,Wil Myers,San Diego PadresTM,
+100,Jacob deGrom,New York Mets®,
+
+INSERT,,
+PAPER PROSPECTS,,
+BP-1,Vladimir Guerrero Jr.,Toronto Blue Jays®
+BP-2,Alec Bohm,Philadelphia Phillies®
+BP-3,Justin Dunn,Seattle MarinersTM
+BP-4,Jo Adell,Angels®
+BP-5,Victor Victor Mesa,Miami Marlins®
+BP-6,Brusdar Graterol,Minnesota Twins®
+BP-7,Tirso Ornelas,San Diego PadresTM
+BP-8,Nick Neidert,Miami Marlins®
+BP-9,Taylor Widener,Arizona Diamondbacks®
+BP-10,Adrian Morejon,San Diego PadresTM
+BP-11,Derian Cruz,Atlanta BravesTM
+BP-12,Corey Ray,Milwaukee BrewersTM
+BP-13,Jarred Kelenic,Seattle MarinersTM
+BP-14,Seth Beer,Houston Astros®
+BP-15,Ethan Hankins,Cleveland Indians®
+BP-16,Cole Tucker,Pittsburgh Pirates®
+BP-17,A.J. Puk,Oakland AthleticsTM
+BP-18,Leody Taveras,Texas Rangers®
+BP-19,Logan Allen,San Diego PadresTM
+BP-20,Blake Rutherford,Chicago White Sox®
+BP-21,Freudis Nova,Houston Astros®
+BP-22,Daniel Johnson,Washington Nationals®
+BP-23,Rylan Bannon,Baltimore Orioles®
+BP-24,Taylor Trammell,Cincinnati Reds®
+BP-25,Fernando Tatis Jr.,San Diego PadresTM
+BP-26,Beau Burrows,Detroit Tigers®
+BP-27,Jay Groome,Boston Red Sox®
+BP-28,Adam Haseley,Philadelphia Phillies®
+BP-29,Adonis Medina,Philadelphia Phillies®
+BP-30,Julio Pablo Martinez,Texas Rangers®
+BP-31,Evan White,Seattle MarinersTM
+BP-32,Cristian Javier,Houston Astros®
+BP-33,Julio Rodriguez,Seattle MarinersTM
+BP-34,Domingo Acevedo,New York Yankees®
+BP-35,Miguel Amaya,Chicago Cubs®
+BP-36,Ryan Vilade,Colorado RockiesTM
+BP-37,JoJo Romero,Philadelphia Phillies®
+BP-38,Sandro Fabian,San Francisco Giants®
+BP-39,Franklyn Kilome,New York Mets®
+BP-40,Triston McKenzie,Cleveland Indians®
+BP-41,Ryan Mountcastle,Baltimore Orioles®
+BP-42,Jordyn Adams,Angels®
+BP-43,Nick Senzel,Cincinnati Reds®
+BP-44,Luis Robert,Chicago White Sox®
+BP-45,Brent Rooker,Minnesota Twins®
+BP-46,Anthony Seigler,New York Yankees®
+
+BP-47,Ian Anderson,Atlanta BravesTM
+BP-48,Griffin Canning,Angels®
+BP-49,Casey Mize,Detroit Tigers®
+BP-50,Joey Bart,San Francisco Giants®
+BP-51,Hunter Greene,Cincinnati Reds®
+BP-52,Forrest Whitley,Houston Astros®
+BP-53,Blaze Alexander,Arizona Diamondbacks®
+BP-54,Keston Hiura,Milwaukee BrewersTM
+BP-55,Chris Paddack,San Diego PadresTM
+BP-56,Franklin Perez,Detroit Tigers®
+BP-57,Joey Wentz,Atlanta BravesTM
+BP-58,Kevin Smith,Toronto Blue Jays®
+BP-59,Nico Hoerner,Chicago Cubs®
+BP-60,Nolan Gorman,St. Louis Cardinals®
+BP-61,Jazz Chisholm,Arizona Diamondbacks®
+BP-62,Cristian Pache,Atlanta BravesTM
+BP-63,Nick Madrigal,Chicago White Sox®
+BP-64,Luis Garcia,Washington Nationals®
+BP-65,Colton Welker,Colorado RockiesTM
+BP-66,Ryan Weathers,San Diego PadresTM
+BP-67,Jonathan Duplantier,Arizona Diamondbacks®
+BP-68,Reggie Lawson,San Diego PadresTM
+BP-69,Orelvis Martinez,Toronto Blue Jays®
+BP-70,Sixto Sanchez,Philadelphia Phillies®
+BP-71,Ke'Bryan Hayes,Pittsburgh Pirates®
+BP-72,Brewer Hicklen,Kansas City Royals®
+BP-73,MacKenzie Gore,San Diego PadresTM
+BP-74,Estevan Florial,New York Yankees®
+BP-75,Cole Winn,Texas Rangers®
+BP-76,Zack Collins,Chicago White Sox®
+BP-77,Andres Gimenez,New York Mets®
+BP-78,Alex Faedo,Detroit Tigers®
+BP-79,Logan Webb,San Francisco Giants®
+BP-80,Dustin May,Los Angeles Dodgers®
+BP-81,Ryan McKenna,Baltimore Orioles®
+BP-82,Marco Luciano,San Francisco Giants®
+BP-83,Heliot Ramos,San Francisco Giants®
+BP-84,Aramis Ademan,Chicago Cubs®
+BP-85,Matt Manning,Detroit Tigers®
+BP-86,Daz Cameron,Detroit Tigers®
+BP-87,Chad Spanberger,Toronto Blue Jays®
+BP-88,Brent Honeywell,Tampa Bay RaysTM
+BP-89,Esteury Ruiz,San Diego PadresTM
+BP-90,Keegan Thompson,Chicago Cubs®
+BP-91,Will Smith,Los Angeles Dodgers®
+BP-92,Michael Chavis,Boston Red Sox®
+BP-93,Travis Swaggerty,Pittsburgh Pirates®
+BP-94,Dane Dunning,Chicago White Sox®
+BP-95,Lyon Richardson,Cincinnati Reds®
+BP-96,Jesus Luzardo,Oakland AthleticsTM
+BP-97,Noelvi Marte,Seattle MarinersTM
+BP-98,Carter Kieboom,Washington Nationals®
+
+BP-99,Nate Pearson,Toronto Blue Jays®
+BP-100,Wander Franco,Tampa Bay RaysTM
+BP-101,Ryan Costello,Minnesota Twins®
+BP-102,Jonathan India,Cincinnati Reds®
+BP-103,Royce Lewis,Minnesota Twins®
+BP-104,Victor Mesa Jr.,Miami Marlins®
+BP-105,Brendan McKay,Tampa Bay RaysTM
+BP-106,Michel Baez,San Diego PadresTM
+BP-107,Ronny Mauricio,New York Mets®
+BP-108,Anthony Kay,New York Mets®
+BP-109,Yusniel Diaz,Baltimore Orioles®
+BP-110,Brady Singer,Kansas City Royals®
+BP-111,Bo Bichette,Toronto Blue Jays®
+BP-112,Matthew Liberatore,Tampa Bay RaysTM
+BP-113,Dylan Cease,Chicago White Sox®
+BP-114,Edward Cabrera,Miami Marlins®
+BP-115,Jeter Downs,Los Angeles Dodgers®
+BP-116,Luken Baker,St. Louis Cardinals®
+BP-117,Shane Baz,Tampa Bay RaysTM
+BP-118,Keibert Ruiz,Los Angeles Dodgers®
+BP-119,Jonathan Hernandez,Texas Rangers®
+BP-120,Matt Mercer,Arizona Diamondbacks®
+BP-121,Ryan Helsley,St. Louis Cardinals®
+BP-122,Cole Ragans,Texas Rangers®
+BP-123,Yordan Alvarez,Houston Astros®
+BP-124,DJ Peters,Los Angeles Dodgers®
+BP-125,Cal Quantrill,San Diego PadresTM
+BP-126,Drew Waters,Atlanta BravesTM
+BP-127,Peter Alonso,New York Mets®
+BP-128,MJ Melendez,Kansas City Royals®
+BP-129,Austin Riley,Atlanta BravesTM
+BP-130,Gavin Lux,Los Angeles Dodgers®
+BP-131,Brandon Marsh,Angels®
+BP-132,Andrew Knizner,St. Louis Cardinals®
+BP-133,Mitch Keller,Pittsburgh Pirates®
+BP-134,Cristian Santana,Los Angeles Dodgers®
+BP-135,Jesus Sanchez,Tampa Bay RaysTM
+BP-136,Peter Lambert,Colorado RockiesTM
+BP-137,Brock Burke,Texas Rangers®
+BP-138,Alex Kirilloff,Minnesota Twins®
+BP-139,DL Hall,Baltimore Orioles®
+BP-140,Bryan Mata,Boston Red Sox®
+BP-141,Austin Beck,Oakland AthleticsTM
+BP-142,Genesis Cabrera,St. Louis Cardinals®
+BP-143,Brendan Rodgers,Colorado RockiesTM
+BP-144,Sean Murphy,Oakland AthleticsTM
+BP-145,Roberto Ramos,Colorado RockiesTM
+BP-146,Ronaldo Hernandez,Tampa Bay RaysTM
+BP-147,Albert Abreu,New York Yankees®
+BP-148,William Contreras,Atlanta BravesTM
+BP-149,Jose de la Cruz,Detroit Tigers®
+BP-150,Eloy Jimenez,Chicago White Sox®
+
+CHROME PROSPECTS,,
+BCP-1,Vladimir Guerrero Jr.,Toronto Blue Jays®
+BCP-2,Alec Bohm,Philadelphia Phillies®
+BCP-3,Justin Dunn,Seattle MarinersTM
+BCP-4,Jo Adell,Angels®
+BCP-5,Victor Victor Mesa,Miami Marlins®
+BCP-6,Brusdar Graterol,Minnesota Twins®
+BCP-7,Tirso Ornelas,San Diego PadresTM
+BCP-8,Nick Neidert,Miami Marlins®
+BCP-9,Taylor Widener,Arizona Diamondbacks®
+BCP-10,Adrian Morejon,San Diego PadresTM
+BCP-11,Derian Cruz,Atlanta BravesTM
+BCP-12,Corey Ray,Milwaukee BrewersTM
+BCP-13,Jarred Kelenic,Seattle MarinersTM
+BCP-14,Seth Beer,Houston Astros®
+BCP-15,Ethan Hankins,Cleveland Indians®
+BCP-16,Cole Tucker,Pittsburgh Pirates®
+BCP-17,A.J. Puk,Oakland AthleticsTM
+BCP-18,Leody Taveras,Texas Rangers®
+BCP-19,Logan Allen,San Diego PadresTM
+BCP-20,Blake Rutherford,Chicago White Sox®
+BCP-21,Freudis Nova,Houston Astros®
+BCP-22,Daniel Johnson,Washington Nationals®
+BCP-23,Rylan Bannon,Baltimore Orioles®
+BCP-24,Taylor Trammell,Cincinnati Reds®
+BCP-25,Fernando Tatis Jr.,San Diego PadresTM
+BCP-26,Beau Burrows,Detroit Tigers®
+BCP-27,Jay Groome,Boston Red Sox®
+BCP-28,Adam Haseley,Philadelphia Phillies®
+BCP-29,Adonis Medina,Philadelphia Phillies®
+BCP-30,Julio Pablo Martinez,Texas Rangers®
+BCP-31,Evan White,Seattle MarinersTM
+BCP-32,Cristian Javier,Houston Astros®
+BCP-33,Julio Rodriguez,Seattle MarinersTM
+BCP-34,Domingo Acevedo,New York Yankees®
+BCP-35,Miguel Amaya,Chicago Cubs®
+BCP-36,Ryan Vilade,Colorado RockiesTM
+BCP-37,JoJo Romero,Philadelphia Phillies®
+BCP-38,Sandro Fabian,San Francisco Giants®
+BCP-39,Franklyn Kilome,New York Mets®
+BCP-40,Triston McKenzie,Cleveland Indians®
+BCP-41,Ryan Mountcastle,Baltimore Orioles®
+BCP-42,Jordyn Adams,Angels®
+BCP-43,Nick Senzel,Cincinnati Reds®
+BCP-44,Luis Robert,Chicago White Sox®
+BCP-45,Brent Rooker,Minnesota Twins®
+BCP-46,Anthony Seigler,New York Yankees®
+BCP-47,Ian Anderson,Atlanta BravesTM
+BCP-48,Griffin Canning,Angels®
+BCP-49,Casey Mize,Detroit Tigers®
+
+BCP-50,Joey Bart,San Francisco Giants®
+BCP-51,Hunter Greene,Cincinnati Reds®
+BCP-52,Forrest Whitley,Houston Astros®
+BCP-53,Blaze Alexander,Arizona Diamondbacks®
+BCP-54,Keston Hiura,Milwaukee BrewersTM
+BCP-55,Chris Paddack,San Diego PadresTM
+BCP-56,Franklin Perez,Detroit Tigers®
+BCP-57,Joey Wentz,Atlanta BravesTM
+BCP-58,Kevin Smith,Toronto Blue Jays®
+BCP-59,Nico Hoerner,Chicago Cubs®
+BCP-60,Nolan Gorman,St. Louis Cardinals®
+BCP-61,Jazz Chisholm,Arizona Diamondbacks®
+BCP-62,Cristian Pache,Atlanta BravesTM
+BCP-63,Nick Madrigal,Chicago White Sox®
+BCP-64,Luis Garcia,Washington Nationals®
+BCP-65,Colton Welker,Colorado RockiesTM
+BCP-66,Ryan Weathers,San Diego PadresTM
+BCP-67,Jonathan Duplantier,Arizona Diamondbacks®
+BCP-68,Reggie Lawson,San Diego PadresTM
+BCP-69,Orelvis Martinez,Toronto Blue Jays®
+BCP-70,Sixto Sanchez,Philadelphia Phillies®
+BCP-71,Ke'Bryan Hayes,Pittsburgh Pirates®
+BCP-72,Brewer Hicklen,Kansas City Royals®
+BCP-73,MacKenzie Gore,San Diego PadresTM
+BCP-74,Estevan Florial,New York Yankees®
+BCP-75,Cole Winn,Texas Rangers®
+BCP-76,Zack Collins,Chicago White Sox®
+BCP-77,Andres Gimenez,New York Mets®
+BCP-78,Alex Faedo,Detroit Tigers®
+BCP-79,Logan Webb,San Francisco Giants®
+BCP-80,Dustin May,Los Angeles Dodgers®
+BCP-81,Ryan McKenna,Baltimore Orioles®
+BCP-82,Marco Luciano,San Francisco Giants®
+BCP-83,Heliot Ramos,San Francisco Giants®
+BCP-84,Aramis Ademan,Chicago Cubs®
+BCP-85,Matt Manning,Detroit Tigers®
+BCP-86,Daz Cameron,Detroit Tigers®
+BCP-87,Chad Spanberger,Toronto Blue Jays®
+BCP-88,Brent Honeywell,Tampa Bay RaysTM
+BCP-89,Esteury Ruiz,San Diego PadresTM
+BCP-90,Keegan Thompson,Chicago Cubs®
+BCP-91,Will Smith,Los Angeles Dodgers®
+BCP-92,Michael Chavis,Boston Red Sox®
+BCP-93,Travis Swaggerty,Pittsburgh Pirates®
+BCP-94,Dane Dunning,Chicago White Sox®
+BCP-95,Lyon Richardson,Cincinnati Reds®
+BCP-96,Jesus Luzardo,Oakland AthleticsTM
+BCP-97,Noelvi Marte,Seattle MarinersTM
+BCP-98,Carter Kieboom,Washington Nationals®
+BCP-99,Nate Pearson,Toronto Blue Jays®
+BCP-100,Wander Franco,Tampa Bay RaysTM
+BCP-101,Ryan Costello,Minnesota Twins®
+
+BCP-102,Jonathan India,Cincinnati Reds®
+BCP-103,Royce Lewis,Minnesota Twins®
+BCP-104,Victor Mesa Jr.,Miami Marlins®
+BCP-105,Brendan McKay,Tampa Bay RaysTM
+BCP-106,Michel Baez,San Diego PadresTM
+BCP-107,Ronny Mauricio,New York Mets®
+BCP-108,Anthony Kay,New York Mets®
+BCP-109,Yusniel Diaz,Baltimore Orioles®
+BCP-110,Brady Singer,Kansas City Royals®
+BCP-111,Bo Bichette,Toronto Blue Jays®
+BCP-112,Matthew Liberatore,Tampa Bay RaysTM
+BCP-113,Dylan Cease,Chicago White Sox®
+BCP-114,Edward Cabrera,Miami Marlins®
+BCP-115,Jeter Downs,Los Angeles Dodgers®
+BCP-116,Luken Baker,St. Louis Cardinals®
+BCP-117,Shane Baz,Tampa Bay RaysTM
+BCP-118,Keibert Ruiz,Los Angeles Dodgers®
+BCP-119,Jonathan Hernandez,Texas Rangers®
+BCP-120,Matt Mercer,Arizona Diamondbacks®
+BCP-121,Ryan Helsley,St. Louis Cardinals®
+BCP-122,Cole Ragans,Texas Rangers®
+BCP-123,Yordan Alvarez,Houston Astros®
+BCP-124,DJ Peters,Los Angeles Dodgers®
+BCP-125,Cal Quantrill,San Diego PadresTM
+BCP-126,Drew Waters,Atlanta BravesTM
+BCP-127,Peter Alonso,New York Mets®
+BCP-128,MJ Melendez,Kansas City Royals®
+BCP-129,Austin Riley,Atlanta BravesTM
+BCP-130,Gavin Lux,Los Angeles Dodgers®
+BCP-131,Brandon Marsh,Angels®
+BCP-132,Andrew Knizner,St. Louis Cardinals®
+BCP-133,Mitch Keller,Pittsburgh Pirates®
+BCP-134,Cristian Santana,Los Angeles Dodgers®
+BCP-135,Jesus Sanchez,Tampa Bay RaysTM
+BCP-136,Peter Lambert,Colorado RockiesTM
+BCP-137,Brock Burke,Texas Rangers®
+BCP-138,Alex Kirilloff,Minnesota Twins®
+BCP-139,DL Hall,Baltimore Orioles®
+BCP-140,Bryan Mata,Boston Red Sox®
+BCP-141,Austin Beck,Oakland AthleticsTM
+BCP-142,Genesis Cabrera,St. Louis Cardinals®
+BCP-143,Brendan Rodgers,Colorado RockiesTM
+BCP-144,Sean Murphy,Oakland AthleticsTM
+BCP-145,Roberto Ramos,Colorado RockiesTM
+BCP-146,Ronaldo Hernandez,Tampa Bay RaysTM
+BCP-147,Albert Abreu,New York Yankees®
+BCP-148,William Contreras,Atlanta BravesTM
+BCP-149,Jose de la Cruz,Detroit Tigers®
+BCP-150,Eloy Jimenez,Chicago White Sox®
+BOWMAN SCOUTS TOP 100,,
+BTP-1,Vladimir Guerrero Jr.,Toronto Blue Jays®
+
+BTP-2,Eloy Jimenez,Chicago White Sox®,
+BTP-3,Fernando Tatis Jr.,San Diego PadresTM,
+BTP-4,Wander Franco,Tampa Bay RaysTM,
+BTP-5,Forrest Whitley,Houston Astros®,
+BTP-6,Victor Robles,Washington Nationals®,
+BTP-7,Bo Bichette,Toronto Blue Jays®,
+BTP-8,Michael Kopech,Chicago White Sox®,Rookie
+BTP-9,Jo Adell,Angels®,
+BTP-10,Royce Lewis,Minnesota Twins®,
+BTP-11,Nick Senzel,Cincinnati Reds®,
+BTP-12,Casey Mize,Detroit Tigers®,
+BTP-13,Alex Kirilloff,Minnesota Twins®,
+BTP-14,MacKenzie Gore,San Diego PadresTM,
+BTP-15,Kyle Tucker,Houston Astros®,Rookie
+BTP-16,Brendan Rodgers,Colorado RockiesTM,
+BTP-17,Jesus Luzardo,Oakland AthleticsTM,
+BTP-18,Sixto Sanchez,Philadelphia Phillies®,
+BTP-19,Dylan Cease,Chicago White Sox®,
+BTP-20,Justus Sheffield,Seattle MarinersTM,Rookie
+BTP-21,Mitch Keller,Pittsburgh Pirates®,
+BTP-22,Mike Soroka,Atlanta BravesTM,
+BTP-23,Nick Madrigal,Chicago White Sox®,
+BTP-24,Keibert Ruiz,Los Angeles Dodgers®,
+BTP-25,Ian Anderson,Atlanta BravesTM,
+BTP-26,Taylor Trammell,Cincinnati Reds®,
+BTP-27,Keston Hiura,Milwaukee BrewersTM,
+BTP-28,Touki Toussaint,Atlanta BravesTM,Rookie
+BTP-29,Brent Honeywell,Tampa Bay RaysTM,
+BTP-30,Adrian Morejon,San Diego PadresTM,
+BTP-31,Cristian Pache,Atlanta BravesTM,
+BTP-32,Ke'Bryan Hayes,Pittsburgh Pirates®,
+BTP-33,Joey Bart,San Francisco Giants®,
+BTP-34,Griffin Canning,Angels®,
+BTP-35,Francisco Mejia,San Diego PadresTM,
+BTP-36,Andres Gimenez,New York Mets®,
+BTP-37,Brendan McKay,Tampa Bay RaysTM,
+BTP-38,Brady Singer,Kansas City Royals®,
+BTP-39,Jarred Kelenic,Seattle MarinersTM,
+BTP-40,Luis Urias,San Diego PadresTM,Rookie
+BTP-41,Austin Riley,Atlanta BravesTM,
+BTP-42,Alex Reyes,St. Louis Cardinals®,
+BTP-43,A.J. Puk,Oakland AthleticsTM,
+BTP-44,Carter Kieboom,Washington Nationals®,
+BTP-45,Hunter Greene,Cincinnati Reds®,
+BTP-46,Yordan Alvarez,Houston Astros®,
+BTP-47,Luis Robert,Chicago White Sox®,
+BTP-48,Kyle Wright,Atlanta BravesTM,Rookie
+BTP-49,Corbin Burnes,Milwaukee BrewersTM,Rookie
+BTP-50,Sean Murphy,Oakland AthleticsTM,
+BTP-51,Jon Duplantier,Arizona Diamondbacks®,
+BTP-52,Peter Alonso,New York Mets®,
+BTP-53,Alex Verdugo,Los Angeles Dodgers®,
+
+BTP-54,Luis Garcia,Washington Nationals®,
+BTP-55,Nolan Gorman,St. Louis Cardinals®,
+BTP-56,Jonathan Loaisiga,New York Yankees®,Rookie
+BTP-57,Jesus Sanchez,Tampa Bay RaysTM,
+BTP-58,Bryse Wilson,Atlanta BravesTM,Rookie
+BTP-59,Luiz Gohara,Atlanta BravesTM,
+BTP-60,Dakota Hudson,St. Louis Cardinals®,
+BTP-61,Chris Paddack,San Diego PadresTM,
+BTP-62,Triston McKenzie,Cleveland Indians®,
+BTP-63,Jazz Chisholm,Arizona Diamondbacks®,
+BTP-64,Jason Groome,Boston Red Sox®,
+BTP-65,Adonis Medina,Philadelphia Phillies®,
+BTP-66,Dustin May,Los Angeles Dodgers®,
+BTP-67,Yusniel Diaz,Baltimore Orioles®,
+BTP-68,Jonathan India,Cincinnati Reds®,
+BTP-69,D.L. Hall,Baltimore Orioles®,
+BTP-70,Oneil Cruz,Pittsburgh Pirates®,
+BTP-71,Estevan Florial,New York Yankees®,
+BTP-72,Sandy Alcantara,Miami Marlins®,
+BTP-73,Travis Swaggerty,Pittsburgh Pirates®,
+BTP-74,Nate Pearson,Toronto Blue Jays®,
+BTP-75,Leody Taveras,Texas Rangers®,
+BTP-76,Ronny Mauricio,New York Mets®,
+BTP-77,Matthew Liberatore,Tampa Bay RaysTM,
+BTP-78,Brandon Marsh,Angels®,
+BTP-79,Khalil Lee,Kansas City Royals®,
+BTP-80,Alex Scherff,Boston Red Sox®,
+BTP-81,Miguel Amaya,Chicago Cubs®,
+BTP-82,Brice Turang,Milwaukee BrewersTM,
+BTP-83,Jackson Kowar,Kansas City Royals®,
+BTP-84,Daz Cameron,Detroit Tigers®,
+BTP-85,Nolan Jones,Cleveland Indians®,
+BTP-86,Franklin Perez,Detroit Tigers®,
+BTP-87,Cole Winn,Texas Rangers®,
+BTP-88,Kyle Lewis,Seattle MarinersTM,
+BTP-89,Brusdar Graterol,Minnesota Twins®,
+BTP-90,Logan Allen,San Diego PadresTM,
+BTP-91,Taylor Widener,Arizona Diamondbacks®,
+BTP-92,Grayson Rodriguez,Baltimore Orioles®,
+BTP-93,Michel Baez,San Diego PadresTM,
+BTP-94,Corey Ray,Milwaukee BrewersTM,
+BTP-95,Evan White,Seattle MarinersTM,
+BTP-96,Peter Lambert,Colorado RockiesTM,
+BTP-97,George Valera,Cleveland Indians®,
+BTP-98,Matt Manning,Detroit Tigers®,
+BTP-99,Luis Patino,San Diego PadresTM,
+BTP-100,Julio Pablo Martinez,Texas Rangers®,
+READY FOR THE SHOW,,,
+RFTS-1,Vladimir Guerrero Jr.,Toronto Blue Jays®,
+RFTS-2,Bo Bichette,Toronto Blue Jays®,
+RFTS-3,Triston McKenzie,Cleveland Indians®,
+
+RFTS-4,Mitch Keller,Pittsburgh Pirates®,
+RFTS-5,Will Smith,Los Angeles Dodgers®,
+RFTS-6,Jon Duplantier,Arizona Diamondbacks®,
+RFTS-7,Austin Riley,Atlanta BravesTM,
+RFTS-8,Ryan Mountcastle,Baltimore Orioles®,
+RFTS-9,Nick Senzel,Cincinnati Reds®,
+RFTS-10,Fernando Tatis Jr.,San Diego PadresTM,
+RFTS-11,Peter Alonso,New York Mets®,
+RFTS-12,Forrest Whitley,Houston Astros®,
+RFTS-13,Yusniel Diaz,Baltimore Orioles®,
+RFTS-14,Brendan McKay,Tampa Bay RaysTM,
+RFTS-15,Jesus Luzardo,Oakland AthleticsTM,
+RFTS-16,Brendan Rodgers,Colorado RockiesTM,
+RFTS-17,Yordan Alvarez,Houston Astros®,
+RFTS-18,Keston Hiura,Milwaukee BrewersTM,
+RFTS-19,Brent Honeywell,Tampa Bay RaysTM,
+RFTS-20,Eloy Jimenez,Chicago White Sox®,
+ROY FAVORITES,,,
+ROYF-1,Kyle Tucker,Houston Astros®,Rookie
+ROYF-2,Brandon Lowe,Tampa Bay RaysTM,Rookie
+ROYF-3,Dawel Lugo,Detroit Tigers®,Rookie
+ROYF-4,Luis Urias,San Diego PadresTM,Rookie
+ROYF-5,Chance Adams,New York Yankees®,Rookie
+ROYF-6,Danny Jansen,Toronto Blue Jays®,Rookie
+ROYF-7,Kyle Wright,Atlanta BravesTM,Rookie
+ROYF-8,Chris Shaw,San Francisco Giants®,Rookie
+ROYF-9,Kolby Allard,Atlanta BravesTM,Rookie
+ROYF-10,Christin Stewart,Detroit Tigers®,Rookie
+ROYF-11,Justus Sheffield,Seattle MarinersTM,Rookie
+30TH ANNIVERSARY CARDS,,,
+B30-AJ,Aaron Judge,New York Yankees®,
+B30-AK,Alex Kirilloff,Minnesota Twins®,
+B30-AN,Aaron Nola,Philadelphia Phillies®,
+B30-AR,Anthony Rizzo,Chicago Cubs®,
+B30-BB,Bo Bichette,Toronto Blue Jays®,
+B30-BM,Brendan McKay,Tampa Bay RaysTM,
+B30-BR,Brendan Rodgers,Colorado RockiesTM,
+B30-BS,Blake Snell,Tampa Bay RaysTM,
+B30-CK,Carter Kieboom,Washington Nationals®,
+B30-CKE,Clayton Kershaw,Los Angeles Dodgers®,
+B30-CM,Casey Mize,Detroit Tigers®,
+B30-CP,Cristian Pache,Atlanta BravesTM,
+B30-DC,Dylan Cease,Chicago White Sox®,
+B30-EF,Estevan Florial,New York Yankees®,
+B30-EJ,Eloy Jimenez,Chicago White Sox®,
+B30-FL,Francisco Lindor,Cleveland Indians®,
+B30-FTJ,Fernando Tatis Jr.,San Diego PadresTM,
+B30-FW,Forrest Whitley,Houston Astros®,
+B30-GT,Gleyber Torres,New York Yankees®,
+B30-HG,Hunter Greene,Cincinnati Reds®,
+
+B30-IA,Ian Anderson,Atlanta BravesTM,
+B30-JA,Jo Adell,Angels®,
+B30-JAL,Jose Altuve,Houston Astros®,
+B30-JB,Joey Bart,San Francisco Giants®,
+B30-JD,Jacob deGrom,New York Mets®,
+B30-JL,Jesus Luzardo,Oakland AthleticsTM,
+B30-JPM,Julio Pablo Martinez,Texas Rangers®,
+B30-JS,Justus Sheffield,Seattle MarinersTM,Rookie
+B30-JSO,Juan Soto,Washington Nationals®,
+B30-KB,Kris Bryant,Chicago Cubs®,
+B30-KR,Keibert Ruiz,Los Angeles Dodgers®,
+B30-KT,Kyle Tucker,Houston Astros®,Rookie
+B30-LU,Luis Urias,San Diego PadresTM,Rookie
+B30-MA,Miguel Amaya,Chicago Cubs®,
+B30-MB,Mookie Betts,Boston Red Sox®,
+B30-MG,MacKenzie Gore,San Diego PadresTM,
+B30-MK,Michael Kopech,Chicago White Sox®,Rookie
+B30-MKE,Mitch Keller,Pittsburgh Pirates®,
+B30-MT,Mike Trout,Angels®,
+B30-NG,Nolan Gorman,St. Louis Cardinals®,
+B30-NM,Nick Madrigal,Chicago White Sox®,
+B30-NS,Nick Senzel,Cincinnati Reds®,
+B30-RAJ,Ronald Acuña Jr.,Atlanta BravesTM,
+B30-RLE,Royce Lewis,Minnesota Twins®,
+B30-SB,Seth Beer,Houston Astros®,
+B30-SO,Shohei Ohtani,Angels®,
+B30-SS,Sixto Sanchez,Philadelphia Phillies®,
+B30-VGJ,Vladimir Guerrero Jr.,Toronto Blue Jays®,
+B30-WF,Wander Franco,Tampa Bay RaysTM,
+B30-YA,Yordan Alvarez,Houston Astros®,
+TALENT PIPELINE,,,
+TP-ARI,Jazz Chisholm,Arizona Diamondbacks®,
+TP-ARI,Taylor Clarke,Arizona Diamondbacks®,
+TP-ARI,Taylor Widener,Arizona Diamondbacks®,
+TP-ATL,Austin Riley,Atlanta BravesTM,
+TP-ATL,Ian Anderson,Atlanta BravesTM,
+TP-ATL,William Contreras,Atlanta BravesTM,
+TP-BAL,DJ Stewart,Baltimore Orioles®,Rookie
+TP-BAL,Ryan Mountcastle,Baltimore Orioles®,Rookie
+TP-BAL,DL Hall,Baltimore Orioles®,Rookie
+TP-BOS,Josh Ockimey,Boston Red Sox®,
+TP-BOS,Bryan Mata,Boston Red Sox®,
+TP-BOS,Bobby Dalbec,Boston Red Sox®,
+TP-CHI,Adbert Alzolay,Chicago Cubs®,
+TP-CHI,Thomas Hatch,Chicago Cubs®,
+TP-CHI,Nico Hoerner,Chicago Cubs®,
+TP-CIN,Shed Long,Cincinnati Reds®,
+TP-CIN,Hunter Greene,Cincinnati Reds®,
+TP-CIN,Nick Senzel,Cincinnati Reds®,
+TP-CLE,Yu Chang,Cleveland Indians®,
+TP-CLE,Triston McKenzie,Cleveland Indians®,
+
+TP-CLE,Nolan Jones,Cleveland Indians®,
+TP-COL,Brendan Rodgers,Colorado RockiesTM,
+TP-COL,Colton Welker,Colorado RockiesTM,
+TP-COL,Roberto Ramos,Colorado RockiesTM,
+TP-CWS,Zack Collins,Chicago White Sox®,
+TP-CWS,Eloy Jimenez,Chicago White Sox®,
+TP-CWS,Blake Rutherford,Chicago White Sox®,
+TP-DET,Matt Hall,Detroit Tigers®,Rookie
+TP-DET,Casey Mize,Detroit Tigers®,Rookie
+TP-DET,Jake Rogers,Detroit Tigers®,Rookie
+TP-HOU,Yordan Alvarez,Houston Astros®,
+TP-HOU,Forrest Whitley,Houston Astros®,
+TP-HOU,Seth Beer,Houston Astros®,
+TP-KCR,Nicky Lopez,Kansas City Royals®,
+TP-KCR,Khalil Lee,Kansas City Royals®,
+TP-KCR,Seuly Matias,Kansas City Royals®,
+TP-LAA,Matt Thaiss,Angels®,
+TP-LAA,Jo Adell,Angels®,
+TP-LAA,Brandon Marsh,Angels®,
+TP-LAD,Will Smith,Los Angeles Dodgers®,
+TP-LAD,Mitchell White,Los Angeles Dodgers®,
+TP-LAD,Jeren Kendall,Los Angeles Dodgers®,
+TP-MIA,Nick Neidert,Miami Marlins®,Rookie
+TP-MIA,Austin Dean,Miami Marlins®,Rookie
+TP-MIA,Tristan Pompey,Miami Marlins®,Rookie
+TP-MIL,Corbin Burnes,Milwaukee BrewersTM,Rookie
+TP-MIL,Keston Hiura,Milwaukee BrewersTM,Rookie
+TP-MIL,Tristen Lutz,Milwaukee BrewersTM,Rookie
+TP-MIN,Nick Gordon,Minnesota Twins®,
+TP-MIN,Brent Rooker,Minnesota Twins®,
+TP-MIN,Alex Kirilloff,Minnesota Twins®,
+TP-NYM,Peter Alonso,New York Mets®,
+TP-NYM,Andres Gimenez,New York Mets®,
+TP-NYM,Anthony Kay,New York Mets®,
+TP-NYY,Chance Adams,New York Yankees®,Rookie
+TP-NYY,Trevor Stephan,New York Yankees®,Rookie
+TP-NYY,Estevan Florial,New York Yankees®,Rookie
+TP-OAK,Jesus Luzardo,Oakland AthleticsTM,
+TP-OAK,Skye Bolt,Oakland AthleticsTM,
+TP-OAK,Austin Beck,Oakland AthleticsTM,
+TP-PHI,Ranger Suarez,Philadelphia Phillies®,Rookie
+TP-PHI,Darick Hall,Philadelphia Phillies®,Rookie
+TP-PHI,Adam Haseley,Philadelphia Phillies®,Rookie
+TP-PIT,Mitch Keller,Pittsburgh Pirates®,
+TP-PIT,Ke'Bryan Hayes,Pittsburgh Pirates®,
+TP-PIT,Luis Escobar,Pittsburgh Pirates®,
+TP-SDP,Luis Urias,San Diego PadresTM,
+TP-SDP,MacKenzie Gore,San Diego PadresTM,
+TP-SDP,Josh Naylor,San Diego PadresTM,
+TP-SEA,Ian Miller,Seattle MarinersTM,
+TP-SEA,Evan White,Seattle MarinersTM,
+TP-SEA,Braden Bishop,Seattle MarinersTM,
+
+TP-SFG,Chris Shaw,San Francisco Giants®,
+TP-SFG,Shaun Anderson,San Francisco Giants®,
+TP-SFG,Joey Bart,San Francisco Giants®,
+TP-STL,Andrew Knizner,St. Louis Cardinals®,
+TP-STL,Elehuris Montero,St. Louis Cardinals®,
+TP-STL,Genesis Cabrera,St. Louis Cardinals®,
+TP-TBR,Brent Honeywell,Tampa Bay RaysTM,
+TP-TBR,Ronaldo Hernandez,Tampa Bay RaysTM,
+TP-TBR,Nick Solak,Tampa Bay RaysTM,
+TP-TEX,Andy Ibanez,Texas Rangers®,
+TP-TEX,Jonathan Hernandez,Texas Rangers®,
+TP-TEX,Leody Taveras,Texas Rangers®,
+TP-TOR,Vladimir Guerrero Jr.,Toronto Blue Jays®,
+TP-TOR,Nate Pearson,Toronto Blue Jays®,
+TP-TOR,Bo Bichette,Toronto Blue Jays®,
+TP-WAS,Drew Ward,Washington Nationals®,
+TP-WAS,Luis Garcia,Washington Nationals®,
+TP-WAS,Carter Kieboom,Washington Nationals®,
+2019 BOWMAN STERLING CONTINUITY,,,
+BS-1,Shohei Ohtani,Angels®,
+BS-2,Joey Bart,San Francisco Giants®,
+BS-3,Brusdar Graterol,Minnesota Twins®,
+BS-4,Seuly Matias,Kansas City Royals®,
+BS-5,Casey Mize,Detroit Tigers®,
+BS-6,Aramis Ademan,Chicago Cubs®,
+BS-7,Kris Bryant,Chicago Cubs®,
+BS-8,Alec Bohm,Philadelphia Phillies®,
+BS-9,Estevan Florial,New York Yankees®,
+BS-10,Wander Franco,Tampa Bay RaysTM,
+BS-11,Jonathan India,Cincinnati Reds®,
+BS-12,Luis Urias,San Diego PadresTM,Rookie
+BS-13,Ronaldo Hernandez,Tampa Bay RaysTM,
+BS-14,Jarred Kelenic,Seattle MarinersTM,
+BS-15,Yordan Alvarez,Houston Astros®,
+BS-16,Kyle Tucker,Houston Astros®,Rookie
+BS-17,Genesis Cabrera,St. Louis Cardinals®,
+BS-18,Nick Madrigal,Chicago White Sox®,
+BS-19,Julio Pablo Martinez,Texas Rangers®,
+BS-20,Mike Trout,Angels®,
+AUTOGRAPH,,,
+BOWMAN SCOUTS TOP 100 AUTOGRAPH PARALLEL,,,
+BTP-3,Fernando Tatis Jr.,San Diego PadresTM,
+BTP-4,Wander Franco,Tampa Bay RaysTM,
+BTP-8,Michael Kopech,Chicago White Sox®,Rookie
+BTP-9,Jo Adell,Angels®,
+BTP-10,Royce Lewis,Minnesota Twins®,
+BTP-12,Casey Mize,Detroit Tigers®,
+
+BTP-14,MacKenzie Gore,San Diego PadresTM,
+BTP-15,Kyle Tucker,Houston Astros®,Rookie
+BTP-18,Sixto Sanchez,Philadelphia Phillies®,
+BTP-20,Justus Sheffield,New York Yankees®,Rookie
+BTP-21,Mitch Keller,Pittsburgh Pirates®,
+BTP-23,Nick Madrigal,Chicago White Sox®,
+BTP-24,Keibert Ruiz,Los Angeles Dodgers®,
+BTP-25,Ian Anderson,Atlanta BravesTM,
+BTP-27,Keston Hiura,Milwaukee BrewersTM,
+BTP-28,Touki Toussaint,Atlanta BravesTM,Rookie
+BTP-31,Cristian Pache,Atlanta BravesTM,
+BTP-33,Joey Bart,San Francisco Giants®,
+BTP-34,Griffin Canning,Angels®,
+BTP-38,Brady Singer,Kansas City Royals®,
+BTP-39,Jarred Kelenic,New York Mets®,
+BTP-43,A.J. Puk,Oakland AthleticsTM,
+BTP-44,Carter Kieboom,Washington Nationals®,
+BTP-45,Hunter Greene,Cincinnati Reds®,
+BTP-47,Luis Robert,Chicago White Sox®,
+BTP-48,Kyle Wright,Atlanta BravesTM,Rookie
+BTP-49,Corbin Burnes,Milwaukee BrewersTM,Rookie
+BTP-50,Sean Murphy,Oakland AthleticsTM,
+BTP-51,Jon Duplantier,Arizona Diamondbacks®,
+BTP-55,Nolan Gorman,St. Louis Cardinals®,
+BTP-56,Jonathan Loaisiga,New York Yankees®,Rookie
+BTP-57,Jesus Sanchez,Tampa Bay RaysTM,
+BTP-58,Bryse Wilson,Atlanta BravesTM,Rookie
+BTP-60,Dakota Hudson,St. Louis Cardinals®,Rookie
+BTP-66,Dustin May,Los Angeles Dodgers®,
+BTP-67,Yusniel Diaz,Baltimore Orioles®,
+BTP-68,Jonathan India,Cincinnati Reds®,
+BTP-72,Sandy Alcantara,Miami Marlins®,
+BTP-73,Travis Swaggerty,Pittsburgh Pirates®,
+BTP-74,Nate Pearson,Toronto Blue Jays®,
+BTP-76,Ronny Mauricio,New York Mets®,
+BTP-77,Matthew Liberatore,Tampa Bay RaysTM,
+BTP-78,Brandon Marsh,Angels®,
+BTP-81,Miguel Amaya,Chicago Cubs®,
+BTP-82,Brice Turang,Milwaukee BrewersTM,
+BTP-83,Jackson Kowar,Kansas City Royals®,
+BTP-84,Daz Cameron,Detroit Tigers®,
+BTP-86,Franklin Perez,Detroit Tigers®,
+BTP-87,Cole Winn,Texas Rangers®,
+BTP-91,Taylor Widener,Arizona Diamondbacks®,
+BTP-93,Michel Baez,San Diego PadresTM,
+BTP-94,Corey Ray,Milwaukee BrewersTM,
+BTP-95,Evan White,Seattle MarinersTM,
+BTP-96,Peter Lambert,Colorado RockiesTM,
+BTP-100,Julio Pablo Martinez,Texas Rangers®,
+30TH ANNIVERSARY CARDS AUTOGRAPH PARALLEL,,,
+
+B30-AJ,Aaron Judge,New York Yankees®,
+B30-AR,Anthony Rizzo,Chicago Cubs®,
+B30-BS,Blake Snell,Tampa Bay RaysTM,
+B30-CM,Casey Mize,Detroit Tigers®,
+B30-CP,Cristian Pache,Atlanta BravesTM,
+B30-FL,Francisco Lindor,Cleveland Indians®,
+B30-FTJ,Fernando Tatis Jr.,San Diego PadresTM,
+B30-HG,Hunter Greene,Cincinnati Reds®,
+B30-JA,Jo Adell,Angels®,
+B30-JAL,Jose Altuve,Houston Astros®,
+B30-JB,Joey Bart,San Francisco Giants®,
+B30-JD,Jacob deGrom,New York Mets®,
+B30-JS,Justus Sheffield,New York Yankees®,Rookie
+B30-JSO,Juan Soto,Washington Nationals®,
+B30-KB,Kris Bryant,Chicago Cubs®,
+B30-KR,Keibert Ruiz,Los Angeles Dodgers®,
+B30-KT,Kyle Tucker,Houston Astros®,Rookie
+B30-LU,Luis Urias,San Diego PadresTM,Rookie
+B30-MA,Miguel Amaya,Chicago Cubs®,
+B30-MG,MacKenzie Gore,San Diego PadresTM,
+B30-MK,Michael Kopech,Chicago White Sox®,Rookie
+B30-MKE,Mitch Keller,Pittsburgh Pirates®,
+B30-MT,Mike Trout,Angels®,
+B30-NM,Nick Madrigal,Chicago White Sox®,
+B30-RAJ,Ronald Acuña Jr.,Atlanta BravesTM,
+B30-SB,Seth Beer,Houston Astros®,
+B30-SO,Shohei Ohtani,Angels®,
+B30-SS,Sixto Sanchez,Philadelphia Phillies®,
+B30-WF,Wander Franco,Tampa Bay RaysTM,
+CHROME PROSPECTS AUTOGRAPH VARIATION,,,
+CPA-AB,Alec Bohm,Philadelphia Phillies®,
+CPA-ABE,Andrew Bechtold,Minnesota Twins®,
+CPA-AC,Aaron Civale,Cleveland Indians®,
+CPA-AK,Andrew Knizner,St. Louis Cardinals®,
+CPA-BA,Blaze Alexander,Arizona Diamondbacks®,
+CPA-BBU,Brock Burke,Tampa Bay RaysTM,
+CPA-BD,Brock Deatherage,Detroit Tigers®,
+CPA-BH,Brewer Hicklen,Kansas City Royals®,
+CPA-BS,Brady Singer,Kansas City Royals®,
+CPA-CC,Conner Capel,Cleveland Indians®,
+CPA-CG,Casey Golden,Colorado RockiesTM,
+CPA-CM,Casey Mize,Detroit Tigers®,
+CPA-CMI,Cal Mitchell,Pittsburgh Pirates®,
+CPA-CS,Chad Spanberger,Toronto Blue Jays®,
+CPA-CSA,Cristian Santana,Los Angeles Dodgers®,
+CPA-DC,Derian Cruz,Atlanta BravesTM,
+CPA-DCA,Diego Cartaya,Los Angeles Dodgers®,
+CPA-DK,Dean Kremer,Baltimore Orioles®,
+CPA-DTW,Dom Thompson-Williams,New York Yankees®,
+CPA-EC,Edward Cabrera,Miami Marlins®,
+CPA-EJ,Eloy Jimenez,Chicago White Sox®,
+
+CPA-EM,Elehuris Montero,St. Louis Cardinals®,
+CPA-EMO,Eli Morgan,Cleveland Indians®,
+CPA-ER,Esteury Ruiz,San Diego PadresTM,
+CPA-GC,Gabriel Cancel,Kansas City Royals®,
+CPA-GCA,Genesis Cabrera,St. Louis Cardinals®,
+CPA-IW,Isranel Wilson,Atlanta BravesTM,
+CPA-JB,Joey Bart,San Francisco Giants®,
+CPA-JH,Jonathan Hernandez,Texas Rangers®,
+CPA-JPM,Julio Pablo Martinez,Texas Rangers®,
+CPA-JRO,Julio Rodriguez,Seattle MarinersTM,
+CPA-JS,Jose Suarez,Angels®,
+CPA-KT,Keegan Thompson,Chicago Cubs®,
+CPA-LR,Lyon Richardson,Cincinnati Reds®,
+CPA-LW,Logan Webb,San Francisco Giants®,
+CPA-MAM,Miguel Amaya,Chicago Cubs®,
+CPA-MG,Mateo Gil,St. Louis Cardinals®,
+CPA-ML,Marco Luciano,San Francisco Giants®,
+CPA-MM,Matt Mercer,Arizona Diamondbacks®,
+CPA-MMA,Mason Martin,Pittsburgh Pirates®,
+CPA-MV,Matt Vierling,Philadelphia Phillies®,
+CPA-NL,Nate Lowe,Tampa Bay RaysTM,
+CPA-NM,Nick Madrigal,Chicago White Sox®,
+CPA-RB,Rylan Bannon,Baltimore Orioles®,
+CPA-RC,Ryan Costello,Minnesota Twins®,
+CPA-RH,Ronaldo Hernandez,Tampa Bay RaysTM,
+CPA-RL,Reggie Lawson,San Diego PadresTM,
+CPA-RM,Ronny Mauricio,New York Mets®,
+CPA-RMC,Ryan McKenna,Baltimore Orioles®,
+CPA-RR,Roberto Ramos,Colorado RockiesTM,
+CPA-SM,Seuly Matias,Kansas City Royals®,
+CPA-SW,Steele Walker,Chicago White Sox®,
+CPA-TA,Telmito Agustin,Washington Nationals®,
+CPA-TO,Tirso Ornelas,San Diego PadresTM,
+CPA-TR,Tommy Romero,Tampa Bay RaysTM,
+CPA-TW,Taylor Widener,Arizona Diamondbacks®,
+CPA-VF,Vince Fernandez,Colorado RockiesTM,
+CPA-VGJ,Vladimir Guerrero Jr.,Toronto Blue Jays®,
+CPA-VMJ,Victor Mesa Jr.,Miami Marlins®,
+CPA-VVM,Victor Victor Mesa,Miami Marlins®,
+CPA-WF,Wander Franco,Tampa Bay RaysTM,
+CPA-WS,Will Stewart,Philadelphia Phillies®,
+CHROME ROOKIE AUTOGRAPHS,,,
+CRA-CA,Chance Adams,New York Yankees®,Rookie
+CRA-CB,Corbin Burnes,Milwaukee BrewersTM,Rookie
+CRA-CM,Cedric Mullins,Baltimore Orioles®,Rookie
+CRA-CST,Chris Shaw,San Francisco Giants®,Rookie
+CRA-DJ,Danny Jansen,Toronto Blue Jays®,Rookie
+CRA-JB,Jake Bauers,Tampa Bay RaysTM,Rookie
+CRA-JS,Justus Sheffield,New York Yankees®,Rookie
+CRA-KA,Kolby Allard,Atlanta BravesTM,Rookie
+CRA-KT,Kyle Tucker,Houston Astros®,Rookie
+
+CRA-KW,Kyle Wright,Atlanta BravesTM,Rookie
+CRA-LU,Luis Urias,San Diego PadresTM,Rookie
+CRA-MK,Michael Kopech,Chicago White Sox®,Rookie
+CRA-RB,Ryan Borucki,Toronto Blue Jays®,Rookie
+CRA-ROG,Ryan O'Hearn,Kansas City Royals®,Rookie
+CRA-YK,Yusei Kikuchi,Seattle MarinersTM,Rookie
+ROY FAVORITES AUTOGRAPH VARIATION,,,
+ROYF-CM,Cedric Mullins,Baltimore Orioles®,Rookie
+ROYF-KW,Kyle Wright,Atlanta BravesTM,Rookie
+ROYF-ROH,Ryan O'Hearn,Kansas City Royals®,Rookie
+ROYFA-CB,Corbin Burnes,Milwaukee BrewersTM,Rookie
+ROYFA-DJ,Danny Jansen,Toronto Blue Jays®,Rookie
+ROYFA-JB,Jake Bauers,Tampa Bay RaysTM,Rookie
+ROYFA-JS,Justus Sheffield,New York Yankees®,Rookie
+ROYFA-KA,Kolby Allard,Atlanta BravesTM,Rookie
+ROYFA-KT,Kyle Tucker,Houston Astros®,Rookie
+ROYFA-LU,Luis Urias,San Diego PadresTM,Rookie
+ROYFA-MK,Michael Kopech,Chicago White Sox®,Rookie
+2019 BOWMAN STERLING CONTINUITY,,AUTOGRAPH VARIATION,
+BSA-AB,Alec Bohm,Philadelphia Phillies®,
+BSA-BG,Brusdar Graterol,Minnesota Twins®,
+BSA-CM,Casey Mize,Detroit Tigers®,
+BSA-GC,Genesis Cabrera,St. Louis Cardinals®,
+BSA-JB,Joey Bart,San Francisco Giants®,
+BSA-JK,Jarred Kelenic,New York Mets®,
+BSA-JPM,Julio Pablo Martinez,Texas Rangers®,
+BSA-KB,Kris Bryant,Chicago Cubs®,
+BSA-KT,Kyle Tucker,Houston Astros®,Rookie
+BSA-LU,Luis Urias,San Diego PadresTM,
+BSA-MT,Mike Trout,Angels®,
+BSA-NM,Nick Madrigal,Chicago White Sox®,
+BSA-RH,Ronaldo Hernandez,Tampa Bay RaysTM,
+BSA-SM,Seuly Matias,Kansas City Royals®,
+BSA-WF,Wander Franco,Tampa Bay RaysTM,
+DUAL BOWMAN PROSPECT AUTOGRAPHS,,,
+DPA-CW,Derian Cruz,Atlanta BravesTM,
+DPA-CW,Isranel Wilson,Atlanta BravesTM,
+DPA-HPM,Julio Pablo Martinez,Texas Rangers®,
+DPA-HPM,Jonathan Hernandez,Texas Rangers®,
+DPA-KM,Andrew Knizner,St. Louis Cardinals®,
+DPA-KM,Elehuris Montero,St. Louis Cardinals®,
+DPA-LH,Nate Lowe,Tampa Bay RaysTM,
+DPA-LH,Ronaldo Hernandez,Tampa Bay RaysTM,
+DPA-MB,Ryan McKenna,Baltimore Orioles®,
+DPA-MB,Rylan Bannon,Baltimore Orioles®,
+DPA-MS,Casey Mize,Detroit Tigers®,
+DPA-MS,Brady Singer,Kansas City Royals®,
+DPA-RM,Julio Rodriguez,Seattle MarinersTM,
+DPA-RM,Noelvi Marte,Seattle MarinersTM,
+
+PAPER PROSPECTS AUTOGRAPH VARIATION,,,
+PA-AI,Andrew Istler,Washington Nationals®,
+PA-AM,Alex McKenna,Houston Astros®,
+PA-AR,Alex Royalty,Cleveland Indians®,
+PA-AW,Adam Wolf,Detroit Tigers®,
+PA-BB,Braden Bishop,Seattle MarinersTM,
+PA-BD,Brett Daniels,Houston Astros®,
+PA-BH,Brigham Hill,Washington Nationals®,
+PA-BT,Bo Takahashi,Arizona Diamondbacks®,
+PA-CM,Casey Mize,Detroit Tigers®,
+PA-EJ,Eduardo Jimenez,Detroit Tigers®,
+PA-JB,Joey Bart,San Francisco Giants®,
+PA-JK,Jarred Kelenic,Seattle MarinersTM,
+PA-JM,James Marvel,Pittsburgh Pirates®,
+PA-JO,James Outman,Los Angeles Dodgers®,
+PA-JS,Jesus Sanchez,Tampa Bay RaysTM,
+PA-JYC,Jing-Yu Chang,Seattle MarinersTM,
+PA-LJC,Li-Jen Chu,Cleveland Indians®,
+PA-MK,Matt Krook,Tampa Bay RaysTM,
+PA-NA,Nick Allen,Oakland AthleticsTM,
+PA-NH,Nolan Hoffman,Seattle MarinersTM,
+PA-NM,Nick Meyer,New York Mets®,
+PA-OM,Owen Miller,San Diego PadresTM,
+PA-PO,Pablo Olivares,New York Yankees®,
+PA-SE,Santiago Espinal,Toronto Blue Jays®,
+PA-SL,Shed Long,Cincinnati Reds®,
+PA-SS,Sterling Sharp,Washington Nationals®,
+PA-TM,Tobias Myers,Tampa Bay RaysTM,
+PA-YA,Yadier Alvarez,Los Angeles Dodgers®,
+2019 BOWMAN ULTIMATE AUTOGRAPH,,BOOK CARD,
+UAC-1,Cristian Pache,Atlanta BravesTM,
+UAC-1,Joey Bart,San Francisco Giants®,
+UAC-1,Griffin Canning,Angels®,
+UAC-1,Keston Hiura,Milwaukee BrewersTM,
+UAC-1,A.J. Puk,Oakland AthleticsTM,
+UAC-1,Brady Singer,Kansas City Royals®,
+UAC-1,Jarred Kelenic,New York Mets®,
+UAC-1,Estevan Florial,New York Yankees®,
+UAC-1,Nolan Gorman,St. Louis Cardinals®,
+UAC-1,Jesus Sanchez,Tampa Bay RaysTM,
+UAC-1,Jon Duplantier,Arizona Diamondbacks®,
+UAC-1,Luis Robert,Chicago White Sox®,
+UAC-1,Ian Anderson,Atlanta BravesTM,
+UAC-1,MacKenzie Gore,San Diego PadresTM,
+UAC-1,Kyle Tucker,Houston Astros®,Rookie
+UAC-1,Casey Mize,Detroit Tigers®,
+UAC-1,Jo Adell,Angels®,
+UAC-1,Wander Franco,Tampa Bay RaysTM,
+UAC-1,Michael Kopech,Chicago White Sox®,
+UAC-1,Sixto Sanchez,Philadelphia Phillies®,
+
+UAC-1,Justus Sheffield,New York Yankees®,Rookie
+UAC-1,Mitch Keller,Pittsburgh Pirates®,
+UAC-1,Nick Madrigal,Chicago White Sox®,
+UAC-1,Fernando Tatis Jr.,San Diego PadresTM,
+UNDER AMOUR GAME AUTOGRAPHED CARDS,,,
+,Triston Casas,2016 Under Armour Game,
+,Bo Naylor,2017 Under Armour Game,
+,Jordan Groshans,2017 Under Armour Game,
+,Jordyn Adams,2017 Under Armour Game,
+,Blaze Alexander,2017 Under Armour Game,
+1989 BOWMAN BUYBACK AUTOGRAPHS,,,
+,Ken Griffey Jr.,,
+,Cal Ripken Jr.,,
+,Roger Clemens,,
+,Bert Blyleven,,
+,Carlton Fisk,,
+,Dennis Eckersley,,
+,Mark McGwire,,
+,Tino Martinez,,
+,Edgar Martinez,,
+,John Smoltz,,
+,Dale Murphy,,
+,Ryne Sandberg,,
+,Andre Dawson,,
