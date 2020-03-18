@@ -61,7 +61,7 @@ Base,59,Jonas Valanciunas,Toronto Raptors,99
 Base,60,Nicolas Batum,Charlotte Hornets,99
 Base,61,Russell Westbrook,Oklahoma City Thunder,99
 Base,62,John Wall,Washington Wizards,99
-Base,63,C.J. McCollum,Portland Trail Blazers,99
+Base,63,CJ McCollum,Portland Trail Blazers,99
 Base,64,Mike Conley,Memphis Grizzlies,99
 Base,65,Derrick Rose,Chicago Bulls,99
 Base,66,Enes Kanter,Oklahoma City Thunder,99
@@ -161,7 +161,7 @@ Base Gold,59,Jonas Valanciunas,Toronto Raptors,10
 Base Gold,60,Nicolas Batum,Charlotte Hornets,10
 Base Gold,61,Russell Westbrook,Oklahoma City Thunder,10
 Base Gold,62,John Wall,Washington Wizards,10
-Base Gold,63,C.J. McCollum,Portland Trail Blazers,10
+Base Gold,63,CJ McCollum,Portland Trail Blazers,10
 Base Gold,64,Mike Conley,Memphis Grizzlies,10
 Base Gold,65,Derrick Rose,Chicago Bulls,10
 Base Gold,66,Enes Kanter,Oklahoma City Thunder,10
@@ -261,7 +261,7 @@ Base Platinum,59,Jonas Valanciunas,Toronto Raptors,1
 Base Platinum,60,Nicolas Batum,Charlotte Hornets,1
 Base Platinum,61,Russell Westbrook,Oklahoma City Thunder,1
 Base Platinum,62,John Wall,Washington Wizards,1
-Base Platinum,63,C.J. McCollum,Portland Trail Blazers,1
+Base Platinum,63,CJ McCollum,Portland Trail Blazers,1
 Base Platinum,64,Mike Conley,Memphis Grizzlies,1
 Base Platinum,65,Derrick Rose,Chicago Bulls,1
 Base Platinum,66,Enes Kanter,Oklahoma City Thunder,1
@@ -663,7 +663,7 @@ Colossal Materials,26,Langston Galloway,New York Knicks,99
 Colossal Materials,27,Russell Westbrook,Oklahoma City Thunder,60
 Colossal Materials,28,Damian Lillard,Portland Trail Blazers,49
 Colossal Materials,29,Manu Ginobili,San Antonio Spurs,60
-Colossal Materials,30,C.J. McCollum,Portland Trail Blazers,60
+Colossal Materials,30,CJ McCollum,Portland Trail Blazers,60
 Colossal Materials,31,Jeremy Lin,Charlotte Hornets,60
 Colossal Materials,32,Victor Oladipo,Orlando Magic,99
 Colossal Materials,33,James Harden,Houston Rockets,60
@@ -696,7 +696,7 @@ Colossal Materials Prime,26,Langston Galloway,New York Knicks,25
 Colossal Materials Prime,27,Russell Westbrook,Oklahoma City Thunder,10
 Colossal Materials Prime,28,Damian Lillard,Portland Trail Blazers,10
 Colossal Materials Prime,29,Manu Ginobili,San Antonio Spurs,25
-Colossal Materials Prime,30,C.J. McCollum,Portland Trail Blazers,10
+Colossal Materials Prime,30,CJ McCollum,Portland Trail Blazers,10
 Colossal Materials Prime,31,Jeremy Lin,Charlotte Hornets,10
 Colossal Materials Prime,32,Victor Oladipo,Orlando Magic,25
 Colossal Materials Prime,33,James Harden,Houston Rockets,10
@@ -729,7 +729,7 @@ Colossal Materials Super Prime,26,Langston Galloway,New York Knicks,1
 Colossal Materials Super Prime,27,Russell Westbrook,Oklahoma City Thunder,1
 Colossal Materials Super Prime,28,Damian Lillard,Portland Trail Blazers,1
 Colossal Materials Super Prime,29,Manu Ginobili,San Antonio Spurs,1
-Colossal Materials Super Prime,30,C.J. McCollum,Portland Trail Blazers,1
+Colossal Materials Super Prime,30,CJ McCollum,Portland Trail Blazers,1
 Colossal Materials Super Prime,31,Jeremy Lin,Charlotte Hornets,1
 Colossal Materials Super Prime,32,Victor Oladipo,Orlando Magic,1
 Colossal Materials Super Prime,33,James Harden,Houston Rockets,1
@@ -1176,7 +1176,7 @@ Material Treasures,4,Isiah Thomas,Detroit Pistons,49
 Material Treasures,5,Aaron Gordon,Orlando Magic,75
 Material Treasures,6,Karl Malone,Utah Jazz,75
 Material Treasures,7,Kevin McHale,Boston Celtics,75
-Material Treasures,8,C.J. McCollum,Portland Trail Blazers,75
+Material Treasures,8,CJ McCollum,Portland Trail Blazers,75
 Material Treasures,9,Mark Jackson,Los Angeles Clippers,49
 Material Treasures,10,Danny Green,San Antonio Spurs,75
 Material Treasures,11,Ray Allen,Boston Celtics,75
@@ -1225,7 +1225,7 @@ Material Treasures Laundry Tags,3,Serge Ibaka,Oklahoma City Thunder,5
 Material Treasures Laundry Tags,4,Isiah Thomas,Detroit Pistons,3
 Material Treasures Laundry Tags,5,Aaron Gordon,Orlando Magic,5
 Material Treasures Laundry Tags,6,Karl Malone,Utah Jazz,5
-Material Treasures Laundry Tags,8,C.J. McCollum,Portland Trail Blazers,2
+Material Treasures Laundry Tags,8,CJ McCollum,Portland Trail Blazers,2
 Material Treasures Laundry Tags,9,Mark Jackson,Los Angeles Clippers,3
 Material Treasures Laundry Tags,10,Danny Green,San Antonio Spurs,5
 Material Treasures Laundry Tags,12,Eric Bledsoe,Phoenix Suns,5
@@ -1272,7 +1272,7 @@ Material Treasures Prime,4,Isiah Thomas,Detroit Pistons,25
 Material Treasures Prime,5,Aaron Gordon,Orlando Magic,25
 Material Treasures Prime,6,Karl Malone,Utah Jazz,25
 Material Treasures Prime,7,Kevin McHale,Boston Celtics,25
-Material Treasures Prime,8,C.J. McCollum,Portland Trail Blazers,25
+Material Treasures Prime,8,CJ McCollum,Portland Trail Blazers,25
 Material Treasures Prime,9,Mark Jackson,Los Angeles Clippers,25
 Material Treasures Prime,10,Danny Green,San Antonio Spurs,25
 Material Treasures Prime,11,Ray Allen,Boston Celtics,25
@@ -1426,7 +1426,7 @@ NBA Finals Nameplate,15,Mike Miller,Cleveland Cavaliers,6
 NBA Finals Nameplate,16,Timofey Mozgov,Cleveland Cavaliers,6
 NBA Finals Nameplate,17,Kendrick Perkins,Cleveland Cavaliers,7
 NBA Finals Nameplate,18,Iman Shumpert,Cleveland Cavaliers,8
-NBA Finals Nameplate,19,J.R. Smith,Cleveland Cavaliers,5
+NBA Finals Nameplate,19,JR Smith,Cleveland Cavaliers,5
 NBA Finals Nameplate,20,Tristan Thompson,Cleveland Cavaliers,8
 NBA Game Gear Autographs,1,Kobe Bryant,Los Angeles Lakers,25
 NBA Game Gear Autographs,2,Kevin Durant,Oklahoma City Thunder,25
@@ -1570,7 +1570,7 @@ NBA Material,43,Rodney Hood,Utah Jazz,99
 NBA Material,44,Tony Parker,San Antonio Spurs,99
 NBA Material,45,Kobe Bryant,Los Angeles Lakers,99
 NBA Material,46,Klay Thompson,Golden State Warriors,99
-NBA Material,47,C.J. McCollum,Portland Trail Blazers,99
+NBA Material,47,CJ McCollum,Portland Trail Blazers,99
 NBA Material,48,Danilo Gallinari,Denver Nuggets,99
 NBA Material,49,Gordon Hayward,Utah Jazz,99
 NBA Material,50,Jordan Clarkson,Los Angeles Lakers,99
@@ -1620,7 +1620,7 @@ NBA Material Laundry Tags,43,Rodney Hood,Utah Jazz,1
 NBA Material Laundry Tags,44,Tony Parker,San Antonio Spurs,1
 NBA Material Laundry Tags,45,Kobe Bryant,Los Angeles Lakers,1
 NBA Material Laundry Tags,46,Klay Thompson,Golden State Warriors,1
-NBA Material Laundry Tags,47,C.J. McCollum,Portland Trail Blazers,1
+NBA Material Laundry Tags,47,CJ McCollum,Portland Trail Blazers,1
 NBA Material Laundry Tags,48,Danilo Gallinari,Denver Nuggets,1
 NBA Material Laundry Tags,49,Gordon Hayward,Utah Jazz,1
 NBA Material Laundry Tags,50,Jordan Clarkson,Los Angeles Lakers,1
@@ -1669,7 +1669,7 @@ NBA Material Patch,43,Rodney Hood,Utah Jazz,10
 NBA Material Patch,44,Tony Parker,San Antonio Spurs,10
 NBA Material Patch,45,Kobe Bryant,Los Angeles Lakers,10
 NBA Material Patch,46,Klay Thompson,Golden State Warriors,5
-NBA Material Patch,47,C.J. McCollum,Portland Trail Blazers,10
+NBA Material Patch,47,CJ McCollum,Portland Trail Blazers,10
 NBA Material Patch,48,Danilo Gallinari,Denver Nuggets,5
 NBA Material Patch,49,Gordon Hayward,Utah Jazz,10
 NBA Material Patch,50,Jordan Clarkson,Los Angeles Lakers,10
@@ -1718,7 +1718,7 @@ NBA Material Prime,43,Rodney Hood,Utah Jazz,25
 NBA Material Prime,44,Tony Parker,San Antonio Spurs,25
 NBA Material Prime,45,Kobe Bryant,Los Angeles Lakers,25
 NBA Material Prime,46,Klay Thompson,Golden State Warriors,10
-NBA Material Prime,47,C.J. McCollum,Portland Trail Blazers,25
+NBA Material Prime,47,CJ McCollum,Portland Trail Blazers,25
 NBA Material Prime,48,Danilo Gallinari,Denver Nuggets,10
 NBA Material Prime,49,Gordon Hayward,Utah Jazz,25
 NBA Material Prime,50,Jordan Clarkson,Los Angeles Lakers,25
@@ -2419,7 +2419,7 @@ Signatures,40,Tony Allen,Memphis Grizzlies,75
 Signatures,41,Doug McDermott,Chicago Bulls,75
 Signatures,42,Allan Houston,New York Knicks,75
 Signatures,43,Jerry West,Los Angeles Lakers,25
-Signatures,44,Larry Brown,Virginia Squires (ABA),49
+Signatures,44,Larry Brown,Virginia Squires,49
 Signatures,45,Chris Bosh,Miami Heat,49
 Signatures Inscriptions,1,Aaron Gordon,Orlando Magic,10
 Signatures Inscriptions,2,Allen Iverson,Philadelphia 76ers,10
@@ -2464,7 +2464,7 @@ Signatures Inscriptions,40,Tony Allen,Memphis Grizzlies,10
 Signatures Inscriptions,41,Doug McDermott,Chicago Bulls,10
 Signatures Inscriptions,42,Allan Houston,New York Knicks,10
 Signatures Inscriptions,43,Jerry West,Los Angeles Lakers,10
-Signatures Inscriptions,44,Larry Brown,Virginia Squires (ABA),10
+Signatures Inscriptions,44,Larry Brown,Virginia Squires,10
 Signatures Inscriptions,45,Chris Bosh,Miami Heat,10
 Springfield Swatches,1,George Mikan,Minneapolis Lakers,49
 Springfield Swatches,2,Wilt Chamberlain,Los Angeles Lakers,49
@@ -2579,7 +2579,7 @@ Super Swatches,55,Russell Westbrook,Oklahoma City Thunder,75
 Super Swatches,56,Kyrie Irving,Cleveland Cavaliers,75
 Super Swatches,57,Kyle Korver,Atlanta Hawks,75
 Super Swatches,58,Eric Bledsoe,Phoenix Suns,99
-Super Swatches,59,C.J. McCollum,Portland Trail Blazers,99
+Super Swatches,59,CJ McCollum,Portland Trail Blazers,99
 Super Swatches,60,Jordan Clarkson,Los Angeles Lakers,99
 Super Swatches,61,Chandler Parsons,Dallas Mavericks,99
 Super Swatches,62,Danilo Gallinari,Denver Nuggets,99
@@ -2642,7 +2642,7 @@ Super Swatches Prime,55,Russell Westbrook,Oklahoma City Thunder,10
 Super Swatches Prime,56,Kyrie Irving,Cleveland Cavaliers,10
 Super Swatches Prime,57,Kyle Korver,Atlanta Hawks,10
 Super Swatches Prime,58,Eric Bledsoe,Phoenix Suns,7
-Super Swatches Prime,59,C.J. McCollum,Portland Trail Blazers,25
+Super Swatches Prime,59,CJ McCollum,Portland Trail Blazers,25
 Super Swatches Prime,60,Jordan Clarkson,Los Angeles Lakers,25
 Super Swatches Prime,61,Chandler Parsons,Dallas Mavericks,25
 Super Swatches Prime,62,Danilo Gallinari,Denver Nuggets,10
@@ -2811,7 +2811,7 @@ Super Swatches Super Prime,55,Russell Westbrook,Oklahoma City Thunder,1
 Super Swatches Super Prime,56,Kyrie Irving,Cleveland Cavaliers,1
 Super Swatches Super Prime,57,Kyle Korver,Atlanta Hawks,1
 Super Swatches Super Prime,58,Eric Bledsoe,Phoenix Suns,1
-Super Swatches Super Prime,59,C.J. McCollum,Portland Trail Blazers,1
+Super Swatches Super Prime,59,CJ McCollum,Portland Trail Blazers,1
 Super Swatches Super Prime,60,Jordan Clarkson,Los Angeles Lakers,1
 Super Swatches Super Prime,61,Chandler Parsons,Dallas Mavericks,1
 Super Swatches Super Prime,62,Danilo Gallinari,Denver Nuggets,1
@@ -2844,7 +2844,7 @@ Timelines,23,Tim Duncan,San Antonio Spurs,99
 Timelines,24,Jimmy Butler,Chicago Bulls,75
 Timelines,25,Danilo Gallinari,Denver Nuggets,99
 Timelines,26,George Hill,Indiana Pacers,99
-Timelines,27,J.R. Smith,Cleveland Cavaliers,99
+Timelines,27,JR Smith,Cleveland Cavaliers,99
 Timelines,28,Al Horford,Atlanta Hawks,99
 Timelines,29,Trey Burke,Utah Jazz,75
 Timelines,30,Damian Lillard,Portland Trail Blazers,49
@@ -2873,7 +2873,7 @@ Timelines Prime,23,Tim Duncan,San Antonio Spurs,25
 Timelines Prime,24,Jimmy Butler,Chicago Bulls,10
 Timelines Prime,25,Danilo Gallinari,Denver Nuggets,10
 Timelines Prime,26,George Hill,Indiana Pacers,25
-Timelines Prime,27,J.R. Smith,Cleveland Cavaliers,25
+Timelines Prime,27,JR Smith,Cleveland Cavaliers,25
 Timelines Prime,28,Al Horford,Atlanta Hawks,10
 Timelines Prime,29,Trey Burke,Utah Jazz,25
 Timelines Prime,30,Damian Lillard,Portland Trail Blazers,10
@@ -2902,7 +2902,7 @@ Timelines Super Prime,23,Tim Duncan,San Antonio Spurs,1
 Timelines Super Prime,24,Jimmy Butler,Chicago Bulls,1
 Timelines Super Prime,25,Danilo Gallinari,Denver Nuggets,1
 Timelines Super Prime,26,George Hill,Indiana Pacers,1
-Timelines Super Prime,27,J.R. Smith,Cleveland Cavaliers,1
+Timelines Super Prime,27,JR Smith,Cleveland Cavaliers,1
 Timelines Super Prime,28,Al Horford,Atlanta Hawks,1
 Timelines Super Prime,29,Trey Burke,Utah Jazz,1
 Timelines Super Prime,30,Damian Lillard,Portland Trail Blazers,1
@@ -3056,7 +3056,7 @@ Treasured Threads Prime Tag,40,Allen Iverson,Philadelphia 76ers,1
 Treasures of the Hall,1,Bill Russell,Boston Celtics,25
 Treasures of the Hall,2,Larry Bird,Boston Celtics,25
 Treasures of the Hall,3,Magic Johnson,Los Angeles Lakers,25
-Treasures of the Hall,4,Julius Erving,Virginia Squires (ABA),25
+Treasures of the Hall,4,Julius Erving,Virginia Squires,25
 Treasures of the Hall,5,Karl Malone,Utah Jazz,25
 Treasures of the Hall,6,Jerry West,Los Angeles Lakers,25
 Treasures of the Hall,7,Oscar Robertson,Milwaukee Bucks,25
@@ -3079,7 +3079,7 @@ Treasures of the Hall,24,Ralph Sampson,Houston Rockets,49
 Treasures of the Hall,25,Lenny Wilkens,St. Louis Hawks,49
 Treasures of the Hall Inscriptions,1,Bill Russell,Boston Celtics,10
 Treasures of the Hall Inscriptions,3,Magic Johnson,Los Angeles Lakers,10
-Treasures of the Hall Inscriptions,4,Julius Erving,Virginia Squires (ABA),10
+Treasures of the Hall Inscriptions,4,Julius Erving,Virginia Squires,10
 Treasures of the Hall Inscriptions,5,Karl Malone,Utah Jazz,10
 Treasures of the Hall Inscriptions,6,Jerry West,Los Angeles Lakers,10
 Treasures of the Hall Inscriptions,7,Oscar Robertson,Milwaukee Bucks,10

@@ -20,7 +20,7 @@ Autographs,18,Al Horford,Atlanta Hawks,99
 Autographs,19,Nerlens Noel,Philadelphia 76ers,70
 Autographs,20,Gordon Hayward,Utah Jazz,85
 Autographs,21,Nicolas Batum,Charlotte Hornets,99
-Autographs,22,C.J. McCollum,Portland Trail Blazers,99
+Autographs,22,CJ McCollum,Portland Trail Blazers,99
 Autographs,23,Gorgui Dieng,Minnesota Timberwolves,99
 Autographs,24,Jason Terry,Houston Rockets,99
 Autographs,25,Andrew Bogut,Golden State Warriors,99
@@ -69,7 +69,7 @@ Autographs Blue,18,Al Horford,Atlanta Hawks,10
 Autographs Blue,19,Nerlens Noel,Philadelphia 76ers,10
 Autographs Blue,20,Gordon Hayward,Utah Jazz,10
 Autographs Blue,21,Nicolas Batum,Charlotte Hornets,10
-Autographs Blue,22,C.J. McCollum,Portland Trail Blazers,10
+Autographs Blue,22,CJ McCollum,Portland Trail Blazers,10
 Autographs Blue,23,Gorgui Dieng,Minnesota Timberwolves,10
 Autographs Blue,24,Jason Terry,Houston Rockets,10
 Autographs Blue,25,Andrew Bogut,Golden State Warriors,10
@@ -114,7 +114,7 @@ Autographs Bronze,16,Jordan Clarkson,Los Angeles Lakers,39
 Autographs Bronze,17,Giannis Antetokounmpo,Milwaukee Bucks,26
 Autographs Bronze,18,Al Horford,Atlanta Hawks,75
 Autographs Bronze,21,Nicolas Batum,Charlotte Hornets,25
-Autographs Bronze,22,C.J. McCollum,Portland Trail Blazers,75
+Autographs Bronze,22,CJ McCollum,Portland Trail Blazers,75
 Autographs Bronze,24,Jason Terry,Houston Rockets,75
 Autographs Bronze,25,Andrew Bogut,Golden State Warriors,75
 Autographs Bronze,26,Bobby Portis,Chicago Bulls,75
@@ -158,7 +158,7 @@ Autographs Red,18,Al Horford,Atlanta Hawks,25
 Autographs Red,19,Nerlens Noel,Philadelphia 76ers,25
 Autographs Red,20,Gordon Hayward,Utah Jazz,25
 Autographs Red,21,Nicolas Batum,Charlotte Hornets,25
-Autographs Red,22,C.J. McCollum,Portland Trail Blazers,25
+Autographs Red,22,CJ McCollum,Portland Trail Blazers,25
 Autographs Red,23,Gorgui Dieng,Minnesota Timberwolves,25
 Autographs Red,24,Jason Terry,Houston Rockets,25
 Autographs Red,25,Andrew Bogut,Golden State Warriors,25
@@ -197,13 +197,13 @@ Base,10,Doug McDermott,Chicago Bulls,99
 Base,11,LeBron James,Cleveland Cavaliers,99
 Base,12,Kevin Love,Cleveland Cavaliers,99
 Base,13,Kyrie Irving,Cleveland Cavaliers,99
-Base,14,J.R. Smith,Cleveland Cavaliers,99
+Base,14,JR Smith,Cleveland Cavaliers,99
 Base,15,Marcus Smart,Boston Celtics,99
 Base,16,Jared Sullinger,Boston Celtics,99
 Base,17,Isaiah Thomas,Boston Celtics,99
 Base,18,Jae Crowder,Boston Celtics,99
 Base,19,Chris Paul,Los Angeles Clippers,99
-Base,20,J.J. Redick,Los Angeles Clippers,99
+Base,20,JJ Redick,Los Angeles Clippers,99
 Base,21,Blake Griffin,Los Angeles Clippers,99
 Base,22,DeAndre Jordan,Los Angeles Clippers,99
 Base,23,Marc Gasol,Memphis Grizzlies,99
@@ -274,7 +274,7 @@ Base,87,Enes Kanter,Oklahoma City Thunder,99
 Base,88,Andrew Wiggins,Minnesota Timberwolves,99
 Base,89,Kevin Garnett,Minnesota Timberwolves,99
 Base,90,Zach LaVine,Minnesota Timberwolves,99
-Base,91,C.J. McCollum,Portland Trail Blazers,99
+Base,91,CJ McCollum,Portland Trail Blazers,99
 Base,92,Gerald Henderson,Portland Trail Blazers,99
 Base,93,Damian Lillard,Portland Trail Blazers,99
 Base,94,Harrison Barnes,Golden State Warriors,99
@@ -297,13 +297,13 @@ Base Blue,10,Doug McDermott,Chicago Bulls,10
 Base Blue,11,LeBron James,Cleveland Cavaliers,10
 Base Blue,12,Kevin Love,Cleveland Cavaliers,10
 Base Blue,13,Kyrie Irving,Cleveland Cavaliers,10
-Base Blue,14,J.R. Smith,Cleveland Cavaliers,10
+Base Blue,14,JR Smith,Cleveland Cavaliers,10
 Base Blue,15,Marcus Smart,Boston Celtics,10
 Base Blue,16,Jared Sullinger,Boston Celtics,10
 Base Blue,17,Isaiah Thomas,Boston Celtics,10
 Base Blue,18,Jae Crowder,Boston Celtics,10
 Base Blue,19,Chris Paul,Los Angeles Clippers,10
-Base Blue,20,J.J. Redick,Los Angeles Clippers,10
+Base Blue,20,JJ Redick,Los Angeles Clippers,10
 Base Blue,21,Blake Griffin,Los Angeles Clippers,10
 Base Blue,22,DeAndre Jordan,Los Angeles Clippers,10
 Base Blue,23,Marc Gasol,Memphis Grizzlies,10
@@ -374,7 +374,7 @@ Base Blue,87,Enes Kanter,Oklahoma City Thunder,10
 Base Blue,88,Andrew Wiggins,Minnesota Timberwolves,10
 Base Blue,89,Kevin Garnett,Minnesota Timberwolves,10
 Base Blue,90,Zach LaVine,Minnesota Timberwolves,10
-Base Blue,91,C.J. McCollum,Portland Trail Blazers,10
+Base Blue,91,CJ McCollum,Portland Trail Blazers,10
 Base Blue,92,Gerald Henderson,Portland Trail Blazers,10
 Base Blue,93,Damian Lillard,Portland Trail Blazers,10
 Base Blue,94,Harrison Barnes,Golden State Warriors,10
@@ -397,13 +397,13 @@ Base Bronze,10,Doug McDermott,Chicago Bulls,49
 Base Bronze,11,LeBron James,Cleveland Cavaliers,49
 Base Bronze,12,Kevin Love,Cleveland Cavaliers,49
 Base Bronze,13,Kyrie Irving,Cleveland Cavaliers,49
-Base Bronze,14,J.R. Smith,Cleveland Cavaliers,49
+Base Bronze,14,JR Smith,Cleveland Cavaliers,49
 Base Bronze,15,Marcus Smart,Boston Celtics,49
 Base Bronze,16,Jared Sullinger,Boston Celtics,49
 Base Bronze,17,Isaiah Thomas,Boston Celtics,49
 Base Bronze,18,Jae Crowder,Boston Celtics,49
 Base Bronze,19,Chris Paul,Los Angeles Clippers,49
-Base Bronze,20,J.J. Redick,Los Angeles Clippers,49
+Base Bronze,20,JJ Redick,Los Angeles Clippers,49
 Base Bronze,21,Blake Griffin,Los Angeles Clippers,49
 Base Bronze,22,DeAndre Jordan,Los Angeles Clippers,49
 Base Bronze,23,Marc Gasol,Memphis Grizzlies,49
@@ -474,7 +474,7 @@ Base Bronze,87,Enes Kanter,Oklahoma City Thunder,49
 Base Bronze,88,Andrew Wiggins,Minnesota Timberwolves,49
 Base Bronze,89,Kevin Garnett,Minnesota Timberwolves,49
 Base Bronze,90,Zach LaVine,Minnesota Timberwolves,49
-Base Bronze,91,C.J. McCollum,Portland Trail Blazers,49
+Base Bronze,91,CJ McCollum,Portland Trail Blazers,49
 Base Bronze,92,Gerald Henderson,Portland Trail Blazers,49
 Base Bronze,93,Damian Lillard,Portland Trail Blazers,49
 Base Bronze,94,Harrison Barnes,Golden State Warriors,49
@@ -497,13 +497,13 @@ Base Platinum,10,Doug McDermott,Chicago Bulls,1
 Base Platinum,11,LeBron James,Cleveland Cavaliers,1
 Base Platinum,12,Kevin Love,Cleveland Cavaliers,1
 Base Platinum,13,Kyrie Irving,Cleveland Cavaliers,1
-Base Platinum,14,J.R. Smith,Cleveland Cavaliers,1
+Base Platinum,14,JR Smith,Cleveland Cavaliers,1
 Base Platinum,15,Marcus Smart,Boston Celtics,1
 Base Platinum,16,Jared Sullinger,Boston Celtics,1
 Base Platinum,17,Isaiah Thomas,Boston Celtics,1
 Base Platinum,18,Jae Crowder,Boston Celtics,1
 Base Platinum,19,Chris Paul,Los Angeles Clippers,1
-Base Platinum,20,J.J. Redick,Los Angeles Clippers,1
+Base Platinum,20,JJ Redick,Los Angeles Clippers,1
 Base Platinum,21,Blake Griffin,Los Angeles Clippers,1
 Base Platinum,22,DeAndre Jordan,Los Angeles Clippers,1
 Base Platinum,23,Marc Gasol,Memphis Grizzlies,1
@@ -574,7 +574,7 @@ Base Platinum,87,Enes Kanter,Oklahoma City Thunder,1
 Base Platinum,88,Andrew Wiggins,Minnesota Timberwolves,1
 Base Platinum,89,Kevin Garnett,Minnesota Timberwolves,1
 Base Platinum,90,Zach LaVine,Minnesota Timberwolves,1
-Base Platinum,91,C.J. McCollum,Portland Trail Blazers,1
+Base Platinum,91,CJ McCollum,Portland Trail Blazers,1
 Base Platinum,92,Gerald Henderson,Portland Trail Blazers,1
 Base Platinum,93,Damian Lillard,Portland Trail Blazers,1
 Base Platinum,94,Harrison Barnes,Golden State Warriors,1
@@ -620,10 +620,10 @@ Christmas Day,34,Tim Duncan,San Antonio Spurs,6
 Christmas Day,35,Tony Parker,San Antonio Spurs,6
 Christmas Day,36,Danny Green,San Antonio Spurs,45
 Christmas Day,37,Kawhi Leonard,San Antonio Spurs,6
-Christmas Day,38,J.J. Redick,Los Angeles Clippers,1
+Christmas Day,38,JJ Redick,Los Angeles Clippers,1
 Christmas Day,39,Jamal Crawford,Los Angeles Clippers,1
 Christmas Day,40,Andrew Bogut,Golden State Warriors,1
-Christmas Day,41,J.R. Smith,Cleveland Cavaliers,12
+Christmas Day,41,JR Smith,Cleveland Cavaliers,12
 Christmas Day,42,Nikola Mirotic,Chicago Bulls,8
 Christmas Day,43,Taj Gibson,Chicago Bulls,8
 Christmas Day,44,Jimmy Butler,Chicago Bulls,8
@@ -1293,7 +1293,7 @@ Jumbo Patches - Jersey Numbers,82,Isaiah Thomas,Boston Celtics,11
 Jumbo Patches - Jersey Numbers,84,Mo Williams,Cleveland Cavaliers,23
 Jumbo Patches - Jersey Numbers,85,Damian Lillard,Portland Trail Blazers,11
 Jumbo Patches - Jersey Numbers,86,Steve Francis,Houston Rockets,8
-Jumbo Patches - Jersey Numbers,89,J.J. Redick,Los Angeles Clippers,10
+Jumbo Patches - Jersey Numbers,89,JJ Redick,Los Angeles Clippers,10
 Jumbo Patches - Jersey Numbers,90,Nemanja Bjelica,Minnesota Timberwolves,20
 Jumbo Patches - Jersey Numbers,92,Cory Joseph,Toronto Raptors,11
 Jumbo Patches - Jersey Numbers,93,Tayshaun Prince,Minnesota Timberwolves,16
@@ -1365,7 +1365,7 @@ Jumbo Patches - Team Logos,82,Isaiah Thomas,Boston Celtics,12
 Jumbo Patches - Team Logos,84,Mo Williams,Cleveland Cavaliers,14
 Jumbo Patches - Team Logos,85,Damian Lillard,Portland Trail Blazers,13
 Jumbo Patches - Team Logos,86,Steve Francis,Houston Rockets,6
-Jumbo Patches - Team Logos,89,J.J. Redick,Los Angeles Clippers,8
+Jumbo Patches - Team Logos,89,JJ Redick,Los Angeles Clippers,8
 Jumbo Patches - Team Logos,90,Nemanja Bjelica,Minnesota Timberwolves,12
 Jumbo Patches - Team Logos,92,Cory Joseph,Toronto Raptors,8
 Jumbo Patches - Team Logos,93,Tayshaun Prince,Minnesota Timberwolves,12
@@ -1449,7 +1449,7 @@ Logoman,29,Marcus Smart,Boston Celtics,3
 Logoman,30,Andrew Wiggins,Minnesota Timberwolves,3
 Logoman,31,Pau Gasol,Chicago Bulls,1
 Logoman,32,Damian Lillard,Portland Trail Blazers,3
-Logoman,33,C.J. McCollum,Portland Trail Blazers,3
+Logoman,33,CJ McCollum,Portland Trail Blazers,3
 Logoman,34,Stephen Curry,Golden State Warriors,3
 Logoman,35,Klay Thompson,Golden State Warriors,3
 Logoman,36,Draymond Green,Golden State Warriors,3
@@ -1519,7 +1519,7 @@ Memorabilia,7,Kevin Love,Cleveland Cavaliers,99
 Memorabilia,8,Kyrie Irving,Cleveland Cavaliers,99
 Memorabilia,9,Marcus Smart,Boston Celtics,99
 Memorabilia,10,Jared Sullinger,Boston Celtics,99
-Memorabilia,11,J.J. Redick,Los Angeles Clippers,99
+Memorabilia,11,JJ Redick,Los Angeles Clippers,99
 Memorabilia,12,Blake Griffin,Los Angeles Clippers,99
 Memorabilia,13,Marc Gasol,Memphis Grizzlies,99
 Memorabilia,14,Al Horford,Atlanta Hawks,99
@@ -1567,7 +1567,7 @@ Memorabilia Blue,6,LeBron James,Cleveland Cavaliers,10
 Memorabilia Blue,7,Kevin Love,Cleveland Cavaliers,10
 Memorabilia Blue,8,Kyrie Irving,Cleveland Cavaliers,10
 Memorabilia Blue,9,Marcus Smart,Boston Celtics,10
-Memorabilia Blue,11,J.J. Redick,Los Angeles Clippers,10
+Memorabilia Blue,11,JJ Redick,Los Angeles Clippers,10
 Memorabilia Blue,13,Marc Gasol,Memphis Grizzlies,10
 Memorabilia Blue,14,Al Horford,Atlanta Hawks,10
 Memorabilia Blue,17,Kemba Walker,Charlotte Hornets,10
@@ -1604,7 +1604,7 @@ Memorabilia Red,6,LeBron James,Cleveland Cavaliers,25
 Memorabilia Red,7,Kevin Love,Cleveland Cavaliers,25
 Memorabilia Red,8,Kyrie Irving,Cleveland Cavaliers,25
 Memorabilia Red,9,Marcus Smart,Boston Celtics,25
-Memorabilia Red,11,J.J. Redick,Los Angeles Clippers,25
+Memorabilia Red,11,JJ Redick,Los Angeles Clippers,25
 Memorabilia Red,13,Marc Gasol,Memphis Grizzlies,25
 Memorabilia Red,15,Dwyane Wade,Miami Heat,25
 Memorabilia Red,16,Hassan Whiteside,Miami Heat,25
@@ -1695,7 +1695,7 @@ Patch Autographs,26,Rudy Gay,Sacramento Kings,60
 Patch Autographs,27,Brandon Knight,Phoenix Suns,60
 Patch Autographs,28,Eric Bledsoe,Phoenix Suns,60
 Patch Autographs,29,T.J. Warren,Phoenix Suns,60
-Patch Autographs,30,J.R. Smith,Cleveland Cavaliers,51
+Patch Autographs,30,JR Smith,Cleveland Cavaliers,51
 Patch Autographs,31,Kevin Love,Cleveland Cavaliers,60
 Patch Autographs,32,Chris Bosh,Miami Heat,60
 Patch Autographs,33,Dwyane Wade,Miami Heat,60
@@ -1759,7 +1759,7 @@ Patch Autographs Jersey Number,26,Rudy Gay,Sacramento Kings,8
 Patch Autographs Jersey Number,27,Brandon Knight,Phoenix Suns,3
 Patch Autographs Jersey Number,28,Eric Bledsoe,Phoenix Suns,2
 Patch Autographs Jersey Number,29,T.J. Warren,Phoenix Suns,12
-Patch Autographs Jersey Number,30,J.R. Smith,Cleveland Cavaliers,5
+Patch Autographs Jersey Number,30,JR Smith,Cleveland Cavaliers,5
 Patch Autographs Jersey Number,31,Kevin Love,Cleveland Cavaliers,1
 Patch Autographs Jersey Number,32,Chris Bosh,Miami Heat,1
 Patch Autographs Jersey Number,33,Dwyane Wade,Miami Heat,3
@@ -1820,7 +1820,7 @@ Patch Autographs Tag,26,Rudy Gay,Sacramento Kings,1
 Patch Autographs Tag,27,Brandon Knight,Phoenix Suns,1
 Patch Autographs Tag,28,Eric Bledsoe,Phoenix Suns,1
 Patch Autographs Tag,29,T.J. Warren,Phoenix Suns,1
-Patch Autographs Tag,30,J.R. Smith,Cleveland Cavaliers,1
+Patch Autographs Tag,30,JR Smith,Cleveland Cavaliers,1
 Patch Autographs Tag,31,Kevin Love,Cleveland Cavaliers,1
 Patch Autographs Tag,32,Chris Bosh,Miami Heat,1
 Patch Autographs Tag,33,Dwyane Wade,Miami Heat,1
@@ -1902,7 +1902,7 @@ Patches Jersey Number,50,Chandler Parsons,Dallas Mavericks,25
 Patches Jersey Number,51,Serge Ibaka,Oklahoma City Thunder,10
 Patches Jersey Number,52,Arron Afflalo,New York Knicks,4
 Patches Jersey Number,53,Eric Gordon,New Orleans Pelicans,10
-Patches Jersey Number,54,J.J. Redick,Los Angeles Clippers,4
+Patches Jersey Number,54,JJ Redick,Los Angeles Clippers,4
 Patches Jersey Number,55,Kentavious Caldwell-Pope,Detroit Pistons,5
 Patches Jersey Number,56,Gerald Henderson,Portland Trail Blazers,9
 Patches Jersey Number,57,DeMarre Carroll,Toronto Raptors,5
@@ -1920,7 +1920,7 @@ Patches Jersey Number,69,Russell Westbrook,Oklahoma City Thunder,1
 Patches Jersey Number,70,Chris Paul,Los Angeles Clippers,3
 Patches Jersey Number,71,Andrew Wiggins,Minnesota Timberwolves,22
 Patches Jersey Number,72,Damian Lillard,Portland Trail Blazers,1
-Patches Jersey Number,73,C.J. McCollum,Portland Trail Blazers,3
+Patches Jersey Number,73,CJ McCollum,Portland Trail Blazers,3
 Patches Jersey Number,74,Stephen Curry,Golden State Warriors,30
 Patches Jersey Number,75,Dwyane Wade,Miami Heat,3
 Patches Jersey Number,78,Derrick Rose,Chicago Bulls,1
@@ -1967,7 +1967,7 @@ Premium Patch Autographs,22,Jeff Teague,Atlanta Hawks,25
 Premium Patch Autographs,23,Gary Harris,Denver Nuggets,25
 Premium Patch Autographs,24,Kenneth Faried,Denver Nuggets,25
 Premium Patch Autographs,25,Danilo Gallinari,Denver Nuggets,25
-Premium Patch Autographs,26,J.R. Smith,Cleveland Cavaliers,25
+Premium Patch Autographs,26,JR Smith,Cleveland Cavaliers,25
 Premium Patch Autographs,27,Matthew Dellavedova,Cleveland Cavaliers,25
 Premium Patch Autographs,28,Tristan Thompson,Cleveland Cavaliers,25
 Premium Patch Autographs,29,Nene,Washington Wizards,25
@@ -2064,7 +2064,7 @@ Premium Patch Autographs Gold,22,Jeff Teague,Atlanta Hawks,10
 Premium Patch Autographs Gold,23,Gary Harris,Denver Nuggets,10
 Premium Patch Autographs Gold,24,Kenneth Faried,Denver Nuggets,10
 Premium Patch Autographs Gold,25,Danilo Gallinari,Denver Nuggets,10
-Premium Patch Autographs Gold,26,J.R. Smith,Cleveland Cavaliers,10
+Premium Patch Autographs Gold,26,JR Smith,Cleveland Cavaliers,10
 Premium Patch Autographs Gold,27,Matthew Dellavedova,Cleveland Cavaliers,10
 Premium Patch Autographs Gold,28,Tristan Thompson,Cleveland Cavaliers,10
 Premium Patch Autographs Gold,29,Nene,Washington Wizards,10
@@ -2160,7 +2160,7 @@ Premium Patch Autographs Platinum,22,Jeff Teague,Atlanta Hawks,1
 Premium Patch Autographs Platinum,23,Gary Harris,Denver Nuggets,1
 Premium Patch Autographs Platinum,24,Kenneth Faried,Denver Nuggets,1
 Premium Patch Autographs Platinum,25,Danilo Gallinari,Denver Nuggets,1
-Premium Patch Autographs Platinum,26,J.R. Smith,Cleveland Cavaliers,1
+Premium Patch Autographs Platinum,26,JR Smith,Cleveland Cavaliers,1
 Premium Patch Autographs Platinum,27,Matthew Dellavedova,Cleveland Cavaliers,1
 Premium Patch Autographs Platinum,28,Tristan Thompson,Cleveland Cavaliers,1
 Premium Patch Autographs Platinum,29,Nene,Washington Wizards,1
@@ -2947,7 +2947,7 @@ Standard,61,Serge Ibaka,Oklahoma City Thunder,75
 Standard,62,Kevin Garnett,Minnesota Timberwolves,75
 Standard,63,Andrew Wiggins,Minnesota Timberwolves,75
 Standard,64,Damian Lillard,Portland Trail Blazers,75
-Standard,65,C.J. McCollum,Portland Trail Blazers,75
+Standard,65,CJ McCollum,Portland Trail Blazers,75
 Standard,66,Stephen Curry,Golden State Warriors,75
 Standard,67,Klay Thompson,Golden State Warriors,75
 Standard,68,Draymond Green,Golden State Warriors,75
@@ -2983,7 +2983,7 @@ Standard,99,Mario Hezonja,Orlando Magic,75
 Standard,100,Willie Cauley-Stein,Sacramento Kings,75
 Trio Autographs,1,Nemanja Bjelica - Karl-Anthony Towns - Tyus Jones,Minnesota Timberwolves - Minnesota Timberwolves - Minnesota Timberwolves,25
 Trio Autographs,2,Trey Lyles - Karl-Anthony Towns - Willie Cauley-Stein,Utah Jazz - Minnesota Timberwolves - Sacramento Kings,25
-Trio Autographs,3,J.R. Smith - Matthew Dellavedova - Timofey Mozgov,Cleveland Cavaliers - Cleveland Cavaliers - Cleveland Cavaliers,25
+Trio Autographs,3,JR Smith - Matthew Dellavedova - Timofey Mozgov,Cleveland Cavaliers - Cleveland Cavaliers - Cleveland Cavaliers,25
 Trio Autographs,4,Giannis Antetokounmpo - Michael Carter-Williams - Jabari Parker,Milwaukee Bucks - Milwaukee Bucks - Milwaukee Bucks,25
 Trio Autographs,5,Jerian Grant - Harvey Grant - Jerami Grant,New York Knicks - Washington Bullets - Philadelphia 76ers,25
 Trio Autographs,6,Duje Dukan - Sam Dekker - Frank Kaminsky,Sacramento Kings - Houston Rockets - Charlotte Hornets,25
@@ -3020,7 +3020,7 @@ Trios,13,Kevin Durant - Russell Westbrook - Serge Ibaka,Oklahoma City Thunder - 
 Trios,14,Marcus Morris - Reggie Jackson - Andre Drummond,Detroit Pistons - Detroit Pistons - Detroit Pistons,49
 Trios,15,Victor Oladipo - Elfrid Payton - Nikola Vucevic,Orlando Magic - Orlando Magic - Orlando Magic,49
 Trios,16,Nick Anderson - Anfernee Hardaway - Shaquille O'Neal ,Orlando Magic - Orlando Magic - Orlando Magic,49
-Trios,17,C.J. McCollum - Damian Lillard - Mason Plumlee,Portland Trail Blazers - Portland Trail Blazers - Portland Trail Blazers,49
+Trios,17,CJ McCollum - Damian Lillard - Mason Plumlee,Portland Trail Blazers - Portland Trail Blazers - Portland Trail Blazers,49
 Trios,18,DeMar DeRozan - DeMarre Carroll - Kyle Lowry,Toronto Raptors - Toronto Raptors - Toronto Raptors,49
 Trios,19,Rudy Gobert - Rodney Hood - Trey Burke,Utah Jazz - Utah Jazz - Utah Jazz,49
 Trios,20,Bradley Beal - Otto Porter - John Wall,Washington Wizards - Washington Wizards - Washington Wizards,49
@@ -3032,7 +3032,7 @@ Trios Platinum,10,Kemba Walker - Al Jefferson - Jeremy Lamb,Charlotte Hornets - 
 Trios Platinum,11,Kevin Love - Kyrie Irving - LeBron James,Cleveland Cavaliers - Cleveland Cavaliers - Cleveland Cavaliers,1
 Trios Platinum,13,Serge Ibaka - Kevin Durant - Russell Westbrook,Oklahoma City Thunder - Oklahoma City Thunder - Oklahoma City Thunder,1
 Trios Platinum,14,Marcus Morris - Reggie Jackson - Andre Drummond,Detroit Pistons - Detroit Pistons - Detroit Pistons,1
-Trios Platinum,17,Damian Lillard - C.J. McCollum - Mason Plumlee,Portland Trail Blazers - Portland Trail Blazers - Portland Trail Blazers,1
+Trios Platinum,17,Damian Lillard - CJ McCollum - Mason Plumlee,Portland Trail Blazers - Portland Trail Blazers - Portland Trail Blazers,1
 Trios Platinum,18,Kyle Lowry - DeMar DeRozan - DeMarre Carroll,Toronto Raptors - Toronto Raptors - Toronto Raptors,1
 Trios Platinum,19,Rudy Gobert - Trey Burke - Rodney Hood,Utah Jazz - Utah Jazz - Utah Jazz,1
 Trios Platinum,20,Otto Porter - Bradley Beal - John Wall,Washington Wizards - Washington Wizards - Washington Wizards,1
@@ -3051,7 +3051,7 @@ Trios Prime,13,Kevin Durant - Russell Westbrook - Serge Ibaka,Oklahoma City Thun
 Trios Prime,14,Andre Drummond - Reggie Jackson - Marcus Morris,Detroit Pistons - Detroit Pistons - Detroit Pistons,10
 Trios Prime,15,Nikola Vucevic - Victor Oladipo - Elfrid Payton,Orlando Magic - Orlando Magic - Orlando Magic,10
 Trios Prime,16,Shaquille O'Neal Nick Anderson - Anfernee Hardaway,Orlando Magic - Orlando Magic - Orlando Magic,10
-Trios Prime,17,Damian Lillard - Mason Plumlee - C.J. McCollum,Portland Trail Blazers - Portland Trail Blazers - Portland Trail Blazers,10
+Trios Prime,17,Damian Lillard - Mason Plumlee - CJ McCollum,Portland Trail Blazers - Portland Trail Blazers - Portland Trail Blazers,10
 Trios Prime,18,DeMar DeRozan - Kyle Lowry - DeMarre Carroll,Toronto Raptors - Toronto Raptors - Toronto Raptors,10
 Trios Prime,19,Trey Burke - Rodney Hood - Rudy Gobert,Utah Jazz - Utah Jazz - Utah Jazz,10
 Trios Prime,20,Bradley Beal - John Wall - Otto Porter,Washington Wizards - Washington Wizards - Washington Wizards,10
