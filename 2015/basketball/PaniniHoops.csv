@@ -2431,24 +2431,25 @@ Birds Eye View Holo Green,22,Blake Griffin,Los Angeles Clippers,25
 Birds Eye View Holo Green,23,Kawhi Leonard,San Antonio Spurs,25
 Birds Eye View Holo Green,24,Tony Parker,San Antonio Spurs,25
 Birds Eye View Holo Green,25,DeAndre Jordan,Los Angeles Clippers,25
-Champions,83,Golden State Warriors,Golden State Warriors,
-Champions,84,Golden State Warriors,Golden State Warriors,
-Champions Trophy Portraits,85,Stephen Curry,Golden State Warriors,99
-Champions Trophy Portraits,86,Klay Thompson,Golden State Warriors,99
-Champions Trophy Portraits,87,Andre Iguodala,Golden State Warriors,99
-Champions Trophy Portraits,88,Draymond Green,Golden State Warriors,99
-Champions Trophy Portraits,89,Harrison Barnes,Golden State Warriors,99
-Champions Trophy Portraits,90,Shaun Livingston,Golden State Warriors,99
-Champions Trophy Portraits,91,Leandro Barbosa,Golden State Warriors,99
-Champions Trophy Portraits,92,David Lee,Golden State Warriors,99
-Champions Trophy Portraits,93,Andrew Bogut,Golden State Warriors,99
-Champions Trophy Portraits,94,Steve Kerr,Golden State Warriors,99
-Champions Trophy Portraits,95,Klay Thompson - Stephen Curry,Golden State Warriors - Golden State Warriors,99
-Champions Trophy Portraits,96,Draymond Green - Andre Iguodala,Golden State Warriors - Golden State Warriors,99
-Champions Trophy Portraits,97,Dell Curry - Stephen Curry,Charlotte Hornets - Golden State Warriors,99
-Champions Trophy Portraits,98,Marreese Speights,Golden State Warriors,99
-Champions Trophy Portraits,99,Bill Russell - Andre Iguodala,Boston Celtics - Golden State Warriors,99
-Champions Trophy Portraits,100,Stephen Curry,Golden State Warriors,99
+NBA Finals Champions Finals MVP,82,Andre Iguodala,Golden State Warriors,99
+NBA Finals Champions Trophy Portraits,85,Stephen Curry,Golden State Warriors,99
+NBA Finals Champions Trophy Portraits,86,Klay Thompson,Golden State Warriors,99
+NBA Finals Champions Trophy Portraits,87,Andre Iguodala,Golden State Warriors,99
+NBA Finals Champions Trophy Portraits,88,Draymond Green,Golden State Warriors,99
+NBA Finals Champions Trophy Portraits,89,Harrison Barnes,Golden State Warriors,99
+NBA Finals Champions Trophy Portraits,90,Shaun Livingston,Golden State Warriors,99
+NBA Finals Champions Trophy Portraits,91,Leandro Barbosa,Golden State Warriors,99
+NBA Finals Champions Trophy Portraits,92,David Lee,Golden State Warriors,99
+NBA Finals Champions Trophy Portraits,93,Andrew Bogut,Golden State Warriors,99
+NBA Finals Champions Trophy Portraits,94,Steve Kerr,Golden State Warriors,99
+NBA Finals Champions Trophy Portraits,95,Klay Thompson - Stephen Curry,Golden State Warriors - Golden State Warriors,99
+NBA Finals Champions Trophy Portraits,96,Draymond Green - Andre Iguodala,Golden State Warriors - Golden State Warriors,99
+NBA Finals Champions Trophy Portraits,97,Dell Curry - Stephen Curry,Charlotte Hornets - Golden State Warriors,99
+NBA Finals Champions Trophy Portraits,98,Marreese Speights,Golden State Warriors,99
+NBA Finals Champions Trophy Portraits,99,Bill Russell - Andre Iguodala,Boston Celtics - Golden State Warriors,99
+NBA Finals Champions Trophy Portraits,100,Stephen Curry,Golden State Warriors,99
+NBA Finals Champions,83,Golden State Warriors,Golden State Warriors,
+NBA Finals Champions,84,Golden State Warriors,Golden State Warriors,
 Courtside,1,Kevin Durant,Oklahoma City Thunder,
 Courtside,2,LeBron James,Cleveland Cavaliers,
 Courtside,3,Anthony Davis,New Orleans Pelicans,
@@ -2584,7 +2585,6 @@ Faces of the Future,17,Kristaps Porzingis,New York Knicks,
 Faces of the Future,18,Kelly Oubre Jr.,Washington Wizards,
 Faces of the Future,19,Jerian Grant,New York Knicks,
 Faces of the Future,20,Justin Anderson,Dallas Mavericks,
-Finals MVP,82,Andre Iguodala,Golden State Warriors,99
 Ginormous Signatures,1,Christian Laettner,Minnesota Timberwolves,
 Ginormous Signatures,2,David Robinson,San Antonio Spurs,
 Ginormous Signatures,3,Dominique Wilkins,Atlanta Hawks,
@@ -3003,104 +3003,104 @@ Picture Perfect,17,Jabari Parker,Milwaukee Bucks,
 Picture Perfect,18,LeBron James,Cleveland Cavaliers,
 Picture Perfect,19,Chris Paul,Los Angeles Clippers,
 Picture Perfect,20,Kyrie Irving,Cleveland Cavaliers,
-Red Hot Signatures,1,Kyrie Irving,Cleveland Cavaliers,25
-Red Hot Signatures,2,Gary Payton,Seattle Supersonics,25
-Red Hot Signatures,3,Nerlens Noel,Philadelphia 76ers,25
-Red Hot Signatures,4,Jerry West,Los Angeles Lakers,25
-Red Hot Signatures,5,Ricky Pierce,Milwaukee Bucks,25
-Red Hot Signatures,6,Alex Len,Phoenix Suns,25
-Red Hot Signatures,7,Dwyane Wade,Miami Heat,25
-Red Hot Signatures,8,Blake Griffin,Los Angeles Clippers,25
-Red Hot Signatures,9,Julius Erving,Philadelphia 76ers,25
-Red Hot Signatures,10,Clyde Drexler,Portland Trail Blazers,25
-Red Hot Signatures,11,Matthew Dellavedova,Cleveland Cavaliers,25
-Red Hot Signatures,12,Hakeem Olajuwon,Houston Rockets,25
-Red Hot Signatures,13,Noah Vonleh,Portland Trail Blazers,25
-Red Hot Signatures,14,Joel Embiid,Philadelphia 76ers,25
-Red Hot Signatures,15,Ricky Rubio,Minnesota Timberwolves,25
-Red Hot Signatures,16,Allen Iverson,Philadelphia 76ers,25
-Red Hot Signatures,17,Tarik Black,Los Angeles Lakers,25
-Red Hot Signatures,18,CJ McCollum,Portland Trail Blazers,25
-Red Hot Signatures,19,Julius Randle,Los Angeles Lakers,25
-Red Hot Signatures,20,Cody Zeller,Charlotte Hornets,25
-Red Hot Signatures,21,Michael Carter-Williams,Milwaukee Bucks,25
-Red Hot Signatures,22,Lorenzo Brown,Minnesota Timberwolves,25
-Red Hot Signatures,23,Oscar Robertson,Milwaukee Bucks,25
-Red Hot Signatures,24,John Stockton,Utah Jazz,25
-Red Hot Signatures,25,Dwight Powell,Dallas Mavericks,25
-Red Hot Signatures,26,Andrew Wiggins,Minnesota Timberwolves,25
-Red Hot Signatures,27,Quincy Acy,Sacramento Kings,25
-Red Hot Signatures,28,Cameron Bairstow,Chicago Bulls,25
-Red Hot Signatures,29,Kentavious Caldwell-Pope,Detroit Pistons,25
-Red Hot Signatures,30,Dante Exum,Utah Jazz,25
-Red Hot Signatures,31,Michael Kidd-Gilchrist,Charlotte Hornets,25
-Red Hot Signatures,32,James Ennis,Miami Heat,25
-Red Hot Signatures,33,Otto Porter,Washington Wizards,25
-Red Hot Signatures,34,John Wall,Washington Wizards,25
-Red Hot Signatures,35,Robert Covington,Philadelphia 76ers,25
-Red Hot Signatures,36,Anthony Bennett,Minnesota Timberwolves,25
-Red Hot Signatures,37,Ray McCallum,San Antonio Spurs,25
-Red Hot Signatures,38,Carl Landry,Philadelphia 76ers,25
-Red Hot Signatures,39,Kevin Durant,Oklahoma City Thunder,25
-Red Hot Signatures,40,David Robinson,San Antonio Spurs,25
-Red Hot Signatures,41,Mike Muscala,Atlanta Hawks,25
-Red Hot Signatures,42,James Michael McAdoo,Golden State Warriors,25
-Red Hot Signatures,43,Pau Gasol,Chicago Bulls,25
-Red Hot Signatures,44,Jordan Clarkson,Los Angeles Lakers,25
-Red Hot Signatures,45,Shabazz Muhammad,Minnesota Timberwolves,25
-Red Hot Signatures,46,Anthony Davis,New Orleans Pelicans,25
-Red Hot Signatures,47,Trey Burke,Utah Jazz,25
-Red Hot Signatures,48,Carmelo Anthony,New York Knicks,25
-Red Hot Signatures,49,Kevin McHale,Boston Celtics,25
-Red Hot Signatures,50,Dennis Rodman,Chicago Bulls,25
-Red Hot Signatures,51,Mason Plumlee,Portland Trail Blazers,25
-Red Hot Signatures,52,James Worthy,Los Angeles Lakers,25
-Red Hot Signatures,53,Phil Pressey,Portland Trail Blazers,25
-Red Hot Signatures,54,Josh Huestis,Oklahoma City Thunder,25
-Red Hot Signatures,55,Shaquille O'Neal ,Los Angeles Lakers,25
-Red Hot Signatures,56,Ben McLemore,Sacramento Kings,25
-Red Hot Signatures,57,Victor Oladipo,Orlando Magic,25
-Red Hot Signatures,58,Chris Webber,Sacramento Kings,25
-Red Hot Signatures,59,Kobe Bryant,Los Angeles Lakers,25
-Red Hot Signatures,60,Erick Green,Denver Nuggets,25
-Red Hot Signatures,61,Karl-Anthony Towns,Minnesota Timberwolves,25
-Red Hot Signatures,62,D'Angelo Russell,Los Angeles Lakers,25
-Red Hot Signatures,63,Jahlil Okafor,Philadelphia 76ers,25
-Red Hot Signatures,64,Emmanuel Mudiay,Denver Nuggets,25
-Red Hot Signatures,65,Kristaps Porzingis,New York Knicks,25
-Red Hot Signatures,67,Justise Winslow,Miami Heat,25
-Red Hot Signatures,68,Willie Cauley-Stein,Sacramento Kings,25
-Red Hot Signatures,69,Stanley Johnson,Detroit Pistons,25
-Red Hot Signatures,70,Frank Kaminsky,Charlotte Hornets,25
-Red Hot Signatures,71,Devin Booker,Phoenix Suns,25
-Red Hot Signatures,72,Myles Turner,Indiana Pacers,25
-Red Hot Signatures,73,Jerian Grant,New York Knicks,25
-Red Hot Signatures,74,Trey Lyles,Utah Jazz,25
-Red Hot Signatures,75,Cameron Payne,Oklahoma City Thunder,25
-Red Hot Signatures,76,Delon Wright,Toronto Raptors,25
-Red Hot Signatures,77,Rashad Vaughn,Milwaukee Bucks,25
-Red Hot Signatures,78,Kelly Oubre Jr.,Washington Wizards,25
-Red Hot Signatures,79,Sam Dekker,Houston Rockets,25
-Red Hot Signatures,80,Terry Rozier,Boston Celtics,25
-Red Hot Signatures,81,Rondae Hollis-Jefferson,Brooklyn Nets,25
-Red Hot Signatures,82,Bobby Portis,Chicago Bulls,25
-Red Hot Signatures,83,Justin Anderson,Dallas Mavericks,25
-Red Hot Signatures,84,Jarell Martin,Memphis Grizzlies,25
-Red Hot Signatures,85,R.J. Hunter,Boston Celtics,25
-Red Hot Signatures,86,Anthony Brown,Los Angeles Lakers,25
-Red Hot Signatures,87,Branden Dawson,Los Angeles Clippers,25
-Red Hot Signatures,88,Chris McCullough,Brooklyn Nets,25
-Red Hot Signatures,89,Jordan Mickey,Boston Celtics,25
-Red Hot Signatures,90,Larry Nance Jr.,Los Angeles Lakers,25
-Red Hot Signatures,91,Montrezl Harrell,Houston Rockets,25
-Red Hot Signatures,92,Dakari Johnson,Oklahoma City Thunder,25
-Red Hot Signatures,93,Darrun Hilliard,Detroit Pistons,25
-Red Hot Signatures,94,Pat Connaughton,Portland Trail Blazers,25
-Red Hot Signatures,95,Rakeem Christmas,Indiana Pacers,25
-Red Hot Signatures,96,Richaun Holmes,Philadelphia 76ers,25
-Red Hot Signatures,97,Seth Curry,Sacramento Kings,25
-Red Hot Signatures,99,Tyus Jones,Minnesota Timberwolves,25
-Red Hot Signatures,100,Lamar Patterson,Atlanta Hawks,25
+Hot Signatures Red Hot,1,Kyrie Irving,Cleveland Cavaliers,25
+Hot Signatures Red Hot,2,Gary Payton,Seattle Supersonics,25
+Hot Signatures Red Hot,3,Nerlens Noel,Philadelphia 76ers,25
+Hot Signatures Red Hot,4,Jerry West,Los Angeles Lakers,25
+Hot Signatures Red Hot,5,Ricky Pierce,Milwaukee Bucks,25
+Hot Signatures Red Hot,6,Alex Len,Phoenix Suns,25
+Hot Signatures Red Hot,7,Dwyane Wade,Miami Heat,25
+Hot Signatures Red Hot,8,Blake Griffin,Los Angeles Clippers,25
+Hot Signatures Red Hot,9,Julius Erving,Philadelphia 76ers,25
+Hot Signatures Red Hot,10,Clyde Drexler,Portland Trail Blazers,25
+Hot Signatures Red Hot,11,Matthew Dellavedova,Cleveland Cavaliers,25
+Hot Signatures Red Hot,12,Hakeem Olajuwon,Houston Rockets,25
+Hot Signatures Red Hot,13,Noah Vonleh,Portland Trail Blazers,25
+Hot Signatures Red Hot,14,Joel Embiid,Philadelphia 76ers,25
+Hot Signatures Red Hot,15,Ricky Rubio,Minnesota Timberwolves,25
+Hot Signatures Red Hot,16,Allen Iverson,Philadelphia 76ers,25
+Hot Signatures Red Hot,17,Tarik Black,Los Angeles Lakers,25
+Hot Signatures Red Hot,18,CJ McCollum,Portland Trail Blazers,25
+Hot Signatures Red Hot,19,Julius Randle,Los Angeles Lakers,25
+Hot Signatures Red Hot,20,Cody Zeller,Charlotte Hornets,25
+Hot Signatures Red Hot,21,Michael Carter-Williams,Milwaukee Bucks,25
+Hot Signatures Red Hot,22,Lorenzo Brown,Minnesota Timberwolves,25
+Hot Signatures Red Hot,23,Oscar Robertson,Milwaukee Bucks,25
+Hot Signatures Red Hot,24,John Stockton,Utah Jazz,25
+Hot Signatures Red Hot,25,Dwight Powell,Dallas Mavericks,25
+Hot Signatures Red Hot,26,Andrew Wiggins,Minnesota Timberwolves,25
+Hot Signatures Red Hot,27,Quincy Acy,Sacramento Kings,25
+Hot Signatures Red Hot,28,Cameron Bairstow,Chicago Bulls,25
+Hot Signatures Red Hot,29,Kentavious Caldwell-Pope,Detroit Pistons,25
+Hot Signatures Red Hot,30,Dante Exum,Utah Jazz,25
+Hot Signatures Red Hot,31,Michael Kidd-Gilchrist,Charlotte Hornets,25
+Hot Signatures Red Hot,32,James Ennis,Miami Heat,25
+Hot Signatures Red Hot,33,Otto Porter,Washington Wizards,25
+Hot Signatures Red Hot,34,John Wall,Washington Wizards,25
+Hot Signatures Red Hot,35,Robert Covington,Philadelphia 76ers,25
+Hot Signatures Red Hot,36,Anthony Bennett,Minnesota Timberwolves,25
+Hot Signatures Red Hot,37,Ray McCallum,San Antonio Spurs,25
+Hot Signatures Red Hot,38,Carl Landry,Philadelphia 76ers,25
+Hot Signatures Red Hot,39,Kevin Durant,Oklahoma City Thunder,25
+Hot Signatures Red Hot,40,David Robinson,San Antonio Spurs,25
+Hot Signatures Red Hot,41,Mike Muscala,Atlanta Hawks,25
+Hot Signatures Red Hot,42,James Michael McAdoo,Golden State Warriors,25
+Hot Signatures Red Hot,43,Pau Gasol,Chicago Bulls,25
+Hot Signatures Red Hot,44,Jordan Clarkson,Los Angeles Lakers,25
+Hot Signatures Red Hot,45,Shabazz Muhammad,Minnesota Timberwolves,25
+Hot Signatures Red Hot,46,Anthony Davis,New Orleans Pelicans,25
+Hot Signatures Red Hot,47,Trey Burke,Utah Jazz,25
+Hot Signatures Red Hot,48,Carmelo Anthony,New York Knicks,25
+Hot Signatures Red Hot,49,Kevin McHale,Boston Celtics,25
+Hot Signatures Red Hot,50,Dennis Rodman,Chicago Bulls,25
+Hot Signatures Red Hot,51,Mason Plumlee,Portland Trail Blazers,25
+Hot Signatures Red Hot,52,James Worthy,Los Angeles Lakers,25
+Hot Signatures Red Hot,53,Phil Pressey,Portland Trail Blazers,25
+Hot Signatures Red Hot,54,Josh Huestis,Oklahoma City Thunder,25
+Hot Signatures Red Hot,55,Shaquille O'Neal ,Los Angeles Lakers,25
+Hot Signatures Red Hot,56,Ben McLemore,Sacramento Kings,25
+Hot Signatures Red Hot,57,Victor Oladipo,Orlando Magic,25
+Hot Signatures Red Hot,58,Chris Webber,Sacramento Kings,25
+Hot Signatures Red Hot,59,Kobe Bryant,Los Angeles Lakers,25
+Hot Signatures Red Hot,60,Erick Green,Denver Nuggets,25
+Hot Signatures Red Hot,61,Karl-Anthony Towns,Minnesota Timberwolves,25
+Hot Signatures Red Hot,62,D'Angelo Russell,Los Angeles Lakers,25
+Hot Signatures Red Hot,63,Jahlil Okafor,Philadelphia 76ers,25
+Hot Signatures Red Hot,64,Emmanuel Mudiay,Denver Nuggets,25
+Hot Signatures Red Hot,65,Kristaps Porzingis,New York Knicks,25
+Hot Signatures Red Hot,67,Justise Winslow,Miami Heat,25
+Hot Signatures Red Hot,68,Willie Cauley-Stein,Sacramento Kings,25
+Hot Signatures Red Hot,69,Stanley Johnson,Detroit Pistons,25
+Hot Signatures Red Hot,70,Frank Kaminsky,Charlotte Hornets,25
+Hot Signatures Red Hot,71,Devin Booker,Phoenix Suns,25
+Hot Signatures Red Hot,72,Myles Turner,Indiana Pacers,25
+Hot Signatures Red Hot,73,Jerian Grant,New York Knicks,25
+Hot Signatures Red Hot,74,Trey Lyles,Utah Jazz,25
+Hot Signatures Red Hot,75,Cameron Payne,Oklahoma City Thunder,25
+Hot Signatures Red Hot,76,Delon Wright,Toronto Raptors,25
+Hot Signatures Red Hot,77,Rashad Vaughn,Milwaukee Bucks,25
+Hot Signatures Red Hot,78,Kelly Oubre Jr.,Washington Wizards,25
+Hot Signatures Red Hot,79,Sam Dekker,Houston Rockets,25
+Hot Signatures Red Hot,80,Terry Rozier,Boston Celtics,25
+Hot Signatures Red Hot,81,Rondae Hollis-Jefferson,Brooklyn Nets,25
+Hot Signatures Red Hot,82,Bobby Portis,Chicago Bulls,25
+Hot Signatures Red Hot,83,Justin Anderson,Dallas Mavericks,25
+Hot Signatures Red Hot,84,Jarell Martin,Memphis Grizzlies,25
+Hot Signatures Red Hot,85,R.J. Hunter,Boston Celtics,25
+Hot Signatures Red Hot,86,Anthony Brown,Los Angeles Lakers,25
+Hot Signatures Red Hot,87,Branden Dawson,Los Angeles Clippers,25
+Hot Signatures Red Hot,88,Chris McCullough,Brooklyn Nets,25
+Hot Signatures Red Hot,89,Jordan Mickey,Boston Celtics,25
+Hot Signatures Red Hot,90,Larry Nance Jr.,Los Angeles Lakers,25
+Hot Signatures Red Hot,91,Montrezl Harrell,Houston Rockets,25
+Hot Signatures Red Hot,92,Dakari Johnson,Oklahoma City Thunder,25
+Hot Signatures Red Hot,93,Darrun Hilliard,Detroit Pistons,25
+Hot Signatures Red Hot,94,Pat Connaughton,Portland Trail Blazers,25
+Hot Signatures Red Hot,95,Rakeem Christmas,Indiana Pacers,25
+Hot Signatures Red Hot,96,Richaun Holmes,Philadelphia 76ers,25
+Hot Signatures Red Hot,97,Seth Curry,Sacramento Kings,25
+Hot Signatures Red Hot,99,Tyus Jones,Minnesota Timberwolves,25
+Hot Signatures Red Hot,100,Lamar Patterson,Atlanta Hawks,25
 Rise N Shine Memorabilia,1,Anthony Brown,Los Angeles Lakers,
 Rise N Shine Memorabilia,2,Emmanuel Mudiay,Denver Nuggets,
 Rise N Shine Memorabilia,3,Kristaps Porzingis,New York Knicks,

@@ -3994,7 +3994,6 @@ Birds Eye View Holo Gold,22,Paul George,Indiana Pacers,10
 Birds Eye View Holo Gold,23,Anthony Davis,New Orleans Pelicans,10
 Birds Eye View Holo Gold,24,Justin Anderson,Dallas Mavericks,10
 Birds Eye View Holo Gold,25,Rodney Hood,Utah Jazz,10
-Champions,1,Cleveland Cavaliers,Cleveland Cavaliers,
 Champions Trophy Portraits,1,Kobe Bryant,Los Angeles Lakers,99
 Champions Trophy Portraits,2,Stephen Curry,Golden State Warriors,99
 Champions Trophy Portraits,3,LeBron James,Cleveland Cavaliers,99
@@ -4006,6 +4005,7 @@ Champions Trophy Portraits,8,Tony Parker,San Antonio Spurs,99
 Champions Trophy Portraits,9,Dwyane Wade,Miami Heat,99
 Champions Trophy Portraits,10,Magic Johnson,Los Angeles Lakers,99
 Champions Trophy Portraits,11,Larry Bird,Boston Celtics,99
+Champions,1,Cleveland Cavaliers,Cleveland Cavaliers,
 Courtside,1,John Wall,Washington Wizards,
 Courtside,2,Draymond Green,Golden State Warriors,
 Courtside,3,Damian Lillard,Portland Trail Blazers,
@@ -4399,6 +4399,80 @@ Highlights,17,Kristaps Porzingis,New York Knicks,
 Highlights,18,Karl-Anthony Towns,Minnesota Timberwolves,
 Highlights,19,D'Angelo Russell,Los Angeles Lakers,
 Highlights,20,Devin Booker,Phoenix Suns,
+Hot Signatures Rookies,1,Brandon Ingram,Los Angeles Lakers,
+Hot Signatures Rookies,2,Jaylen Brown,Boston Celtics,
+Hot Signatures Rookies,3,Dragan Bender,Phoenix Suns,
+Hot Signatures Rookies,4,Kris Dunn,Minnesota Timberwolves,
+Hot Signatures Rookies,5,Buddy Hield,New Orleans Pelicans,
+Hot Signatures Rookies,6,Jamal Murray,Denver Nuggets,
+Hot Signatures Rookies,7,Marquese Chriss,Phoenix Suns,
+Hot Signatures Rookies,8,Jakob Poeltl,Toronto Raptors,
+Hot Signatures Rookies,9,Thon Maker,Milwaukee Bucks,
+Hot Signatures Rookies,10,Domantas Sabonis,Oklahoma City Thunder,
+Hot Signatures Rookies,11,Taurean Prince,Atlanta Hawks,
+Hot Signatures Rookies,12,Denzel Valentine,Chicago Bulls,
+Hot Signatures Rookies,13,Wade Baldwin IV,Memphis Grizzlies,
+Hot Signatures Rookies,14,Henry Ellenson,Detroit Pistons,
+Hot Signatures Rookies,15,Malik Beasley,Denver Nuggets,
+Hot Signatures Rookies,16,DeAndre' Bembry,Atlanta Hawks,
+Hot Signatures Rookies,17,Malachi Richardson,Sacramento Kings,
+Hot Signatures Rookies,18,Timothe Luwawu-Cabarrot,Philadelphia 76ers,
+Hot Signatures Rookies,19,Brice Johnson,Los Angeles Clippers,
+Hot Signatures Rookies,20,Pascal Siakam,Toronto Raptors,
+Hot Signatures Rookies,21,Skal Labissiere,Sacramento Kings,
+Hot Signatures Rookies,22,Damian Jones,Golden State Warriors,
+Hot Signatures Rookies,23,Deyonta Davis,Memphis Grizzlies,
+Hot Signatures Rookies,24,Cheick Diallo,New Orleans Pelicans,
+Hot Signatures Rookies,25,Tyler Ulis,Phoenix Suns,
+Hot Signatures Rookies,26,Patrick McCaw,Golden State Warriors,
+Hot Signatures Rookies,28,Demetrius Jackson,Boston Celtics,
+Hot Signatures Rookies,29,Kay Felder,Cleveland Cavaliers,
+Hot Signatures Rookies,30,Ivica Zubac,Los Angeles Lakers,
+Hot Signatures Rookies,31,Malcolm Brogdon,Milwaukee Bucks,
+Hot Signatures Rookies,32,A.J. Hammons,Dallas Mavericks,
+Hot Signatures Rookies,33,Diamond Stone,Los Angeles Clippers,
+Hot Signatures Rookies,34,Gary Payton II,Houston Rockets,
+Hot Signatures Rookies,35,Caris LeVert,Brooklyn Nets,
+Hot Signatures Rookies,37,Ron Baker,New York Knicks,
+Hot Signatures Rookies,39,Ben Bentil,Boston Celtics,
+Hot Signatures Rookies,40,Anthony Barber,Philadelphia 76ers,
+Hot Signatures Rookies Red Hot,1,Brandon Ingram,Los Angeles Lakers,25
+Hot Signatures Rookies Red Hot,2,Jaylen Brown,Boston Celtics,25
+Hot Signatures Rookies Red Hot,3,Dragan Bender,Phoenix Suns,25
+Hot Signatures Rookies Red Hot,4,Kris Dunn,Minnesota Timberwolves,25
+Hot Signatures Rookies Red Hot,5,Buddy Hield,New Orleans Pelicans,25
+Hot Signatures Rookies Red Hot,6,Jamal Murray,Denver Nuggets,25
+Hot Signatures Rookies Red Hot,7,Marquese Chriss,Phoenix Suns,25
+Hot Signatures Rookies Red Hot,8,Jakob Poeltl,Toronto Raptors,25
+Hot Signatures Rookies Red Hot,9,Thon Maker,Milwaukee Bucks,25
+Hot Signatures Rookies Red Hot,10,Domantas Sabonis,Oklahoma City Thunder,25
+Hot Signatures Rookies Red Hot,11,Taurean Prince,Atlanta Hawks,25
+Hot Signatures Rookies Red Hot,12,Denzel Valentine,Chicago Bulls,25
+Hot Signatures Rookies Red Hot,13,Wade Baldwin IV,Memphis Grizzlies,25
+Hot Signatures Rookies Red Hot,14,Henry Ellenson,Detroit Pistons,25
+Hot Signatures Rookies Red Hot,15,Malik Beasley,Denver Nuggets,25
+Hot Signatures Rookies Red Hot,16,DeAndre' Bembry,Atlanta Hawks,25
+Hot Signatures Rookies Red Hot,17,Malachi Richardson,Sacramento Kings,25
+Hot Signatures Rookies Red Hot,18,Timothe Luwawu-Cabarrot,Philadelphia 76ers,25
+Hot Signatures Rookies Red Hot,19,Brice Johnson,Los Angeles Clippers,25
+Hot Signatures Rookies Red Hot,20,Pascal Siakam,Toronto Raptors,25
+Hot Signatures Rookies Red Hot,21,Skal Labissiere,Sacramento Kings,25
+Hot Signatures Rookies Red Hot,22,Damian Jones,Golden State Warriors,25
+Hot Signatures Rookies Red Hot,23,Deyonta Davis,Memphis Grizzlies,25
+Hot Signatures Rookies Red Hot,24,Cheick Diallo,New Orleans Pelicans,25
+Hot Signatures Rookies Red Hot,25,Tyler Ulis,Phoenix Suns,25
+Hot Signatures Rookies Red Hot,26,Patrick McCaw,Golden State Warriors,25
+Hot Signatures Rookies Red Hot,28,Demetrius Jackson,Boston Celtics,25
+Hot Signatures Rookies Red Hot,29,Kay Felder,Cleveland Cavaliers,25
+Hot Signatures Rookies Red Hot,30,Ivica Zubac,Los Angeles Lakers,25
+Hot Signatures Rookies Red Hot,31,Malcolm Brogdon,Milwaukee Bucks,25
+Hot Signatures Rookies Red Hot,32,A.J. Hammons,Dallas Mavericks,25
+Hot Signatures Rookies Red Hot,33,Diamond Stone,Los Angeles Clippers,25
+Hot Signatures Rookies Red Hot,34,Gary Payton II,Houston Rockets,25
+Hot Signatures Rookies Red Hot,35,Caris LeVert,Brooklyn Nets,25
+Hot Signatures Rookies Red Hot,37,Ron Baker,New York Knicks,25
+Hot Signatures Rookies Red Hot,39,Ben Bentil,Boston Celtics,25
+Hot Signatures Rookies Red Hot,40,Anthony Barber,Philadelphia 76ers,25
 Hot Signatures,1,Cody Zeller,Charlotte Hornets,
 Hot Signatures,2,Dwight Powell,Dallas Mavericks,
 Hot Signatures,3,T.J. McConnell,Philadelphia 76ers,
@@ -4458,43 +4532,6 @@ Hot Signatures,57,Anthony Davis,New Orleans Pelicans,
 Hot Signatures,58,Kyrie Irving,Cleveland Cavaliers,
 Hot Signatures,59,Kevin Durant,Golden State Warriors,
 Hot Signatures,60,Andrew Wiggins,Minnesota Timberwolves,
-Hot Signatures Rookies,1,Brandon Ingram,Los Angeles Lakers,
-Hot Signatures Rookies,2,Jaylen Brown,Boston Celtics,
-Hot Signatures Rookies,3,Dragan Bender,Phoenix Suns,
-Hot Signatures Rookies,4,Kris Dunn,Minnesota Timberwolves,
-Hot Signatures Rookies,5,Buddy Hield,New Orleans Pelicans,
-Hot Signatures Rookies,6,Jamal Murray,Denver Nuggets,
-Hot Signatures Rookies,7,Marquese Chriss,Phoenix Suns,
-Hot Signatures Rookies,8,Jakob Poeltl,Toronto Raptors,
-Hot Signatures Rookies,9,Thon Maker,Milwaukee Bucks,
-Hot Signatures Rookies,10,Domantas Sabonis,Oklahoma City Thunder,
-Hot Signatures Rookies,11,Taurean Prince,Atlanta Hawks,
-Hot Signatures Rookies,12,Denzel Valentine,Chicago Bulls,
-Hot Signatures Rookies,13,Wade Baldwin IV,Memphis Grizzlies,
-Hot Signatures Rookies,14,Henry Ellenson,Detroit Pistons,
-Hot Signatures Rookies,15,Malik Beasley,Denver Nuggets,
-Hot Signatures Rookies,16,DeAndre' Bembry,Atlanta Hawks,
-Hot Signatures Rookies,17,Malachi Richardson,Sacramento Kings,
-Hot Signatures Rookies,18,Timothe Luwawu-Cabarrot,Philadelphia 76ers,
-Hot Signatures Rookies,19,Brice Johnson,Los Angeles Clippers,
-Hot Signatures Rookies,20,Pascal Siakam,Toronto Raptors,
-Hot Signatures Rookies,21,Skal Labissiere,Sacramento Kings,
-Hot Signatures Rookies,22,Damian Jones,Golden State Warriors,
-Hot Signatures Rookies,23,Deyonta Davis,Memphis Grizzlies,
-Hot Signatures Rookies,24,Cheick Diallo,New Orleans Pelicans,
-Hot Signatures Rookies,25,Tyler Ulis,Phoenix Suns,
-Hot Signatures Rookies,26,Patrick McCaw,Golden State Warriors,
-Hot Signatures Rookies,28,Demetrius Jackson,Boston Celtics,
-Hot Signatures Rookies,29,Kay Felder,Cleveland Cavaliers,
-Hot Signatures Rookies,30,Ivica Zubac,Los Angeles Lakers,
-Hot Signatures Rookies,31,Malcolm Brogdon,Milwaukee Bucks,
-Hot Signatures Rookies,32,A.J. Hammons,Dallas Mavericks,
-Hot Signatures Rookies,33,Diamond Stone,Los Angeles Clippers,
-Hot Signatures Rookies,34,Gary Payton II,Houston Rockets,
-Hot Signatures Rookies,35,Caris LeVert,Brooklyn Nets,
-Hot Signatures Rookies,37,Ron Baker,New York Knicks,
-Hot Signatures Rookies,39,Ben Bentil,Boston Celtics,
-Hot Signatures Rookies,40,Anthony Barber,Philadelphia 76ers,
 Kobe 2K Hoops,11,Kobe Bryant,Los Angeles Lakers,
 Kobe 2K Hoops,12,Kobe Bryant,Los Angeles Lakers,
 Kobe 2K Hoops,13,Kobe Bryant,Los Angeles Lakers,
@@ -4576,102 +4613,65 @@ Picture Perfect,17,CJ McCollum,Portland Trail Blazers,
 Picture Perfect,18,Dennis Schroder,Atlanta Hawks,
 Picture Perfect,19,Kenneth Faried,Denver Nuggets,
 Picture Perfect,20,Jeremy Lin,Brooklyn Nets,
-Red Hot Signatures,1,Cody Zeller,Charlotte Hornets,25
-Red Hot Signatures,2,Dwight Powell,Dallas Mavericks,25
-Red Hot Signatures,3,T.J. McConnell,Philadelphia 76ers,25
-Red Hot Signatures,4,Aaron Harrison,Charlotte Hornets,25
-Red Hot Signatures,5,Walter Tavares,Atlanta Hawks,25
-Red Hot Signatures,6,Allen Crabbe,Portland Trail Blazers,25
-Red Hot Signatures,7,Alex Len,Phoenix Suns,25
-Red Hot Signatures,8,Jonas Valanciunas,Toronto Raptors,25
-Red Hot Signatures,9,Robert Covington,Philadelphia 76ers,25
-Red Hot Signatures,10,Rashad Vaughn,Milwaukee Bucks,25
-Red Hot Signatures,11,Matthew Dellavedova,Milwaukee Bucks,25
-Red Hot Signatures,12,Kelly Olynyk,Boston Celtics,25
-Red Hot Signatures,13,Seth Curry,Dallas Mavericks,25
-Red Hot Signatures,14,Bobby Portis,Chicago Bulls,25
-Red Hot Signatures,15,Festus Ezeli,Portland Trail Blazers,25
-Red Hot Signatures,16,Jason Terry,Milwaukee Bucks,25
-Red Hot Signatures,17,Michael Kidd-Gilchrist,Charlotte Hornets,25
-Red Hot Signatures,18,Deron Williams,Dallas Mavericks,25
-Red Hot Signatures,19,Jarell Martin,Memphis Grizzlies,25
-Red Hot Signatures,20,Jonathon Simmons,San Antonio Spurs,25
-Red Hot Signatures,21,Michael Carter-Williams,Milwaukee Bucks,25
-Red Hot Signatures,22,Devin Harris,Dallas Mavericks,25
-Red Hot Signatures,23,Gary Harris,Denver Nuggets,25
-Red Hot Signatures,24,Dennis Schroder,Atlanta Hawks,25
-Red Hot Signatures,25,Donatas Motiejunas,Houston Rockets,25
-Red Hot Signatures,26,Kent Bazemore,Atlanta Hawks,25
-Red Hot Signatures,27,Raul Neto,Utah Jazz,25
-Red Hot Signatures,28,Cristiano Felicio,Chicago Bulls,25
-Red Hot Signatures,29,Clint Capela,Houston Rockets,25
-Red Hot Signatures,30,CJ McCollum,Portland Trail Blazers,25
-Red Hot Signatures,31,Gorgui Dieng,Minnesota Timberwolves,25
-Red Hot Signatures,32,Tyler Ennis,Milwaukee Bucks,25
-Red Hot Signatures,33,Marcelo Huertas,Los Angeles Lakers,25
-Red Hot Signatures,34,Ed Davis,Portland Trail Blazers,25
-Red Hot Signatures,35,Avery Bradley,Boston Celtics,25
-Red Hot Signatures,36,Shabazz Muhammad,Minnesota Timberwolves,25
-Red Hot Signatures,37,Larry Nance Jr.,Los Angeles Lakers,25
-Red Hot Signatures,38,Norman Powell,Toronto Raptors,25
-Red Hot Signatures,39,Gerald Henderson,Philadelphia 76ers,25
-Red Hot Signatures,40,Khris Middleton,Milwaukee Bucks,25
-Red Hot Signatures,41,Luis Scola,Brooklyn Nets,25
-Red Hot Signatures,42,Paul Millsap,Atlanta Hawks,25
-Red Hot Signatures,43,Nikola Jokic,Denver Nuggets,25
-Red Hot Signatures,44,Otto Porter,Washington Wizards,25
-Red Hot Signatures,45,DeMarre Carroll,Toronto Raptors,25
-Red Hot Signatures,46,Jerami Grant,Philadelphia 76ers,25
-Red Hot Signatures,47,Andrew Bogut,Dallas Mavericks,25
-Red Hot Signatures,48,Zaza Pachulia,Golden State Warriors,25
-Red Hot Signatures,49,Goran Dragic,Miami Heat,25
-Red Hot Signatures,50,Sam Dekker,Houston Rockets,25
-Red Hot Signatures,51,Salah Mejri,Dallas Mavericks,25
-Red Hot Signatures,52,Boban Marjanovic,Detroit Pistons,25
-Red Hot Signatures,54,Ian Clark,Golden State Warriors,25
-Red Hot Signatures,55,Eric Bledsoe,Phoenix Suns,25
-Red Hot Signatures,56,Emmanuel Mudiay,Denver Nuggets,25
-Red Hot Signatures,57,Anthony Davis,New Orleans Pelicans,25
-Red Hot Signatures,58,Kyrie Irving,Cleveland Cavaliers,25
-Red Hot Signatures,59,Kevin Durant,Golden State Warriors,25
-Red Hot Signatures,60,Andrew Wiggins,Minnesota Timberwolves,25
-Red Hot Signatures Rookies,1,Brandon Ingram,Los Angeles Lakers,25
-Red Hot Signatures Rookies,2,Jaylen Brown,Boston Celtics,25
-Red Hot Signatures Rookies,3,Dragan Bender,Phoenix Suns,25
-Red Hot Signatures Rookies,4,Kris Dunn,Minnesota Timberwolves,25
-Red Hot Signatures Rookies,5,Buddy Hield,New Orleans Pelicans,25
-Red Hot Signatures Rookies,6,Jamal Murray,Denver Nuggets,25
-Red Hot Signatures Rookies,7,Marquese Chriss,Phoenix Suns,25
-Red Hot Signatures Rookies,8,Jakob Poeltl,Toronto Raptors,25
-Red Hot Signatures Rookies,9,Thon Maker,Milwaukee Bucks,25
-Red Hot Signatures Rookies,10,Domantas Sabonis,Oklahoma City Thunder,25
-Red Hot Signatures Rookies,11,Taurean Prince,Atlanta Hawks,25
-Red Hot Signatures Rookies,12,Denzel Valentine,Chicago Bulls,25
-Red Hot Signatures Rookies,13,Wade Baldwin IV,Memphis Grizzlies,25
-Red Hot Signatures Rookies,14,Henry Ellenson,Detroit Pistons,25
-Red Hot Signatures Rookies,15,Malik Beasley,Denver Nuggets,25
-Red Hot Signatures Rookies,16,DeAndre' Bembry,Atlanta Hawks,25
-Red Hot Signatures Rookies,17,Malachi Richardson,Sacramento Kings,25
-Red Hot Signatures Rookies,18,Timothe Luwawu-Cabarrot,Philadelphia 76ers,25
-Red Hot Signatures Rookies,19,Brice Johnson,Los Angeles Clippers,25
-Red Hot Signatures Rookies,20,Pascal Siakam,Toronto Raptors,25
-Red Hot Signatures Rookies,21,Skal Labissiere,Sacramento Kings,25
-Red Hot Signatures Rookies,22,Damian Jones,Golden State Warriors,25
-Red Hot Signatures Rookies,23,Deyonta Davis,Memphis Grizzlies,25
-Red Hot Signatures Rookies,24,Cheick Diallo,New Orleans Pelicans,25
-Red Hot Signatures Rookies,25,Tyler Ulis,Phoenix Suns,25
-Red Hot Signatures Rookies,26,Patrick McCaw,Golden State Warriors,25
-Red Hot Signatures Rookies,28,Demetrius Jackson,Boston Celtics,25
-Red Hot Signatures Rookies,29,Kay Felder,Cleveland Cavaliers,25
-Red Hot Signatures Rookies,30,Ivica Zubac,Los Angeles Lakers,25
-Red Hot Signatures Rookies,31,Malcolm Brogdon,Milwaukee Bucks,25
-Red Hot Signatures Rookies,32,A.J. Hammons,Dallas Mavericks,25
-Red Hot Signatures Rookies,33,Diamond Stone,Los Angeles Clippers,25
-Red Hot Signatures Rookies,34,Gary Payton II,Houston Rockets,25
-Red Hot Signatures Rookies,35,Caris LeVert,Brooklyn Nets,25
-Red Hot Signatures Rookies,37,Ron Baker,New York Knicks,25
-Red Hot Signatures Rookies,39,Ben Bentil,Boston Celtics,25
-Red Hot Signatures Rookies,40,Anthony Barber,Philadelphia 76ers,25
+Hot Signatures Red Hot,1,Cody Zeller,Charlotte Hornets,25
+Hot Signatures Red Hot,2,Dwight Powell,Dallas Mavericks,25
+Hot Signatures Red Hot,3,T.J. McConnell,Philadelphia 76ers,25
+Hot Signatures Red Hot,4,Aaron Harrison,Charlotte Hornets,25
+Hot Signatures Red Hot,5,Walter Tavares,Atlanta Hawks,25
+Hot Signatures Red Hot,6,Allen Crabbe,Portland Trail Blazers,25
+Hot Signatures Red Hot,7,Alex Len,Phoenix Suns,25
+Hot Signatures Red Hot,8,Jonas Valanciunas,Toronto Raptors,25
+Hot Signatures Red Hot,9,Robert Covington,Philadelphia 76ers,25
+Hot Signatures Red Hot,10,Rashad Vaughn,Milwaukee Bucks,25
+Hot Signatures Red Hot,11,Matthew Dellavedova,Milwaukee Bucks,25
+Hot Signatures Red Hot,12,Kelly Olynyk,Boston Celtics,25
+Hot Signatures Red Hot,13,Seth Curry,Dallas Mavericks,25
+Hot Signatures Red Hot,14,Bobby Portis,Chicago Bulls,25
+Hot Signatures Red Hot,15,Festus Ezeli,Portland Trail Blazers,25
+Hot Signatures Red Hot,16,Jason Terry,Milwaukee Bucks,25
+Hot Signatures Red Hot,17,Michael Kidd-Gilchrist,Charlotte Hornets,25
+Hot Signatures Red Hot,18,Deron Williams,Dallas Mavericks,25
+Hot Signatures Red Hot,19,Jarell Martin,Memphis Grizzlies,25
+Hot Signatures Red Hot,20,Jonathon Simmons,San Antonio Spurs,25
+Hot Signatures Red Hot,21,Michael Carter-Williams,Milwaukee Bucks,25
+Hot Signatures Red Hot,22,Devin Harris,Dallas Mavericks,25
+Hot Signatures Red Hot,23,Gary Harris,Denver Nuggets,25
+Hot Signatures Red Hot,24,Dennis Schroder,Atlanta Hawks,25
+Hot Signatures Red Hot,25,Donatas Motiejunas,Houston Rockets,25
+Hot Signatures Red Hot,26,Kent Bazemore,Atlanta Hawks,25
+Hot Signatures Red Hot,27,Raul Neto,Utah Jazz,25
+Hot Signatures Red Hot,28,Cristiano Felicio,Chicago Bulls,25
+Hot Signatures Red Hot,29,Clint Capela,Houston Rockets,25
+Hot Signatures Red Hot,30,CJ McCollum,Portland Trail Blazers,25
+Hot Signatures Red Hot,31,Gorgui Dieng,Minnesota Timberwolves,25
+Hot Signatures Red Hot,32,Tyler Ennis,Milwaukee Bucks,25
+Hot Signatures Red Hot,33,Marcelo Huertas,Los Angeles Lakers,25
+Hot Signatures Red Hot,34,Ed Davis,Portland Trail Blazers,25
+Hot Signatures Red Hot,35,Avery Bradley,Boston Celtics,25
+Hot Signatures Red Hot,36,Shabazz Muhammad,Minnesota Timberwolves,25
+Hot Signatures Red Hot,37,Larry Nance Jr.,Los Angeles Lakers,25
+Hot Signatures Red Hot,38,Norman Powell,Toronto Raptors,25
+Hot Signatures Red Hot,39,Gerald Henderson,Philadelphia 76ers,25
+Hot Signatures Red Hot,40,Khris Middleton,Milwaukee Bucks,25
+Hot Signatures Red Hot,41,Luis Scola,Brooklyn Nets,25
+Hot Signatures Red Hot,42,Paul Millsap,Atlanta Hawks,25
+Hot Signatures Red Hot,43,Nikola Jokic,Denver Nuggets,25
+Hot Signatures Red Hot,44,Otto Porter,Washington Wizards,25
+Hot Signatures Red Hot,45,DeMarre Carroll,Toronto Raptors,25
+Hot Signatures Red Hot,46,Jerami Grant,Philadelphia 76ers,25
+Hot Signatures Red Hot,47,Andrew Bogut,Dallas Mavericks,25
+Hot Signatures Red Hot,48,Zaza Pachulia,Golden State Warriors,25
+Hot Signatures Red Hot,49,Goran Dragic,Miami Heat,25
+Hot Signatures Red Hot,50,Sam Dekker,Houston Rockets,25
+Hot Signatures Red Hot,51,Salah Mejri,Dallas Mavericks,25
+Hot Signatures Red Hot,52,Boban Marjanovic,Detroit Pistons,25
+Hot Signatures Red Hot,54,Ian Clark,Golden State Warriors,25
+Hot Signatures Red Hot,55,Eric Bledsoe,Phoenix Suns,25
+Hot Signatures Red Hot,56,Emmanuel Mudiay,Denver Nuggets,25
+Hot Signatures Red Hot,57,Anthony Davis,New Orleans Pelicans,25
+Hot Signatures Red Hot,58,Kyrie Irving,Cleveland Cavaliers,25
+Hot Signatures Red Hot,59,Kevin Durant,Golden State Warriors,25
+Hot Signatures Red Hot,60,Andrew Wiggins,Minnesota Timberwolves,25
 Rise N Shine Memorabilia,2,Brandon Ingram,Los Angeles Lakers,
 Rise N Shine Memorabilia,3,Jaylen Brown,Boston Celtics,
 Rise N Shine Memorabilia,4,Dragan Bender,Phoenix Suns,
