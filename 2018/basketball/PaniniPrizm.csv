@@ -7974,6 +7974,906 @@ Base Pink Pulsar,297,Courtney Lee,New York Knicks,42
 Base Pink Pulsar,298,Kemba Walker,Charlotte Hornets,42
 Base Pink Pulsar,299,Elie Okobo,Phoenix Suns,42
 Base Pink Pulsar,300,Harrison Barnes,Dallas Mavericks,42
+Base Pink Ice,1,Brandon Knight,Phoenix Suns,
+Base Pink Ice,2,Dirk Nowitzki,Dallas Mavericks,
+Base Pink Ice,3,Rudy Gay,San Antonio Spurs,
+Base Pink Ice,4,De'Anthony Melton,Houston Rockets,
+Base Pink Ice,5,Charles Barkley,Phoenix Suns,
+Base Pink Ice,6,LeBron James,Los Angeles Lakers,
+Base Pink Ice,7,Ersan Ilyasova,Milwaukee Bucks,
+Base Pink Ice,8,Jeremy Lin,Atlanta Hawks,
+Base Pink Ice,9,Hamidou Diallo,Oklahoma City Thunder,
+Base Pink Ice,10,Tony Parker,Charlotte Hornets,
+Base Pink Ice,11,Devin Booker,Phoenix Suns,
+Base Pink Ice,12,DeAndre Jordan,Dallas Mavericks,
+Base Pink Ice,13,Pau Gasol,San Antonio Spurs,
+Base Pink Ice,14,Vincent Edwards,Houston Rockets,
+Base Pink Ice,15,Kobe Bryant,Los Angeles Lakers,
+Base Pink Ice,16,Kyle Kuzma,Los Angeles Lakers,
+Base Pink Ice,17,John Henson,Milwaukee Bucks,
+Base Pink Ice,18,Kent Bazemore,Atlanta Hawks,
+Base Pink Ice,19,Billy Preston,Cleveland Cavaliers,
+Base Pink Ice,20,Nicolas Batum,Charlotte Hornets,
+Base Pink Ice,21,T.J. Warren Jr.,Phoenix Suns,
+Base Pink Ice,22,Kostas Antetokounmpo,Dallas Mavericks,
+Base Pink Ice,23,Patty Mills,San Antonio Spurs,
+Base Pink Ice,24,Chris Paul,Houston Rockets,
+Base Pink Ice,25,Bill Russell,Boston Celtics,
+Base Pink Ice,26,Brandon Ingram,Los Angeles Lakers,
+Base Pink Ice,27,Thon Maker,Milwaukee Bucks,
+Base Pink Ice,28,DeAndre' Bembry,Atlanta Hawks,
+Base Pink Ice,29,Kevin Hervey,Oklahoma City Thunder,
+Base Pink Ice,30,Michael Kidd-Gilchrist,Charlotte Hornets,
+Base Pink Ice,31,Josh Jackson,Phoenix Suns,
+Base Pink Ice,32,Michael Porter Jr.,Denver Nuggets,
+Base Pink Ice,33,Kyle Lowry,Toronto Raptors,
+Base Pink Ice,34,James Harden,Houston Rockets,
+Base Pink Ice,35,Shaquille O'Neal ,Los Angeles Lakers,
+Base Pink Ice,36,Rajon Rondo,Los Angeles Lakers,
+Base Pink Ice,37,Josh Okogie,Minnesota Timberwolves,
+Base Pink Ice,38,Taurean Prince,Atlanta Hawks,
+Base Pink Ice,39,Russell Westbrook,Oklahoma City Thunder,
+Base Pink Ice,40,Marvin Williams,Charlotte Hornets,
+Base Pink Ice,41,Trevor Ariza,Phoenix Suns,
+Base Pink Ice,42,Jarred Vanderbilt,Denver Nuggets,
+Base Pink Ice,43,Danny Green,Toronto Raptors,
+Base Pink Ice,44,Michael Carter-Williams,Houston Rockets,
+Base Pink Ice,45,Allen Iverson,Philadelphia 76ers,
+Base Pink Ice,46,Josh Hart,Los Angeles Lakers,
+Base Pink Ice,47,Keita Bates-Diop,Minnesota Timberwolves,
+Base Pink Ice,48,John Collins,Atlanta Hawks,
+Base Pink Ice,49,Paul George,Oklahoma City Thunder,
+Base Pink Ice,50,Malik Monk,Charlotte Hornets,
+Base Pink Ice,51,Dragan Bender,Phoenix Suns,
+Base Pink Ice,52,Isaiah Thomas,Denver Nuggets,
+Base Pink Ice,53,Kawhi Leonard,Toronto Raptors,
+Base Pink Ice,54,Eric Gordon,Houston Rockets,
+Base Pink Ice,55,Reggie Miller,Indiana Pacers,
+Base Pink Ice,56,Kentavious Caldwell-Pope,Los Angeles Lakers,
+Base Pink Ice,57,Jeff Teague,Minnesota Timberwolves,
+Base Pink Ice,58,Dewayne Dedmon,Atlanta Hawks,
+Base Pink Ice,59,Carmelo Anthony,Houston Rockets,
+Base Pink Ice,60,Frank Kaminsky,Charlotte Hornets,
+Base Pink Ice,61,Anfernee Simons,Portland Trail Blazers,
+Base Pink Ice,62,Jamal Murray,Denver Nuggets,
+Base Pink Ice,63,OG Anunoby,Toronto Raptors,
+Base Pink Ice,64,Ryan Anderson,Houston Rockets,
+Base Pink Ice,65,Scottie Pippen,Chicago Bulls,
+Base Pink Ice,66,Jaren Jackson Jr.,Memphis Grizzlies,
+Base Pink Ice,67,Jimmy Butler,Minnesota Timberwolves,
+Base Pink Ice,68,Kevin Huerter,Atlanta Hawks,
+Base Pink Ice,69,Steven Adams,Oklahoma City Thunder,
+Base Pink Ice,70,Chandler Hutchison,Chicago Bulls,
+Base Pink Ice,71,Gary Trent Jr.,Portland Trail Blazers,
+Base Pink Ice,72,Gary Harris,Denver Nuggets,
+Base Pink Ice,73,Serge Ibaka,Toronto Raptors,
+Base Pink Ice,74,Clint Capela,Houston Rockets,
+Base Pink Ice,75,Karl Malone,Utah Jazz,
+Base Pink Ice,76,Jevon Carter,Memphis Grizzlies,
+Base Pink Ice,77,Derrick Rose,Minnesota Timberwolves,
+Base Pink Ice,78,Trae Young,Atlanta Hawks,
+Base Pink Ice,79,Nerlens Noel,Oklahoma City Thunder,
+Base Pink Ice,80,Wendell Carter Jr.,Chicago Bulls,
+Base Pink Ice,81,Damian Lillard,Portland Trail Blazers,
+Base Pink Ice,82,Paul Millsap,Denver Nuggets,
+Base Pink Ice,83,Pascal Siakam,Toronto Raptors,
+Base Pink Ice,84,Gerald Green,Houston Rockets,
+Base Pink Ice,85,Larry Bird,Boston Celtics,
+Base Pink Ice,86,Mike Conley,Memphis Grizzlies,
+Base Pink Ice,87,Andrew Wiggins,Minnesota Timberwolves,
+Base Pink Ice,88,Omari Spellman,Atlanta Hawks,
+Base Pink Ice,89,Jerami Grant,Oklahoma City Thunder,
+Base Pink Ice,90,Kris Dunn,Chicago Bulls,
+Base Pink Ice,91,CJ McCollum,Portland Trail Blazers,
+Base Pink Ice,92,Nikola Jokic,Denver Nuggets,
+Base Pink Ice,93,Jonas Valanciunas,Toronto Raptors,
+Base Pink Ice,94,Tyreke Evans,Indiana Pacers,
+Base Pink Ice,95,Julius Erving,Philadelphia 76ers,
+Base Pink Ice,96,MarShon Brooks,Memphis Grizzlies,
+Base Pink Ice,97,Taj Gibson,Minnesota Timberwolves,
+Base Pink Ice,98,Kyrie Irving,Boston Celtics,
+Base Pink Ice,99,Mo Bamba,Orlando Magic,
+Base Pink Ice,100,Zach LaVine,Chicago Bulls,
+Base Pink Ice,101,Evan Turner,Portland Trail Blazers,
+Base Pink Ice,102,Will Barton,Denver Nuggets,
+Base Pink Ice,103,Fred VanVleet,Toronto Raptors,
+Base Pink Ice,104,Darren Collison,Indiana Pacers,
+Base Pink Ice,105,Patrick Ewing,New York Knicks,
+Base Pink Ice,106,Dillon Brooks,Memphis Grizzlies,
+Base Pink Ice,107,Karl-Anthony Towns,Minnesota Timberwolves,
+Base Pink Ice,108,Jaylen Brown,Boston Celtics,
+Base Pink Ice,109,Melvin Frazier Jr.,Orlando Magic,
+Base Pink Ice,110,Lauri Markkanen,Chicago Bulls,
+Base Pink Ice,111,Al-Farouq Aminu,Portland Trail Blazers,
+Base Pink Ice,112,Trey Lyles,Denver Nuggets,
+Base Pink Ice,113,Delon Wright,Toronto Raptors,
+Base Pink Ice,114,Aaron Holiday,Indiana Pacers,
+Base Pink Ice,115,Kareem Abdul-Jabbar,Los Angeles Lakers,
+Base Pink Ice,116,Chandler Parsons,Memphis Grizzlies,
+Base Pink Ice,117,Gorgui Dieng,Minnesota Timberwolves,
+Base Pink Ice,118,Jayson Tatum,Boston Celtics,
+Base Pink Ice,119,Justin Jackson,Orlando Magic,
+Base Pink Ice,120,Robin Lopez,Chicago Bulls,
+Base Pink Ice,121,Jusuf Nurkic,Portland Trail Blazers,
+Base Pink Ice,122,Khyri Thomas,Detroit Pistons,
+Base Pink Ice,123,Grayson Allen,Utah Jazz,
+Base Pink Ice,124,T.J. Leaf,Indiana Pacers,
+Base Pink Ice,125,Oscar Robertson,Milwaukee Bucks,
+Base Pink Ice,126,JaMychal Green,Memphis Grizzlies,
+Base Pink Ice,127,Elfrid Payton,New Orleans Pelicans,
+Base Pink Ice,128,Al Horford,Boston Celtics,
+Base Pink Ice,129,D.J. Augustin,Orlando Magic,
+Base Pink Ice,130,Jabari Parker,Chicago Bulls,
+Base Pink Ice,131,Seth Curry,Portland Trail Blazers,
+Base Pink Ice,132,Bruce Brown,Detroit Pistons,
+Base Pink Ice,133,Ricky Rubio,Utah Jazz,
+Base Pink Ice,134,Victor Oladipo,Indiana Pacers,
+Base Pink Ice,135,Yao Ming,Houston Rockets,
+Base Pink Ice,136,Marc Gasol,Memphis Grizzlies,
+Base Pink Ice,137,Jrue Holiday,New Orleans Pelicans,
+Base Pink Ice,138,Robert Williams III,Boston Celtics,
+Base Pink Ice,139,Evan Fournier,Orlando Magic,
+Base Pink Ice,140,Bobby Portis,Chicago Bulls,
+Base Pink Ice,141,Zach Collins,Portland Trail Blazers,
+Base Pink Ice,142,Reggie Jackson,Detroit Pistons,
+Base Pink Ice,143,Donovan Mitchell,Utah Jazz,
+Base Pink Ice,144,Bojan Bogdanovic,Indiana Pacers,
+Base Pink Ice,145,Jerry West,Los Angeles Lakers,
+Base Pink Ice,146,Yuta Watanabe,Memphis Grizzlies,
+Base Pink Ice,147,E'Twaun Moore,New Orleans Pelicans,
+Base Pink Ice,148,Terry Rozier,Boston Celtics,
+Base Pink Ice,149,Terrence Ross,Orlando Magic,
+Base Pink Ice,150,Justin Holiday,Chicago Bulls,
+Base Pink Ice,151,De'Aaron Fox,Sacramento Kings,
+Base Pink Ice,152,Luke Kennard,Detroit Pistons,
+Base Pink Ice,153,Joe Ingles,Utah Jazz,
+Base Pink Ice,154,Thaddeus Young,Indiana Pacers,
+Base Pink Ice,155,Steve Nash,Phoenix Suns,
+Base Pink Ice,156,Goran Dragic,Miami Heat,
+Base Pink Ice,157,Nikola Mirotic,New Orleans Pelicans,
+Base Pink Ice,158,Gordon Hayward,Boston Celtics,
+Base Pink Ice,159,Aaron Gordon,Orlando Magic,
+Base Pink Ice,160,George Hill,Cleveland Cavaliers,
+Base Pink Ice,161,Bogdan Bogdanovic,Sacramento Kings,
+Base Pink Ice,162,Stanley Johnson,Detroit Pistons,
+Base Pink Ice,163,Dante Exum,Utah Jazz,
+Base Pink Ice,164,Myles Turner,Indiana Pacers,
+Base Pink Ice,165,Chris Webber,Sacramento Kings,
+Base Pink Ice,166,Dion Waiters,Miami Heat,
+Base Pink Ice,167,Julius Randle,New Orleans Pelicans,
+Base Pink Ice,168,Marcus Morris,Boston Celtics,
+Base Pink Ice,169,Nikola Vucevic,Orlando Magic,
+Base Pink Ice,170,Collin Sexton,Cleveland Cavaliers,
+Base Pink Ice,171,Buddy Hield,Sacramento Kings,
+Base Pink Ice,172,Blake Griffin,Detroit Pistons,
+Base Pink Ice,173,Derrick Favors,Utah Jazz,
+Base Pink Ice,174,Domantas Sabonis,Indiana Pacers,
+Base Pink Ice,175,Paul Pierce,Boston Celtics,
+Base Pink Ice,176,Josh Richardson,Miami Heat,
+Base Pink Ice,177,Anthony Davis,New Orleans Pelicans,
+Base Pink Ice,178,Marcus Smart,Boston Celtics,
+Base Pink Ice,179,Jonathan Isaac,Orlando Magic,
+Base Pink Ice,180,JR Smith,Cleveland Cavaliers,
+Base Pink Ice,181,Marvin Bagley III,Sacramento Kings,
+Base Pink Ice,182,Andre Drummond,Detroit Pistons,
+Base Pink Ice,183,Jae Crowder,Utah Jazz,
+Base Pink Ice,184,Shai Gilgeous-Alexander,Los Angeles Clippers,
+Base Pink Ice,185,John Stockton,Utah Jazz,
+Base Pink Ice,186,James Johnson,Miami Heat,
+Base Pink Ice,187,Emeka Okafor,New Orleans Pelicans,
+Base Pink Ice,188,Rodions Kurucs,Brooklyn Nets,
+Base Pink Ice,189,Zhaire Smith,Philadelphia 76ers,
+Base Pink Ice,190,Jordan Clarkson,Cleveland Cavaliers,
+Base Pink Ice,191,Justin Jackson,Sacramento Kings,
+Base Pink Ice,192,Zaza Pachulia,Detroit Pistons,
+Base Pink Ice,193,Rudy Gobert,Utah Jazz,
+Base Pink Ice,194,Jerome Robinson,Los Angeles Clippers,
+Base Pink Ice,195,David Robinson,San Antonio Spurs,
+Base Pink Ice,196,Hassan Whiteside,Miami Heat,
+Base Pink Ice,197,Solomon Hill,New Orleans Pelicans,
+Base Pink Ice,198,Dzanan Musa,Brooklyn Nets,
+Base Pink Ice,199,Landry Shamet,Philadelphia 76ers,
+Base Pink Ice,200,Kyle Korver,Cleveland Cavaliers,
+Base Pink Ice,201,Harry Giles,Sacramento Kings,
+Base Pink Ice,202,Ish Smith,Detroit Pistons,
+Base Pink Ice,203,Alec Burks,Utah Jazz,
+Base Pink Ice,204,Patrick Beverley,Los Angeles Clippers,
+Base Pink Ice,205,Wilt Chamberlain,Los Angeles Lakers,
+Base Pink Ice,206,Dwyane Wade,Miami Heat,
+Base Pink Ice,207,Ian Clark,New Orleans Pelicans,
+Base Pink Ice,208,Spencer Dinwiddie,Brooklyn Nets,
+Base Pink Ice,209,Allonzo Trier,New York Knicks,
+Base Pink Ice,210,Larry Nance Jr.,Cleveland Cavaliers,
+Base Pink Ice,211,Zach Randolph,Sacramento Kings,
+Base Pink Ice,212,Jacob Evans III,Golden State Warriors,
+Base Pink Ice,213,Troy Brown Jr.,Washington Wizards,
+Base Pink Ice,214,Milos Teodosic,Los Angeles Clippers,
+Base Pink Ice,215,Baron Davis,New Orleans Hornets,
+Base Pink Ice,216,Tyler Johnson,Miami Heat,
+Base Pink Ice,217,Kevin Knox,New York Knicks,
+Base Pink Ice,218,DeMarre Carroll,Brooklyn Nets,
+Base Pink Ice,219,Ben Simmons,Philadelphia 76ers,
+Base Pink Ice,220,Channing Frye,Cleveland Cavaliers,
+Base Pink Ice,221,Willie Cauley-Stein,Sacramento Kings,
+Base Pink Ice,222,Stephen Curry,Golden State Warriors,
+Base Pink Ice,223,John Wall,Washington Wizards,
+Base Pink Ice,224,Lou Williams,Los Angeles Clippers,
+Base Pink Ice,225,Tim Duncan,San Antonio Spurs,
+Base Pink Ice,226,Bam Adebayo,Miami Heat,
+Base Pink Ice,227,Mitchell Robinson,New York Knicks,
+Base Pink Ice,228,Jarrett Allen,Brooklyn Nets,
+Base Pink Ice,229,Markelle Fultz,Philadelphia 76ers,
+Base Pink Ice,230,Kevin Love,Cleveland Cavaliers,
+Base Pink Ice,231,Frank Mason III,Sacramento Kings,
+Base Pink Ice,232,Quinn Cook,Golden State Warriors,
+Base Pink Ice,233,Bradley Beal,Washington Wizards,
+Base Pink Ice,234,Avery Bradley,Los Angeles Clippers,
+Base Pink Ice,235,Kevin Garnett,Minnesota Timberwolves,
+Base Pink Ice,236,Kelly Olynyk,Miami Heat,
+Base Pink Ice,237,Tim Hardaway Jr.,New York Knicks,
+Base Pink Ice,238,Rondae Hollis-Jefferson,Brooklyn Nets,
+Base Pink Ice,239,JJ Redick,Philadelphia 76ers,
+Base Pink Ice,240,Tristan Thompson,Cleveland Cavaliers,
+Base Pink Ice,241,Chimezie Metu,San Antonio Spurs,
+Base Pink Ice,242,Klay Thompson,Golden State Warriors,
+Base Pink Ice,243,Austin Rivers,Washington Wizards,
+Base Pink Ice,244,Tobias Harris,Los Angeles Clippers,
+Base Pink Ice,245,Dennis Johnson,Boston Celtics,
+Base Pink Ice,246,Donte DiVincenzo,Milwaukee Bucks,
+Base Pink Ice,247,Frank Ntilikina,New York Knicks,
+Base Pink Ice,248,D'Angelo Russell,Brooklyn Nets,
+Base Pink Ice,249,Wilson Chandler,Philadelphia 76ers,
+Base Pink Ice,250,Jalen Brunson,Dallas Mavericks,
+Base Pink Ice,251,Lonnie Walker IV,San Antonio Spurs,
+Base Pink Ice,252,Kevin Durant,Golden State Warriors,
+Base Pink Ice,253,Otto Porter Jr.,Washington Wizards,
+Base Pink Ice,254,Danilo Gallinari,Los Angeles Clippers,
+Base Pink Ice,255,Pete Maravich,Atlanta Hawks,
+Base Pink Ice,256,Eric Bledsoe,Milwaukee Bucks,
+Base Pink Ice,257,Mario Hezonja,New York Knicks,
+Base Pink Ice,258,Allen Crabbe,Brooklyn Nets,
+Base Pink Ice,259,Joel Embiid,Philadelphia 76ers,
+Base Pink Ice,260,Dennis Smith Jr.,Dallas Mavericks,
+Base Pink Ice,261,Dejounte Murray,San Antonio Spurs,
+Base Pink Ice,262,Andre Iguodala,Golden State Warriors,
+Base Pink Ice,263,Kelly Oubre Jr.,Washington Wizards,
+Base Pink Ice,264,Marcin Gortat,Los Angeles Clippers,
+Base Pink Ice,265,Stephon Marbury,Phoenix Suns,
+Base Pink Ice,266,Matthew Dellavedova,Milwaukee Bucks,
+Base Pink Ice,267,Kristaps Porzingis,New York Knicks,
+Base Pink Ice,268,Shabazz Napier,Brooklyn Nets,
+Base Pink Ice,269,Robert Covington,Philadelphia 76ers,
+Base Pink Ice,270,J.J. Barea,Dallas Mavericks,
+Base Pink Ice,271,DeMar DeRozan,San Antonio Spurs,
+Base Pink Ice,272,Draymond Green,Golden State Warriors,
+Base Pink Ice,273,Markieff Morris,Washington Wizards,
+Base Pink Ice,274,Svi Mykhailiuk,Los Angeles Lakers,
+Base Pink Ice,275,Drazen Petrovic,Portland Trail Blazers,
+Base Pink Ice,276,Malcolm Brogdon,Milwaukee Bucks,
+Base Pink Ice,277,Enes Kanter,New York Knicks,
+Base Pink Ice,278,Miles Bridges,Charlotte Hornets,
+Base Pink Ice,279,Deandre Ayton,Phoenix Suns,
+Base Pink Ice,280,Luka Doncic,Dallas Mavericks,
+Base Pink Ice,281,Manu Ginobili,San Antonio Spurs,
+Base Pink Ice,282,DeMarcus Cousins,Golden State Warriors,
+Base Pink Ice,283,Jeff Green,Washington Wizards,
+Base Pink Ice,284,Moritz Wagner,Los Angeles Lakers,
+Base Pink Ice,285,George Mikan,Minneapolis Lakers,
+Base Pink Ice,286,Khris Middleton,Milwaukee Bucks,
+Base Pink Ice,287,Trey Burke,New York Knicks,
+Base Pink Ice,288,Devonte' Graham,Charlotte Hornets,
+Base Pink Ice,289,Mikal Bridges,Phoenix Suns,
+Base Pink Ice,290,Wesley Matthews,Dallas Mavericks,
+Base Pink Ice,291,LaMarcus Aldridge,San Antonio Spurs,
+Base Pink Ice,292,Jordan Bell,Golden State Warriors,
+Base Pink Ice,293,Dwight Howard,Washington Wizards,
+Base Pink Ice,294,Lonzo Ball,Los Angeles Lakers,
+Base Pink Ice,295,Amar'e Stoudemire,Phoenix Suns,
+Base Pink Ice,296,Giannis Antetokounmpo,Milwaukee Bucks,
+Base Pink Ice,297,Courtney Lee,New York Knicks,
+Base Pink Ice,298,Kemba Walker,Charlotte Hornets,
+Base Pink Ice,299,Elie Okobo,Phoenix Suns,
+Base Pink Ice,300,Harrison Barnes,Dallas Mavericks,
+Base Purple Pulsar,1,Brandon Knight,Phoenix Suns,35
+Base Purple Pulsar,2,Dirk Nowitzki,Dallas Mavericks,35
+Base Purple Pulsar,3,Rudy Gay,San Antonio Spurs,35
+Base Purple Pulsar,4,De'Anthony Melton,Houston Rockets,35
+Base Purple Pulsar,5,Charles Barkley,Phoenix Suns,35
+Base Purple Pulsar,6,LeBron James,Los Angeles Lakers,35
+Base Purple Pulsar,7,Ersan Ilyasova,Milwaukee Bucks,35
+Base Purple Pulsar,8,Jeremy Lin,Atlanta Hawks,35
+Base Purple Pulsar,9,Hamidou Diallo,Oklahoma City Thunder,35
+Base Purple Pulsar,10,Tony Parker,Charlotte Hornets,35
+Base Purple Pulsar,11,Devin Booker,Phoenix Suns,35
+Base Purple Pulsar,12,DeAndre Jordan,Dallas Mavericks,35
+Base Purple Pulsar,13,Pau Gasol,San Antonio Spurs,35
+Base Purple Pulsar,14,Vincent Edwards,Houston Rockets,35
+Base Purple Pulsar,15,Kobe Bryant,Los Angeles Lakers,35
+Base Purple Pulsar,16,Kyle Kuzma,Los Angeles Lakers,35
+Base Purple Pulsar,17,John Henson,Milwaukee Bucks,35
+Base Purple Pulsar,18,Kent Bazemore,Atlanta Hawks,35
+Base Purple Pulsar,19,Billy Preston,Cleveland Cavaliers,35
+Base Purple Pulsar,20,Nicolas Batum,Charlotte Hornets,35
+Base Purple Pulsar,21,T.J. Warren Jr.,Phoenix Suns,35
+Base Purple Pulsar,22,Kostas Antetokounmpo,Dallas Mavericks,35
+Base Purple Pulsar,23,Patty Mills,San Antonio Spurs,35
+Base Purple Pulsar,24,Chris Paul,Houston Rockets,35
+Base Purple Pulsar,25,Bill Russell,Boston Celtics,35
+Base Purple Pulsar,26,Brandon Ingram,Los Angeles Lakers,35
+Base Purple Pulsar,27,Thon Maker,Milwaukee Bucks,35
+Base Purple Pulsar,28,DeAndre' Bembry,Atlanta Hawks,35
+Base Purple Pulsar,29,Kevin Hervey,Oklahoma City Thunder,35
+Base Purple Pulsar,30,Michael Kidd-Gilchrist,Charlotte Hornets,35
+Base Purple Pulsar,31,Josh Jackson,Phoenix Suns,35
+Base Purple Pulsar,32,Michael Porter Jr.,Denver Nuggets,35
+Base Purple Pulsar,33,Kyle Lowry,Toronto Raptors,35
+Base Purple Pulsar,34,James Harden,Houston Rockets,35
+Base Purple Pulsar,35,Shaquille O'Neal ,Los Angeles Lakers,35
+Base Purple Pulsar,36,Rajon Rondo,Los Angeles Lakers,35
+Base Purple Pulsar,37,Josh Okogie,Minnesota Timberwolves,35
+Base Purple Pulsar,38,Taurean Prince,Atlanta Hawks,35
+Base Purple Pulsar,39,Russell Westbrook,Oklahoma City Thunder,35
+Base Purple Pulsar,40,Marvin Williams,Charlotte Hornets,35
+Base Purple Pulsar,41,Trevor Ariza,Phoenix Suns,35
+Base Purple Pulsar,42,Jarred Vanderbilt,Denver Nuggets,35
+Base Purple Pulsar,43,Danny Green,Toronto Raptors,35
+Base Purple Pulsar,44,Michael Carter-Williams,Houston Rockets,35
+Base Purple Pulsar,45,Allen Iverson,Philadelphia 76ers,35
+Base Purple Pulsar,46,Josh Hart,Los Angeles Lakers,35
+Base Purple Pulsar,47,Keita Bates-Diop,Minnesota Timberwolves,35
+Base Purple Pulsar,48,John Collins,Atlanta Hawks,35
+Base Purple Pulsar,49,Paul George,Oklahoma City Thunder,35
+Base Purple Pulsar,50,Malik Monk,Charlotte Hornets,35
+Base Purple Pulsar,51,Dragan Bender,Phoenix Suns,35
+Base Purple Pulsar,52,Isaiah Thomas,Denver Nuggets,35
+Base Purple Pulsar,53,Kawhi Leonard,Toronto Raptors,35
+Base Purple Pulsar,54,Eric Gordon,Houston Rockets,35
+Base Purple Pulsar,55,Reggie Miller,Indiana Pacers,35
+Base Purple Pulsar,56,Kentavious Caldwell-Pope,Los Angeles Lakers,35
+Base Purple Pulsar,57,Jeff Teague,Minnesota Timberwolves,35
+Base Purple Pulsar,58,Dewayne Dedmon,Atlanta Hawks,35
+Base Purple Pulsar,59,Carmelo Anthony,Houston Rockets,35
+Base Purple Pulsar,60,Frank Kaminsky,Charlotte Hornets,35
+Base Purple Pulsar,61,Anfernee Simons,Portland Trail Blazers,35
+Base Purple Pulsar,62,Jamal Murray,Denver Nuggets,35
+Base Purple Pulsar,63,OG Anunoby,Toronto Raptors,35
+Base Purple Pulsar,64,Ryan Anderson,Houston Rockets,35
+Base Purple Pulsar,65,Scottie Pippen,Chicago Bulls,35
+Base Purple Pulsar,66,Jaren Jackson Jr.,Memphis Grizzlies,35
+Base Purple Pulsar,67,Jimmy Butler,Minnesota Timberwolves,35
+Base Purple Pulsar,68,Kevin Huerter,Atlanta Hawks,35
+Base Purple Pulsar,69,Steven Adams,Oklahoma City Thunder,35
+Base Purple Pulsar,70,Chandler Hutchison,Chicago Bulls,35
+Base Purple Pulsar,71,Gary Trent Jr.,Portland Trail Blazers,35
+Base Purple Pulsar,72,Gary Harris,Denver Nuggets,35
+Base Purple Pulsar,73,Serge Ibaka,Toronto Raptors,35
+Base Purple Pulsar,74,Clint Capela,Houston Rockets,35
+Base Purple Pulsar,75,Karl Malone,Utah Jazz,35
+Base Purple Pulsar,76,Jevon Carter,Memphis Grizzlies,35
+Base Purple Pulsar,77,Derrick Rose,Minnesota Timberwolves,35
+Base Purple Pulsar,78,Trae Young,Atlanta Hawks,35
+Base Purple Pulsar,79,Nerlens Noel,Oklahoma City Thunder,35
+Base Purple Pulsar,80,Wendell Carter Jr.,Chicago Bulls,35
+Base Purple Pulsar,81,Damian Lillard,Portland Trail Blazers,35
+Base Purple Pulsar,82,Paul Millsap,Denver Nuggets,35
+Base Purple Pulsar,83,Pascal Siakam,Toronto Raptors,35
+Base Purple Pulsar,84,Gerald Green,Houston Rockets,35
+Base Purple Pulsar,85,Larry Bird,Boston Celtics,35
+Base Purple Pulsar,86,Mike Conley,Memphis Grizzlies,35
+Base Purple Pulsar,87,Andrew Wiggins,Minnesota Timberwolves,35
+Base Purple Pulsar,88,Omari Spellman,Atlanta Hawks,35
+Base Purple Pulsar,89,Jerami Grant,Oklahoma City Thunder,35
+Base Purple Pulsar,90,Kris Dunn,Chicago Bulls,35
+Base Purple Pulsar,91,CJ McCollum,Portland Trail Blazers,35
+Base Purple Pulsar,92,Nikola Jokic,Denver Nuggets,35
+Base Purple Pulsar,93,Jonas Valanciunas,Toronto Raptors,35
+Base Purple Pulsar,94,Tyreke Evans,Indiana Pacers,35
+Base Purple Pulsar,95,Julius Erving,Philadelphia 76ers,35
+Base Purple Pulsar,96,MarShon Brooks,Memphis Grizzlies,35
+Base Purple Pulsar,97,Taj Gibson,Minnesota Timberwolves,35
+Base Purple Pulsar,98,Kyrie Irving,Boston Celtics,35
+Base Purple Pulsar,99,Mo Bamba,Orlando Magic,35
+Base Purple Pulsar,100,Zach LaVine,Chicago Bulls,35
+Base Purple Pulsar,101,Evan Turner,Portland Trail Blazers,35
+Base Purple Pulsar,102,Will Barton,Denver Nuggets,35
+Base Purple Pulsar,103,Fred VanVleet,Toronto Raptors,35
+Base Purple Pulsar,104,Darren Collison,Indiana Pacers,35
+Base Purple Pulsar,105,Patrick Ewing,New York Knicks,35
+Base Purple Pulsar,106,Dillon Brooks,Memphis Grizzlies,35
+Base Purple Pulsar,107,Karl-Anthony Towns,Minnesota Timberwolves,35
+Base Purple Pulsar,108,Jaylen Brown,Boston Celtics,35
+Base Purple Pulsar,109,Melvin Frazier Jr.,Orlando Magic,35
+Base Purple Pulsar,110,Lauri Markkanen,Chicago Bulls,35
+Base Purple Pulsar,111,Al-Farouq Aminu,Portland Trail Blazers,35
+Base Purple Pulsar,112,Trey Lyles,Denver Nuggets,35
+Base Purple Pulsar,113,Delon Wright,Toronto Raptors,35
+Base Purple Pulsar,114,Aaron Holiday,Indiana Pacers,35
+Base Purple Pulsar,115,Kareem Abdul-Jabbar,Los Angeles Lakers,35
+Base Purple Pulsar,116,Chandler Parsons,Memphis Grizzlies,35
+Base Purple Pulsar,117,Gorgui Dieng,Minnesota Timberwolves,35
+Base Purple Pulsar,118,Jayson Tatum,Boston Celtics,35
+Base Purple Pulsar,119,Justin Jackson,Orlando Magic,35
+Base Purple Pulsar,120,Robin Lopez,Chicago Bulls,35
+Base Purple Pulsar,121,Jusuf Nurkic,Portland Trail Blazers,35
+Base Purple Pulsar,122,Khyri Thomas,Detroit Pistons,35
+Base Purple Pulsar,123,Grayson Allen,Utah Jazz,35
+Base Purple Pulsar,124,T.J. Leaf,Indiana Pacers,35
+Base Purple Pulsar,125,Oscar Robertson,Milwaukee Bucks,35
+Base Purple Pulsar,126,JaMychal Green,Memphis Grizzlies,35
+Base Purple Pulsar,127,Elfrid Payton,New Orleans Pelicans,35
+Base Purple Pulsar,128,Al Horford,Boston Celtics,35
+Base Purple Pulsar,129,D.J. Augustin,Orlando Magic,35
+Base Purple Pulsar,130,Jabari Parker,Chicago Bulls,35
+Base Purple Pulsar,131,Seth Curry,Portland Trail Blazers,35
+Base Purple Pulsar,132,Bruce Brown,Detroit Pistons,35
+Base Purple Pulsar,133,Ricky Rubio,Utah Jazz,35
+Base Purple Pulsar,134,Victor Oladipo,Indiana Pacers,35
+Base Purple Pulsar,135,Yao Ming,Houston Rockets,35
+Base Purple Pulsar,136,Marc Gasol,Memphis Grizzlies,35
+Base Purple Pulsar,137,Jrue Holiday,New Orleans Pelicans,35
+Base Purple Pulsar,138,Robert Williams III,Boston Celtics,35
+Base Purple Pulsar,139,Evan Fournier,Orlando Magic,35
+Base Purple Pulsar,140,Bobby Portis,Chicago Bulls,35
+Base Purple Pulsar,141,Zach Collins,Portland Trail Blazers,35
+Base Purple Pulsar,142,Reggie Jackson,Detroit Pistons,35
+Base Purple Pulsar,143,Donovan Mitchell,Utah Jazz,35
+Base Purple Pulsar,144,Bojan Bogdanovic,Indiana Pacers,35
+Base Purple Pulsar,145,Jerry West,Los Angeles Lakers,35
+Base Purple Pulsar,146,Yuta Watanabe,Memphis Grizzlies,35
+Base Purple Pulsar,147,E'Twaun Moore,New Orleans Pelicans,35
+Base Purple Pulsar,148,Terry Rozier,Boston Celtics,35
+Base Purple Pulsar,149,Terrence Ross,Orlando Magic,35
+Base Purple Pulsar,150,Justin Holiday,Chicago Bulls,35
+Base Purple Pulsar,151,De'Aaron Fox,Sacramento Kings,35
+Base Purple Pulsar,152,Luke Kennard,Detroit Pistons,35
+Base Purple Pulsar,153,Joe Ingles,Utah Jazz,35
+Base Purple Pulsar,154,Thaddeus Young,Indiana Pacers,35
+Base Purple Pulsar,155,Steve Nash,Phoenix Suns,35
+Base Purple Pulsar,156,Goran Dragic,Miami Heat,35
+Base Purple Pulsar,157,Nikola Mirotic,New Orleans Pelicans,35
+Base Purple Pulsar,158,Gordon Hayward,Boston Celtics,35
+Base Purple Pulsar,159,Aaron Gordon,Orlando Magic,35
+Base Purple Pulsar,160,George Hill,Cleveland Cavaliers,35
+Base Purple Pulsar,161,Bogdan Bogdanovic,Sacramento Kings,35
+Base Purple Pulsar,162,Stanley Johnson,Detroit Pistons,35
+Base Purple Pulsar,163,Dante Exum,Utah Jazz,35
+Base Purple Pulsar,164,Myles Turner,Indiana Pacers,35
+Base Purple Pulsar,165,Chris Webber,Sacramento Kings,35
+Base Purple Pulsar,166,Dion Waiters,Miami Heat,35
+Base Purple Pulsar,167,Julius Randle,New Orleans Pelicans,35
+Base Purple Pulsar,168,Marcus Morris,Boston Celtics,35
+Base Purple Pulsar,169,Nikola Vucevic,Orlando Magic,35
+Base Purple Pulsar,170,Collin Sexton,Cleveland Cavaliers,35
+Base Purple Pulsar,171,Buddy Hield,Sacramento Kings,35
+Base Purple Pulsar,172,Blake Griffin,Detroit Pistons,35
+Base Purple Pulsar,173,Derrick Favors,Utah Jazz,35
+Base Purple Pulsar,174,Domantas Sabonis,Indiana Pacers,35
+Base Purple Pulsar,175,Paul Pierce,Boston Celtics,35
+Base Purple Pulsar,176,Josh Richardson,Miami Heat,35
+Base Purple Pulsar,177,Anthony Davis,New Orleans Pelicans,35
+Base Purple Pulsar,178,Marcus Smart,Boston Celtics,35
+Base Purple Pulsar,179,Jonathan Isaac,Orlando Magic,35
+Base Purple Pulsar,180,JR Smith,Cleveland Cavaliers,35
+Base Purple Pulsar,181,Marvin Bagley III,Sacramento Kings,35
+Base Purple Pulsar,182,Andre Drummond,Detroit Pistons,35
+Base Purple Pulsar,183,Jae Crowder,Utah Jazz,35
+Base Purple Pulsar,184,Shai Gilgeous-Alexander,Los Angeles Clippers,35
+Base Purple Pulsar,185,John Stockton,Utah Jazz,35
+Base Purple Pulsar,186,James Johnson,Miami Heat,35
+Base Purple Pulsar,187,Emeka Okafor,New Orleans Pelicans,35
+Base Purple Pulsar,188,Rodions Kurucs,Brooklyn Nets,35
+Base Purple Pulsar,189,Zhaire Smith,Philadelphia 76ers,35
+Base Purple Pulsar,190,Jordan Clarkson,Cleveland Cavaliers,35
+Base Purple Pulsar,191,Justin Jackson,Sacramento Kings,35
+Base Purple Pulsar,192,Zaza Pachulia,Detroit Pistons,35
+Base Purple Pulsar,193,Rudy Gobert,Utah Jazz,35
+Base Purple Pulsar,194,Jerome Robinson,Los Angeles Clippers,35
+Base Purple Pulsar,195,David Robinson,San Antonio Spurs,35
+Base Purple Pulsar,196,Hassan Whiteside,Miami Heat,35
+Base Purple Pulsar,197,Solomon Hill,New Orleans Pelicans,35
+Base Purple Pulsar,198,Dzanan Musa,Brooklyn Nets,35
+Base Purple Pulsar,199,Landry Shamet,Philadelphia 76ers,35
+Base Purple Pulsar,200,Kyle Korver,Cleveland Cavaliers,35
+Base Purple Pulsar,201,Harry Giles,Sacramento Kings,35
+Base Purple Pulsar,202,Ish Smith,Detroit Pistons,35
+Base Purple Pulsar,203,Alec Burks,Utah Jazz,35
+Base Purple Pulsar,204,Patrick Beverley,Los Angeles Clippers,35
+Base Purple Pulsar,205,Wilt Chamberlain,Los Angeles Lakers,35
+Base Purple Pulsar,206,Dwyane Wade,Miami Heat,35
+Base Purple Pulsar,207,Ian Clark,New Orleans Pelicans,35
+Base Purple Pulsar,208,Spencer Dinwiddie,Brooklyn Nets,35
+Base Purple Pulsar,209,Allonzo Trier,New York Knicks,35
+Base Purple Pulsar,210,Larry Nance Jr.,Cleveland Cavaliers,35
+Base Purple Pulsar,211,Zach Randolph,Sacramento Kings,35
+Base Purple Pulsar,212,Jacob Evans III,Golden State Warriors,35
+Base Purple Pulsar,213,Troy Brown Jr.,Washington Wizards,35
+Base Purple Pulsar,214,Milos Teodosic,Los Angeles Clippers,35
+Base Purple Pulsar,215,Baron Davis,New Orleans Hornets,35
+Base Purple Pulsar,216,Tyler Johnson,Miami Heat,35
+Base Purple Pulsar,217,Kevin Knox,New York Knicks,35
+Base Purple Pulsar,218,DeMarre Carroll,Brooklyn Nets,35
+Base Purple Pulsar,219,Ben Simmons,Philadelphia 76ers,35
+Base Purple Pulsar,220,Channing Frye,Cleveland Cavaliers,35
+Base Purple Pulsar,221,Willie Cauley-Stein,Sacramento Kings,35
+Base Purple Pulsar,222,Stephen Curry,Golden State Warriors,35
+Base Purple Pulsar,223,John Wall,Washington Wizards,35
+Base Purple Pulsar,224,Lou Williams,Los Angeles Clippers,35
+Base Purple Pulsar,225,Tim Duncan,San Antonio Spurs,35
+Base Purple Pulsar,226,Bam Adebayo,Miami Heat,35
+Base Purple Pulsar,227,Mitchell Robinson,New York Knicks,35
+Base Purple Pulsar,228,Jarrett Allen,Brooklyn Nets,35
+Base Purple Pulsar,229,Markelle Fultz,Philadelphia 76ers,35
+Base Purple Pulsar,230,Kevin Love,Cleveland Cavaliers,35
+Base Purple Pulsar,231,Frank Mason III,Sacramento Kings,35
+Base Purple Pulsar,232,Quinn Cook,Golden State Warriors,35
+Base Purple Pulsar,233,Bradley Beal,Washington Wizards,35
+Base Purple Pulsar,234,Avery Bradley,Los Angeles Clippers,35
+Base Purple Pulsar,235,Kevin Garnett,Minnesota Timberwolves,35
+Base Purple Pulsar,236,Kelly Olynyk,Miami Heat,35
+Base Purple Pulsar,237,Tim Hardaway Jr.,New York Knicks,35
+Base Purple Pulsar,238,Rondae Hollis-Jefferson,Brooklyn Nets,35
+Base Purple Pulsar,239,JJ Redick,Philadelphia 76ers,35
+Base Purple Pulsar,240,Tristan Thompson,Cleveland Cavaliers,35
+Base Purple Pulsar,241,Chimezie Metu,San Antonio Spurs,35
+Base Purple Pulsar,242,Klay Thompson,Golden State Warriors,35
+Base Purple Pulsar,243,Austin Rivers,Washington Wizards,35
+Base Purple Pulsar,244,Tobias Harris,Los Angeles Clippers,35
+Base Purple Pulsar,245,Dennis Johnson,Boston Celtics,35
+Base Purple Pulsar,246,Donte DiVincenzo,Milwaukee Bucks,35
+Base Purple Pulsar,247,Frank Ntilikina,New York Knicks,35
+Base Purple Pulsar,248,D'Angelo Russell,Brooklyn Nets,35
+Base Purple Pulsar,249,Wilson Chandler,Philadelphia 76ers,35
+Base Purple Pulsar,250,Jalen Brunson,Dallas Mavericks,35
+Base Purple Pulsar,251,Lonnie Walker IV,San Antonio Spurs,35
+Base Purple Pulsar,252,Kevin Durant,Golden State Warriors,35
+Base Purple Pulsar,253,Otto Porter Jr.,Washington Wizards,35
+Base Purple Pulsar,254,Danilo Gallinari,Los Angeles Clippers,35
+Base Purple Pulsar,255,Pete Maravich,Atlanta Hawks,35
+Base Purple Pulsar,256,Eric Bledsoe,Milwaukee Bucks,35
+Base Purple Pulsar,257,Mario Hezonja,New York Knicks,35
+Base Purple Pulsar,258,Allen Crabbe,Brooklyn Nets,35
+Base Purple Pulsar,259,Joel Embiid,Philadelphia 76ers,35
+Base Purple Pulsar,260,Dennis Smith Jr.,Dallas Mavericks,35
+Base Purple Pulsar,261,Dejounte Murray,San Antonio Spurs,35
+Base Purple Pulsar,262,Andre Iguodala,Golden State Warriors,35
+Base Purple Pulsar,263,Kelly Oubre Jr.,Washington Wizards,35
+Base Purple Pulsar,264,Marcin Gortat,Los Angeles Clippers,35
+Base Purple Pulsar,265,Stephon Marbury,Phoenix Suns,35
+Base Purple Pulsar,266,Matthew Dellavedova,Milwaukee Bucks,35
+Base Purple Pulsar,267,Kristaps Porzingis,New York Knicks,35
+Base Purple Pulsar,268,Shabazz Napier,Brooklyn Nets,35
+Base Purple Pulsar,269,Robert Covington,Philadelphia 76ers,35
+Base Purple Pulsar,270,J.J. Barea,Dallas Mavericks,35
+Base Purple Pulsar,271,DeMar DeRozan,San Antonio Spurs,35
+Base Purple Pulsar,272,Draymond Green,Golden State Warriors,35
+Base Purple Pulsar,273,Markieff Morris,Washington Wizards,35
+Base Purple Pulsar,274,Svi Mykhailiuk,Los Angeles Lakers,35
+Base Purple Pulsar,275,Drazen Petrovic,Portland Trail Blazers,35
+Base Purple Pulsar,276,Malcolm Brogdon,Milwaukee Bucks,35
+Base Purple Pulsar,277,Enes Kanter,New York Knicks,35
+Base Purple Pulsar,278,Miles Bridges,Charlotte Hornets,35
+Base Purple Pulsar,279,Deandre Ayton,Phoenix Suns,35
+Base Purple Pulsar,280,Luka Doncic,Dallas Mavericks,35
+Base Purple Pulsar,281,Manu Ginobili,San Antonio Spurs,35
+Base Purple Pulsar,282,DeMarcus Cousins,Golden State Warriors,35
+Base Purple Pulsar,283,Jeff Green,Washington Wizards,35
+Base Purple Pulsar,284,Moritz Wagner,Los Angeles Lakers,35
+Base Purple Pulsar,285,George Mikan,Minneapolis Lakers,35
+Base Purple Pulsar,286,Khris Middleton,Milwaukee Bucks,35
+Base Purple Pulsar,287,Trey Burke,New York Knicks,35
+Base Purple Pulsar,288,Devonte' Graham,Charlotte Hornets,35
+Base Purple Pulsar,289,Mikal Bridges,Phoenix Suns,35
+Base Purple Pulsar,290,Wesley Matthews,Dallas Mavericks,35
+Base Purple Pulsar,291,LaMarcus Aldridge,San Antonio Spurs,35
+Base Purple Pulsar,292,Jordan Bell,Golden State Warriors,35
+Base Purple Pulsar,293,Dwight Howard,Washington Wizards,35
+Base Purple Pulsar,294,Lonzo Ball,Los Angeles Lakers,35
+Base Purple Pulsar,295,Amar'e Stoudemire,Phoenix Suns,35
+Base Purple Pulsar,296,Giannis Antetokounmpo,Milwaukee Bucks,35
+Base Purple Pulsar,297,Courtney Lee,New York Knicks,35
+Base Purple Pulsar,298,Kemba Walker,Charlotte Hornets,35
+Base Purple Pulsar,299,Elie Okobo,Phoenix Suns,35
+Base Purple Pulsar,300,Harrison Barnes,Dallas Mavericks,35
+Base White Sparkle,1,Brandon Knight,Phoenix Suns,
+Base White Sparkle,2,Dirk Nowitzki,Dallas Mavericks,
+Base White Sparkle,3,Rudy Gay,San Antonio Spurs,
+Base White Sparkle,4,De'Anthony Melton,Houston Rockets,
+Base White Sparkle,5,Charles Barkley,Phoenix Suns,
+Base White Sparkle,6,LeBron James,Los Angeles Lakers,
+Base White Sparkle,7,Ersan Ilyasova,Milwaukee Bucks,
+Base White Sparkle,8,Jeremy Lin,Atlanta Hawks,
+Base White Sparkle,9,Hamidou Diallo,Oklahoma City Thunder,
+Base White Sparkle,10,Tony Parker,Charlotte Hornets,
+Base White Sparkle,11,Devin Booker,Phoenix Suns,
+Base White Sparkle,12,DeAndre Jordan,Dallas Mavericks,
+Base White Sparkle,13,Pau Gasol,San Antonio Spurs,
+Base White Sparkle,14,Vincent Edwards,Houston Rockets,
+Base White Sparkle,15,Kobe Bryant,Los Angeles Lakers,
+Base White Sparkle,16,Kyle Kuzma,Los Angeles Lakers,
+Base White Sparkle,17,John Henson,Milwaukee Bucks,
+Base White Sparkle,18,Kent Bazemore,Atlanta Hawks,
+Base White Sparkle,19,Billy Preston,Cleveland Cavaliers,
+Base White Sparkle,20,Nicolas Batum,Charlotte Hornets,
+Base White Sparkle,21,T.J. Warren Jr.,Phoenix Suns,
+Base White Sparkle,22,Kostas Antetokounmpo,Dallas Mavericks,
+Base White Sparkle,23,Patty Mills,San Antonio Spurs,
+Base White Sparkle,24,Chris Paul,Houston Rockets,
+Base White Sparkle,25,Bill Russell,Boston Celtics,
+Base White Sparkle,26,Brandon Ingram,Los Angeles Lakers,
+Base White Sparkle,27,Thon Maker,Milwaukee Bucks,
+Base White Sparkle,28,DeAndre' Bembry,Atlanta Hawks,
+Base White Sparkle,29,Kevin Hervey,Oklahoma City Thunder,
+Base White Sparkle,30,Michael Kidd-Gilchrist,Charlotte Hornets,
+Base White Sparkle,31,Josh Jackson,Phoenix Suns,
+Base White Sparkle,32,Michael Porter Jr.,Denver Nuggets,
+Base White Sparkle,33,Kyle Lowry,Toronto Raptors,
+Base White Sparkle,34,James Harden,Houston Rockets,
+Base White Sparkle,35,Shaquille O'Neal ,Los Angeles Lakers,
+Base White Sparkle,36,Rajon Rondo,Los Angeles Lakers,
+Base White Sparkle,37,Josh Okogie,Minnesota Timberwolves,
+Base White Sparkle,38,Taurean Prince,Atlanta Hawks,
+Base White Sparkle,39,Russell Westbrook,Oklahoma City Thunder,
+Base White Sparkle,40,Marvin Williams,Charlotte Hornets,
+Base White Sparkle,41,Trevor Ariza,Phoenix Suns,
+Base White Sparkle,42,Jarred Vanderbilt,Denver Nuggets,
+Base White Sparkle,43,Danny Green,Toronto Raptors,
+Base White Sparkle,44,Michael Carter-Williams,Houston Rockets,
+Base White Sparkle,45,Allen Iverson,Philadelphia 76ers,
+Base White Sparkle,46,Josh Hart,Los Angeles Lakers,
+Base White Sparkle,47,Keita Bates-Diop,Minnesota Timberwolves,
+Base White Sparkle,48,John Collins,Atlanta Hawks,
+Base White Sparkle,49,Paul George,Oklahoma City Thunder,
+Base White Sparkle,50,Malik Monk,Charlotte Hornets,
+Base White Sparkle,51,Dragan Bender,Phoenix Suns,
+Base White Sparkle,52,Isaiah Thomas,Denver Nuggets,
+Base White Sparkle,53,Kawhi Leonard,Toronto Raptors,
+Base White Sparkle,54,Eric Gordon,Houston Rockets,
+Base White Sparkle,55,Reggie Miller,Indiana Pacers,
+Base White Sparkle,56,Kentavious Caldwell-Pope,Los Angeles Lakers,
+Base White Sparkle,57,Jeff Teague,Minnesota Timberwolves,
+Base White Sparkle,58,Dewayne Dedmon,Atlanta Hawks,
+Base White Sparkle,59,Carmelo Anthony,Houston Rockets,
+Base White Sparkle,60,Frank Kaminsky,Charlotte Hornets,
+Base White Sparkle,61,Anfernee Simons,Portland Trail Blazers,
+Base White Sparkle,62,Jamal Murray,Denver Nuggets,
+Base White Sparkle,63,OG Anunoby,Toronto Raptors,
+Base White Sparkle,64,Ryan Anderson,Houston Rockets,
+Base White Sparkle,65,Scottie Pippen,Chicago Bulls,
+Base White Sparkle,66,Jaren Jackson Jr.,Memphis Grizzlies,
+Base White Sparkle,67,Jimmy Butler,Minnesota Timberwolves,
+Base White Sparkle,68,Kevin Huerter,Atlanta Hawks,
+Base White Sparkle,69,Steven Adams,Oklahoma City Thunder,
+Base White Sparkle,70,Chandler Hutchison,Chicago Bulls,
+Base White Sparkle,71,Gary Trent Jr.,Portland Trail Blazers,
+Base White Sparkle,72,Gary Harris,Denver Nuggets,
+Base White Sparkle,73,Serge Ibaka,Toronto Raptors,
+Base White Sparkle,74,Clint Capela,Houston Rockets,
+Base White Sparkle,75,Karl Malone,Utah Jazz,
+Base White Sparkle,76,Jevon Carter,Memphis Grizzlies,
+Base White Sparkle,77,Derrick Rose,Minnesota Timberwolves,
+Base White Sparkle,78,Trae Young,Atlanta Hawks,
+Base White Sparkle,79,Nerlens Noel,Oklahoma City Thunder,
+Base White Sparkle,80,Wendell Carter Jr.,Chicago Bulls,
+Base White Sparkle,81,Damian Lillard,Portland Trail Blazers,
+Base White Sparkle,82,Paul Millsap,Denver Nuggets,
+Base White Sparkle,83,Pascal Siakam,Toronto Raptors,
+Base White Sparkle,84,Gerald Green,Houston Rockets,
+Base White Sparkle,85,Larry Bird,Boston Celtics,
+Base White Sparkle,86,Mike Conley,Memphis Grizzlies,
+Base White Sparkle,87,Andrew Wiggins,Minnesota Timberwolves,
+Base White Sparkle,88,Omari Spellman,Atlanta Hawks,
+Base White Sparkle,89,Jerami Grant,Oklahoma City Thunder,
+Base White Sparkle,90,Kris Dunn,Chicago Bulls,
+Base White Sparkle,91,CJ McCollum,Portland Trail Blazers,
+Base White Sparkle,92,Nikola Jokic,Denver Nuggets,
+Base White Sparkle,93,Jonas Valanciunas,Toronto Raptors,
+Base White Sparkle,94,Tyreke Evans,Indiana Pacers,
+Base White Sparkle,95,Julius Erving,Philadelphia 76ers,
+Base White Sparkle,96,MarShon Brooks,Memphis Grizzlies,
+Base White Sparkle,97,Taj Gibson,Minnesota Timberwolves,
+Base White Sparkle,98,Kyrie Irving,Boston Celtics,
+Base White Sparkle,99,Mo Bamba,Orlando Magic,
+Base White Sparkle,100,Zach LaVine,Chicago Bulls,
+Base White Sparkle,101,Evan Turner,Portland Trail Blazers,
+Base White Sparkle,102,Will Barton,Denver Nuggets,
+Base White Sparkle,103,Fred VanVleet,Toronto Raptors,
+Base White Sparkle,104,Darren Collison,Indiana Pacers,
+Base White Sparkle,105,Patrick Ewing,New York Knicks,
+Base White Sparkle,106,Dillon Brooks,Memphis Grizzlies,
+Base White Sparkle,107,Karl-Anthony Towns,Minnesota Timberwolves,
+Base White Sparkle,108,Jaylen Brown,Boston Celtics,
+Base White Sparkle,109,Melvin Frazier Jr.,Orlando Magic,
+Base White Sparkle,110,Lauri Markkanen,Chicago Bulls,
+Base White Sparkle,111,Al-Farouq Aminu,Portland Trail Blazers,
+Base White Sparkle,112,Trey Lyles,Denver Nuggets,
+Base White Sparkle,113,Delon Wright,Toronto Raptors,
+Base White Sparkle,114,Aaron Holiday,Indiana Pacers,
+Base White Sparkle,115,Kareem Abdul-Jabbar,Los Angeles Lakers,
+Base White Sparkle,116,Chandler Parsons,Memphis Grizzlies,
+Base White Sparkle,117,Gorgui Dieng,Minnesota Timberwolves,
+Base White Sparkle,118,Jayson Tatum,Boston Celtics,
+Base White Sparkle,119,Justin Jackson,Orlando Magic,
+Base White Sparkle,120,Robin Lopez,Chicago Bulls,
+Base White Sparkle,121,Jusuf Nurkic,Portland Trail Blazers,
+Base White Sparkle,122,Khyri Thomas,Detroit Pistons,
+Base White Sparkle,123,Grayson Allen,Utah Jazz,
+Base White Sparkle,124,T.J. Leaf,Indiana Pacers,
+Base White Sparkle,125,Oscar Robertson,Milwaukee Bucks,
+Base White Sparkle,126,JaMychal Green,Memphis Grizzlies,
+Base White Sparkle,127,Elfrid Payton,New Orleans Pelicans,
+Base White Sparkle,128,Al Horford,Boston Celtics,
+Base White Sparkle,129,D.J. Augustin,Orlando Magic,
+Base White Sparkle,130,Jabari Parker,Chicago Bulls,
+Base White Sparkle,131,Seth Curry,Portland Trail Blazers,
+Base White Sparkle,132,Bruce Brown,Detroit Pistons,
+Base White Sparkle,133,Ricky Rubio,Utah Jazz,
+Base White Sparkle,134,Victor Oladipo,Indiana Pacers,
+Base White Sparkle,135,Yao Ming,Houston Rockets,
+Base White Sparkle,136,Marc Gasol,Memphis Grizzlies,
+Base White Sparkle,137,Jrue Holiday,New Orleans Pelicans,
+Base White Sparkle,138,Robert Williams III,Boston Celtics,
+Base White Sparkle,139,Evan Fournier,Orlando Magic,
+Base White Sparkle,140,Bobby Portis,Chicago Bulls,
+Base White Sparkle,141,Zach Collins,Portland Trail Blazers,
+Base White Sparkle,142,Reggie Jackson,Detroit Pistons,
+Base White Sparkle,143,Donovan Mitchell,Utah Jazz,
+Base White Sparkle,144,Bojan Bogdanovic,Indiana Pacers,
+Base White Sparkle,145,Jerry West,Los Angeles Lakers,
+Base White Sparkle,146,Yuta Watanabe,Memphis Grizzlies,
+Base White Sparkle,147,E'Twaun Moore,New Orleans Pelicans,
+Base White Sparkle,148,Terry Rozier,Boston Celtics,
+Base White Sparkle,149,Terrence Ross,Orlando Magic,
+Base White Sparkle,150,Justin Holiday,Chicago Bulls,
+Base White Sparkle,151,De'Aaron Fox,Sacramento Kings,
+Base White Sparkle,152,Luke Kennard,Detroit Pistons,
+Base White Sparkle,153,Joe Ingles,Utah Jazz,
+Base White Sparkle,154,Thaddeus Young,Indiana Pacers,
+Base White Sparkle,155,Steve Nash,Phoenix Suns,
+Base White Sparkle,156,Goran Dragic,Miami Heat,
+Base White Sparkle,157,Nikola Mirotic,New Orleans Pelicans,
+Base White Sparkle,158,Gordon Hayward,Boston Celtics,
+Base White Sparkle,159,Aaron Gordon,Orlando Magic,
+Base White Sparkle,160,George Hill,Cleveland Cavaliers,
+Base White Sparkle,161,Bogdan Bogdanovic,Sacramento Kings,
+Base White Sparkle,162,Stanley Johnson,Detroit Pistons,
+Base White Sparkle,163,Dante Exum,Utah Jazz,
+Base White Sparkle,164,Myles Turner,Indiana Pacers,
+Base White Sparkle,165,Chris Webber,Sacramento Kings,
+Base White Sparkle,166,Dion Waiters,Miami Heat,
+Base White Sparkle,167,Julius Randle,New Orleans Pelicans,
+Base White Sparkle,168,Marcus Morris,Boston Celtics,
+Base White Sparkle,169,Nikola Vucevic,Orlando Magic,
+Base White Sparkle,170,Collin Sexton,Cleveland Cavaliers,
+Base White Sparkle,171,Buddy Hield,Sacramento Kings,
+Base White Sparkle,172,Blake Griffin,Detroit Pistons,
+Base White Sparkle,173,Derrick Favors,Utah Jazz,
+Base White Sparkle,174,Domantas Sabonis,Indiana Pacers,
+Base White Sparkle,175,Paul Pierce,Boston Celtics,
+Base White Sparkle,176,Josh Richardson,Miami Heat,
+Base White Sparkle,177,Anthony Davis,New Orleans Pelicans,
+Base White Sparkle,178,Marcus Smart,Boston Celtics,
+Base White Sparkle,179,Jonathan Isaac,Orlando Magic,
+Base White Sparkle,180,JR Smith,Cleveland Cavaliers,
+Base White Sparkle,181,Marvin Bagley III,Sacramento Kings,
+Base White Sparkle,182,Andre Drummond,Detroit Pistons,
+Base White Sparkle,183,Jae Crowder,Utah Jazz,
+Base White Sparkle,184,Shai Gilgeous-Alexander,Los Angeles Clippers,
+Base White Sparkle,185,John Stockton,Utah Jazz,
+Base White Sparkle,186,James Johnson,Miami Heat,
+Base White Sparkle,187,Emeka Okafor,New Orleans Pelicans,
+Base White Sparkle,188,Rodions Kurucs,Brooklyn Nets,
+Base White Sparkle,189,Zhaire Smith,Philadelphia 76ers,
+Base White Sparkle,190,Jordan Clarkson,Cleveland Cavaliers,
+Base White Sparkle,191,Justin Jackson,Sacramento Kings,
+Base White Sparkle,192,Zaza Pachulia,Detroit Pistons,
+Base White Sparkle,193,Rudy Gobert,Utah Jazz,
+Base White Sparkle,194,Jerome Robinson,Los Angeles Clippers,
+Base White Sparkle,195,David Robinson,San Antonio Spurs,
+Base White Sparkle,196,Hassan Whiteside,Miami Heat,
+Base White Sparkle,197,Solomon Hill,New Orleans Pelicans,
+Base White Sparkle,198,Dzanan Musa,Brooklyn Nets,
+Base White Sparkle,199,Landry Shamet,Philadelphia 76ers,
+Base White Sparkle,200,Kyle Korver,Cleveland Cavaliers,
+Base White Sparkle,201,Harry Giles,Sacramento Kings,
+Base White Sparkle,202,Ish Smith,Detroit Pistons,
+Base White Sparkle,203,Alec Burks,Utah Jazz,
+Base White Sparkle,204,Patrick Beverley,Los Angeles Clippers,
+Base White Sparkle,205,Wilt Chamberlain,Los Angeles Lakers,
+Base White Sparkle,206,Dwyane Wade,Miami Heat,
+Base White Sparkle,207,Ian Clark,New Orleans Pelicans,
+Base White Sparkle,208,Spencer Dinwiddie,Brooklyn Nets,
+Base White Sparkle,209,Allonzo Trier,New York Knicks,
+Base White Sparkle,210,Larry Nance Jr.,Cleveland Cavaliers,
+Base White Sparkle,211,Zach Randolph,Sacramento Kings,
+Base White Sparkle,212,Jacob Evans III,Golden State Warriors,
+Base White Sparkle,213,Troy Brown Jr.,Washington Wizards,
+Base White Sparkle,214,Milos Teodosic,Los Angeles Clippers,
+Base White Sparkle,215,Baron Davis,New Orleans Hornets,
+Base White Sparkle,216,Tyler Johnson,Miami Heat,
+Base White Sparkle,217,Kevin Knox,New York Knicks,
+Base White Sparkle,218,DeMarre Carroll,Brooklyn Nets,
+Base White Sparkle,219,Ben Simmons,Philadelphia 76ers,
+Base White Sparkle,220,Channing Frye,Cleveland Cavaliers,
+Base White Sparkle,221,Willie Cauley-Stein,Sacramento Kings,
+Base White Sparkle,222,Stephen Curry,Golden State Warriors,
+Base White Sparkle,223,John Wall,Washington Wizards,
+Base White Sparkle,224,Lou Williams,Los Angeles Clippers,
+Base White Sparkle,225,Tim Duncan,San Antonio Spurs,
+Base White Sparkle,226,Bam Adebayo,Miami Heat,
+Base White Sparkle,227,Mitchell Robinson,New York Knicks,
+Base White Sparkle,228,Jarrett Allen,Brooklyn Nets,
+Base White Sparkle,229,Markelle Fultz,Philadelphia 76ers,
+Base White Sparkle,230,Kevin Love,Cleveland Cavaliers,
+Base White Sparkle,231,Frank Mason III,Sacramento Kings,
+Base White Sparkle,232,Quinn Cook,Golden State Warriors,
+Base White Sparkle,233,Bradley Beal,Washington Wizards,
+Base White Sparkle,234,Avery Bradley,Los Angeles Clippers,
+Base White Sparkle,235,Kevin Garnett,Minnesota Timberwolves,
+Base White Sparkle,236,Kelly Olynyk,Miami Heat,
+Base White Sparkle,237,Tim Hardaway Jr.,New York Knicks,
+Base White Sparkle,238,Rondae Hollis-Jefferson,Brooklyn Nets,
+Base White Sparkle,239,JJ Redick,Philadelphia 76ers,
+Base White Sparkle,240,Tristan Thompson,Cleveland Cavaliers,
+Base White Sparkle,241,Chimezie Metu,San Antonio Spurs,
+Base White Sparkle,242,Klay Thompson,Golden State Warriors,
+Base White Sparkle,243,Austin Rivers,Washington Wizards,
+Base White Sparkle,244,Tobias Harris,Los Angeles Clippers,
+Base White Sparkle,245,Dennis Johnson,Boston Celtics,
+Base White Sparkle,246,Donte DiVincenzo,Milwaukee Bucks,
+Base White Sparkle,247,Frank Ntilikina,New York Knicks,
+Base White Sparkle,248,D'Angelo Russell,Brooklyn Nets,
+Base White Sparkle,249,Wilson Chandler,Philadelphia 76ers,
+Base White Sparkle,250,Jalen Brunson,Dallas Mavericks,
+Base White Sparkle,251,Lonnie Walker IV,San Antonio Spurs,
+Base White Sparkle,252,Kevin Durant,Golden State Warriors,
+Base White Sparkle,253,Otto Porter Jr.,Washington Wizards,
+Base White Sparkle,254,Danilo Gallinari,Los Angeles Clippers,
+Base White Sparkle,255,Pete Maravich,Atlanta Hawks,
+Base White Sparkle,256,Eric Bledsoe,Milwaukee Bucks,
+Base White Sparkle,257,Mario Hezonja,New York Knicks,
+Base White Sparkle,258,Allen Crabbe,Brooklyn Nets,
+Base White Sparkle,259,Joel Embiid,Philadelphia 76ers,
+Base White Sparkle,260,Dennis Smith Jr.,Dallas Mavericks,
+Base White Sparkle,261,Dejounte Murray,San Antonio Spurs,
+Base White Sparkle,262,Andre Iguodala,Golden State Warriors,
+Base White Sparkle,263,Kelly Oubre Jr.,Washington Wizards,
+Base White Sparkle,264,Marcin Gortat,Los Angeles Clippers,
+Base White Sparkle,265,Stephon Marbury,Phoenix Suns,
+Base White Sparkle,266,Matthew Dellavedova,Milwaukee Bucks,
+Base White Sparkle,267,Kristaps Porzingis,New York Knicks,
+Base White Sparkle,268,Shabazz Napier,Brooklyn Nets,
+Base White Sparkle,269,Robert Covington,Philadelphia 76ers,
+Base White Sparkle,270,J.J. Barea,Dallas Mavericks,
+Base White Sparkle,271,DeMar DeRozan,San Antonio Spurs,
+Base White Sparkle,272,Draymond Green,Golden State Warriors,
+Base White Sparkle,273,Markieff Morris,Washington Wizards,
+Base White Sparkle,274,Svi Mykhailiuk,Los Angeles Lakers,
+Base White Sparkle,275,Drazen Petrovic,Portland Trail Blazers,
+Base White Sparkle,276,Malcolm Brogdon,Milwaukee Bucks,
+Base White Sparkle,277,Enes Kanter,New York Knicks,
+Base White Sparkle,278,Miles Bridges,Charlotte Hornets,
+Base White Sparkle,279,Deandre Ayton,Phoenix Suns,
+Base White Sparkle,280,Luka Doncic,Dallas Mavericks,
+Base White Sparkle,281,Manu Ginobili,San Antonio Spurs,
+Base White Sparkle,282,DeMarcus Cousins,Golden State Warriors,
+Base White Sparkle,283,Jeff Green,Washington Wizards,
+Base White Sparkle,284,Moritz Wagner,Los Angeles Lakers,
+Base White Sparkle,285,George Mikan,Minneapolis Lakers,
+Base White Sparkle,286,Khris Middleton,Milwaukee Bucks,
+Base White Sparkle,287,Trey Burke,New York Knicks,
+Base White Sparkle,288,Devonte' Graham,Charlotte Hornets,
+Base White Sparkle,289,Mikal Bridges,Phoenix Suns,
+Base White Sparkle,290,Wesley Matthews,Dallas Mavericks,
+Base White Sparkle,291,LaMarcus Aldridge,San Antonio Spurs,
+Base White Sparkle,292,Jordan Bell,Golden State Warriors,
+Base White Sparkle,293,Dwight Howard,Washington Wizards,
+Base White Sparkle,294,Lonzo Ball,Los Angeles Lakers,
+Base White Sparkle,295,Amar'e Stoudemire,Phoenix Suns,
+Base White Sparkle,296,Giannis Antetokounmpo,Milwaukee Bucks,
+Base White Sparkle,297,Courtney Lee,New York Knicks,
+Base White Sparkle,298,Kemba Walker,Charlotte Hornets,
+Base White Sparkle,299,Elie Okobo,Phoenix Suns,
+Base White Sparkle,300,Harrison Barnes,Dallas Mavericks,
 Base Purple,1,Brandon Knight,Phoenix Suns,75
 Base Purple,2,Dirk Nowitzki,Dallas Mavericks,75
 Base Purple,3,Rudy Gay,San Antonio Spurs,75
@@ -13020,6 +13920,66 @@ Signatures Choice Green,57,Malcolm Brogdon,Milwaukee Bucks,8
 Signatures Choice Green,58,Tracy McGrady,Houston Rockets,8
 Signatures Choice Green,59,Wade Baldwin IV,Portland Trail Blazers,8
 Signatures Choice Green,60,Gordon Hayward,Boston Celtics,8
+Signatures Choice Red,1,Rick Barry,Golden State Warriors,
+Signatures Choice Red,2,Langston Galloway,Detroit Pistons,
+Signatures Choice Red,3,Bob Dandridge,Milwaukee Bucks,
+Signatures Choice Red,4,Brook Lopez,Milwaukee Bucks,
+Signatures Choice Red,5,Justise Winslow,Miami Heat,
+Signatures Choice Red,6,Charles Barkley,Philadelphia 76ers,
+Signatures Choice Red,7,Thon Maker,Milwaukee Bucks,
+Signatures Choice Red,8,Kyrie Irving,Boston Celtics,
+Signatures Choice Red,9,Allen Crabbe,Brooklyn Nets,
+Signatures Choice Red,10,Kevin McHale,Boston Celtics,
+Signatures Choice Red,11,Andrei Kirilenko,Utah Jazz,
+Signatures Choice Red,12,Bob Lanier,Detroit Pistons,
+Signatures Choice Red,13,Purvis Short,Golden State Warriors,
+Signatures Choice Red,14,Kenny Smith,Houston Rockets,
+Signatures Choice Red,15,Jrue Holiday,New Orleans Pelicans,
+Signatures Choice Red,16,Kobe Bryant,Los Angeles Lakers,
+Signatures Choice Red,17,Terrence Ross,Orlando Magic,
+Signatures Choice Red,18,John Stockton,Utah Jazz,
+Signatures Choice Red,19,Bismack Biyombo,Charlotte Hornets,
+Signatures Choice Red,20,Jason Kidd,New Jersey Nets,
+Signatures Choice Red,21,Dino Radja,Boston Celtics,
+Signatures Choice Red,22,Buddy Hield,Sacramento Kings,
+Signatures Choice Red,23,Dell Curry,Charlotte Hornets,
+Signatures Choice Red,24,Nikola Mirotic,New Orleans Pelicans,
+Signatures Choice Red,25,World B. Free,Philadelphia 76ers,
+Signatures Choice Red,26,Stephen Curry,Golden State Warriors,
+Signatures Choice Red,27,Luke Walton,Los Angeles Lakers,
+Signatures Choice Red,28,Julius Erving,Philadelphia 76ers,
+Signatures Choice Red,29,Trey Lyles,Denver Nuggets,
+Signatures Choice Red,30,Anfernee Hardaway,Orlando Magic,
+Signatures Choice Red,31,Hersey Hawkins,Philadelphia 76ers,
+Signatures Choice Red,32,Khris Middleton,Milwaukee Bucks,
+Signatures Choice Red,33,Eric Snow,Philadelphia 76ers,
+Signatures Choice Red,34,Goran Dragic,Miami Heat,
+Signatures Choice Red,35,JR Smith,Cleveland Cavaliers,
+Signatures Choice Red,36,Kevin Durant,Golden State Warriors,
+Signatures Choice Red,37,Nene,Houston Rockets,
+Signatures Choice Red,38,Kareem Abdul-Jabbar,Los Angeles Lakers,
+Signatures Choice Red,39,Charlie Scott,Phoenix Suns,
+Signatures Choice Red,40,Kristaps Porzingis,New York Knicks,
+Signatures Choice Red,41,P.J. Brown,Miami Heat,
+Signatures Choice Red,42,Dion Waiters,Miami Heat,
+Signatures Choice Red,43,Quentin Richardson,Los Angeles Clippers,
+Signatures Choice Red,44,Jason Terry,Milwaukee Bucks,
+Signatures Choice Red,45,Glen Rice,Charlotte Hornets,
+Signatures Choice Red,46,Andrew Wiggins,Minnesota Timberwolves,
+Signatures Choice Red,47,Zaza Pachulia,Detroit Pistons,
+Signatures Choice Red,48,Joel Embiid,Philadelphia 76ers,
+Signatures Choice Red,49,Jonas Jerebko,Golden State Warriors,
+Signatures Choice Red,50,Dominique Wilkins,Atlanta Hawks,
+Signatures Choice Red,51,Michael Adams,Denver Nuggets,
+Signatures Choice Red,52,Zach LaVine,Chicago Bulls,
+Signatures Choice Red,53,Darius Miles,Los Angeles Clippers,
+Signatures Choice Red,54,Mark Jackson,Indiana Pacers,
+Signatures Choice Red,55,Cody Zeller,Charlotte Hornets,
+Signatures Choice Red,56,Reggie Miller,Indiana Pacers,
+Signatures Choice Red,57,Malcolm Brogdon,Milwaukee Bucks,
+Signatures Choice Red,58,Tracy McGrady,Houston Rockets,
+Signatures Choice Red,59,Wade Baldwin IV,Portland Trail Blazers,
+Signatures Choice Red,60,Gordon Hayward,Boston Celtics,
 Signatures Gold,1,Rick Barry,Golden State Warriors,10
 Signatures Gold,2,Langston Galloway,Detroit Pistons,10
 Signatures Gold,3,Bob Dandridge,Milwaukee Bucks,10
