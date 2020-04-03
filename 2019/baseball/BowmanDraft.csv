@@ -475,16 +475,16 @@ Draft Progression Trios,DPR-TEX,Cole Winn,Texas Rangers
 Draft Progression Trios,DPR-TOR,Nate Pearson,Toronto Blue Jays
 Draft Progression Trios,DPR-TOR,Jordan Groshans,Toronto Blue Jays
 Draft Progression Trios,DPR-TOR,Alek Manoah,Toronto Blue Jays
-Bowman Scouts Draft Pick Breakdown,BSB-AM,Alek Manoah,Toronto Blue Jays
-Bowman Scouts Draft Pick Breakdown,BSB-AR,Adley Rutschman,Baltimore Orioles
-Bowman Scouts Draft Pick Breakdown,BSB-AV,Andrew Vaughn,Chicago White Sox
-Bowman Scouts Draft Pick Breakdown,BSB-CA,CJ Abrams,San Diego Padres
-Bowman Scouts Draft Pick Breakdown,BSB-HB,Hunter Bishop,San Francisco Giants
-Bowman Scouts Draft Pick Breakdown,BSB-JJ,Josh Jung,Texas Rangers
-Bowman Scouts Draft Pick Breakdown,BSB-JJB,J.J. Bleday,Miami Marlins
-Bowman Scouts Draft Pick Breakdown,BSB-NL,Nick Lodolo,Cincinnati Reds
-Bowman Scouts Draft Pick Breakdown,BSB-RG,Riley Greene,Detroit Tigers
-Bowman Scouts Draft Pick Breakdown,BSB-SL,Shea Langeliers,Atlanta Braves
+Draft Pick Breakdown,BSB-AM,Alek Manoah,Toronto Blue Jays
+Draft Pick Breakdown,BSB-AR,Adley Rutschman,Baltimore Orioles
+Draft Pick Breakdown,BSB-AV,Andrew Vaughn,Chicago White Sox
+Draft Pick Breakdown,BSB-CA,CJ Abrams,San Diego Padres
+Draft Pick Breakdown,BSB-HB,Hunter Bishop,San Francisco Giants
+Draft Pick Breakdown,BSB-JJ,Josh Jung,Texas Rangers
+Draft Pick Breakdown,BSB-JJB,J.J. Bleday,Miami Marlins
+Draft Pick Breakdown,BSB-NL,Nick Lodolo,Cincinnati Reds
+Draft Pick Breakdown,BSB-RG,Riley Greene,Detroit Tigers
+Draft Pick Breakdown,BSB-SL,Shea Langeliers,Atlanta Braves
 30th Anniversary,B30-AR,Adley Rutschman,Baltimore Orioles
 30th Anniversary,B30-AV,Andrew Vaughn,Chicago White Sox
 30th Anniversary,B30-CJA,CJ Abrams,San Diego Padres
@@ -588,18 +588,18 @@ Chrome Draft Pick Autographs,CDA-TH,Tommy Henry,Arizona Diamondbacks
 Chrome Draft Pick Autographs,CDA-TJS,T.J. Sikkema,New York Yankees
 Chrome Draft Pick Autographs,CDA-WW,Will Wilson,Los Angeles Angels
 Chrome Draft Pick Autographs,CDA-ZT,Zack Thompson,St. Louis Cardinals
-Image Variation Autographs,BDC-1,Adley Rutschman,Baltimore Orioles
-Image Variation Autographs,BDC-7,Josh Jung,Texas Rangers
-Image Variation Autographs,BDC-50,Riley Greene,Detroit Tigers
-Image Variation Autographs,BDC-67,Shea Langeliers,Atlanta Braves
-Image Variation Autographs,BDC-85,CJ Abrams,San Diego Padres
-Image Variation Autographs,BDC-88,Victor Victor Mesa,Miami Marlins
-Image Variation Autographs,BDC-93,Wander Franco,Tampa Bay Rays
-Image Variation Autographs,BDC-100,Andrew Vaughn,Chicago White Sox
-Image Variation Autographs,BDC-134,Joey Bart,San Francisco Giants
-Image Variation Autographs,BDC-150,J.J. Bleday,Miami Marlins
-Image Variation Autographs,BDC-189,Nick Lodolo,Cincinnati Reds
-Image Variation Autographs,BDC-192,Seth Beer,Houston Astros
+Base Image Variation Autographs,BDC-1,Adley Rutschman,Baltimore Orioles
+Base Image Variation Autographs,BDC-7,Josh Jung,Texas Rangers
+Base Image Variation Autographs,BDC-50,Riley Greene,Detroit Tigers
+Base Image Variation Autographs,BDC-67,Shea Langeliers,Atlanta Braves
+Base Image Variation Autographs,BDC-85,CJ Abrams,San Diego Padres
+Base Image Variation Autographs,BDC-88,Victor Victor Mesa,Miami Marlins
+Base Image Variation Autographs,BDC-93,Wander Franco,Tampa Bay Rays
+Base Image Variation Autographs,BDC-100,Andrew Vaughn,Chicago White Sox
+Base Image Variation Autographs,BDC-134,Joey Bart,San Francisco Giants
+Base Image Variation Autographs,BDC-150,J.J. Bleday,Miami Marlins
+Base Image Variation Autographs,BDC-189,Nick Lodolo,Cincinnati Reds
+Base Image Variation Autographs,BDC-192,Seth Beer,Houston Astros
 Draft Night Autographs,DNA-BB,Brett Baty,New York Mets
 Draft Night Autographs,DNA-BM,Brennan Malone,Arizona Diamondbacks
 Draft Night Autographs,DNA-DE,Daniel Espino,Cleveland Indians
@@ -625,15 +625,15 @@ Franchise Futures Dual Autographs,FFA-RH,Adley Rutschman,Baltimore Orioles
 Franchise Futures Dual Autographs,FFA-RH,Gunnar Henderson,Baltimore Orioles
 Franchise Futures Dual Autographs,FFA-WMA,Brennan Malone,Arizona Diamondbacks
 Franchise Futures Dual Autographs,FFA-WMA,Blake Walston,Arizona Diamondbacks
-Bowman Scouts Draft Pick Breakdown Autographs,BSBA-AM,Alek Manoah,Toronto Blue Jays
-Bowman Scouts Draft Pick Breakdown Autographs,BSBA-AR,Adley Rutschman,Baltimore Orioles
-Bowman Scouts Draft Pick Breakdown Autographs,BSBA-AV,Andrew Vaughn,Chicago White Sox
-Bowman Scouts Draft Pick Breakdown Autographs,BSBA-CA,CJ Abrams,San Diego Padres
-Bowman Scouts Draft Pick Breakdown Autographs,BSBA-JJ,Josh Jung,Texas Rangers
-Bowman Scouts Draft Pick Breakdown Autographs,BSBA-JJB,J.J. Bleday,Miami Marlins
-Bowman Scouts Draft Pick Breakdown Autographs,BSBA-NL,Nick Lodolo,Cincinnati Reds
-Bowman Scouts Draft Pick Breakdown Autographs,BSBA-RG,Riley Greene,Detroit Tigers
-Bowman Scouts Draft Pick Breakdown Autographs,BSBA-SL,Shea Langeliers,Atlanta Braves
+Draft Pick Breakdown Autographs,BSBA-AM,Alek Manoah,Toronto Blue Jays
+Draft Pick Breakdown Autographs,BSBA-AR,Adley Rutschman,Baltimore Orioles
+Draft Pick Breakdown Autographs,BSBA-AV,Andrew Vaughn,Chicago White Sox
+Draft Pick Breakdown Autographs,BSBA-CA,CJ Abrams,San Diego Padres
+Draft Pick Breakdown Autographs,BSBA-JJ,Josh Jung,Texas Rangers
+Draft Pick Breakdown Autographs,BSBA-JJB,J.J. Bleday,Miami Marlins
+Draft Pick Breakdown Autographs,BSBA-NL,Nick Lodolo,Cincinnati Reds
+Draft Pick Breakdown Autographs,BSBA-RG,Riley Greene,Detroit Tigers
+Draft Pick Breakdown Autographs,BSBA-SL,Shea Langeliers,Atlanta Braves
 Class of 2019 Autographs,C19A-AM,Alek Manoah,Toronto Blue Jays
 Class of 2019 Autographs,C19A-AR,Adley Rutschman,Baltimore Orioles
 Class of 2019 Autographs,C19A-AV,Andrew Vaughn,Chicago White Sox

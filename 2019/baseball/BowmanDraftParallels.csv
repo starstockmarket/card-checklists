@@ -7,7 +7,10 @@ Base,Gold,50
 Base,Orange,25
 Base,Red,5
 Base,Black,1
-Base,Printing Plates,1
+Base,Printing Plates Black,1
+Base,Printing Plates Cyan,1
+Base,Printing Plates Magenta,1
+Base,Printing Plates Yellow,1
 Chrome,Refractor,
 Chrome,Sky Blue Refractor,
 Chrome,Purple Refractor,250
@@ -18,8 +21,11 @@ Chrome,Gold Refractor,50
 Chrome,Orange Refractor,25
 Chrome,Red Refractor,5
 Chrome,SuperFractor,1
-Chrome,Printing Plates,1
-Image Variation Autographs,Base,99
+Chrome,Printing Plates Black,1
+Chrome,Printing Plates Cyan,1
+Chrome,Printing Plates Magenta,1
+Chrome,Printing Plates Yellow,1
+Base Image Variation Autographs,Base,99
 Chrome Draft Pick Autographs,Refractor,499
 Chrome Draft Pick Autographs,Purple Refractor,250
 Chrome Draft Pick Autographs,Blue Refractor,150
@@ -34,7 +40,10 @@ Chrome Draft Pick Autographs,Red Refractor,5
 Chrome Draft Pick Autographs,Red Wave Refractor,5
 Chrome Draft Pick Autographs,Black Wave Refractor,1
 Chrome Draft Pick Autographs,SuperFractor,1
-Chrome Draft Pick Autographs,Printing Plates,1
+Chrome Draft Pick Autographs,Printing Plates Black,1
+Chrome Draft Pick Autographs,Printing Plates Cyan,1
+Chrome Draft Pick Autographs,Printing Plates Magenta,1
+Chrome Draft Pick Autographs,Printing Plates Yellow,1
 30th Anniversary Autographs,Base,99
 30th Anniversary Autographs,Orange Refractor,25
 30th Anniversary Autographs,Red Refractor,5
@@ -48,9 +57,9 @@ Draft Night Autographs,Gold Refractor,50
 Draft Night Autographs,Orange Refractor,25
 Draft Night Autographs,Red Refractor,5
 Draft Night Autographs,SuperFractor,1
-Bowman Scouts Draft Pick Breakdown Autographs,Base,99
-Bowman Scouts Draft Pick Breakdown Autographs,Red Refractor,5
-Bowman Scouts Draft Pick Breakdown Autographs,SuperFractor,1
+Draft Pick Breakdown Autographs,Base,99
+Draft Pick Breakdown Autographs,Red Refractor,5
+Draft Pick Breakdown Autographs,SuperFractor,1
 Franchise Futures Dual Autographs,Base,99
 Franchise Futures Dual Autographs,Gold Refractor,50
 Franchise Futures Dual Autographs,Orange Refractor,25
@@ -60,11 +69,11 @@ Franchise Futures Dual Autographs,SuperFractor,1
 30th Anniversary,Orange Refractor,25
 30th Anniversary,Red Refractor,5
 30th Anniversary,SuperFractor,1
-Bowman Scouts Draft Pick Breakdown,Refractor,250
-Bowman Scouts Draft Pick Breakdown,Green Refractor,99
-Bowman Scouts Draft Pick Breakdown,Gold Refractor,50
-Bowman Scouts Draft Pick Breakdown,Red Refractor,5
-Bowman Scouts Draft Pick Breakdown,SuperFractor,1
+Draft Pick Breakdown,Refractor,250
+Draft Pick Breakdown,Green Refractor,99
+Draft Pick Breakdown,Gold Refractor,50
+Draft Pick Breakdown,Red Refractor,5
+Draft Pick Breakdown,SuperFractor,1
 Draft Progression Trios,Refractor,250
 Draft Progression Trios,Green Refractor,99
 Draft Progression Trios,Gold Refractor,50
