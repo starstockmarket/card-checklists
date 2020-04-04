@@ -199,21 +199,21 @@ Prospects,BCP-247,Israel Pineda,Washington Nationals
 Prospects,BCP-248,Shervyen Newton,New York Mets
 Prospects,BCP-249,Clarke Schmidt,New York Yankees
 Prospects,BCP-250,Jo Adell,Los Angeles Angels
-Rookie Short Print Image Variations,3,Jake Bauers,Cleveland Indians
-Rookie Short Print Image Variations,7,Christin Stewart,Detroit Tigers
-Rookie Short Print Image Variations,11,Kolby Allard,Atlanta Braves
-Rookie Short Print Image Variations,16,Chance Adams,New York Yankees
-Rookie Short Print Image Variations,25,Kyle Tucker,Houston Astros
-Rookie Short Print Image Variations,29,Cedric Mullins,Baltimore Orioles
-Rookie Short Print Image Variations,32,Corbin Burnes,Milwaukee Brewers
-Rookie Short Print Image Variations,37,Ryan Borucki,Toronto Blue Jays
-Rookie Short Print Image Variations,42,Chris Shaw,San Francisco Giants
-Rookie Short Print Image Variations,53,Luis Urias,San Diego Padres
-Rookie Short Print Image Variations,58,Justus Sheffield,Seattle Mariners
-Rookie Short Print Image Variations,76,Kyle Wright,Atlanta Braves
-Rookie Short Print Image Variations,82,Michael Kopech,Chicago White Sox
-Rookie Short Print Image Variations,88,Danny Jansen,Toronto Blue Jays
-Rookie Short Print Image Variations,92,Ryan O'Hearn,Kansas City Royals
+Base Image Variations,3,Jake Bauers,Cleveland Indians
+Base Image Variations,7,Christin Stewart,Detroit Tigers
+Base Image Variations,11,Kolby Allard,Atlanta Braves
+Base Image Variations,16,Chance Adams,New York Yankees
+Base Image Variations,25,Kyle Tucker,Houston Astros
+Base Image Variations,29,Cedric Mullins,Baltimore Orioles
+Base Image Variations,32,Corbin Burnes,Milwaukee Brewers
+Base Image Variations,37,Ryan Borucki,Toronto Blue Jays
+Base Image Variations,42,Chris Shaw,San Francisco Giants
+Base Image Variations,53,Luis Urias,San Diego Padres
+Base Image Variations,58,Justus Sheffield,Seattle Mariners
+Base Image Variations,76,Kyle Wright,Atlanta Braves
+Base Image Variations,82,Michael Kopech,Chicago White Sox
+Base Image Variations,88,Danny Jansen,Toronto Blue Jays
+Base Image Variations,92,Ryan O'Hearn,Kansas City Royals
 Stat Tracker,ST-AB,Alec Bohm,Philadelphia Phillies
 Stat Tracker,ST-AK,Andrew Knizner,St. Louis Cardinals
 Stat Tracker,ST-AM,Adonis Medina,Philadelphia Phillies
@@ -298,7 +298,7 @@ AFL Alumni,AFLA-MT,Mike Trout,Los Angeles Angels
 AFL Alumni,AFLA-NA,Nolan Arenado,Colorado Rockies
 AFL Alumni,AFLA-RAJ,Ronald Acuña Jr.,Atlanta Braves
 AFL Alumni,AFLA-RB,Ryan Braun,Milwaukee Brewers
-2018 AFL MVP Short Print,AFLS-BR,Buddy Reed,San Diego Padres
+2018 AFL MVP,AFLS-BR,Buddy Reed,San Diego Padres
 Elite Farmhands,EF-BB,Bo Bichette,Toronto Blue Jays
 Elite Farmhands,EF-CM,Casey Mize,Detroit Tigers
 Elite Farmhands,EF-JA,Jordyn Adams,Los Angeles Angels
@@ -314,10 +314,10 @@ Elite Farmhands,EF-TS,Travis Swaggerty,Pittsburgh Pirates
 Elite Farmhands,EF-VMJ,Victor Mesa Jr.,Miami Marlins
 Elite Farmhands,EF-VVM,Victor Victor Mesa,Miami Marlins
 Elite Farmhands,EF-WF,Wander Franco,Tampa Bay Rays
-Rookie Short Print Image Variation Autographs,11,Kolby Allard,Atlanta Braves
-Rookie Short Print Image Variation Autographs,16,Chance Adams,New York Yankees
-Rookie Short Print Image Variation Autographs,58,Justus Sheffield,Seattle Mariners
-Rookie Short Print Image Variation Autographs,76,Kyle Wright,Atlanta Braves
+Rookie Autographs Image Variations,11,Kolby Allard,Atlanta Braves
+Rookie Autographs Image Variations,16,Chance Adams,New York Yankees
+Rookie Autographs Image Variations,58,Justus Sheffield,Seattle Mariners
+Rookie Autographs Image Variations,76,Kyle Wright,Atlanta Braves
 2018 AFL Fall Stars Autographs,AFL-BR,Buddy Reed,San Diego Padres
 2018 AFL Fall Stars Autographs,AFL-CK,Carter Kieboom,Washington Nationals
 2018 AFL Fall Stars Autographs,AFL-DC,Daz Cameron,Detroit Tigers
@@ -348,7 +348,7 @@ AFL Alumni Autographs,AFLA-KB,Kris Bryant,Chicago Cubs
 AFL Alumni Autographs,AFLA-KD,Khris Davis,Oakland Athletics
 AFL Alumni Autographs,AFLA-MT,Mike Trout,Los Angeles Angels
 AFL Alumni Autographs,AFLA-RAJ,Ronald Acuña Jr.,Atlanta Braves
-2018 AFL MVP Short Print Autographs,AFLS-BR,Buddy Reed,San Diego Padres
+2018 AFL MVP Autographs,AFLS-BR,Buddy Reed,San Diego Padres
 Prospects Autographs,CPA-AC,Alexander Canario,San Francisco Giants
 Prospects Autographs,CPA-AK,Alejandro Kirk,Toronto Blue Jays
 Prospects Autographs,CPA-AKL,Adam Kloffenstein,Toronto Blue Jays

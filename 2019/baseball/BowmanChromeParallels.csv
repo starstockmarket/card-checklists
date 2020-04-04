@@ -7,6 +7,7 @@ Base,Gold Refractor,50
 Base,Orange Refractor,25
 Base,Red Refractor,5
 Base,SuperFractor,1
+Prospects,Purple Shimmer Refractor,
 Prospects,Refractor,499
 Prospects,Purple Refractor,250
 Prospects,Blue Refractor,150
@@ -20,8 +21,8 @@ Prospects,Gold Shimmer Refractor,50
 Prospects,Orange Shimmer Refractor,25
 Prospects,Red Shimmer Refractor,10
 Prospects,Black Shimmer Refractor,5
-Rookie Short Print Image Variation Autographs,Base,25
-Rookie Short Print Image Variation Autographs,SuperFractor,1
+Rookie Autographs Image Variations,Base,25
+Rookie Autographs Image Variations,SuperFractor,1
 Stat Tracker,Atomic Refractor,150
 Stat Tracker,Orange Refractor,25
 Stat Tracker,SuperFractor,1
@@ -45,9 +46,9 @@ Elite Farmhands,SuperFractor,1
 Elite Farmhands Autographs,Orange Refractor,25
 Elite Farmhands Autographs,SuperFractor,1
 All-America Game Autographs,Base,199
-2018 AFL MVP Short Print,Base,250
-2018 AFL MVP Short Print,SuperFractor,1
-2018 AFL MVP Short Print Autographs,Base,100
+2018 AFL MVP,Base,250
+2018 AFL MVP,SuperFractor,1
+2018 AFL MVP Autographs,Base,100
 2018 AFL Fall Stars Autographs,SuperFractor,1
 AFL Alumni Autographs,SuperFractor,1
 Rookie Autographs,Refractor,499
