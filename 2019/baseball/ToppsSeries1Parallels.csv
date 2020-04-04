@@ -2,6 +2,7 @@ Card Family,Parallel,Seq.
 Base,Purple,
 Base,Yellow,
 Base,150th Anniversary,
+Base,All-Star Game,
 Base,Rainbow Foil,
 Base,Gold,2019
 Base,Advanced Stats,150
@@ -11,9 +12,13 @@ Base,Black,67
 Base,Mother's Day Pink,50
 Base,Father's Day Blue,50
 Base,Memorial Day Camo,25
+Base,Foilboard,162
 Base,Platinum,1
-Base,Printing Plates,1
-Base Clear Variation,Base,100
+Base,Printing Plates Black,1
+Base,Printing Plates Cyan,1
+Base,Printing Plates Magenta,1
+Base,Printing Plates Yellow,1
+Base Clear Variations,Base,100
 1984 Topps Baseball Autographs,150th Anniversary,150
 1984 Topps Baseball Autographs,Gold,50
 1984 Topps Baseball Autographs,Red,25
@@ -27,57 +32,56 @@ Legacy of Baseball Autographs,Gold,50
 Legacy of Baseball Autographs,Red,25
 Legacy of Baseball Autographs,Platinum,1
 Legacy of Baseball Dual Autographs,Base,5
-Postseason Performance Autograph,Base,50
-Postseason Performance Autograph,Red,25
-Postseason Performance Autograph,Platinum,1
+Postseason Performance Autographs,Base,50
+Postseason Performance Autographs,Red,25
+Postseason Performance Autographs,Platinum,1
 Revolution of the Game Autographs,Base,199
-World Series Champion Autograph,Base,50
-World Series Champion Autograph,Red,25
-World Series Champion Autograph,Platinum,1
+World Series Champion Autographs,Base,50
+World Series Champion Autographs,Red,25
+World Series Champion Autographs,Platinum,1
 Cut Signatures,Base,1
-Major League Material Autograph,Base,50
-Major League Material Autograph,Red,25
-Major League Material Autograph,Platinum,1
-Postseason Performance Autograph Relic,Base,50
-Postseason Performance Autograph Relic,Red,25
-Postseason Performance Autograph Relic,Platinum,1
-Topps Reverence Autograph Patch,Base,10
-Topps Reverence Autograph Patch,Red,5
-Topps Reverence Autograph Patch,Platinum,1
-World Series Champion Autograph Relic,Base,50
-World Series Champion Autograph Relic,Red,25
-World Series Champion Autograph Relic,Platinum,1
-150th Anniversary Manufactured Medallion Relic Autograph,Base,10
-150th Anniversary Manufactured Patch Relic Autograph,Base,10
-Retro Hat Logo Patch Relic Autograph,Base,10
+Major League Material Autographs,Base,50
+Major League Material Autographs,Red,25
+Major League Material Autographs,Platinum,1
+Postseason Performance Autograph Relics,Base,50
+Postseason Performance Autograph Relics,Red,25
+Postseason Performance Autograph Relics,Platinum,1
+Topps Reverence Autograph Patch Relics,Base,10
+Topps Reverence Autograph Patch Relics,Red,5
+Topps Reverence Autograph Patch Relics,Platinum,1
+World Series Champion Autograph Relics,Base,50
+World Series Champion Autograph Relics,Red,25
+World Series Champion Autograph Relics,Platinum,1
+150th Anniversary Commemorative Medallion Autographs,Base,10
+150th Anniversary Commemorative Patch Autographs,Base,10
+Retro Hat Logo Patch Autographs,Base,10
 1984 Topps Baseball Relics,150th Anniversary,150
 1984 Topps Baseball Relics,Gold,50
 1984 Topps Baseball Relics,Red,25
 1984 Topps Baseball Relics,Platinum,1
 In The Name Relics,Base,1
-Major League Material,150th Anniversary,150
-Major League Material,Gold,50
-Major League Material,Red,25
-Major League Material,Platinum,1
-Postseason Performance Relic,Base,99
-Postseason Performance Relic,Red,25
-Postseason Performance Relic,Platinum,1
-World Series Champion Relic,Base,99
-World Series Champion Relic,Red,25
-World Series Champion Relic,Platinum,1
-150th Anniversary Manufactured Medallion Relic,150th Anniversary,150
-150th Anniversary Manufactured Medallion Relic,Gold,50
-150th Anniversary Manufactured Medallion Relic,Red,25
-150th Anniversary Manufactured Medallion Relic,Platinum,1
-150th Anniversary Manufactured Patch Relic,150th Anniversary,150
-150th Anniversary Manufactured Patch Relic,Gold,50
-150th Anniversary Manufactured Patch Relic,Red,25
-150th Anniversary Manufactured Patch Relic,Platinum,1
-Retro Hat Logo Patch Relic,150th Anniversary,150
-Retro Hat Logo Patch Relic,Gold,50
-Retro Hat Logo Patch Relic,Red,25
-Retro Hat Logo Patch Relic,Platinum,1
-Sketch Cards,Base,1
+Major League Material Relics,150th Anniversary,150
+Major League Material Relics,Gold,50
+Major League Material Relics,Red,25
+Major League Material Relics,Platinum,1
+Postseason Performance Relics,Base,99
+Postseason Performance Relics,Red,25
+Postseason Performance Relics,Platinum,1
+World Series Champion Relics,Base,99
+World Series Champion Relics,Red,25
+World Series Champion Relics,Platinum,1
+150th Anniversary Commemorative Medallions,150th Anniversary,150
+150th Anniversary Commemorative Medallions,Gold,50
+150th Anniversary Commemorative Medallions,Red,25
+150th Anniversary Commemorative Medallions,Platinum,1
+150th Anniversary Commemorative Patches,150th Anniversary,150
+150th Anniversary Commemorative Patches,Gold,50
+150th Anniversary Commemorative Patches,Red,25
+150th Anniversary Commemorative Patches,Platinum,1
+Retro Hat Logo Patches,150th Anniversary,150
+Retro Hat Logo Patches,Gold,50
+Retro Hat Logo Patches,Red,25
+Retro Hat Logo Patches,Platinum,1
 1984 Topps Baseball,150th Anniversary,150
 1984 Topps Baseball,Red,10
 1984 Topps Baseball,Platinum,1
@@ -96,9 +100,9 @@ Evolution of Equipment,Platinum,1
 Evolution of Stadiums,150th Anniversary,150
 Evolution of Stadiums,Red,10
 Evolution of Stadiums,Platinum,1
-Evolution of Team Logos/Team Uniform,150th Anniversary,150
-Evolution of Team Logos/Team Uniform,Red,10
-Evolution of Team Logos/Team Uniform,Platinum,1
+Evolution of Team Uniform,150th Anniversary,150
+Evolution of Team Uniform,Red,10
+Evolution of Team Uniform,Platinum,1
 Cactus League Legends,150th Anniversary,150
 Cactus League Legends,Red,10 
 Cactus League Legends,Platinum,1
