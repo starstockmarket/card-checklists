@@ -1,18 +1,23 @@
 Card Family,Parallel,Seq.
 Base,Purple,
 Base,150th Anniversary,
+Base,All-Star Game,
 Base,Rainbow Foil,
 Base,Gold,2019
-Base,Advanced Stats,150
+Base,Advanced Stat,150
 Base,Vintage Stock,99
 Base,Independence Day,76
 Base,Black,67
 Base,Mother's Day Pink,50
 Base,Father's Day Blue,50
 Base,Memorial Day Camo,25
+Base,Foilboard,162
 Base,Platinum,1
-Base,Printing Plates,1
-Base Clear Variation,Base,10
+Base,Printing Plates Black,1
+Base,Printing Plates Cyan,1
+Base,Printing Plates Magenta,1
+Base,Printing Plates Yellow,1
+Base Clear Variations,Base,10
 1984 Topps Baseball Autographs,150th Anniversary,150
 1984 Topps Baseball Autographs,Gold,50
 1984 Topps Baseball Autographs,Red,25
@@ -21,9 +26,9 @@ Base Clear Variation,Base,10
 1984 Topps Baseball All-Star Autographs,Gold,50
 1984 Topps Baseball All-Star Autographs,Red,25
 1984 Topps Baseball All-Star Autographs,Platinum,1
-150 Years of Baseball Greatest Moments Autographs,Base,25
-150 Years of Baseball Greatest Players Autographs,Base,25
-150 Years of Baseball Greatest Seasons Autographs,Base,25
+150 Years of Professional Baseball Greatest Moments Autographs,Base,25
+150 Years of Professional Baseball Greatest Players Autographs,Base,25
+150 Years of Professional Baseball Greatest Seasons Autographs,Base,25
 Iconic Card Reprints Autographs,Base,25
 Legacy of Baseball Autographs,150th Anniversary,150
 Legacy of Baseball Autographs,Gold,50
@@ -34,41 +39,48 @@ Significant Statistics Autograph,Base,50
 Significant Statistics Autograph,Red,25
 Significant Statistics Autograph,Platinum,1
 Cut Signatures,Base,1
-Major League Material Autograph,Base,50
-Major League Material Autograph,Red,25
-Major League Material Autograph,Platinum,1
+Major League Material Autographs,Base,50
+Major League Material Autographs,Red,25
+Major League Material Autographs,Platinum,1
 Significant Statistics Autograph Relic,Base,50
 Significant Statistics Autograph Relic,Red,25
 Significant Statistics Autograph Relic,Platinum,1
-Topps Reverence Autograph Patch,Base,10
-Topps Reverence Autograph Patch,Red,5
-Topps Reverence Autograph Patch,Platinum,1
-150th Anniversary Manufactured Medallion Autograph,Base,10
-150th Anniversary Manufactured Patch Autograph,Base,10
+Topps Reverence Autograph Patch Relics,Base,10
+Topps Reverence Autograph Patch Relics,Red,5
+Topps Reverence Autograph Patch Relics,Platinum,1
+150th Anniversary Commemorative Medallion Autographs,Base,10
+150th Anniversary Commemorative Patch Autographs,Base,10
 MLB Logo Golden Anniversary Patch Autograph,Base,10
 1984 Topps Baseball Relics,150th Anniversary,150
 1984 Topps Baseball Relics,Gold,50
 1984 Topps Baseball Relics,Red,25
 1984 Topps Baseball Relics,Platinum,1
-1984 Topps Baseball All-Star Relics,Base,99
+1984 Topps Baseball All-Star Relics,150th Anniversary,150
+1984 Topps Baseball All-Star Relics,Gold,50
 1984 Topps Baseball All-Star Relics,Red,25
 1984 Topps Baseball All-Star Relics,Platinum,1
 In The Name Relics,Base,1
-Major League Material,150th Anniversary,150
-Major League Material,Gold,50
-Major League Material,Red,25
-Major League Material,Platinum,1
+Major League Material Relics,150th Anniversary,150
+Major League Material Relics,Gold,50
+Major League Material Relics,Red,25
+Major League Material Relics,Platinum,1
+Aaron Judge Highlights,150th Anniversary,150
+Aaron Judge Highlights,Red,10
+Aaron Judge Highlights,Platinum,1
+Mookie Betts Highlights,150th Anniversary,150
+Mookie Betts Highlights,Red,10
+Mookie Betts Highlights,Platinum,1
 Significant Statistics Relics,Base,99
 Significant Statistics Relics,Red,25
 Significant Statistics Relics,Platinum,1
-150th Anniversary Manufactured Medallion,150th Anniversary,150
-150th Anniversary Manufactured Medallion,Gold,50
-150th Anniversary Manufactured Medallion,Red,25
-150th Anniversary Manufactured Medallion,Platinum,1
-150th Anniversary Manufactured Patch,150th Anniversary,150
-150th Anniversary Manufactured Patch,Gold,50
-150th Anniversary Manufactured Patch,Red,25
-150th Anniversary Manufactured Patch,Platinum,1
+150th Anniversary Commemorative Medallions,150th Anniversary,150
+150th Anniversary Commemorative Medallions,Gold,50
+150th Anniversary Commemorative Medallions,Red,25
+150th Anniversary Commemorative Medallions,Platinum,1
+150th Anniversary Commemorative Patches,150th Anniversary,150
+150th Anniversary Commemorative Patches,Gold,50
+150th Anniversary Commemorative Patches,Red,25
+150th Anniversary Commemorative Patches,Platinum,1
 MLB Logo Golden Anniversary Patch,150th Anniversary,150
 MLB Logo Golden Anniversary Patch,Gold,50
 MLB Logo Golden Anniversary Patch,Red,25
@@ -85,36 +97,39 @@ MLB Logo Golden Anniversary Patch,Platinum,1
 1984 Topps Baseball Rookies,Gold,50
 1984 Topps Baseball Rookies,Red,25
 1984 Topps Baseball Rookies,Platinum,1
-150 Years of Baseball Greatest Moments,Blue,
-150 Years of Baseball Greatest Moments,Black,299
-150 Years of Baseball Greatest Moments,150th Anniversary,150
-150 Years of Baseball Greatest Moments,Gold,50
-150 Years of Baseball Greatest Moments,Red,10
-150 Years of Baseball Greatest Moments,Platinum,1
-150 Years of Baseball Greatest Players,Blue,
-150 Years of Baseball Greatest Players,Black,299
-150 Years of Baseball Greatest Players,150th Anniversary,150
-150 Years of Baseball Greatest Players,Gold,50
-150 Years of Baseball Greatest Players,Red,10
-150 Years of Baseball Greatest Players,Platinum,1
-150 Years of Baseball Greatest Seasons,Blue,
-150 Years of Baseball Greatest Seasons,Black,299
-150 Years of Baseball Greatest Seasons,150th Anniversary,150
-150 Years of Baseball Greatest Seasons,Gold,50
-150 Years of Baseball Greatest Seasons,Red,10
-150 Years of Baseball Greatest Seasons,Platinum,1
+150 Years of Professional Baseball Greatest Moments,Blue,
+150 Years of Professional Baseball Greatest Moments,Black,299
+150 Years of Professional Baseball Greatest Moments,150th Anniversary,150
+150 Years of Professional Baseball Greatest Moments,Gold,50
+150 Years of Professional Baseball Greatest Moments,Red,10
+150 Years of Professional Baseball Greatest Moments,Green,
+150 Years of Professional Baseball Greatest Moments,Platinum,1
+150 Years of Professional Baseball Greatest Players,Blue,
+150 Years of Professional Baseball Greatest Players,Black,299
+150 Years of Professional Baseball Greatest Players,150th Anniversary,150
+150 Years of Professional Baseball Greatest Players,Gold,50
+150 Years of Professional Baseball Greatest Players,Red,10
+150 Years of Professional Baseball Greatest Players,Green,
+150 Years of Professional Baseball Greatest Players,Platinum,1
+150 Years of Professional Baseball Greatest Seasons,Blue,
+150 Years of Professional Baseball Greatest Seasons,Black,299
+150 Years of Professional Baseball Greatest Seasons,150th Anniversary,150
+150 Years of Professional Baseball Greatest Seasons,Gold,50
+150 Years of Professional Baseball Greatest Seasons,Red,10
+150 Years of Professional Baseball Greatest Seasons,Green,
+150 Years of Professional Baseball Greatest Seasons,Platinum,1
 Evolution of Stadiums,Blue,
 Evolution of Stadiums,Black,299
 Evolution of Stadiums,150th Anniversary,150
 Evolution of Stadiums,Gold,50
 Evolution of Stadiums,Red,10
 Evolution of Stadiums,Platinum,1
-Evolution of Team Logos/Team Uniform,Blue,
-Evolution of Team Logos/Team Uniform,Black,299
-Evolution of Team Logos/Team Uniform,150th Anniversary,150
-Evolution of Team Logos/Team Uniform,Gold,50
-Evolution of Team Logos/Team Uniform,Red,10
-Evolution of Team Logos/Team Uniform,Platinum,1
+Evolution of Team Uniform,Blue,
+Evolution of Team Uniform,Black,299
+Evolution of Team Uniform,150th Anniversary,150
+Evolution of Team Uniform,Gold,50
+Evolution of Team Uniform,Red,10
+Evolution of Team Uniform,Platinum,1
 Evolution of Technology,Blue,
 Evolution of Technology,Black,299
 Evolution of Technology,150th Anniversary,150
