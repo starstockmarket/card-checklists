@@ -1,0 +1,677 @@
+Card Set,Number,Player,Team
+Base,501,Michael Chavis,Boston Red Sox
+Base,502,Charlie Morton,Tampa Bay Rays
+Base,503,Michael Brantley,Houston Astros
+Base,504,Vladimir Guerrero Jr.,Toronto Blue Jays
+Base,505,Nick Markakis,Atlanta Braves
+Base,506,Yasmani Grandal,Milwaukee Brewers
+Base,507,Nick Senzel,Cincinnati Reds
+Base,508,Brendan Rodgers,Colorado Rockies
+Base,509,Derek Holland,San Francisco Giants
+Base,510,Lonnie Chisenhall,Pittsburgh Pirates
+Base,511,Phil Ervin,Cincinnati Reds
+Base,512,Keston Hiura,Milwaukee Brewers
+Base,513,Kurt Suzuki,Washington Nationals
+Base,514,Eric Stamets,Cleveland Indians
+Base,515,Sam Gaviglio,Toronto Blue Jays
+Base,516,Eloy Jimenez,Chicago White Sox
+Base,517,Fernando Tatis Jr.,San Diego Padres
+Base,518,Bradley Zimmer,Cleveland Indians
+Base,519,Pete Alonso,New York Mets
+Base,520,Manny Machado,San Diego Padres
+Base,521,Andrew Miller,St. Louis Cardinals
+Base,522,A.J. Pollock,Los Angeles Dodgers
+Base,523,Carter Kieboom,Washington Nationals
+Base,524,Griffin Canning,Los Angeles Angels
+Base,525,Justus Sheffield,Seattle Mariners
+Base,526,Yusei Kikuchi,Seattle Mariners
+Base,527,Jorge Alfaro,Miami Marlins
+Base,528,Joe Kelly,Los Angeles Dodgers
+Base,529,Brian Dozier,Washington Nationals
+Base,530,Patrick Corbin,Washington Nationals
+Base,531,Taylor Clarke,Arizona Diamondbacks
+Base,532,Richie Martin,Baltimore Orioles
+Base,533,Jon Duplantier,Arizona Diamondbacks
+Base,534,Bryce Harper,Philadelphia Phillies
+Base,535,J.T. Realmuto,Philadelphia Phillies
+Base,536,Trevor Cahill,Los Angeles Angels
+Base,537,Austin Meadows,Tampa Bay Rays
+Base,538,Tyler Glasnow,Tampa Bay Rays
+Base,539,Byron Buxton,Minnesota Twins
+Base,540,Alex Verdugo,Los Angeles Dodgers
+Base,541,Yasiel Puig,Cincinnati Reds
+Base,542,Nicky Lopez,Kansas City Royals
+Base,543,Sonny Gray,Cincinnati Reds
+Base,544,Daniel Murphy,Colorado Rockies
+Base,545,Troy Tulowitzki,New York Yankees
+Base,546,DJ LeMahieu,New York Yankees
+Base,547,J.A. Happ,New York Yankees
+Base,548,Adam Ottavino,New York Yankees
+Base,549,Zack Britton,New York Yankees
+Base,550,Brian Goodwin,Los Angeles Angels
+Base,551,Ian Kinsler,San Diego Padres
+Base,552,Josh Harrison,Detroit Tigers
+Base,553,Marwin Gonzalez,Minnesota Twins
+Base,554,Tim Beckham,Seattle Mariners
+Base,555,Jurickson Profar,Oakland Athletics
+Base,556,Jake Bauers,Cleveland Indians
+Base,557,Jed Lowrie,New York Mets
+Base,558,Wilson Ramos,New York Mets
+Base,559,Jeurys Familia,New York Mets
+Base,560,Robinson Chirinos,Houston Astros
+Base,561,Lance Lynn,Texas Rangers
+Base,562,Wade Miley,Houston Astros
+Base,563,Danny Salazar,Cleveland Indians
+Base,564,Tyler O'Neill,St. Louis Cardinals
+Base,565,Matt Davidson,Texas Rangers
+Base,566,Jonathan Lucroy,Los Angeles Angels
+Base,567,Alex Wood,Cincinnati Reds
+Base,568,Nathan Eovaldi,Boston Red Sox
+Base,569,Cody Allen,Los Angeles Angels
+Base,570,Josh Phegley,Oakland Athletics
+Base,571,Kendrys Morales,New York Yankees
+Base,572,Clay Buchholz,Toronto Blue Jays
+Base,573,Matt Shoemaker,Toronto Blue Jays
+Base,574,Craig Kimbrel,Chicago Cubs
+Base,575,Freddy Galvis,Toronto Blue Jays
+Base,576,Elvis Luciano,Toronto Blue Jays
+Base,577,Max Fried,Atlanta Braves
+Base,578,Alex Jackson,Atlanta Braves
+Base,579,Brian McCann,Atlanta Braves
+Base,580,Brandon Woodruff,Milwaukee Brewers
+Base,581,Zach Davies,Milwaukee Brewers
+Base,582,Ben Gamel,Milwaukee Brewers
+Base,583,John Brebbia,St. Louis Cardinals
+Base,584,Adam Wainwright,St. Louis Cardinals
+Base,585,Alex Reyes,St. Louis Cardinals
+Base,586,Daniel Descalso,Chicago Cubs
+Base,587,Victor Caratini,Chicago Cubs
+Base,588,Brad Brach,Chicago Cubs
+Base,589,Eduardo Escobar,Arizona Diamondbacks
+Base,590,Wilmer Flores,Arizona Diamondbacks
+Base,591,Christian Walker,Arizona Diamondbacks
+Base,592,Carson Kelly,Arizona Diamondbacks
+Base,593,Greg Holland,Arizona Diamondbacks
+Base,594,Merrill Kelly,Arizona Diamondbacks
+Base,595,Corbin Martin,Houston Astros
+Base,596,Russell Martin,Los Angeles Dodgers
+Base,597,Austin Barnes,Los Angeles Dodgers
+Base,598,Kevin Pillar,San Francisco Giants
+Base,599,Gerardo Parra,Washington Nationals
+Base,600,Jeff Samardzija,San Francisco Giants
+Base,601,Drew Pomeranz,San Francisco Giants
+Base,602,Connor Joe,Los Angeles Dodgers
+Base,603,Tyler Naquin,Cleveland Indians
+Base,604,Nate Lowe,Tampa Bay Rays
+Base,605,Adam Cimber,Cleveland Indians
+Base,606,Domingo Santana,Seattle Mariners
+Base,607,Omar Narvaez,Seattle Mariners
+Base,608,Braden Bishop,Seattle Mariners
+Base,609,Curtis Granderson,Miami Marlins
+Base,610,Neil Walker,Miami Marlins
+Base,611,Sergio Romo,Miami Marlins
+Base,612,Trevor Richards,Miami Marlins
+Base,613,Cal Quantrill,San Diego Padres
+Base,614,Austin Riley,Atlanta Braves
+Base,615,Skye Bolt,Oakland Athletics
+Base,616,Jorge Lopez,Kansas City Royals
+Base,617,J.D. Davis,New York Mets
+Base,618,Matt Adams,Washington Nationals
+Base,619,Jeremy Hellickson,Washington Nationals
+Base,620,Dwight Smith Jr.,Baltimore Orioles
+Base,621,Drew Jackson,Los Angeles Dodgers
+Base,622,David Hess,Baltimore Orioles
+Base,623,Rio Ruiz,Baltimore Orioles
+Base,624,Francisco Mejia,San Diego Padres
+Base,625,Nick Margevicius,San Diego Padres
+Base,626,Eric Lauer,San Diego Padres
+Base,627,David Robertson,Philadelphia Phillies
+Base,628,Jason Martin,Pittsburgh Pirates
+Base,629,Melky Cabrera,Pittsburgh Pirates
+Base,630,Jung Ho Kang,Pittsburgh Pirates
+Base,631,Adam Frazier,Pittsburgh Pirates
+Base,632,Francisco Liriano,Pittsburgh Pirates
+Base,633,Delino DeShields,Texas Rangers
+Base,634,Asdrubal Cabrera,Texas Rangers
+Base,635,Logan Forsythe,Texas Rangers
+Base,636,Yandy Diaz,Tampa Bay Rays
+Base,637,Ji-Man Choi,Tampa Bay Rays
+Base,638,Avisail Garcia,Tampa Bay Rays
+Base,639,Jose Alvarado,Tampa Bay Rays
+Base,640,Blake Swihart,Arizona Diamondbacks
+Base,641,Matt Barnes,Boston Red Sox
+Base,642,Curt Casali,Cincinnati Reds
+Base,643,Jose Iglesias,Cincinnati Reds
+Base,644,Derek Dietrich,Cincinnati Reds
+Base,645,Tanner Roark,Cincinnati Reds
+Base,646,Amir Garrett,Cincinnati Reds
+Base,647,Josh Fuentes,Colorado Rockies
+Base,648,Mark Reynolds,Colorado Rockies
+Base,649,Ryan McMahon,Colorado Rockies
+Base,650,Homer Bailey,Kansas City Royals
+Base,651,Martin Maldonado,Kansas City Royals
+Base,652,Richard Lovelady,Kansas City Royals
+Base,653,Kyle Zimmer,Kansas City Royals
+Base,654,Ian Kennedy,Kansas City Royals
+Base,655,JaCoby Jones,Detroit Tigers
+Base,656,Jordy Mercer,Detroit Tigers
+Base,657,Matt Moore,Detroit Tigers
+Base,658,Tyson Ross,Detroit Tigers
+Base,659,Grayson Greiner,Detroit Tigers
+Base,660,Jake Cave,Minnesota Twins
+Base,661,Kyle Gibson,Minnesota Twins
+Base,662,Michael Pineda,Minnesota Twins
+Base,663,Brett Gardner,New York Yankees
+Base,664,Domingo German,New York Yankees
+Base,665,John Means,Baltimore Orioles
+Base,666,Jesus Sucre,Baltimore Orioles
+Base,667,Brandon Kintzler,Chicago Cubs
+Base,668,Leury Garcia,Chicago White Sox
+Base,669,Kelvin Herrera,Chicago White Sox
+Base,670,Kevin Plawecki,Cleveland Indians
+Base,671,Max Moroff,Cleveland Indians
+Base,672,Brandon Brennan,Seattle Mariners
+Base,673,Hansel Robles,Los Angeles Angels
+Base,674,Matt Harvey,Los Angeles Angels
+Base,675,Tommy La Stella,Los Angeles Angels
+Base,676,Ryan Pressly,Houston Astros
+Base,677,Brett Anderson,Oakland Athletics
+Base,678,Billy McKinney,Toronto Blue Jays
+Base,679,Aaron Sanchez,Toronto Blue Jays
+Base,680,Clayton Richard,Toronto Blue Jays
+Base,681,Cole Tucker,Pittsburgh Pirates
+Base,682,Charlie Culberson,Atlanta Braves
+Base,683,Junior Guerra,Milwaukee Brewers
+Base,684,Pedro Avila,San Diego Padres
+Base,685,Anthony DeSclafani,Cincinnati Reds
+Base,686,Shelby Miller,Texas Rangers
+Base,687,Scott Oberg,Colorado Rockies
+Base,688,Jake Marisnick,Houston Astros
+Base,689,Terrance Gore,Kansas City Royals
+Base,690,Scott Alexander,Los Angeles Dodgers
+Base,691,David Freese,Los Angeles Dodgers
+Base,692,Nick Anderson,Miami Marlins
+Base,693,Renato Nunez,Baltimore Orioles
+Base,694,Ryan Brasier,Boston Red Sox
+Base,695,Raimel Tapia,Colorado Rockies
+Base,696,Josh Sborz,Los Angeles Dodgers
+Base,697,Travis Bergen,San Francisco Giants
+Base,698,Joe Harvey,New York Yankees
+Base,699,Caleb Smith,Miami Marlins
+Base,700,Nick Kingham,Pittsburgh Pirates
+Base Chrome Variations,THC-501,Michael Chavis,Boston Red Sox
+Base Chrome Variations,THC-502,Charlie Morton,Tampa Bay Rays
+Base Chrome Variations,THC-503,Michael Brantley,Houston Astros
+Base Chrome Variations,THC-504,Vladimir Guerrero Jr.,Toronto Blue Jays
+Base Chrome Variations,THC-505,Nick Markakis,Atlanta Braves
+Base Chrome Variations,THC-506,Yasmani Grandal,Milwaukee Brewers
+Base Chrome Variations,THC-507,Nick Senzel,Cincinnati Reds
+Base Chrome Variations,THC-508,Brendan Rodgers,Colorado Rockies
+Base Chrome Variations,THC-512,Keston Hiura,Milwaukee Brewers
+Base Chrome Variations,THC-516,Eloy Jimenez,Chicago White Sox
+Base Chrome Variations,THC-517,Fernando Tatis Jr.,San Diego Padres
+Base Chrome Variations,THC-519,Pete Alonso,New York Mets
+Base Chrome Variations,THC-520,Manny Machado,San Diego Padres
+Base Chrome Variations,THC-521,Andrew Miller,St. Louis Cardinals
+Base Chrome Variations,THC-522,A.J. Pollock,Los Angeles Dodgers
+Base Chrome Variations,THC-523,Carter Kieboom,Washington Nationals
+Base Chrome Variations,THC-525,Justus Sheffield,Seattle Mariners
+Base Chrome Variations,THC-526,Yusei Kikuchi,Seattle Mariners
+Base Chrome Variations,THC-527,Jorge Alfaro,Miami Marlins
+Base Chrome Variations,THC-529,Brian Dozier,Washington Nationals
+Base Chrome Variations,THC-530,Patrick Corbin,Washington Nationals
+Base Chrome Variations,THC-532,Richie Martin,Baltimore Orioles
+Base Chrome Variations,THC-533,Jon Duplantier,Arizona Diamondbacks
+Base Chrome Variations,THC-534,Bryce Harper,Philadelphia Phillies
+Base Chrome Variations,THC-535,J.T. Realmuto,Philadelphia Phillies
+Base Chrome Variations,THC-537,Austin Meadows,Tampa Bay Rays
+Base Chrome Variations,THC-538,Tyler Glasnow,Tampa Bay Rays
+Base Chrome Variations,THC-539,Byron Buxton,Minnesota Twins
+Base Chrome Variations,THC-540,Alex Verdugo,Los Angeles Dodgers
+Base Chrome Variations,THC-541,Yasiel Puig,Cincinnati Reds
+Base Chrome Variations,THC-542,Nicky Lopez,Kansas City Royals
+Base Chrome Variations,THC-543,Sonny Gray,Cincinnati Reds
+Base Chrome Variations,THC-544,Daniel Murphy,Colorado Rockies
+Base Chrome Variations,THC-545,Troy Tulowitzki,New York Yankees
+Base Chrome Variations,THC-546,DJ LeMahieu,New York Yankees
+Base Chrome Variations,THC-547,J.A. Happ,New York Yankees
+Base Chrome Variations,THC-548,Adam Ottavino,New York Yankees
+Base Chrome Variations,THC-549,Zack Britton,New York Yankees
+Base Chrome Variations,THC-551,Ian Kinsler,San Diego Padres
+Base Chrome Variations,THC-556,Jake Bauers,Cleveland Indians
+Base Chrome Variations,THC-558,Wilson Ramos,New York Mets
+Base Chrome Variations,THC-563,Danny Salazar,Cleveland Indians
+Base Chrome Variations,THC-564,Tyler O'Neill,St. Louis Cardinals
+Base Chrome Variations,THC-568,Nathan Eovaldi,Boston Red Sox
+Base Chrome Variations,THC-701,Victor Robles,Washington Nationals
+Base Chrome Variations,THC-702,Andrew McCutchen,Philadelphia Phillies
+Base Chrome Variations,THC-703,Chris Paddack,San Diego Padres
+Base Chrome Variations,THC-709,Gio Gonzalez,Milwaukee Brewers
+Base Chrome Variations,THC-710,Cameron Maybin,New York Yankees
+Base Chrome Variations,THC-725,Ichiro,Seattle Mariners
+Rookie Performers,RP-1,Vladimir Guerrero Jr.,Toronto Blue Jays
+Rookie Performers,RP-2,Yusei Kikuchi,Seattle Mariners
+Rookie Performers,RP-3,Pete Alonso,New York Mets
+Rookie Performers,RP-4,Chris Paddack,San Diego Padres
+Rookie Performers,RP-5,Jon Duplantier,Arizona Diamondbacks
+Rookie Performers,RP-6,Kyle Tucker,Houston Astros
+Rookie Performers,RP-7,Eloy Jimenez,Chicago White Sox
+Rookie Performers,RP-8,Brendan Rodgers,Colorado Rockies
+Rookie Performers,RP-9,Nick Senzel,Cincinnati Reds
+Rookie Performers,RP-10,Michael Chavis,Boston Red Sox
+Rookie Performers,RP-11,Willians Astudillo,Minnesota Twins
+Rookie Performers,RP-12,Fernando Tatis Jr.,San Diego Padres
+Rookie Performers,RP-13,Touki Toussaint,Atlanta Braves
+Rookie Performers,RP-14,Keston Hiura,Milwaukee Brewers
+Rookie Performers,RP-15,Carter Kieboom,Washington Nationals
+Now and Then,NT-1,Paul Goldschmidt,St. Louis Cardinals
+Now and Then,NT-2,Christian Yelich,Milwaukee Brewers
+Now and Then,NT-3,Elvis Luciano,Toronto Blue Jays
+Now and Then,NT-4,Zack Greinke,Arizona Diamondbacks
+Now and Then,NT-5,Jacob deGrom,New York Mets
+Now and Then,NT-6,Trevor Bauer,Cleveland Indians
+Now and Then,NT-7,Ryan Braun,Milwaukee Brewers
+Now and Then,NT-8,Shane Greene,Detroit Tigers
+Now and Then,NT-9,Khris Davis,Oakland Athletics
+Now and Then,NT-10,Taylor Clarke,Arizona Diamondbacks
+Now and Then,NT-11,Nolan Arenado,Colorado Rockies
+Now and Then,NT-12,Vladimir Guerrero Jr.,Toronto Blue Jays
+Now and Then,NT-13,Cody Bellinger,Los Angeles Dodgers
+Now and Then,NT-14,Carter Kieboom,Washington Nationals
+Now and Then,NT-15,Albert Pujols,Los Angeles Angels
+Combo Cards,CC-1,Fernando Tatis Jr.,San Diego Padres
+Combo Cards,CC-1,Manny Machado,San Diego Padres
+Combo Cards,CC-2,Bryce Harper,Philadelphia Phillies
+Combo Cards,CC-2,Rhys Hoskins,Philadelphia Phillies
+Combo Cards,CC-3,Gleyber Torres,New York Yankees
+Combo Cards,CC-3,Miguel Andujar,New York Yankees
+Combo Cards,CC-4,Yusei Kikuchi,Seattle Mariners
+Combo Cards,CC-4,Ichiro,Seattle Mariners
+Combo Cards,CC-5,Paul Goldschmidt,St. Louis Cardinals
+Combo Cards,CC-5,Yadier Molina,St. Louis Cardinals
+Combo Cards,CC-6,Justin Verlander,Houston Astros
+Combo Cards,CC-6,Jose Altuve,Houston Astros
+Combo Cards,CC-7,Robinson Cano,New York Mets
+Combo Cards,CC-7,Amed Rosario,New York Mets
+Combo Cards,CC-8,Max Muncy,Los Angeles Dodgers
+Combo Cards,CC-8,Cody Bellinger,Los Angeles Dodgers
+Combo Cards,CC-9,Joey Votto,Cincinnati Reds
+Combo Cards,CC-9,Yasiel Puig,Cincinnati Reds
+Combo Cards,CC-10,Christian Yelich,Milwaukee Brewers
+Combo Cards,CC-10,Lorenzo Cain,Milwaukee Brewers
+Award Winners,AW-1,Mookie Betts,Boston Red Sox
+Award Winners,AW-2,Christian Yelich,Milwaukee Brewers
+Award Winners,AW-3,Blake Snell,Tampa Bay Rays
+Award Winners,AW-4,Jacob deGrom,New York Mets
+Award Winners,AW-5,Shohei Ohtani,Los Angeles Angels
+Award Winners,AW-6,Ronald Acuña Jr.,Atlanta Braves
+Award Winners,AW-7,Steve Pearce,Boston Red Sox
+Award Winners,AW-8,Alex Bregman,Houston Astros
+Award Winners,AW-9,J.D. Martinez,Boston Red Sox
+Award Winners,AW-10,Christian Yelich,Milwaukee Brewers
+The Hammer’s Greatest Hits,THGH-1,Hank Aaron,Atlanta Braves
+The Hammer’s Greatest Hits,THGH-2,Hank Aaron,Milwaukee Braves
+The Hammer’s Greatest Hits,THGH-3,Hank Aaron,Milwaukee Braves
+The Hammer’s Greatest Hits,THGH-4,Hank Aaron,Milwaukee Braves
+The Hammer’s Greatest Hits,THGH-5,Hank Aaron,Milwaukee Braves
+The Hammer’s Greatest Hits,THGH-6,Hank Aaron,Milwaukee Braves
+The Hammer’s Greatest Hits,THGH-7,Hank Aaron,Atlanta Braves
+The Hammer’s Greatest Hits,THGH-8,Hank Aaron,Atlanta Braves
+The Hammer’s Greatest Hits,THGH-9,Hank Aaron,Atlanta Braves
+The Hammer’s Greatest Hits,THGH-10,Hank Aaron,Atlanta Braves
+The Hammer’s Greatest Hits,THGH-11,Hank Aaron,Milwaukee Brewers
+The Hammer’s Greatest Hits,THGH-12,Hank Aaron,Milwaukee Braves
+The Hammer’s Greatest Hits,THGH-13,Hank Aaron,Milwaukee Braves
+The Hammer’s Greatest Hits,THGH-14,Hank Aaron,Milwaukee Braves
+The Hammer’s Greatest Hits,THGH-15,Hank Aaron,Atlanta Braves
+1970 Cloth Stickers,16,Shohei Ohtani,Los Angeles Angels
+1970 Cloth Stickers,17,Eloy Jimenez,Chicago White Sox
+1970 Cloth Stickers,18,Fernando Tatis Jr.,San Diego Padres
+1970 Cloth Stickers,19,Pete Alonso,New York Mets
+1970 Cloth Stickers,20,Manny Machado,San Diego Padres
+1970 Cloth Stickers,21,Yusei Kikuchi,Seattle Mariners
+1970 Cloth Stickers,22,Bryce Harper,Philadelphia Phillies
+1970 Cloth Stickers,23,Ichiro,Seattle Mariners
+1970 Cloth Stickers,24,Cody Bellinger,Los Angeles Dodgers
+1970 Cloth Stickers,25,Christian Yelich,Milwaukee Brewers
+1970 Cloth Stickers,26,Mike Trout,Los Angeles Angels
+1970 Cloth Stickers,27,Jose Altuve,Houston Astros
+1970 Cloth Stickers,28,Victor Robles,Washington Nationals
+1970 Cloth Stickers,29,Vladimir Guerrero Jr.,Toronto Blue Jays
+1970 Cloth Stickers,30,Javier Baez,Chicago Cubs
+1970 Candy Lids,16,Kris Bryant,Chicago Cubs
+1970 Candy Lids,17,Shohei Ohtani,Los Angeles Angels
+1970 Candy Lids,18,Aaron Judge,New York Yankees
+1970 Candy Lids,19,Mookie Betts,Boston Red Sox
+1970 Candy Lids,20,Pete Alonso,New York Mets
+1970 Candy Lids,21,Fernando Tatis Jr.,San Diego Padres
+1970 Candy Lids,22,Christian Yelich,Milwaukee Brewers
+1970 Candy Lids,23,Eloy Jimenez,Chicago White Sox
+1970 Candy Lids,24,Cody Bellinger,Los Angeles Dodgers
+1970 Candy Lids,25,Ronald Acuña Jr.,Atlanta Braves
+1970 Candy Lids,26,Juan Soto,Washington Nationals
+1970 Candy Lids,27,Manny Machado,San Diego Padres
+1970 Candy Lids,28,Paul Goldschmidt,St. Louis Cardinals
+1970 Candy Lids,29,Rhys Hoskins,Philadelphia Phillies
+1970 Candy Lids,30,Vladimir Guerrero Jr.,Toronto Blue Jays
+1970 Topps Scratch-Offs,16,Max Scherzer,Washington Nationals
+1970 Topps Scratch-Offs,17,Trey Mancini,Baltimore Orioles
+1970 Topps Scratch-Offs,18,Eric Hosmer,San Diego Padres
+1970 Topps Scratch-Offs,19,Rhys Hoskins,Philadelphia Phillies
+1970 Topps Scratch-Offs,20,Starling Marte,Pittsburgh Pirates
+1970 Topps Scratch-Offs,21,Elvis Andrus,Texas Rangers
+1970 Topps Scratch-Offs,22,Blake Snell,Tampa Bay Rays
+1970 Topps Scratch-Offs,23,Mookie Betts,Boston Red Sox
+1970 Topps Scratch-Offs,24,Joey Votto,Cincinnati Reds
+1970 Topps Scratch-Offs,25,Nolan Arenado,Colorado Rockies
+1970 Topps Scratch-Offs,26,Salvador Perez,Kansas City Royals
+1970 Topps Scratch-Offs,27,Miguel Cabrera,Detroit Tigers
+1970 Topps Scratch-Offs,28,Jose Berrios,Minnesota Twins
+1970 Topps Scratch-Offs,29,Jose Abreu,Chicago White Sox
+1970 Topps Scratch-Offs,30,Aaron Judge,New York Yankees
+1970 Player Story Booklets,16,Mookie Betts,Boston Red Sox
+1970 Player Story Booklets,17,Jacob deGrom,New York Mets
+1970 Player Story Booklets,18,Christian Yelich,Milwaukee Brewers
+1970 Player Story Booklets,19,Manny Machado,San Diego Padres
+1970 Player Story Booklets,20,Jose Berrios,Minnesota Twins
+1970 Player Story Booklets,21,Juan Soto,Washington Nationals
+1970 Player Story Booklets,22,Blake Snell,Tampa Bay Rays
+1970 Player Story Booklets,23,Francisco Lindor,Cleveland Indians
+1970 Player Story Booklets,24,Khris Davis,Oakland Athletics
+1970 Player Story Booklets,25,Lewis Brinson,Miami Marlins
+1970 Player Story Booklets,26,Trey Mancini,Baltimore Orioles
+1970 Player Story Booklets,27,Eloy Jimenez,Chicago White Sox
+1970 Player Story Booklets,28,Zack Greinke,Arizona Diamondbacks
+1970 Player Story Booklets,29,Vladimir Guerrero Jr.,Toronto Blue Jays
+1970 Player Story Booklets,30,Starling Marte,Pittsburgh Pirates
+1970 Poster Box Loader,31,Mike Trout,Los Angeles Angels
+1970 Poster Box Loader,32,Carlos Correa,Houston Astros
+1970 Poster Box Loader,33,Stephen Piscotty,Oakland Athletics
+1970 Poster Box Loader,34,Vladimir Guerrero Jr.,Toronto Blue Jays
+1970 Poster Box Loader,35,Freddie Freeman,Atlanta Braves
+1970 Poster Box Loader,36,Lorenzo Cain,Milwaukee Brewers
+1970 Poster Box Loader,37,Yadier Molina,St. Louis Cardinals
+1970 Poster Box Loader,38,Anthony Rizzo,Chicago Cubs
+1970 Poster Box Loader,39,Zack Greinke,Arizona Diamondbacks
+1970 Poster Box Loader,40,Corey Seager,Los Angeles Dodgers
+1970 Poster Box Loader,41,Evan Longoria,San Francisco Giants
+1970 Poster Box Loader,42,Jose Ramirez,Cleveland Indians
+1970 Poster Box Loader,43,Yusei Kikuchi,Seattle Mariners
+1970 Poster Box Loader,44,Brian Anderson,Miami Marlins
+1970 Poster Box Loader,45,Jacob deGrom,New York Mets
+1970 Poster Box Loader,46,Max Scherzer,Washington Nationals
+1970 Poster Box Loader,47,Jonathan Villar,Baltimore Orioles
+1970 Poster Box Loader,48,Manny Machado,San Diego Padres
+1970 Poster Box Loader,49,Bryce Harper,Philadelphia Phillies
+1970 Poster Box Loader,50,Felipe Vázquez,Pittsburgh Pirates
+1970 Poster Box Loader,51,Joey Gallo,Texas Rangers
+1970 Poster Box Loader,52,Austin Meadows,Tampa Bay Rays
+1970 Poster Box Loader,53,J.D. Martinez,Boston Red Sox
+1970 Poster Box Loader,54,Yasiel Puig,Cincinnati Reds
+1970 Poster Box Loader,55,Trevor Story,Colorado Rockies
+1970 Poster Box Loader,56,Whit Merrifield,Kansas City Royals
+1970 Poster Box Loader,57,Nicholas Castellanos,Detroit Tigers
+1970 Poster Box Loader,58,Jose Berrios,Minnesota Twins
+1970 Poster Box Loader,59,Eloy Jimenez,Chicago White Sox
+1970 Poster Box Loader,60,Giancarlo Stanton,New York Yankees
+1970 Topps Super Baseball Box Loader,16,Aaron Judge,New York Yankees
+1970 Topps Super Baseball Box Loader,17,Cody Bellinger,Los Angeles Dodgers
+1970 Topps Super Baseball Box Loader,18,Bryce Harper,Philadelphia Phillies
+1970 Topps Super Baseball Box Loader,19,Christian Yelich,Milwaukee Brewers
+1970 Topps Super Baseball Box Loader,20,Manny Machado,San Diego Padres
+1970 Topps Super Baseball Box Loader,21,Ichiro,Seattle Mariners
+1970 Topps Super Baseball Box Loader,22,Hank Aaron,Atlanta Braves
+1970 Topps Super Baseball Box Loader,23,Willie Mays,San Francisco Giants
+1970 Topps Super Baseball Box Loader,24,Jim Palmer,Baltimore Orioles
+1970 Topps Super Baseball Box Loader,25,Carter Kieboom,Washington Nationals
+1970 Topps Super Baseball Box Loader,26,Yusei Kikuchi,Seattle Mariners
+1970 Topps Super Baseball Box Loader,27,Eloy Jimenez,Chicago White Sox
+1970 Topps Super Baseball Box Loader,28,Fernando Tatis Jr.,San Diego Padres
+1970 Topps Super Baseball Box Loader,29,Pete Alonso,New York Mets
+1970 Topps Super Baseball Box Loader,30,Vladimir Guerrero Jr.,Toronto Blue Jays
+Clubhouse Collection Autograph Relics High Number,CCAR-AK,Al Kaline,Detroit Tigers
+Clubhouse Collection Autograph Relics High Number,CCAR-BS,Blake Snell,Tampa Bay Rays
+Clubhouse Collection Autograph Relics High Number,CCAR-CY,Carl Yastrzemski,Boston Red Sox
+Clubhouse Collection Autograph Relics High Number,CCAR-DS,Don Sutton,Los Angeles Dodgers
+Clubhouse Collection Autograph Relics High Number,CCAR-FL,Francisco Lindor,Cleveland Indians
+Clubhouse Collection Autograph Relics High Number,CCAR-JD,Jacob deGrom,New York Mets
+Clubhouse Collection Autograph Relics High Number,CCAR-JS,Juan Soto,Washington Nationals
+Clubhouse Collection Autograph Relics High Number,CCAR-KB,Kris Bryant,Chicago Cubs
+Clubhouse Collection Autograph Relics High Number,CCAR-MA,Miguel Andujar,New York Yankees
+Clubhouse Collection Autograph Relics High Number,CCAR-MC,Matt Carpenter,St. Louis Cardinals
+Clubhouse Collection Autograph Relics High Number,CCAR-MM,Miles Mikolas,St. Louis Cardinals
+Clubhouse Collection Autograph Relics High Number,CCAR-NR,Nolan Ryan,New York Mets
+Clubhouse Collection Autograph Relics High Number,CCAR-RH,Rhys Hoskins,Philadelphia Phillies
+Clubhouse Collection Autograph Relics High Number,CCAR-SO,Shohei Ohtani,Los Angeles Angels
+Clubhouse Collection Autograph Relics High Number,CCAR-TP,Tony Pérez,Cincinnati Reds
+Clubhouse Collection Dual Autograph Relics High Number,CCDAR-KC,Miguel Cabrera,Detroit Tigers
+Clubhouse Collection Dual Autograph Relics High Number,CCDAR-KC,Al Kaline,Detroit Tigers
+Clubhouse Collection Dual Autograph Relics High Number,CCDAR-MG,Paul Goldschmidt,St. Louis Cardinals
+Clubhouse Collection Dual Autograph Relics High Number,CCDAR-MG,Yadier Molina,St. Louis Cardinals
+Clubhouse Collection Dual Autograph Relics High Number,CCDAR-RD,Jacob deGrom,New York Mets
+Clubhouse Collection Dual Autograph Relics High Number,CCDAR-RD,Nolan Ryan,New York Mets
+Clubhouse Collection Dual Autograph Relics High Number,CCDAR-TO,Shohei Ohtani,Los Angeles Angels
+Clubhouse Collection Dual Autograph Relics High Number,CCDAR-TO,Mike Trout,Los Angeles Angels
+Real One Autographs High Number,ROA-AJ,Aaron Judge,New York Yankees
+Real One Autographs High Number,ROA-AK,Al Kaline,Detroit Tigers
+Real One Autographs High Number,ROA-AR,Anthony Rizzo,Chicago Cubs
+Real One Autographs High Number,ROA-BG,Bob Gibson,St. Louis Cardinals
+Real One Autographs High Number,ROA-BR,Brendan Rodgers,Colorado Rockies
+Real One Autographs High Number,ROA-CK,Carter Kieboom,Washington Nationals
+Real One Autographs High Number,ROA-CM,Cedric Mullins,Baltimore Orioles
+Real One Autographs High Number,ROA-CP,Chris Paddack,San Diego Padres
+Real One Autographs High Number,ROA-CY,Carl Yastrzemski,Boston Red Sox
+Real One Autographs High Number,ROA-DH,Dakota Hudson,St. Louis Cardinals
+Real One Autographs High Number,ROA-DP,David Price,Boston Red Sox
+Real One Autographs High Number,ROA-DR,Dereck Rodriguez,San Francisco Giants
+Real One Autographs High Number,ROA-DS,Don Sutton,Los Angeles Dodgers
+Real One Autographs High Number,ROA-EJ,Eloy Jimenez,Chicago White Sox
+Real One Autographs High Number,ROA-FH,Frank Howard,Washington Senators
+Real One Autographs High Number,ROA-FL,Francisco Lindor,Cleveland Indians
+Real One Autographs High Number,ROA-FT,Fernando Tatis Jr.,San Diego Padres
+Real One Autographs High Number,ROA-HA,Hank Aaron,Atlanta Braves
+Real One Autographs High Number,ROA-JA,Jose Altuve,Houston Astros
+Real One Autographs High Number,ROA-JD,Jacob deGrom,New York Mets
+Real One Autographs High Number,ROA-JH,Josh Hader,Milwaukee Brewers
+Real One Autographs High Number,ROA-JJ,Josh James,Houston Astros
+Real One Autographs High Number,ROA-JM,Jeff McNeil,New York Mets
+Real One Autographs High Number,ROA-JMA,Juan Marichal,San Francisco Giants
+Real One Autographs High Number,ROA-JS,Justus Sheffield,Seattle Mariners
+Real One Autographs High Number,ROA-JSO,Juan Soto,Washington Nationals
+Real One Autographs High Number,ROA-KH,Keston Hiura,Milwaukee Brewers
+Real One Autographs High Number,ROA-KK,Kevin Kramer,Pittsburgh Pirates
+Real One Autographs High Number,ROA-KW,Kyle Wright,Atlanta Braves
+Real One Autographs High Number,ROA-MA,Miguel Andujar,New York Yankees
+Real One Autographs High Number,ROA-MCA,Miguel Cabrera,Detroit Tigers
+Real One Autographs High Number,ROA-MCH,Michael Chavis,Boston Red Sox
+Real One Autographs High Number,ROA-MK,Matt Kemp,Cincinnati Reds
+Real One Autographs High Number,ROA-MKE,Mitch Keller,Pittsburgh Pirates
+Real One Autographs High Number,ROA-MO,Marcell Ozuna,St. Louis Cardinals
+Real One Autographs High Number,ROA-MT,Mike Trout,Los Angeles Angels
+Real One Autographs High Number,ROA-NR,Nolan Ryan,New York Mets
+Real One Autographs High Number,ROA-NS,Noah Syndergaard,New York Mets
+Real One Autographs High Number,ROA-NSE,Nick Senzel,Cincinnati Reds
+Real One Autographs High Number,ROA-OA,Ozzie Albies,Atlanta Braves
+Real One Autographs High Number,ROA-PA,Pete Alonso,New York Mets
+Real One Autographs High Number,ROA-PC,Patrick Corbin,Washington Nationals
+Real One Autographs High Number,ROA-PG,Paul Goldschmidt,St. Louis Cardinals
+Real One Autographs High Number,ROA-RA,Ronald Acuña Jr.,Atlanta Braves
+Real One Autographs High Number,ROA-RC,Rod Carew,Minnesota Twins
+Real One Autographs High Number,ROA-RD,Rafael Devers,Boston Red Sox
+Real One Autographs High Number,ROA-RF,Rollie Fingers,Oakland Athletics
+Real One Autographs High Number,ROA-RH,Rhys Hoskins,Philadelphia Phillies
+Real One Autographs High Number,ROA-RJ,Reggie Jackson,Oakland Athletics
+Real One Autographs High Number,ROA-RT,Rowdy Tellez,Toronto Blue Jays
+Real One Autographs High Number,ROA-SC,Steve Carlton,St. Louis Cardinals
+Real One Autographs High Number,ROA-SG,Scooter Gennett,Cincinnati Reds
+Real One Autographs High Number,ROA-SO,Shohei Ohtani,Los Angeles Angels
+Real One Autographs High Number,ROA-TB,Trevor Bauer,Cleveland Indians
+Real One Autographs High Number,ROA-TO,Tony Oliva,Minnesota Twins
+Real One Autographs High Number,ROA-TP,Tony Perez,Cincinnati Reds
+Real One Autographs High Number,ROA-VG,Vladimir Guerrero Jr.,Toronto Blue Jays
+Real One Autographs High Number,ROA-WA,Willy Adames,Tampa Bay Rays
+Real One Autographs High Number,ROA-WAS,Willians Astudillo,Minnesota Twins
+Real One Autographs High Number,ROA-YK,Yusei Kikuchi,Seattle Mariners
+Real One Dual Autographs High Number,RODA-AB,Alex Bregman,Houston Astros
+Real One Dual Autographs High Number,RODA-AB,Jose Altuve,Houston Astros
+Real One Dual Autographs High Number,RODA-AS,Ronald Acuña Jr.,Atlanta Braves
+Real One Dual Autographs High Number,RODA-AS,Juan Soto,Washington Nationals
+Real One Dual Autographs High Number,RODA-CO,Rod Carew,Minnesota Twins
+Real One Dual Autographs High Number,RODA-CO,Tony Oliva,Minnesota Twins
+Real One Dual Autographs High Number,RODA-GC,Steve Carlton,St. Louis Cardinals
+Real One Dual Autographs High Number,RODA-GC,Bob Gibson,St. Louis Cardinals
+Real One Dual Autographs High Number,RODA-JA,Aaron Judge,New York Yankees
+Real One Dual Autographs High Number,RODA-JA,Miguel Andujar,New York Yankees
+Real One Dual Autographs High Number,RODA-MG,Paul Goldschmidt,St. Louis Cardinals
+Real One Dual Autographs High Number,RODA-MG,Yadier Molina,St. Louis Cardinals
+Real One Dual Autographs High Number,RODA-MP,Juan Marichal,San Francisco Giants
+Real One Dual Autographs High Number,RODA-MP,Buster Posey,San Francisco Giants
+Real One Dual Autographs High Number,RODA-PV,Joey Votto,Cincinnati Reds
+Real One Dual Autographs High Number,RODA-PV,Tony Pérez,Cincinnati Reds
+Real One Dual Autographs High Number,RODA-RD,Nolan Ryan,New York Mets
+Real One Dual Autographs High Number,RODA-RD,Jacob deGrom,New York Mets
+Real One Dual Autographs High Number,RODA-SP,David Price,Boston Red Sox
+Real One Dual Autographs High Number,RODA-SP,Chris Sale,Boston Red Sox
+Real One Dual Autographs High Number,RODA-TO,Shohei Ohtani,Los Angeles Angels
+Real One Dual Autographs High Number,RODA-TO,Mike Trout,Los Angeles Angels
+The Hammer’s Greatest Hits Autographs,1,Hank Aaron,Milwaukee Brewers
+The Hammer’s Greatest Hits Autographs,2,Hank Aaron,Atlanta Braves
+The Hammer’s Greatest Hits Autographs,3,Hank Aaron,Milwaukee Braves
+The Hammer’s Greatest Hits Autographs,4,Hank Aaron,Milwaukee Braves
+The Hammer’s Greatest Hits Autographs,5,Hank Aaron,Atlanta Braves
+The Hammer’s Greatest Hits Autographs,6,Hank Aaron,Milwaukee Braves
+The Hammer’s Greatest Hits Autographs,7,Hank Aaron,Atlanta Braves
+The Hammer’s Greatest Hits Autographs,8,Hank Aaron,Atlanta Braves
+The Hammer’s Greatest Hits Autographs,9,Hank Aaron,Milwaukee Braves
+The Hammer’s Greatest Hits Autographs,10,Hank Aaron,Atlanta Braves
+The Hammer’s Greatest Hits Autographs,11,Hank Aaron,Milwaukee Braves
+The Hammer’s Greatest Hits Autographs,12,Hank Aaron,Milwaukee Braves
+The Hammer’s Greatest Hits Autographs,13,Hank Aaron,Atlanta Braves
+The Hammer’s Greatest Hits Autographs,14,Hank Aaron,Milwaukee Braves
+The Hammer’s Greatest Hits Autographs,15,Hank Aaron,Milwaukee Braves
+Clubhouse Collection Relics High Number,CCR-AA,Albert Almora Jr.,Chicago Cubs
+Clubhouse Collection Relics High Number,CCR-AB,Andrew Benintendi,Boston Red Sox
+Clubhouse Collection Relics High Number,CCR-ABR,Alex Bregman,Houston Astros
+Clubhouse Collection Relics High Number,CCR-AC,Aroldis Chapman,New York Yankees
+Clubhouse Collection Relics High Number,CCR-AM,Adalberto Mondesi,Kansas City Royals
+Clubhouse Collection Relics High Number,CCR-APU,Albert Pujols,Los Angeles Angels
+Clubhouse Collection Relics High Number,CCR-BB,Brandon Belt,San Francisco Giants
+Clubhouse Collection Relics High Number,CCR-BBU,Byron Buxton,Minnesota Twins
+Clubhouse Collection Relics High Number,CCR-BP,Buster Posey,San Francisco Giants
+Clubhouse Collection Relics High Number,CCR-BT,Blake Treinen,Oakland Athletics
+Clubhouse Collection Relics High Number,CCR-CB,Cody Bellinger,Los Angeles Dodgers
+Clubhouse Collection Relics High Number,CCR-CC,Carlos Correa,Houston Astros
+Clubhouse Collection Relics High Number,CCR-CS,CC Sabathia,New York Yankees
+Clubhouse Collection Relics High Number,CCR-DG,Dee Gordon,Seattle Mariners
+Clubhouse Collection Relics High Number,CCR-EA,Elvis Andrus,Texas Rangers
+Clubhouse Collection Relics High Number,CCR-EH,Eric Hosmer,San Diego Padres
+Clubhouse Collection Relics High Number,CCR-FL,Francisco Lindor,Cleveland Indians
+Clubhouse Collection Relics High Number,CCR-GC,Gerrit Cole,Houston Astros
+Clubhouse Collection Relics High Number,CCR-GS,Giancarlo Stanton,New York Yankees
+Clubhouse Collection Relics High Number,CCR-HR,Hyun-Jin Ryu,Los Angeles Dodgers
+Clubhouse Collection Relics High Number,CCR-I,Ichiro,Seattle Mariners
+Clubhouse Collection Relics High Number,CCR-JA,Jesus Aguilar,Milwaukee Brewers
+Clubhouse Collection Relics High Number,CCR-JAL,Jose Altuve,Houston Astros
+Clubhouse Collection Relics High Number,CCR-JB,Javier Baez,Chicago Cubs
+Clubhouse Collection Relics High Number,CCR-JBE,Jose Berrios,Minnesota Twins
+Clubhouse Collection Relics High Number,CCR-JBR,Jackie Bradley Jr.,Boston Red Sox
+Clubhouse Collection Relics High Number,CCR-JD,Josh Donaldson,Atlanta Braves
+Clubhouse Collection Relics High Number,CCR-JG,Joey Gallo,Texas Rangers
+Clubhouse Collection Relics High Number,CCR-JH,Josh Hader,Milwaukee Brewers
+Clubhouse Collection Relics High Number,CCR-JHA,Josh Harrison,Detroit Tigers
+Clubhouse Collection Relics High Number,CCR-JS,Justin Smoak,Toronto Blue Jays
+Clubhouse Collection Relics High Number,CCR-JSO,Juan Soto,Washington Nationals
+Clubhouse Collection Relics High Number,CCR-JT,Julio Teheran,Atlanta Braves
+Clubhouse Collection Relics High Number,CCR-JU,Justin Upton,Los Angeles Angels
+Clubhouse Collection Relics High Number,CCR-JV,Justin Verlander,Houston Astros
+Clubhouse Collection Relics High Number,CCR-KB,Kris Bryant,Chicago Cubs
+Clubhouse Collection Relics High Number,CCR-KF,Kyle Freeland,Colorado Rockies
+Clubhouse Collection Relics High Number,CCR-KM,Ketel Marte,Arizona Diamondbacks
+Clubhouse Collection Relics High Number,CCR-KS,Kyle Seager,Seattle Mariners
+Clubhouse Collection Relics High Number,CCR-LB,Lewis Brinson,Miami Marlins
+Clubhouse Collection Relics High Number,CCR-LC,Lorenzo Cain,Milwaukee Brewers
+Clubhouse Collection Relics High Number,CCR-LU,Luis Urias,San Diego Padres
+Clubhouse Collection Relics High Number,CCR-MA,Miguel Andujar,New York Yankees
+Clubhouse Collection Relics High Number,CCR-MB,Mookie Betts,Boston Red Sox
+Clubhouse Collection Relics High Number,CCR-MM,Manny Machado,San Diego Padres
+Clubhouse Collection Relics High Number,CCR-MO,Marcell Ozuna,St. Louis Cardinals
+Clubhouse Collection Relics High Number,CCR-MS,Miguel Sano,Minnesota Twins
+Clubhouse Collection Relics High Number,CCR-MT,Mike Trout,Los Angeles Angels
+Clubhouse Collection Relics High Number,CCR-NE,Nathan Eovaldi,Boston Red Sox
+Clubhouse Collection Relics High Number,CCR-NS,Noah Syndergaard,New York Mets
+Clubhouse Collection Relics High Number,CCR-OA,Ozzie Albies,Atlanta Braves
+Clubhouse Collection Relics High Number,CCR-PA,Pete Alonso,New York Mets
+Clubhouse Collection Relics High Number,CCR-PG,Paul Goldschmidt,St. Louis Cardinals
+Clubhouse Collection Relics High Number,CCR-RH,Rhys Hoskins,Philadelphia Phillies
+Clubhouse Collection Relics High Number,CCR-RI,Raisel Iglesias,Cincinnati Reds
+Clubhouse Collection Relics High Number,CCR-SO,Shohei Ohtani,Los Angeles Angels
+Clubhouse Collection Relics High Number,CCR-TG,Tyler Glasnow,Tampa Bay Rays
+Clubhouse Collection Relics High Number,CCR-TT,Touki Toussaint,Atlanta Braves
+Clubhouse Collection Relics High Number,CCR-TTU,Trea Turner,Washington Nationals
+Clubhouse Collection Relics High Number,CCR-VG,Vladimir Guerrero Jr.,Toronto Blue Jays
+Clubhouse Collection Relics High Number,CCR-VR,Victor Robles,Washington Nationals
+Clubhouse Collection Relics High Number,CCR-WC,Willson Contreras,Chicago Cubs
+Clubhouse Collection Relics High Number,CCR-YP,Yaisel Puig,Cincinnati Reds
+Clubhouse Collection Dual Relics High Number,CCDR-BR,Anthony Rizzo,Chicago Cubs
+Clubhouse Collection Dual Relics High Number,CCDR-BR,Kris Bryant,Chicago Cubs
+Clubhouse Collection Dual Relics High Number,CCDR-BV,Johnny Bench,Cincinnati Reds
+Clubhouse Collection Dual Relics High Number,CCDR-BV,Joey Votto,Cincinnati Reds
+Clubhouse Collection Dual Relics High Number,CCDR-CS,Willie Stargell,Pittsburgh Pirates
+Clubhouse Collection Dual Relics High Number,CCDR-CS,Roberto Clemente,Pittsburgh Pirates
+Clubhouse Collection Dual Relics High Number,CCDR-JS,Giancarlo Stanton,New York Yankees
+Clubhouse Collection Dual Relics High Number,CCDR-JS,Aaron Judge,New York Yankees
+Clubhouse Collection Dual Relics High Number,CCDR-YM,J.D. Martinez,Boston Red Sox
+Clubhouse Collection Dual Relics High Number,CCDR-YM,Carl Yastrzemski,Boston Red Sox
+Clubhouse Collection Triple Relics High Number,CCTR-ACB,Jose Altuve,Houston Astros
+Clubhouse Collection Triple Relics High Number,CCTR-ACB,Alex Bregman,Houston Astros
+Clubhouse Collection Triple Relics High Number,CCTR-ACB,Carlos Correa,Houston Astros
+Clubhouse Collection Triple Relics High Number,CCTR-BPV,Tony Pérez,Cincinnati Reds
+Clubhouse Collection Triple Relics High Number,CCTR-BPV,Joey Votto,Cincinnati Reds
+Clubhouse Collection Triple Relics High Number,CCTR-BPV,Johnny Bench,Cincinnati Reds
+Clubhouse Collection Triple Relics High Number,CCTR-MJJ,Thurman Munson,New York Yankees
+Clubhouse Collection Triple Relics High Number,CCTR-MJJ,Derek Jeter,New York Yankees
+Clubhouse Collection Triple Relics High Number,CCTR-MJJ,Aaron Judge,New York Yankees
+Clubhouse Collection Triple Relics High Number,CCTR-TOP,Albert Pujols,Los Angeles Angels
+Clubhouse Collection Triple Relics High Number,CCTR-TOP,Mike Trout,Los Angeles Angels
+Clubhouse Collection Triple Relics High Number,CCTR-TOP,Shohei Ohtani,Los Angeles Angels
+Clubhouse Collection Triple Relics High Number,CCTR-YOB,David Ortiz,Boston Red Sox
+Clubhouse Collection Triple Relics High Number,CCTR-YOB,Carl Yastrzemski,Boston Red Sox
+Clubhouse Collection Triple Relics High Number,CCTR-YOB,Mookie Betts,Boston Red Sox
+Clubhouse Collection Quad Relics High Number,CCQR-ACBS,Jose Altuve,Houston Astros
+Clubhouse Collection Quad Relics High Number,CCQR-ACBS,Alex Bregman,Houston Astros
+Clubhouse Collection Quad Relics High Number,CCQR-ACBS,Carlos Correa,Houston Astros
+Clubhouse Collection Quad Relics High Number,CCQR-ACBS,George Springer,Houston Astros
+Clubhouse Collection Quad Relics High Number,CCQR-CSPM,Gregory Polanco,Pittsburgh Pirates
+Clubhouse Collection Quad Relics High Number,CCQR-CSPM,Starling Marte,Pittsburgh Pirates
+Clubhouse Collection Quad Relics High Number,CCQR-CSPM,Roberto Clemente,Pittsburgh Pirates
+Clubhouse Collection Quad Relics High Number,CCQR-CSPM,Willie Stargell,Pittsburgh Pirates
+Clubhouse Collection Quad Relics High Number,CCQR-GSMG,Bob Gibson,St. Louis Cardinals
+Clubhouse Collection Quad Relics High Number,CCQR-GSMG,Ozzie Smith,St. Louis Cardinals
+Clubhouse Collection Quad Relics High Number,CCQR-GSMG,Yadier Molina,St. Louis Cardinals
+Clubhouse Collection Quad Relics High Number,CCQR-GSMG,Paul Goldschmidt,St. Louis Cardinals
+Clubhouse Collection Quad Relics High Number,CCQR-MMJJ,Don Mattingly,New York Yankees
+Clubhouse Collection Quad Relics High Number,CCQR-MMJJ,Derek Jeter,New York Yankees
+Clubhouse Collection Quad Relics High Number,CCQR-MMJJ,Aaron Judge,New York Yankees
+Clubhouse Collection Quad Relics High Number,CCQR-MMJJ,Thurman Munson,New York Yankees
+Clubhouse Collection Quad Relics High Number,CCQR-YBOB,David Ortiz,Boston Red Sox
+Clubhouse Collection Quad Relics High Number,CCQR-YBOB,Wade Boggs,Boston Red Sox
+Clubhouse Collection Quad Relics High Number,CCQR-YBOB,Carl Yastrzemski,Boston Red Sox
+Clubhouse Collection Quad Relics High Number,CCQR-YBOB,Mookie Betts,Boston Red Sox
+Cut Signatures Baseball,70BCS-CF,Curt Flood,St. Louis Cardinals
+Cut Signatures Baseball,70BCS-CG,César Gutiérrez,Detroit Tigers
+Cut Signatures Baseball,70BCS-CM,Carl Morton,Montreal Expos
+Cut Signatures Baseball,70BCS-DM,Dave McNally,Baltimore Orioles
+Cut Signatures Baseball,70BCS-EA,Emmett Ashford,MLB
+Cut Signatures Baseball,70BCS-EC,Earle Combs,New York Yankees
+Cut Signatures Baseball,70BCS-FR,Frank Robinson,Baltimore Orioles
+Cut Signatures Baseball,70BCS-LM,Lee May,Cincinnati Reds
+Cut Signatures Baseball,70BCS-PB,Paul Blair,Baltimore Orioles
+Cut Signatures Baseball,70BCS-SA,Sparky Anderson,Cincinnati Reds
+Cut Signatures Celebrity,70CCS-BC,Billy Casper,No Team
+Cut Signatures Celebrity,70CCS-BL,Burt Lancaster,No Team
+Cut Signatures Celebrity,70CCS-BP,Brian Piccolo,No Team
+Cut Signatures Celebrity,70CCS-CK,Casey Kasem,No Team
+Cut Signatures Celebrity,70CCS-FW,Flip Wilson,No Team
+Cut Signatures Celebrity,70CCS-JF,Joe Frazier,No Team
+Cut Signatures Celebrity,70CCS-MW,Maurice White,No Team
+Cut Signatures Celebrity,70CCS-VL,Vince Lombardi,No Team

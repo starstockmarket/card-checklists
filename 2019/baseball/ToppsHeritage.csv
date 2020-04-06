@@ -471,442 +471,110 @@ Base,399,Kolby Allard,Atlanta Braves
 Base,400,Dean Deetz,Houston Astros
 Base,400,Framber Valdez,Houston Astros
 Base,400,Josh James,Houston Astros
-Base,401,Francisco Lindor,Cleveland Indians
-Base,402,Salvador Perez,Kansas City Royals
-Base,403,Jake Arrieta,Philadelphia Phillies
-Base,404,Kris Bryant,Chicago Cubs
-Base,405,Jon Lester,Chicago Cubs
-Base,406,Anthony Rizzo,Chicago Cubs
-Base,407,George Springer,Houston Astros
-Base,408,Sean Manaea,Oakland Athletics
-Base,409,Jose Altuve,Houston Astros
-Base,410,Christian Yelich,Milwaukee Brewers
-Base,411,Blake Snell,Tampa Bay Rays
-Base,412,Trevor Bauer,Cleveland Indians
-Base,413,Gleyber Torres,New York Yankees
-Base,414,Paul DeJong,St. Louis Cardinals
-Base,415,Bryce Harper,Washington Nationals
-Base,416,Luis Severino,New York Yankees
-Base,417,Jordan Hicks,St. Louis Cardinals
-Base,418,Gary Sanchez,New York Yankees
-Base,419,Jacob deGrom,New York Mets
-Base,420,Kenley Jansen,Los Angeles Dodgers
-Base,421,Justin Upton,Los Angeles Angels
-Base,422,Albert Pujols,Los Angeles Angels
-Base,423,Carlos Correa,Houston Astros
-Base,424,Alex Bregman,Houston Astros
-Base,425,Franmil Reyes,San Diego Padres
-Base,426,Justin Verlander,Houston Astros
-Base,427,Walker Buehler,Los Angeles Dodgers
-Base,428,Trey Mancini,Baltimore Orioles
-Base,429,Gerrit Cole,Houston Astros
-Base,430,Shohei Ohtani,Los Angeles Angels
-Base,431,Brandon Nimmo,New York Mets
-Base,432,Khris Davis,Oakland Athletics
-Base,433,Justin Smoak,Toronto Blue Jays
-Base,434,Stephen Piscotty,Oakland Athletics
-Base,435,Miles Mikolas,St. Louis Cardinals
-Base,436,Ozzie Albies,Atlanta Braves
-Base,437,Lorenzo Cain,Milwaukee Brewers
-Base,438,Matt Carpenter,St. Louis Cardinals
-Base,439,Yadier Molina,St. Louis Cardinals
-Base,440,Javier Baez,Chicago Cubs
-Base,441,Paul Goldschmidt,St. Louis Cardinals
-Base,442,Zack Greinke,Arizona Diamondbacks
-Base,443,Matt Kemp,Los Angeles Dodgers
-Base,444,Kenta Maeda,Los Angeles Dodgers
-Base,445,Buster Posey,San Francisco Giants
-Base,446,Max Muncy,Los Angeles Dodgers
-Base,447,Edwin Encarnacion,Seattle Mariners
-Base,448,Corey Kluber,Cleveland Indians
-Base,449,Dee Gordon,Seattle Mariners
-Base,450,Jean Segura,Philadelphia Phillies
-Base,451,Edwin Diaz,New York Mets
-Base,452,Starlin Castro,Miami Marlins
-Base,453,J.T. Realmuto,Miami Marlins
-Base,454,Max Scherzer,Washington Nationals
-Base,455,Trea Turner,Washington Nationals
-Base,456,Jonathan Schoop,Minnesota Twins
-Base,457,Eric Hosmer,San Diego Padres
-Base,458,Rhys Hoskins,Philadelphia Phillies
-Base,459,Aaron Nola,Philadelphia Phillies
-Base,460,Felipe Vásquez,Pittsburgh Pirates
-Base,461,Shin-Soo Choo,Texas Rangers
-Base,462,Nomar Mazara,Texas Rangers
-Base,463,Kevin Kiermaier,Tampa Bay Rays
-Base,464,Chris Sale,Boston Red Sox
-Base,465,Joey Votto,Cincinnati Reds
-Base,466,Scooter Gennett,Cincinnati Reds
-Base,467,Eugenio Suarez,Cincinnati Reds
-Base,468,Nolan Arenado,Colorado Rockies
-Base,469,Trevor Story,Colorado Rockies
-Base,470,Starling Marte,Pittsburgh Pirates
-Base,471,Charlie Blackmon,Colorado Rockies
-Base,472,Miguel Cabrera,Detroit Tigers
-Base,473,Miguel Andujar,New York Yankees
-Base,474,Giancarlo Stanton,New York Yankees
-Base,475,J.D. Martinez,Boston Red Sox
-Base,476,Jesus Aguilar,Milwaukee Brewers
-Base,477,Mitch Haniger,Seattle Mariners
-Base,478,Brandon Crawford,San Francisco Giants
-Base,479,Jose Berrios,Minnesota Twins
-Base,480,Lourdes Gurriel Jr.,Toronto Blue Jays
-Base,481,Juan Soto,Washington Nationals
-Base,482,Carlos Martinez,St. Louis Cardinals
-Base,483,Jose Abreu,Chicago White Sox
-Base,484,Andrew Benintendi,Boston Red Sox
-Base,485,Mike Trout,Los Angeles Angels
-Base,486,Adam Jones,Baltimore Orioles
-Base,487,Xander Bogaerts,Boston Red Sox
-Base,488,Odubel Herrera,Philadelphia Phillies
-Base,489,Freddie Freeman,Atlanta Braves
-Base,490,Clayton Kershaw,Los Angeles Dodgers
-Base,491,Jose Ramirez,Cleveland Indians
-Base,492,Willson Contreras,Chicago Cubs
-Base,493,Aroldis Chapman,New York Yankees
-Base,494,Wil Myers,San Diego Padres
-Base,495,Sean Doolittle,Washington Nationals
-Base,496,Eric Thames,Milwaukee Brewers
-Base,497,Yonder Alonso,Chicago White Sox
-Base,498,Amed Rosario,New York Mets
-Base,499,Aaron Judge,New York Yankees
-Base,500,Ronald Acuña Jr.,Atlanta Braves
-Chrome Variations,THC-52,Chris Archer,Pittsburgh Pirates
-Chrome Variations,THC-78,Mookie Betts,Boston Red Sox
-Chrome Variations,THC-83,Noah Syndergaard,New York Mets
-Chrome Variations,THC-163,Rafael Devers,Boston Red Sox
-Chrome Variations,THC-401,Francisco Lindor,Cleveland Indians
-Chrome Variations,THC-402,Salvador Perez,Kansas City Royals
-Chrome Variations,THC-403,Jake Arrieta,Philadelphia Phillies
-Chrome Variations,THC-404,Kris Bryant,Chicago Cubs
-Chrome Variations,THC-405,Jon Lester,Chicago Cubs
-Chrome Variations,THC-406,Anthony Rizzo,Chicago Cubs
-Chrome Variations,THC-407,George Springer,Houston Astros
-Chrome Variations,THC-408,Sean Manaea,Oakland Athletics
-Chrome Variations,THC-409,Jose Altuve,Houston Astros
-Chrome Variations,THC-410,Christian Yelich,Milwaukee Brewers
-Chrome Variations,THC-411,Blake Snell,Tampa Bay Rays
-Chrome Variations,THC-412,Trevor Bauer,Cleveland Indians
-Chrome Variations,THC-413,Gleyber Torres,New York Yankees
-Chrome Variations,THC-414,Paul DeJong,St. Louis Cardinals
-Chrome Variations,THC-415,Bryce Harper,Washington Nationals
-Chrome Variations,THC-416,Luis Severino,New York Yankees
-Chrome Variations,THC-417,Jordan Hicks,St. Louis Cardinals
-Chrome Variations,THC-418,Gary Sanchez,New York Yankees
-Chrome Variations,THC-419,Jacob deGrom,New York Mets
-Chrome Variations,THC-421,Justin Upton,Los Angeles Angels
-Chrome Variations,THC-422,Albert Pujols,Los Angeles Angels
-Chrome Variations,THC-423,Carlos Correa,Houston Astros
-Chrome Variations,THC-424,Alex Bregman,Houston Astros
-Chrome Variations,THC-426,Justin Verlander,Houston Astros
-Chrome Variations,THC-427,Walker Buehler,Los Angeles Dodgers
-Chrome Variations,THC-428,Trey Mancini,Baltimore Orioles
-Chrome Variations,THC-429,Gerrit Cole,Houston Astros
-Chrome Variations,THC-430,Shohei Ohtani,Los Angeles Angels
-Chrome Variations,THC-431,Brandon Nimmo,New York Mets
-Chrome Variations,THC-432,Khris Davis,Oakland Athletics
-Chrome Variations,THC-433,Justin Smoak,Toronto Blue Jays
-Chrome Variations,THC-434,Stephen Piscotty,Oakland Athletics
-Chrome Variations,THC-435,Miles Mikolas,St. Louis Cardinals
-Chrome Variations,THC-436,Ozzie Albies,Atlanta Braves
-Chrome Variations,THC-437,Lorenzo Cain,Milwaukee Brewers
-Chrome Variations,THC-438,Matt Carpenter,St. Louis Cardinals
-Chrome Variations,THC-439,Yadier Molina,St. Louis Cardinals
-Chrome Variations,THC-440,Javier Baez,Chicago Cubs
-Chrome Variations,THC-441,Paul Goldschmidt,St. Louis Cardinals
-Chrome Variations,THC-442,Zack Greinke,Arizona Diamondbacks
-Chrome Variations,THC-443,Matt Kemp,Los Angeles Dodgers
-Chrome Variations,THC-444,Kenta Maeda,Los Angeles Dodgers
-Chrome Variations,THC-445,Buster Posey,San Francisco Giants
-Chrome Variations,THC-446,Max Muncy,Los Angeles Dodgers
-Chrome Variations,THC-447,Edwin Encarnacion,Cleveland Indians
-Chrome Variations,THC-448,Corey Kluber,Cleveland Indians
-Chrome Variations,THC-449,Dee Gordon,Seattle Mariners
-Chrome Variations,THC-450,Jean Segura,Philadelphia Phillies
-Chrome Variations,THC-451,Edwin Diaz,New York Mets
-Chrome Variations,THC-452,Starlin Castro,Miami Marlins
-Chrome Variations,THC-453,J.T. Realmuto,Miami Marlins
-Chrome Variations,THC-454,Max Scherzer,Washington Nationals
-Chrome Variations,THC-455,Trea Turner,Washington Nationals
-Chrome Variations,THC-456,Jonathan Schoop,Milwaukee Brewers
-Chrome Variations,THC-457,Eric Hosmer,San Diego Padres
-Chrome Variations,THC-458,Rhys Hoskins,Philadelphia Phillies
-Chrome Variations,THC-459,Aaron Nola,Philadelphia Phillies
-Chrome Variations,THC-460,Felipe Vásquez,Pittsburgh Pirates
-Chrome Variations,THC-461,Shin-Soo Choo,Texas Rangers
-Chrome Variations,THC-462,Nomar Mazara,Texas Rangers
-Chrome Variations,THC-463,Kevin Kiermaier,Tampa Bay Rays
-Chrome Variations,THC-464,Chris Sale,Boston Red Sox
-Chrome Variations,THC-465,Joey Votto,Cincinnati Reds
-Chrome Variations,THC-466,Scooter Gennett,Cincinnati Reds
-Chrome Variations,THC-467,Eugenio Suarez,Cincinnati Reds
-Chrome Variations,THC-468,Nolan Arenado,Colorado Rockies
-Chrome Variations,THC-469,Trevor Story,Colorado Rockies
-Chrome Variations,THC-470,Starling Marte,Pittsburgh Pirates
-Chrome Variations,THC-471,Charlie Blackmon,Colorado Rockies
-Chrome Variations,THC-472,Miguel Cabrera,Detroit Tigers
-Chrome Variations,THC-473,Miguel Andujar,New York Yankees
-Chrome Variations,THC-474,Giancarlo Stanton,New York Yankees
-Chrome Variations,THC-475,J.D. Martinez,Boston Red Sox
-Chrome Variations,THC-476,Jesus Aguilar,Milwaukee Brewers
-Chrome Variations,THC-477,Mitch Haniger,Seattle Mariners
-Chrome Variations,THC-478,Brandon Crawford,San Francisco Giants
-Chrome Variations,THC-479,Jose Berrios,Minnesota Twins
-Chrome Variations,THC-480,Lourdes Gurriel Jr.,Toronto Blue Jays
-Chrome Variations,THC-481,Juan Soto,Washington Nationals
-Chrome Variations,THC-483,Jose Abreu,Chicago White Sox
-Chrome Variations,THC-484,Andrew Benintendi,Boston Red Sox
-Chrome Variations,THC-485,Mike Trout,Los Angeles Angels
-Chrome Variations,THC-486,Adam Jones,Baltimore Orioles
-Chrome Variations,THC-487,Xander Bogaerts,Boston Red Sox
-Chrome Variations,THC-488,Odubel Herrera,Philadelphia Phillies
-Chrome Variations,THC-490,Clayton Kershaw,Los Angeles Dodgers
-Chrome Variations,THC-491,Jose Ramirez,Cleveland Indians
-Chrome Variations,THC-493,Aroldis Chapman,New York Yankees
-Chrome Variations,THC-494,Wil Myers,San Diego Padres
-Chrome Variations,THC-498,Amed Rosario,New York Mets
-Chrome Variations,THC-499,Aaron Judge,New York Yankees
-Chrome Variations,THC-500,Ronald Acuña Jr.,Atlanta Braves
-Chrome Variations,THC-7,Michael Kopech,Chicago White Sox
-Chrome Variations,THC-7,Caleb Frare,Chicago White Sox
-Chrome Variations,THC-189,Chance Adams,New York Yankees
-Chrome Variations,THC-189,Jonathan Loaisiga,New York Yankees
-Chrome Variations,THC-227,Cionel Perez,Houston Astros
-Chrome Variations,THC-227,Kyle Tucker,Houston Astros
-Chrome Variations,THC-262,Jacob Nix,San Diego Padres
-Chrome Variations,THC-262,Luis Urias,San Diego Padres
-Mini Variations,17,Sean Newcomb,Atlanta Braves
-Mini Variations,25,Eddie Rosario,Minnesota Twins
-Mini Variations,29,Andrelton Simmons,Los Angeles Angels
-Mini Variations,34,Cody Bellinger,Los Angeles Dodgers
-Mini Variations,47,Zack Godley,Arizona Diamondbacks
-Mini Variations,52,Chris Archer,Pittsburgh Pirates
-Mini Variations,54,Ross Stripling,Los Angeles Dodgers
-Mini Variations,55,Lou Trivino,Oakland Athletics
-Mini Variations,78,Mookie Betts,Boston Red Sox
-Mini Variations,83,Noah Syndergaard,New York Mets
-Mini Variations,98,Nicholas Castellanos,Detroit Tigers
-Mini Variations,100,Masahiro Tanaka,New York Yankees
-Mini Variations,113,Lance McCullers Jr.,Houston Astros
-Mini Variations,114,Didi Gregorius,New York Yankees
-Mini Variations,117,Kyle Schwarber,Chicago Cubs
-Mini Variations,120,Matt Chapman,Oakland Athletics
-Mini Variations,125,Maikel Franco,Philadelphia Phillies
-Mini Variations,136,Carlos Carrasco,Cleveland Indians
-Mini Variations,138,James Paxton,New York Yankees
-Mini Variations,163,Rafael Devers,Boston Red Sox
-Mini Variations,174,Justin Turner,Los Angeles Dodgers
-Mini Variations,188,Corey Dickerson,Pittsburgh Pirates
-Mini Variations,191,David Price,Boston Red Sox
-Mini Variations,253,Kyle Freeland,Colorado Rockies
-Mini Variations,278,Josh Donaldson,Atlanta Braves
-Mini Variations,279,Rick Porcello,Boston Red Sox
-Mini Variations,298,Dereck Rodriguez,San Francisco Giants
-Mini Variations,300,Zack Wheeler,New York Mets
-Mini Variations,335,Josh Hader,Milwaukee Brewers
-Mini Variations,341,Corey Seager,Los Angeles Dodgers
-Mini Variations,347,David Bote,Chicago Cubs
-Mini Variations,370,Mike Moustakas,Milwaukee Brewers
-Mini Variations,401,Francisco Lindor,Cleveland Indians
-Mini Variations,402,Salvador Perez,Kansas City Royals
-Mini Variations,403,Jake Arrieta,Philadelphia Phillies
-Mini Variations,404,Kris Bryant,Chicago Cubs
-Mini Variations,405,Jon Lester,Chicago Cubs
-Mini Variations,406,Anthony Rizzo,Chicago Cubs
-Mini Variations,407,George Springer,Houston Astros
-Mini Variations,408,Sean Manaea,Oakland Athletics
-Mini Variations,409,Jose Altuve,Houston Astros
-Mini Variations,410,Christian Yelich,Milwaukee Brewers
-Mini Variations,411,Blake Snell,Tampa Bay Rays
-Mini Variations,412,Trevor Bauer,Cleveland Indians
-Mini Variations,413,Gleyber Torres,New York Yankees
-Mini Variations,414,Paul DeJong,St. Louis Cardinals
-Mini Variations,415,Bryce Harper,Washington Nationals
-Mini Variations,416,Luis Severino,New York Yankees
-Mini Variations,417,Jordan Hicks,St. Louis Cardinals
-Mini Variations,418,Gary Sanchez,New York Yankees
-Mini Variations,419,Jacob deGrom,New York Mets
-Mini Variations,420,Kenley Jansen,Los Angeles Dodgers
-Mini Variations,421,Justin Upton,Los Angeles Angels
-Mini Variations,422,Albert Pujols,Los Angeles Angels
-Mini Variations,423,Carlos Correa,Houston Astros
-Mini Variations,424,Alex Bregman,Houston Astros
-Mini Variations,425,Franmil Reyes,San Diego Padres
-Mini Variations,426,Justin Verlander,Houston Astros
-Mini Variations,427,Walker Buehler,Los Angeles Dodgers
-Mini Variations,428,Trey Mancini,Baltimore Orioles
-Mini Variations,429,Gerrit Cole,Houston Astros
-Mini Variations,430,Shohei Ohtani,Los Angeles Angels
-Mini Variations,431,Brandon Nimmo,New York Mets
-Mini Variations,432,Khris Davis,Oakland Athletics
-Mini Variations,433,Justin Smoak,Toronto Blue Jays
-Mini Variations,434,Stephen Piscotty,Oakland Athletics
-Mini Variations,435,Miles Mikolas,St. Louis Cardinals
-Mini Variations,436,Ozzie Albies,Atlanta Braves
-Mini Variations,437,Lorenzo Cain,Milwaukee Brewers
-Mini Variations,438,Matt Carpenter,St. Louis Cardinals
-Mini Variations,439,Yadier Molina,St. Louis Cardinals
-Mini Variations,440,Javier Baez,Chicago Cubs
-Mini Variations,441,Paul Goldschmidt,St. Louis Cardinals
-Mini Variations,442,Zack Greinke,Arizona Diamondbacks
-Mini Variations,443,Matt Kemp,Los Angeles Dodgers
-Mini Variations,444,Kenta Maeda,Los Angeles Dodgers
-Mini Variations,445,Buster Posey,San Francisco Giants
-Mini Variations,446,Max Muncy,Los Angeles Dodgers
-Mini Variations,447,Edwin Encarnacion,Seattle Mariners
-Mini Variations,448,Corey Kluber,Cleveland Indians
-Mini Variations,449,Dee Gordon,Seattle Mariners
-Mini Variations,450,Jean Segura,Philadelphia Phillies
-Mini Variations,451,Edwin Diaz,New York Mets
-Mini Variations,452,Starlin Castro,Miami Marlins
-Mini Variations,453,J.T. Realmuto,Miami Marlins
-Mini Variations,454,Max Scherzer,Washington Nationals
-Mini Variations,455,Trea Turner,Washington Nationals
-Mini Variations,456,Jonathan Schoop,Minnesota Twins
-Mini Variations,457,Eric Hosmer,San Diego Padres
-Mini Variations,458,Rhys Hoskins,Philadelphia Phillies
-Mini Variations,459,Aaron Nola,Philadelphia Phillies
-Mini Variations,460,Felipe Vásquez,Pittsburgh Pirates
-Mini Variations,461,Shin-Soo Choo,Texas Rangers
-Mini Variations,462,Nomar Mazara,Texas Rangers
-Mini Variations,463,Kevin Kiermaier,Tampa Bay Rays
-Mini Variations,464,Chris Sale,Boston Red Sox
-Mini Variations,465,Joey Votto,Cincinnati Reds
-Mini Variations,466,Scooter Gennett,Cincinnati Reds
-Mini Variations,467,Eugenio Suarez,Cincinnati Reds
-Mini Variations,468,Nolan Arenado,Colorado Rockies
-Mini Variations,469,Trevor Story,Colorado Rockies
-Mini Variations,470,Starling Marte,Pittsburgh Pirates
-Mini Variations,471,Charlie Blackmon,Colorado Rockies
-Mini Variations,472,Miguel Cabrera,Detroit Tigers
-Mini Variations,473,Miguel Andujar,New York Yankees
-Mini Variations,474,Giancarlo Stanton,New York Yankees
-Mini Variations,475,J.D. Martinez,Boston Red Sox
-Mini Variations,476,Jesus Aguilar,Milwaukee Brewers
-Mini Variations,477,Mitch Haniger,Seattle Mariners
-Mini Variations,478,Brandon Crawford,San Francisco Giants
-Mini Variations,479,Jose Berrios,Minnesota Twins
-Mini Variations,480,Lourdes Gurriel Jr.,Toronto Blue Jays
-Mini Variations,481,Juan Soto,Washington Nationals
-Mini Variations,482,Carlos Martinez,St. Louis Cardinals
-Mini Variations,483,Jose Abreu,Chicago White Sox
-Mini Variations,484,Andrew Benintendi,Boston Red Sox
-Mini Variations,485,Mike Trout,Los Angeles Angels
-Mini Variations,486,Adam Jones,Baltimore Orioles
-Mini Variations,487,Xander Bogaerts,Boston Red Sox
-Mini Variations,488,Odubel Herrera,Philadelphia Phillies
-Mini Variations,489,Freddie Freeman,Atlanta Braves
-Mini Variations,490,Clayton Kershaw,Los Angeles Dodgers
-Mini Variations,491,Jose Ramirez,Cleveland Indians
-Mini Variations,492,Willson Contreras,Chicago Cubs
-Mini Variations,493,Aroldis Chapman,New York Yankees
-Mini Variations,494,Wil Myers,San Diego Padres
-Mini Variations,495,Sean Doolittle,Washington Nationals
-Mini Variations,496,Eric Thames,Milwaukee Brewers
-Mini Variations,497,Yonder Alonso,Chicago White Sox
-Mini Variations,498,Amed Rosario,New York Mets
-Mini Variations,499,Aaron Judge,New York Yankees
-Mini Variations,500,Ronald Acuña Jr.,Atlanta Braves
-Silver Metal Variations,52,Chris Archer,Pittsburgh Pirates
-Silver Metal Variations,78,Mookie Betts,Boston Red Sox
-Silver Metal Variations,83,Noah Syndergaard,New York Mets
-Silver Metal Variations,98,Nicholas Castellanos,Detroit Tigers
-Silver Metal Variations,117,Kyle Schwarber,Chicago Cubs
-Silver Metal Variations,163,Rafael Devers,Boston Red Sox
-Silver Metal Variations,347,David Bote,Chicago Cubs
-Silver Metal Variations,401,Francisco Lindor,Cleveland Indians
-Silver Metal Variations,402,Salvador Perez,Kansas City Royals
-Silver Metal Variations,403,Jake Arrieta,Philadelphia Phillies
-Silver Metal Variations,404,Kris Bryant,Chicago Cubs
-Silver Metal Variations,405,Jon Lester,Chicago Cubs
-Silver Metal Variations,406,Anthony Rizzo,Chicago Cubs
-Silver Metal Variations,407,George Springer,Houston Astros
-Silver Metal Variations,408,Sean Manaea,Oakland Athletics
-Silver Metal Variations,409,Jose Altuve,Houston Astros
-Silver Metal Variations,410,Christian Yelich,Milwaukee Brewers
-Silver Metal Variations,411,Blake Snell,Tampa Bay Rays
-Silver Metal Variations,412,Trevor Bauer,Cleveland Indians
-Silver Metal Variations,413,Gleyber Torres,New York Yankees
-Silver Metal Variations,414,Paul DeJong,St. Louis Cardinals
-Silver Metal Variations,415,Bryce Harper,Washington Nationals
-Silver Metal Variations,416,Luis Severino,New York Yankees
-Silver Metal Variations,417,Jordan Hicks,St. Louis Cardinals
-Silver Metal Variations,418,Gary Sanchez,New York Yankees
-Silver Metal Variations,419,Jacob deGrom,New York Mets
-Silver Metal Variations,421,Justin Upton,Los Angeles Angels
-Silver Metal Variations,422,Albert Pujols,Los Angeles Angels
-Silver Metal Variations,423,Carlos Correa,Houston Astros
-Silver Metal Variations,424,Alex Bregman,Houston Astros
-Silver Metal Variations,425,Franmil Reyes,San Diego Padres
-Silver Metal Variations,426,Justin Verlander,Houston Astros
-Silver Metal Variations,427,Walker Buehler,Los Angeles Dodgers
-Silver Metal Variations,428,Trey Mancini,Baltimore Orioles
-Silver Metal Variations,429,Gerrit Cole,Houston Astros
-Silver Metal Variations,430,Shohei Ohtani,Los Angeles Angels
-Silver Metal Variations,431,Brandon Nimmo,New York Mets
-Silver Metal Variations,432,Khris Davis,Oakland Athletics
-Silver Metal Variations,433,Justin Smoak,Toronto Blue Jays
-Silver Metal Variations,434,Stephen Piscotty,Oakland Athletics
-Silver Metal Variations,435,Miles Mikolas,St. Louis Cardinals
-Silver Metal Variations,436,Ozzie Albies,Atlanta Braves
-Silver Metal Variations,437,Lorenzo Cain,Milwaukee Brewers
-Silver Metal Variations,438,Matt Carpenter,St. Louis Cardinals
-Silver Metal Variations,439,Yadier Molina,St. Louis Cardinals
-Silver Metal Variations,440,Javier Baez,Chicago Cubs
-Silver Metal Variations,441,Paul Goldschmidt,St. Louis Cardinals
-Silver Metal Variations,442,Zack Greinke,Arizona Diamondbacks
-Silver Metal Variations,443,Matt Kemp,Los Angeles Dodgers
-Silver Metal Variations,444,Kenta Maeda,Los Angeles Dodgers
-Silver Metal Variations,445,Buster Posey,San Francisco Giants
-Silver Metal Variations,446,Max Muncy,Los Angeles Dodgers
-Silver Metal Variations,447,Edwin Encarnacion,Seattle Mariners
-Silver Metal Variations,448,Corey Kluber,Cleveland Indians
-Silver Metal Variations,449,Dee Gordon,Seattle Mariners
-Silver Metal Variations,450,Jean Segura,Philadelphia Phillies
-Silver Metal Variations,451,Edwin Diaz,New York Mets
-Silver Metal Variations,452,Starlin Castro,Miami Marlins
-Silver Metal Variations,453,J.T. Realmuto,Miami Marlins
-Silver Metal Variations,454,Max Scherzer,Washington Nationals
-Silver Metal Variations,455,Trea Turner,Washington Nationals
-Silver Metal Variations,456,Jonathan Schoop,Minnesota Twins
-Silver Metal Variations,457,Eric Hosmer,San Diego Padres
-Silver Metal Variations,458,Rhys Hoskins,Philadelphia Phillies
-Silver Metal Variations,459,Aaron Nola,Philadelphia Phillies
-Silver Metal Variations,460,Felipe Vázquez,Pittsburgh Pirates
-Silver Metal Variations,461,Shin-Soo Choo,Texas Rangers
-Silver Metal Variations,462,Nomar Mazara,Texas Rangers
-Silver Metal Variations,463,Kevin Kiermaier,Tampa Bay Rays
-Silver Metal Variations,464,Chris Sale,Boston Red Sox
-Silver Metal Variations,465,Joey Votto,Cincinnati Reds
-Silver Metal Variations,466,Scooter Gennett,Cincinnati Reds
-Silver Metal Variations,467,Eugenio Suarez,Cincinnati Reds
-Silver Metal Variations,468,Nolan Arenado,Colorado Rockies
-Silver Metal Variations,469,Trevor Story,Colorado Rockies
-Silver Metal Variations,470,Starling Marte,Pittsburgh Pirates
-Silver Metal Variations,471,Charlie Blackmon,Colorado Rockies
-Silver Metal Variations,472,Miguel Cabrera,Detroit Tigers
-Silver Metal Variations,473,Miguel Andujar,New York Yankees
-Silver Metal Variations,474,Giancarlo Stanton,New York Yankees
-Silver Metal Variations,475,J.D. Martinez,Boston Red Sox
-Silver Metal Variations,476,Jesus Aguilar,Milwaukee Brewers
-Silver Metal Variations,477,Mitch Haniger,Seattle Mariners
-Silver Metal Variations,478,Brandon Crawford,San Francisco Giants
-Silver Metal Variations,479,Jose Berrios,Minnesota Twins
-Silver Metal Variations,480,Lourdes Gurriel Jr.,Toronto Blue Jays
-Silver Metal Variations,481,Juan Soto,Washington Nationals
-Silver Metal Variations,483,Jose Abreu,Chicago White Sox
-Silver Metal Variations,484,Andrew Benintendi,Boston Red Sox
-Silver Metal Variations,485,Mike Trout,Los Angeles Angels
-Silver Metal Variations,486,Adam Jones,Baltimore Orioles
-Silver Metal Variations,487,Xander Bogaerts,Boston Red Sox
-Silver Metal Variations,488,Odubel Herrera,Philadelphia Phillies
-Silver Metal Variations,490,Clayton Kershaw,Los Angeles Dodgers
-Silver Metal Variations,491,Jose Ramirez,Cleveland Indians
-Silver Metal Variations,493,Aroldis Chapman,New York Yankees
-Silver Metal Variations,494,Wil Myers,San Diego Padres
-Silver Metal Variations,498,Amed Rosario,New York Mets
-Silver Metal Variations,499,Aaron Judge,New York Yankees
-Silver Metal Variations,500,Ronald Acuña Jr.,Atlanta Braves
+Base Chrome Variations,THC-52,Chris Archer,Pittsburgh Pirates
+Base Chrome Variations,THC-78,Mookie Betts,Boston Red Sox
+Base Chrome Variations,THC-83,Noah Syndergaard,New York Mets
+Base Chrome Variations,THC-163,Rafael Devers,Boston Red Sox
+Base Chrome Variations,THC-401,Francisco Lindor,Cleveland Indians
+Base Chrome Variations,THC-402,Salvador Perez,Kansas City Royals
+Base Chrome Variations,THC-403,Jake Arrieta,Philadelphia Phillies
+Base Chrome Variations,THC-404,Kris Bryant,Chicago Cubs
+Base Chrome Variations,THC-405,Jon Lester,Chicago Cubs
+Base Chrome Variations,THC-406,Anthony Rizzo,Chicago Cubs
+Base Chrome Variations,THC-407,George Springer,Houston Astros
+Base Chrome Variations,THC-408,Sean Manaea,Oakland Athletics
+Base Chrome Variations,THC-409,Jose Altuve,Houston Astros
+Base Chrome Variations,THC-410,Christian Yelich,Milwaukee Brewers
+Base Chrome Variations,THC-411,Blake Snell,Tampa Bay Rays
+Base Chrome Variations,THC-412,Trevor Bauer,Cleveland Indians
+Base Chrome Variations,THC-413,Gleyber Torres,New York Yankees
+Base Chrome Variations,THC-414,Paul DeJong,St. Louis Cardinals
+Base Chrome Variations,THC-415,Bryce Harper,Washington Nationals
+Base Chrome Variations,THC-416,Luis Severino,New York Yankees
+Base Chrome Variations,THC-417,Jordan Hicks,St. Louis Cardinals
+Base Chrome Variations,THC-418,Gary Sanchez,New York Yankees
+Base Chrome Variations,THC-419,Jacob deGrom,New York Mets
+Base Chrome Variations,THC-421,Justin Upton,Los Angeles Angels
+Base Chrome Variations,THC-422,Albert Pujols,Los Angeles Angels
+Base Chrome Variations,THC-423,Carlos Correa,Houston Astros
+Base Chrome Variations,THC-424,Alex Bregman,Houston Astros
+Base Chrome Variations,THC-426,Justin Verlander,Houston Astros
+Base Chrome Variations,THC-427,Walker Buehler,Los Angeles Dodgers
+Base Chrome Variations,THC-428,Trey Mancini,Baltimore Orioles
+Base Chrome Variations,THC-429,Gerrit Cole,Houston Astros
+Base Chrome Variations,THC-430,Shohei Ohtani,Los Angeles Angels
+Base Chrome Variations,THC-431,Brandon Nimmo,New York Mets
+Base Chrome Variations,THC-432,Khris Davis,Oakland Athletics
+Base Chrome Variations,THC-433,Justin Smoak,Toronto Blue Jays
+Base Chrome Variations,THC-434,Stephen Piscotty,Oakland Athletics
+Base Chrome Variations,THC-435,Miles Mikolas,St. Louis Cardinals
+Base Chrome Variations,THC-436,Ozzie Albies,Atlanta Braves
+Base Chrome Variations,THC-437,Lorenzo Cain,Milwaukee Brewers
+Base Chrome Variations,THC-438,Matt Carpenter,St. Louis Cardinals
+Base Chrome Variations,THC-439,Yadier Molina,St. Louis Cardinals
+Base Chrome Variations,THC-440,Javier Baez,Chicago Cubs
+Base Chrome Variations,THC-441,Paul Goldschmidt,St. Louis Cardinals
+Base Chrome Variations,THC-442,Zack Greinke,Arizona Diamondbacks
+Base Chrome Variations,THC-443,Matt Kemp,Los Angeles Dodgers
+Base Chrome Variations,THC-444,Kenta Maeda,Los Angeles Dodgers
+Base Chrome Variations,THC-445,Buster Posey,San Francisco Giants
+Base Chrome Variations,THC-446,Max Muncy,Los Angeles Dodgers
+Base Chrome Variations,THC-447,Edwin Encarnacion,Cleveland Indians
+Base Chrome Variations,THC-448,Corey Kluber,Cleveland Indians
+Base Chrome Variations,THC-449,Dee Gordon,Seattle Mariners
+Base Chrome Variations,THC-450,Jean Segura,Philadelphia Phillies
+Base Chrome Variations,THC-451,Edwin Diaz,New York Mets
+Base Chrome Variations,THC-452,Starlin Castro,Miami Marlins
+Base Chrome Variations,THC-453,J.T. Realmuto,Miami Marlins
+Base Chrome Variations,THC-454,Max Scherzer,Washington Nationals
+Base Chrome Variations,THC-455,Trea Turner,Washington Nationals
+Base Chrome Variations,THC-456,Jonathan Schoop,Milwaukee Brewers
+Base Chrome Variations,THC-457,Eric Hosmer,San Diego Padres
+Base Chrome Variations,THC-458,Rhys Hoskins,Philadelphia Phillies
+Base Chrome Variations,THC-459,Aaron Nola,Philadelphia Phillies
+Base Chrome Variations,THC-460,Felipe Vásquez,Pittsburgh Pirates
+Base Chrome Variations,THC-461,Shin-Soo Choo,Texas Rangers
+Base Chrome Variations,THC-462,Nomar Mazara,Texas Rangers
+Base Chrome Variations,THC-463,Kevin Kiermaier,Tampa Bay Rays
+Base Chrome Variations,THC-464,Chris Sale,Boston Red Sox
+Base Chrome Variations,THC-465,Joey Votto,Cincinnati Reds
+Base Chrome Variations,THC-466,Scooter Gennett,Cincinnati Reds
+Base Chrome Variations,THC-467,Eugenio Suarez,Cincinnati Reds
+Base Chrome Variations,THC-468,Nolan Arenado,Colorado Rockies
+Base Chrome Variations,THC-469,Trevor Story,Colorado Rockies
+Base Chrome Variations,THC-470,Starling Marte,Pittsburgh Pirates
+Base Chrome Variations,THC-471,Charlie Blackmon,Colorado Rockies
+Base Chrome Variations,THC-472,Miguel Cabrera,Detroit Tigers
+Base Chrome Variations,THC-473,Miguel Andujar,New York Yankees
+Base Chrome Variations,THC-474,Giancarlo Stanton,New York Yankees
+Base Chrome Variations,THC-475,J.D. Martinez,Boston Red Sox
+Base Chrome Variations,THC-476,Jesus Aguilar,Milwaukee Brewers
+Base Chrome Variations,THC-477,Mitch Haniger,Seattle Mariners
+Base Chrome Variations,THC-478,Brandon Crawford,San Francisco Giants
+Base Chrome Variations,THC-479,Jose Berrios,Minnesota Twins
+Base Chrome Variations,THC-480,Lourdes Gurriel Jr.,Toronto Blue Jays
+Base Chrome Variations,THC-481,Juan Soto,Washington Nationals
+Base Chrome Variations,THC-483,Jose Abreu,Chicago White Sox
+Base Chrome Variations,THC-484,Andrew Benintendi,Boston Red Sox
+Base Chrome Variations,THC-485,Mike Trout,Los Angeles Angels
+Base Chrome Variations,THC-486,Adam Jones,Baltimore Orioles
+Base Chrome Variations,THC-487,Xander Bogaerts,Boston Red Sox
+Base Chrome Variations,THC-488,Odubel Herrera,Philadelphia Phillies
+Base Chrome Variations,THC-490,Clayton Kershaw,Los Angeles Dodgers
+Base Chrome Variations,THC-491,Jose Ramirez,Cleveland Indians
+Base Chrome Variations,THC-493,Aroldis Chapman,New York Yankees
+Base Chrome Variations,THC-494,Wil Myers,San Diego Padres
+Base Chrome Variations,THC-498,Amed Rosario,New York Mets
+Base Chrome Variations,THC-499,Aaron Judge,New York Yankees
+Base Chrome Variations,THC-500,Ronald Acuña Jr.,Atlanta Braves
+Base Chrome Variations,THC-7,Michael Kopech,Chicago White Sox
+Base Chrome Variations,THC-7,Caleb Frare,Chicago White Sox
+Base Chrome Variations,THC-189,Chance Adams,New York Yankees
+Base Chrome Variations,THC-189,Jonathan Loaisiga,New York Yankees
+Base Chrome Variations,THC-227,Cionel Perez,Houston Astros
+Base Chrome Variations,THC-227,Kyle Tucker,Houston Astros
+Base Chrome Variations,THC-262,Jacob Nix,San Diego Padres
+Base Chrome Variations,THC-262,Luis Urias,San Diego Padres
 New Age Performers,NAP-1,Blake Snell,Tampa Bay Rays
 New Age Performers,NAP-2,Mookie Betts,Boston Red Sox
 New Age Performers,NAP-3,J.D. Martinez,Boston Red Sox
@@ -1022,36 +690,36 @@ News Flashbacks,NF-15,Diana Ross & The Supremes' Final Concert,No Team
 1970 Candy Lids,13,Carlos Correa,Houston Astros
 1970 Candy Lids,14,Miguel Andujar,New York Yankees
 1970 Candy Lids,15,Bryce Harper,Washington Nationals
-1970 Topps Scratch-Off Set,1,Mike Trout,Los Angeles Angels
-1970 Topps Scratch-Off Set,2,Jose Altuve,Houston Astros
-1970 Topps Scratch-Off Set,3,Khris Davis,Oakland Athletics
-1970 Topps Scratch-Off Set,4,Justin Smoak,Toronto Blue Jays
-1970 Topps Scratch-Off Set,5,Freddie Freeman,Atlanta Braves
-1970 Topps Scratch-Off Set,6,Lorenzo Cain,Milwaukee Brewers
-1970 Topps Scratch-Off Set,7,Yadier Molina,St. Louis Cardinals
-1970 Topps Scratch-Off Set,8,Anthony Rizzo,Chicago Cubs
-1970 Topps Scratch-Off Set,9,Paul Goldschmidt,Arizona Diamondbacks
-1970 Topps Scratch-Off Set,10,Clayton Kershaw,Los Angeles Dodgers
-1970 Topps Scratch-Off Set,11,Buster Posey,San Francisco Giants
-1970 Topps Scratch-Off Set,12,Francisco Lindor,Cleveland Indians
-1970 Topps Scratch-Off Set,13,Robinson Cano,Seattle Mariners
-1970 Topps Scratch-Off Set,14,Starlin Castro,Miami Marlins
-1970 Topps Scratch-Off Set,15,Noah Syndergaard,New York Mets
-1970 Player Story Booklet,1,Aaron Judge,New York Yankees
-1970 Player Story Booklet,2,Miguel Cabrera,Detroit Tigers
-1970 Player Story Booklet,3,Salvador Perez,Kansas City Royals
-1970 Player Story Booklet,4,Jose Altuve,Houston Astros
-1970 Player Story Booklet,5,Mike Trout,Los Angeles Angels
-1970 Player Story Booklet,6,Felix Hernandez,Seattle Mariners
-1970 Player Story Booklet,7,Adrian Beltre,Texas Rangers
-1970 Player Story Booklet,8,Freddie Freeman,Atlanta Braves
-1970 Player Story Booklet,9,Rhys Hoskins,Philadelphia Phillies
-1970 Player Story Booklet,10,Kris Bryant,Chicago Cubs
-1970 Player Story Booklet,11,Joey Votto,Cincinnati Reds
-1970 Player Story Booklet,12,Yadier Molina,St. Louis Cardinals
-1970 Player Story Booklet,13,Buster Posey,San Francisco Giants
-1970 Player Story Booklet,14,Nolan Arenado,Colorado Rockies
-1970 Player Story Booklet,15,Clayton Kershaw,Los Angeles Dodgers
+1970 Topps Scratch-Offs,1,Mike Trout,Los Angeles Angels
+1970 Topps Scratch-Offs,2,Jose Altuve,Houston Astros
+1970 Topps Scratch-Offs,3,Khris Davis,Oakland Athletics
+1970 Topps Scratch-Offs,4,Justin Smoak,Toronto Blue Jays
+1970 Topps Scratch-Offs,5,Freddie Freeman,Atlanta Braves
+1970 Topps Scratch-Offs,6,Lorenzo Cain,Milwaukee Brewers
+1970 Topps Scratch-Offs,7,Yadier Molina,St. Louis Cardinals
+1970 Topps Scratch-Offs,8,Anthony Rizzo,Chicago Cubs
+1970 Topps Scratch-Offs,9,Paul Goldschmidt,Arizona Diamondbacks
+1970 Topps Scratch-Offs,10,Clayton Kershaw,Los Angeles Dodgers
+1970 Topps Scratch-Offs,11,Buster Posey,San Francisco Giants
+1970 Topps Scratch-Offs,12,Francisco Lindor,Cleveland Indians
+1970 Topps Scratch-Offs,13,Robinson Cano,Seattle Mariners
+1970 Topps Scratch-Offs,14,Starlin Castro,Miami Marlins
+1970 Topps Scratch-Offs,15,Noah Syndergaard,New York Mets
+1970 Player Story Booklets,1,Aaron Judge,New York Yankees
+1970 Player Story Booklets,2,Miguel Cabrera,Detroit Tigers
+1970 Player Story Booklets,3,Salvador Perez,Kansas City Royals
+1970 Player Story Booklets,4,Jose Altuve,Houston Astros
+1970 Player Story Booklets,5,Mike Trout,Los Angeles Angels
+1970 Player Story Booklets,6,Felix Hernandez,Seattle Mariners
+1970 Player Story Booklets,7,Adrian Beltre,Texas Rangers
+1970 Player Story Booklets,8,Freddie Freeman,Atlanta Braves
+1970 Player Story Booklets,9,Rhys Hoskins,Philadelphia Phillies
+1970 Player Story Booklets,10,Kris Bryant,Chicago Cubs
+1970 Player Story Booklets,11,Joey Votto,Cincinnati Reds
+1970 Player Story Booklets,12,Yadier Molina,St. Louis Cardinals
+1970 Player Story Booklets,13,Buster Posey,San Francisco Giants
+1970 Player Story Booklets,14,Nolan Arenado,Colorado Rockies
+1970 Player Story Booklets,15,Clayton Kershaw,Los Angeles Dodgers
 1970 Topps Super Baseball Box Loader,1,Gleyber Torres,New York Yankees
 1970 Topps Super Baseball Box Loader,2,Mookie Betts,Boston Red Sox
 1970 Topps Super Baseball Box Loader,3,Mike Trout,Los Angeles Angels
@@ -1294,26 +962,26 @@ Clubhouse Collection Quad Relics,CCQR-MBBD,Rafael Devers,Boston Red Sox
 1970 U.S. Postage Stamp Relics,70US-TS,Tom Seaver,New York Mets
 1970 U.S. Postage Stamp Relics,70US-WM,Willie McCovey,San Francisco Giants
 1970 U.S. Postage Stamp Relics,70US-WS,Willie Stargell,Pittsburgh Pirates
-1970 Baseball Cut Signatures,70BCS-DE,Dock Ellis,Pittsburgh Pirates
-1970 Baseball Cut Signatures,70BCS-EB,Ernie Banks,Chicago Cubs
-1970 Baseball Cut Signatures,70BCS-EW,Earl Weaver,Baltimore Orioles
-1970 Baseball Cut Signatures,70BCS-FF,Ford Frick,No Team
-1970 Baseball Cut Signatures,70BCS-HW,Hoyt Wilhelm,Atlanta Braves
-1970 Baseball Cut Signatures,70BCS-JB,Jim Bunning,Philadelphia Phillies
-1970 Baseball Cut Signatures,70BCS-LB,Lou Boudreau,Cleveland Indians
-1970 Baseball Cut Signatures,70BCS-MC,Mike Cuellar,Baltimore Orioles
-1970 Baseball Cut Signatures,70BCS-TC,Tony Conigliaro,Boston Red Sox
-1970 Baseball Cut Signatures,70BCS-TM,Thurman Munson,New York Yankees
-1970 Celebrity Cut Signatures,70CCS-AF,Aretha Franklin,No Team
-1970 Celebrity Cut Signatures,70CCS-DA,Don Adams,No Team
-1970 Celebrity Cut Signatures,70CCS-DC,David Cassidy,No Team
-1970 Celebrity Cut Signatures,70CCS-GS,George C. Scott,No Team
-1970 Celebrity Cut Signatures,70CCS-JK,Jack Klugman,No Team
-1970 Celebrity Cut Signatures,70CCS-JL,Jim Lovell,No Team
-1970 Celebrity Cut Signatures,70CCS-LH,Larry Hagman,No Team
-1970 Celebrity Cut Signatures,70CCS-MM,Mary Tyler Moore,No Team
-1970 Celebrity Cut Signatures,70CCS-RA,Roone Arledge,No Team
-1970 Celebrity Cut Signatures,70CCS-RY,Robert Young,No Team
+Cut Signatures Baseball,70BCS-DE,Dock Ellis,Pittsburgh Pirates
+Cut Signatures Baseball,70BCS-EB,Ernie Banks,Chicago Cubs
+Cut Signatures Baseball,70BCS-EW,Earl Weaver,Baltimore Orioles
+Cut Signatures Baseball,70BCS-FF,Ford Frick,No Team
+Cut Signatures Baseball,70BCS-HW,Hoyt Wilhelm,Atlanta Braves
+Cut Signatures Baseball,70BCS-JB,Jim Bunning,Philadelphia Phillies
+Cut Signatures Baseball,70BCS-LB,Lou Boudreau,Cleveland Indians
+Cut Signatures Baseball,70BCS-MC,Mike Cuellar,Baltimore Orioles
+Cut Signatures Baseball,70BCS-TC,Tony Conigliaro,Boston Red Sox
+Cut Signatures Baseball,70BCS-TM,Thurman Munson,New York Yankees
+Cut Signatures Celebrity,70CCS-AF,Aretha Franklin,No Team
+Cut Signatures Celebrity,70CCS-DA,Don Adams,No Team
+Cut Signatures Celebrity,70CCS-DC,David Cassidy,No Team
+Cut Signatures Celebrity,70CCS-GS,George C. Scott,No Team
+Cut Signatures Celebrity,70CCS-JK,Jack Klugman,No Team
+Cut Signatures Celebrity,70CCS-JL,Jim Lovell,No Team
+Cut Signatures Celebrity,70CCS-LH,Larry Hagman,No Team
+Cut Signatures Celebrity,70CCS-MM,Mary Tyler Moore,No Team
+Cut Signatures Celebrity,70CCS-RA,Roone Arledge,No Team
+Cut Signatures Celebrity,70CCS-RY,Robert Young,No Team
 Real One Autographs,ROA-AB,Alex Bregman,Houston Astros
 Real One Autographs,ROA-AJ,Aaron Judge,New York Yankees
 Real One Autographs,ROA-AK,Al Kaline,Detroit Tigers
