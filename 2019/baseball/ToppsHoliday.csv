@@ -1,0 +1,494 @@
+Card Set,Number,Player,Team
+Base,HW1,Trevor Bauer,Cincinnati Reds
+Base,HW2,Charlie Morton,Tampa Bay Rays
+Base,HW3,Nate Lowe,Tampa Bay Rays
+Base,HW4,Adam Jones,Arizona Diamondbacks
+Base,HW5,Taylor Clarke,Arizona Diamondbacks
+Base,HW6,Whit Merrifield,Kansas City Royals
+Base,HW7,JD Hammer,Philadelphia Phillies
+Base,HW8,Juan Soto,Washington Nationals
+Base,HW9,Alex Verdugo,Los Angeles Dodgers
+Base,HW10,Eddie Rosario,Minnesota Twins
+Base,HW11,Ryan Pressly,Houston Astros
+Base,HW12,Nick Anderson,Miami Marlins
+Base,HW13,Hunter Renfroe,San Diego Padres
+Base,HW14,Mitch Haniger,Seattle Mariners
+Base,HW15,Edwin Diaz,New York Mets
+Base,HW16,Shohei Ohtani,Los Angeles Angels
+Base,HW17,Billy Hamilton,Atlanta Braves
+Base,HW18,Dee Gordon,Seattle Mariners
+Base,HW19,Yusei Kikuchi,Seattle Mariners
+Base,HW20,Harold Ramirez,Miami Marlins
+Base,HW21,Pedro Avila,San Diego Padres
+Base,HW22,Michael Conforto,New York Mets
+Base,HW23,Michael Chavis,Boston Red Sox
+Base,HW24,Stephen Strasburg,Washington Nationals
+Base,HW25,Joc Pederson,Los Angeles Dodgers
+Base,HW26,Anthony Rizzo,Chicago Cubs
+Base,HW27,Giancarlo Stanton,New York Yankees
+Base,HW28,DJ LeMahieu,New York Yankees
+Base,HW29,Mookie Betts,Boston Red Sox
+Base,HW30,Clayton Kershaw,Los Angeles Dodgers
+Base,HW31,Mike Trout,Los Angeles Angels
+Base,HW32,Jose Abreu,Chicago White Sox
+Base,HW33,Shohei Ohtani,Los Angeles Angels
+Base,HW34,Austin Meadows,Tampa Bay Rays
+Base,HW35,Alex Bregman,Houston Astros
+Base,HW36,Rafael Devers,Boston Red Sox
+Base,HW37,Lucas Giolito,Chicago White Sox
+Base,HW38,Luis Castillo,Cincinnati Reds
+Base,HW39,Kyle Schwarber,Chicago Cubs
+Base,HW40,Dallas Keuchel,Atlanta Braves
+Base,HW41,Max Muncy,Los Angeles Dodgers
+Base,HW42,Cody Bellinger,Los Angeles Dodgers
+Base,HW43,Keston Hiura,Milwaukee Brewers
+Base,HW44,Derek Dietrich,Cincinnati Reds
+Base,HW45,Byron Buxton,Minnesota Twins
+Base,HW46,Hunter Pence,Texas Rangers
+Base,HW47,Jake Arrieta,Philadelphia Phillies
+Base,HW48,Domingo Santana,Seattle Mariners
+Base,HW49,Spencer Turnbull,Detroit Tigers
+Base,HW50,Max Scherzer,Washington Nationals
+Base,HW51,Oscar Mercado,Cleveland Indians
+Base,HW52,Clint Frazier,New York Yankees
+Base,HW53,Shane Bieber,Cleveland Indians
+Base,HW54,Rhys Hoskins,Philadelphia Phillies
+Base,HW55,Josh Bell,Pittsburgh Pirates
+Base,HW56,Trevor Story,Colorado Rockies
+Base,HW57,Matt Chapman,Oakland Athletics
+Base,HW58,Cole Hamels,Chicago Cubs
+Base,HW59,Jose Peraza,Cincinnati Reds
+Base,HW60,Blake Snell,Tampa Bay Rays
+Base,HW61,Orlando Arcia,Milwaukee Brewers
+Base,HW62,Eduardo Escobar,Arizona Diamondbacks
+Base,HW63,Ryne Harper,Minnesota Twins
+Base,HW64,Willson Contreras,Chicago Cubs
+Base,HW65,Joey Votto,Cincinnati Reds
+Base,HW66,Griffin Canning,Los Angeles Angels
+Base,HW67,Max Kepler,Minnesota Twins
+Base,HW68,David Price,Boston Red Sox
+Base,HW69,Kevin Pillar,San Francsico Giants
+Base,HW70,Maikel Franco,Philadelphia Phillies
+Base,HW71,Pete Alonso,New York Mets
+Base,HW72,Christian Yelich,Milwaukee Brewers
+Base,HW73,Zack Greinke,Houston Astros
+Base,HW74,Francisco Lindor,Cleveland Indians
+Base,HW75,Zack Wheeler,New York Mets
+Base,HW76,Austin Riley,Atlanta Braves
+Base,HW77,Patrick Corbin,Washington Nationals
+Base,HW78,Justin Smoak,Toronto Blue Jays
+Base,HW79,Matthew Beaty,Los Angeles Dodgers
+Base,HW80,Scott Kingery,Philadelphia Phillies
+Base,HW81,Evan Longoria,San Francisco Giants
+Base,HW82,Trea Turner,Washington Nationals
+Base,HW83,Paul Goldschmidt,St. Louis Cardinals
+Base,HW84,Eric Hosmer,San Diego Padres
+Base,HW85,Ronald Acuña Jr.,Atlanta Braves
+Base,HW86,Jeff McNeil,New York Mets
+Base,HW87,Albert Pujols,Los Angeles Angels
+Base,HW88,Pablo Sandoval,San Francisco Giants
+Base,HW89,Cal Quantrill,San Diego Padres
+Base,HW90,Hyun-Jin Ryu,Los Angeles Dodgers
+Base,HW91,Brad Hand,Cleveland Indians
+Base,HW92,Kevin Cron,Arizona Diamondbacks
+Base,HW93,Josh Donaldson,Atlanta Braves
+Base,HW94,C.J. Cron,Minnesota Twins
+Base,HW95,Manny Machado,San Diego Padres
+Base,HW96,Buster Posey,San Francisco Giants
+Base,HW97,Jonathan Schoop,Minnesota Twins
+Base,HW98,Darwinzon Hernandez,Boston Red Sox
+Base,HW99,Will Smith,Los Angeles Dodgers
+Base,HW100,Jason Heyward,Chicago Cubs
+Base,HW101,Eloy Jimenez,Chicago White Sox
+Base,HW102,Miguel Sano,Minnesota Twins
+Base,HW103,Yasiel Puig,Cleveland Indians
+Base,HW104,Renato Nunez,Baltimore Orioles
+Base,HW105,Francisco Mejia,San Diego Padres
+Base,HW106,Andrew McCutchen,Philadelphia Phillies
+Base,HW107,Miguel Cabrera,Detroit Tigers
+Base,HW108,Lane Thomas,St. Louis Cardinals
+Base,HW109,Javier Baez,Chicago Cubs
+Base,HW110,Anthony Rendon,Washington Nationals
+Base,HW111,Edwin Encarnacion,New York Yankees
+Base,HW112,George Springer,Houston Astros
+Base,HW113,Ozzie Albies,Atlanta Braves
+Base,HW114,Thairo Estrada,New York Yankees
+Base,HW115,Ryan Helsley,St. Louis Cardinals
+Base,HW116,Elvis Andrus,Texas Rangers
+Base,HW117,Amed Rosario,New York Mets
+Base,HW118,Luke Weaver,Arizona Diamondbacks
+Base,HW119,Lorenzo Cain,Milwaukee Brewers
+Base,HW120,Tim Beckham,Seattle Mariners
+Base,HW121,Brandon Brennan,Seattle Mariners
+Base,HW122,Andrew Benintendi,Boston Red Sox
+Base,HW123,Xander Bogaerts,Boston Red Sox
+Base,HW124,Franmil Reyes,Cleveland Indians
+Base,HW125,Nick Senzel,Cincinnati Reds
+Base,HW126,Fernando Tatis Jr.,San Diego Padres
+Base,HW127,J.D. Martinez,Boston Red Sox
+Base,HW128,Khris Davis,Oakland Athletics
+Base,HW129,Justin Verlander,Houston Astros
+Base,HW130,Nomar Mazara,Texas Rangers
+Base,HW131,Tim Anderson,Chicago White Sox
+Base,HW132,Bryan Reynolds,Pittsburgh Pirates
+Base,HW133,Jose Berrios,Minnesota Twins
+Base,HW134,Yasmani Grandal,Milwaukee Brewers
+Base,HW135,Robinson Cano,New York Mets
+Base,HW136,Carlos Correa,Houston Astros
+Base,HW137,Jacob deGrom,New York Mets
+Base,HW138,Nicky Lopez,Kansas City Royals
+Base,HW139,CC Sabathia,New York Yankees
+Base,HW140,Josh Naylor,San Diego Padres
+Base,HW141,Merrill Kelly,Arizona Diamondbacks
+Base,HW142,J.T. Realmuto,Philadelphia Phillies
+Base,HW143,Victor Robles,Washington Nationals
+Base,HW144,Yadier Molina,St. Louis Cardinals
+Base,HW145,Kolten Wong,St. Louis Cardinals
+Base,HW146,Mitch Keller,Pittsburgh Pirates
+Base,HW147,Adam Ottavino,New York Yankees
+Base,HW148,Aaron Judge,New York Yankees
+Base,HW149,David Peralta,Arizona Diamondbacks
+Base,HW150,Gerrit Cole,Houston Astros
+Base,HW151,Jorge Polanco,Minnesota Twins
+Base,HW152,Aaron Nola,Philadelphia Phillies
+Base,HW153,German Marquez,Colorado Rockies
+Base,HW154,Chris Sale,Boston Red Sox
+Base,HW155,Willians Astudillo,Minnesota Twins
+Base,HW156,Michael Soroka,Atlanta Braves
+Base,HW157,Mike Yastrzemski,San Francisco Giants
+Base,HW158,Jorge Soler,Kansas City Royals
+Base,HW159,Jose Altuve,Houston Astros
+Base,HW160,Carter Kieboom,Washington Nationals
+Base,HW161,Aroldis Chapman,New York Yankees
+Base,HW162,Dominic Smith,New York Mets
+Base,HW163,Hunter Dozier,Kansas City Royals
+Base,HW164,Kirby Yates,San Diego Padres
+Base,HW165,Nolan Arenado,Colorado Rockies
+Base,HW166,Tommy La Stella,Los Angeles Angels
+Base,HW167,Vladimir Guerrero Jr.,Toronto Blue Jays
+Base,HW168,Cole Tucker,Pittsburgh Pirates
+Base,HW169,Jon Duplantier,Arizona Diamondbacks
+Base,HW170,Yoan Moncada,Chicago White Sox
+Base,HW171,Brendan Rodgers,Colorado Rockies
+Base,HW172,Shaun Anderson,San Francisco Giants
+Base,HW173,Trent Thornton,Toronto Blue Jays
+Base,HW174,Corey Seager,Los Angeles Dodgers
+Base,HW175,Gary Sanchez,New York Yankees
+Base,HW176,Freddie Freeman,Atlanta Braves
+Base,HW177,Luke Voit,New York Yankees
+Base,HW178,Austin Allen,San Diego Padres
+Base,HW179,Tyler O'Neill,St. Louis Cardinals
+Base,HW180,Noah Syndergaard,New York Mets
+Base,HW181,Chris Paddack,San Diego Padres
+Base,HW182,Gleyber Torres,New York Yankees
+Base,HW183,Devin Smeltzer,Minnesota Twins
+Base,HW184,Jake Odorizzi,Minnesota Twins
+Base,HW185,Joey Gallo,Texas Rangers
+Base,HW186,Jorge Alfaro,Miami Marlins
+Base,HW187,Walker Buehler,Los Angeles Dodgers
+Base,HW188,David Dahl,Colorado Rockies
+Base,HW189,Cavan Biggio,Toronto Blue Jays
+Base,HW190,Corbin Martin,Houston Astros
+Base,HW191,Luis Arraez,Minnesota Twins
+Base,HW192,Bryce Harper,Philadelphia Phillies
+Base,HW193,Josh Hader,Milwaukee Brewers
+Base,HW194,Marcell Ozuna,St. Louis Cardinals
+Base,HW195,Jose Iglesias,Cincinnati Reds
+Base,HW196,Charlie Blackmon,Colorado Rockies
+Base,HW197,Kris Bryant,Chicago Cubs
+Base,HW198,Felipe Vázquez,Pittsburgh Pirates
+Base,HW199,Masahiro Tanaka,New York Yankees
+Base,HW200,Craig Kimbrel,Chicago Cubs
+Base Short Print Variations,HW8,Juan Soto,Washington Nationals
+Base Short Print Variations,HW16,Shohei Ohtani,Los Angeles Angels
+Base Short Print Variations,HW23,Michael Chavis,Boston Red Sox
+Base Short Print Variations,HW26,Anthony Rizzo,Chicago Cubs
+Base Short Print Variations,HW29,Mookie Betts,Boston Red Sox
+Base Short Print Variations,HW30,Clayton Kershaw,Los Angeles Dodgers
+Base Short Print Variations,HW31,Mike Trout,Los Angeles Angels
+Base Short Print Variations,HW33,Shohei Ohtani,Los Angeles Angels
+Base Short Print Variations,HW35,Alex Bregman,Houston Astros
+Base Short Print Variations,HW36,Rafael Devers,Boston Red Sox
+Base Short Print Variations,HW42,Cody Bellinger,Los Angeles Dodgers
+Base Short Print Variations,HW43,Keston Hiura,Milwaukee Brewers
+Base Short Print Variations,HW50,Max Scherzer,Washington Nationals
+Base Short Print Variations,HW54,Rhys Hoskins,Philadelphia Phillies
+Base Short Print Variations,HW56,Trevor Story,Colorado Rockies
+Base Short Print Variations,HW57,Matt Chapman,Oakland Athletics
+Base Short Print Variations,HW64,Willson Contreras,Chicago Cubs
+Base Short Print Variations,HW65,Joey Votto,Cincinnati Reds
+Base Short Print Variations,HW71,Pete Alonso,New York Mets
+Base Short Print Variations,HW72,Christian Yelich,Milwaukee Brewers
+Base Short Print Variations,HW74,Francisco Lindor,Cleveland Indians
+Base Short Print Variations,HW76,Austin Riley,Atlanta Braves
+Base Short Print Variations,HW85,Ronald Acuña Jr.,Atlanta Braves
+Base Short Print Variations,HW87,Albert Pujols,Los Angeles Angels
+Base Short Print Variations,HW95,Manny Machado,San Diego Padres
+Base Short Print Variations,HW96,Buster Posey,San Francisco Giants
+Base Short Print Variations,HW101,Eloy Jimenez,Chicago White Sox
+Base Short Print Variations,HW109,Javier Baez,Chicago Cubs
+Base Short Print Variations,HW112,George Springer,Houston Astros
+Base Short Print Variations,HW125,Nick Senzel,Cincinnati Reds
+Base Short Print Variations,HW126,Fernando Tatis Jr.,San Diego Padres
+Base Short Print Variations,HW127,J.D. Martinez,Boston Red Sox
+Base Short Print Variations,HW129,Justin Verlander,Houston Astros
+Base Short Print Variations,HW136,Carlos Correa,Houston Astros
+Base Short Print Variations,HW137,Jacob deGrom,New York Mets
+Base Short Print Variations,HW144,Yadier Molina,St. Louis Cardinals
+Base Short Print Variations,HW148,Aaron Judge,New York Yankees
+Base Short Print Variations,HW152,Aaron Nola,Philadelphia Phillies
+Base Short Print Variations,HW159,Jose Altuve,Houston Astros
+Base Short Print Variations,HW160,Carter Kieboom,Washington Nationals
+Base Short Print Variations,HW165,Nolan Arenado,Colorado Rockies
+Base Short Print Variations,HW167,Vladimir Guerrero Jr.,Toronto Blue Jays
+Base Short Print Variations,HW171,Brendan Rodgers,Colorado Rockies
+Base Short Print Variations,HW175,Gary Sanchez,New York Yankees
+Base Short Print Variations,HW182,Gleyber Torres,New York Yankees
+Base Short Print Variations,HW187,Walker Buehler,Los Angeles Dodgers
+Base Short Print Variations,HW189,Cavan Biggio,Toronto Blue Jays
+Base Short Print Variations,HW192,Bryce Harper,Philadelphia Phillies
+Base Short Print Variations,HW197,Kris Bryant,Chicago Cubs
+Base Short Print Variations,HW199,Masahiro Tanaka,New York Yankees
+Base Rare Short Print Variations,HW8,Juan Soto,Washington Nationals
+Base Rare Short Print Variations,HW16,Shohei Ohtani,Los Angeles Angels
+Base Rare Short Print Variations,HW26,Anthony Rizzo,Chicago Cubs
+Base Rare Short Print Variations,HW30,Clayton Kershaw,Los Angeles Dodgers
+Base Rare Short Print Variations,HW31,Mike Trout,Los Angeles Angels
+Base Rare Short Print Variations,HW33,Shohei Ohtani,Los Angeles Angels
+Base Rare Short Print Variations,HW35,Alex Bregman,Houston Astros
+Base Rare Short Print Variations,HW36,Rafael Devers,Boston Red Sox
+Base Rare Short Print Variations,HW42,Cody Bellinger,Los Angeles Dodgers
+Base Rare Short Print Variations,HW54,Rhys Hoskins,Philadelphia Phillies
+Base Rare Short Print Variations,HW72,Christian Yelich,Milwaukee Brewers
+Base Rare Short Print Variations,HW74,Francisco Lindor,Cleveland Indians
+Base Rare Short Print Variations,HW85,Ronald Acuña Jr.,Atlanta Braves
+Base Rare Short Print Variations,HW87,Albert Pujols,Los Angeles Angels
+Base Rare Short Print Variations,HW95,Manny Machado,San Diego Padres
+Base Rare Short Print Variations,HW112,George Springer,Houston Astros
+Base Rare Short Print Variations,HW127,J.D. Martinez,Boston Red Sox
+Base Rare Short Print Variations,HW129,Justin Verlander,Houston Astros
+Base Rare Short Print Variations,HW148,Aaron Judge,New York Yankees
+Base Rare Short Print Variations,HW159,Jose Altuve,Houston Astros
+Base Rare Short Print Variations,HW165,Nolan Arenado,Colorado Rockies
+Base Rare Short Print Variations,HW182,Gleyber Torres,New York Yankees
+Base Rare Short Print Variations,HW187,Walker Buehler,Los Angeles Dodgers
+Base Rare Short Print Variations,HW192,Bryce Harper,Philadelphia Phillies
+Base Rare Short Print Variations,HW197,Kris Bryant,Chicago Cubs
+Base Super Rare Short Print Variations,HW16,Shohei Ohtani,Los Angeles Angels
+Base Super Rare Short Print Variations,HW26,Anthony Rizzo,Chicago Cubs
+Base Super Rare Short Print Variations,HW29,Mookie Betts,Boston Red Sox
+Base Super Rare Short Print Variations,HW30,Clayton Kershaw,Los Angeles Dodgers
+Base Super Rare Short Print Variations,HW31,Mike Trout,Los Angeles Angels
+Base Super Rare Short Print Variations,HW33,Shohei Ohtani,Los Angeles Angels
+Base Super Rare Short Print Variations,HW42,Cody Bellinger,Los Angeles Dodgers
+Base Super Rare Short Print Variations,HW54,Rhys Hoskins,Philadelphia Phillies
+Base Super Rare Short Print Variations,HW71,Pete Alonso,New York Mets
+Base Super Rare Short Print Variations,HW72,Christian Yelich,Milwaukee Brewers
+Base Super Rare Short Print Variations,HW74,Francisco Lindor,Cleveland Indians
+Base Super Rare Short Print Variations,HW85,Ronald Acuña Jr.,Atlanta Braves
+Base Super Rare Short Print Variations,HW87,Albert Pujols,Los Angeles Angels
+Base Super Rare Short Print Variations,HW95,Manny Machado,San Diego Padres
+Base Super Rare Short Print Variations,HW96,Buster Posey,San Francisco Giants
+Base Super Rare Short Print Variations,HW109,Javier Baez,Chicago Cubs
+Base Super Rare Short Print Variations,HW126,Fernando Tatis Jr.,San Diego Padres
+Base Super Rare Short Print Variations,HW129,Justin Verlander,Houston Astros
+Base Super Rare Short Print Variations,HW136,Carlos Correa,Houston Astros
+Base Super Rare Short Print Variations,HW144,Yadier Molina,St. Louis Cardinals
+Base Super Rare Short Print Variations,HW148,Aaron Judge,New York Yankees
+Base Super Rare Short Print Variations,HW159,Jose Altuve,Houston Astros
+Base Super Rare Short Print Variations,HW167,Vladimir Guerrero Jr.,Toronto Blue Jays
+Base Super Rare Short Print Variations,HW192,Bryce Harper,Philadelphia Phillies
+Base Super Rare Short Print Variations,HW197,Kris Bryant,Chicago Cubs
+Relics,WHR-AA,Albert Almora Jr.,Chicago Cubs
+Relics,WHR-AB,Andrew Benintendi,Boston Red Sox
+Relics,WHR-ABR,Alex Bregman,Houston Astros
+Relics,WHR-AC,Aroldis Chapman,New York Yankees
+Relics,WHR-AH,Aaron Hicks,New York Yankees
+Relics,WHR-AM,Adalberto Mondesi,Kansas City Royals
+Relics,WHR-AR,Anthony Rizzo,Chicago Cubs
+Relics,WHR-ARO,Amed Rosario,New York Mets
+Relics,WHR-BB,Byron Buxton,Minnesota Twins
+Relics,WHR-BP,Buster Posey,San Francisco Giants
+Relics,WHR-CB,Cody Bellinger,Los Angeles Dodgers
+Relics,WHR-CC,Carlos Correa,Houston Astros
+Relics,WHR-CS,CC Sabathia,New York Yankees
+Relics,WHR-CSA,Chris Sale,Boston Red Sox
+Relics,WHR-DG,Didi Gregorius,New York Yankees
+Relics,WHR-DP,Dustin Pedroia,Boston Red Sox
+Relics,WHR-DPR,David Price,Boston Red Sox
+Relics,WHR-DS,Dominic Smith,New York Mets
+Relics,WHR-DSW,Dansby Swanson,Atlanta Braves
+Relics,WHR-EL,Evan Longoria,San Francisco Giants
+Relics,WHR-ER,Eddie Rosario,Minnesota Twins
+Relics,WHR-ES,Eugenio Suarez,Cincinnati Reds
+Relics,WHR-FF,Freddie Freeman,Atlanta Braves
+Relics,WHR-FL,Francisco Lindor,Cleveland Indians
+Relics,WHR-FT,Fernando Tatis Jr.,San Diego Padres
+Relics,WHR-GC,Gerrit Cole,Houston Astros
+Relics,WHR-GS,Gary Sanchez,New York Yankees
+Relics,WHR-GSP,George Springer,Houston Astros
+Relics,WHR-HD,Hunter Dozier,Kansas City Royals
+Relics,WHR-HR,Hyun-Jin Ryu,Los Angeles Dodgers
+Relics,WHR-JAR,Jake Arrieta,Philadelphia Phillies
+Relics,WHR-JB,Javier Baez,Chicago Cubs
+Relics,WHR-JH,Jason Heyward,Chicago Cubs
+Relics,WHR-JL,Jon Lester,Chicago Cubs
+Relics,WHR-JM,J.D. Martinez,Boston Red Sox
+Relics,WHR-JP,Joc Pederson,Los Angeles Dodgers
+Relics,WHR-JR,Jose Ramirez,Cleveland Indians
+Relics,WHR-JRE,J.T. Realmuto,Philadelphia Phillies
+Relics,WHR-JV,Justin Verlander,Houston Astros
+Relics,WHR-JVO,Joey Votto,Cincinnati Reds
+Relics,WHR-KB,Kris Bryant,Chicago Cubs
+Relics,WHR-KS,Kyle Schwarber,Chicago Cubs
+Relics,WHR-LS,Luis Severino,New York Yankees
+Relics,WHR-MA,Miguel Andujar,New York Yankees
+Relics,WHR-MB,Mookie Betts,Boston Red Sox
+Relics,WHR-MC,Miguel Cabrera,Detroit Tigers
+Relics,WHR-MCO,Michael Conforto,New York Mets
+Relics,WHR-MF,Max Fried,Atlanta Braves
+Relics,WHR-MK,Max Kepler,Minnesota Twins
+Relics,WHR-MO,Marcell Ozuna,St. Louis Cardinals
+Relics,WHR-NA,Nolan Arenado,Colorado Rockies
+Relics,WHR-NM,Nomar Mazara,Texas Rangers
+Relics,WHR-OA,Ozzie Albies,Atlanta Braves
+Relics,WHR-RA,Ronald Acuña Jr.,Atlanta Braves
+Relics,WHR-RD,Rafael Devers,Boston Red Sox
+Relics,WHR-RH,Rhys Hoskins,Philadelphia Phillies
+Relics,WHR-SP,Salvador Perez,Kansas City Royals
+Relics,WHR-SS,Stephen Strasburg,Washington Nationals
+Relics,WHR-TS,Trevor Story,Colorado Rockies
+Relics,WHR-TT,Trea Turner,Washington Nationals
+Relics,WHR-WC,Willson Contreras,Chicago Cubs
+Relics,WHR-WM,Whit Merrifield,Kansas City Royals
+Relics,WHR-XB,Xander Bogaerts,Boston Red Sox
+Relics,WHR-ZG,Zack Greinke,Arizona Diamondbacks
+Holiday Relics,WHHR-AB,Andrew Benintendi,Boston Red Sox
+Holiday Relics,WHHR-AJ,Aaron Judge,New York Yankees
+Holiday Relics,WHHR-AM,Andrew McCutchen,Philadelphia Phillies
+Holiday Relics,WHHR-AR,Anthony Rizzo,Chicago Cubs
+Holiday Relics,WHHR-BS,Blake Snell,Tampa Bay Rays
+Holiday Relics,WHHR-CK,Clayton Kershaw,Los Angeles Dodgers
+Holiday Relics,WHHR-CY,Christian Yelich,Milwaukee Brewers
+Holiday Relics,WHHR-EJ,Eloy Jimenez,Chicago White Sox
+Holiday Relics,WHHR-FL,Francisco Lindor,Cleveland Indians
+Holiday Relics,WHHR-FT,Fernando Tatis Jr.,San Diego Padres
+Holiday Relics,WHHR-GS,Giancarlo Stanton,New York Yankees
+Holiday Relics,WHHR-JA,Jose Altuve,Houston Astros
+Holiday Relics,WHHR-JB,Javier Baez,Chicago Cubs
+Holiday Relics,WHHR-JBE,Josh Bell,Pittsburgh Pirates
+Holiday Relics,WHHR-JM,J.D. Martinez,Boston Red Sox
+Holiday Relics,WHHR-JOB,Jose Berrios,Minnesota Twins
+Holiday Relics,WHHR-JS,Juan Soto,Washington Nationals
+Holiday Relics,WHHR-KB,Kris Bryant,Chicago Cubs
+Holiday Relics,WHHR-MB,Mookie Betts,Boston Red Sox
+Holiday Relics,WHHR-MC,Miguel Cabrera,Detroit Tigers
+Holiday Relics,WHHR-MT,Mike Trout,Los Angeles Angels
+Holiday Relics,WHHR-NA,Nolan Arenado,Colorado Rockies
+Holiday Relics,WHHR-RD,Rafael Devers,Boston Red Sox
+Holiday Relics,WHHR-SO,Shohei Ohtani,Los Angeles Angels
+Holiday Relics,WHHR-WB,Walker Buehler,Los Angeles Dodgers
+Holiday Faux Relics,WHFR-ES,Ebenezer Scrooge,No Team
+Holiday Faux Relics,WHFR-EST,Workshop Elf,No Team
+Holiday Faux Relics,WHFR-EW,Workshop Elves,No Team
+Holiday Faux Relics,WHFR-FH,Frosty The Snowman,No Team
+Holiday Faux Relics,WHFR-MA,Mrs. Claus,No Team
+Holiday Faux Relics,WHFR-SG,Santa Claus,No Team
+Holiday Faux Relics,WHFR-SP,Santa Claus,No Team
+Holiday Faux Relics,WHFR-SR,Santa Claus,No Team
+Holiday Faux Relics,WHFR-SS,Santa Claus,No Team
+Holiday Faux Relics,WHFR-SSU,Santa Claus,No Team
+Holiday Relics Autograph,WHHR-AB,Andrew Benintendi,Boston Red Sox
+Holiday Relics Autograph,WHHR-AJ,Aaron Judge,New York Yankees
+Holiday Relics Autograph,WHHR-AM,Andrew McCutchen,Philadelphia Phillies
+Holiday Relics Autograph,WHHR-AR,Anthony Rizzo,Chicago Cubs
+Holiday Relics Autograph,WHHR-BS,Blake Snell,Tampa Bay Rays
+Holiday Relics Autograph,WHHR-CK,Clayton Kershaw,Los Angeles Dodgers
+Holiday Relics Autograph,WHHR-CY,Christian Yelich,Milwaukee Brewers
+Holiday Relics Autograph,WHHR-EJ,Eloy Jimenez,Chicago White Sox
+Holiday Relics Autograph,WHHR-FL,Francisco Lindor,Cleveland Indians
+Holiday Relics Autograph,WHHR-FT,Fernando Tatis Jr.,San Diego Padres
+Holiday Relics Autograph,WHHR-JA,Jose Altuve,Houston Astros
+Holiday Relics Autograph,WHHR-JB,Jose Berrios,Minnesota Twins
+Holiday Relics Autograph,WHHR-JM,J.D. Martinez,Boston Red Sox
+Holiday Relics Autograph,WHHR-JS,Juan Soto,Washington Nationals
+Holiday Relics Autograph,WHHR-KB,Kris Bryant,Chicago Cubs
+Holiday Relics Autograph,WHHR-MC,Miguel Cabrera,Detroit Tigers
+Holiday Relics Autograph,WHHR-MT,Mike Trout,Los Angeles Angels
+Holiday Relics Autograph,WHHR-NA,Nolan Arenado,Colorado Rockies
+Holiday Relics Autograph,WHHR-RD,Rafael Devers,Boston Red Sox
+Holiday Relics Autograph,WHHR-SO,Shohei Ohtani,Los Angeles Angels
+Autograph Relics,WHAR-AB,Andrew Benintendi,Boston Red Sox
+Autograph Relics,WHAR-AN,Aaron Nola,Philadelphia Phillies
+Autograph Relics,WHAR-AR,Austin Riley,Atlanta Braves
+Autograph Relics,WHAR-BR,Brendan Rodgers,Colorado Rockies
+Autograph Relics,WHAR-BS,Blake Snell,Tampa Bay Rays
+Autograph Relics,WHAR-CS,CC Sabathia,New York Yankees
+Autograph Relics,WHAR-DG,Didi Gregorius,New York Yankees
+Autograph Relics,WHAR-DS,Dansby Swanson,Atlanta Braves
+Autograph Relics,WHAR-FL,Francisco Lindor,Cleveland Indians
+Autograph Relics,WHAR-FR,Franmil Reyes,San Diego Padres
+Autograph Relics,WHAR-FT,Fernando Tatis Jr.,San Diego Padres
+Autograph Relics,WHAR-GC,Gerrit Cole,Houston Astros
+Autograph Relics,WHAR-GS,George Springer,Houston Astros
+Autograph Relics,WHAR-JA,Jose Altuve,Houston Astros
+Autograph Relics,WHAR-JM,J.D. Martinez,Boston Red Sox
+Autograph Relics,WHAR-JS,Juan Soto,Washington Nationals
+Autograph Relics,WHAR-KH,Keston Hiura,Milwaukee Brewers
+Autograph Relics,WHAR-LV,Luke Voit,New York Yankees
+Autograph Relics,WHAR-MC,Michael Chavis,Boston Red Sox
+Autograph Relics,WHAR-MS,Max Scherzer,Washington Nationals
+Autograph Relics,WHAR-NA,Nolan Arenado,Colorado Rockies
+Autograph Relics,WHAR-NS,Nick Senzel,Cincinnati Reds
+Autograph Relics,WHAR-OA,Ozzie Albies,Atlanta Braves
+Autograph Relics,WHAR-PA,Pete Alonso,New York Mets
+Autograph Relics,WHAR-PD,Paul DeJong,St. Louis Cardinals
+Autograph Relics,WHAR-PG,Paul Goldschmidt,St. Louis Cardinals
+Autograph Relics,WHAR-RA,Ronald Acuña Jr.,Atlanta Braves
+Autograph Relics,WHAR-RD,Rafael Devers,Boston Red Sox
+Autograph Relics,WHAR-RH,Rhys Hoskins,Philadelphia Phillies
+Autograph Relics,WHAR-SC,Santa Claus,No Team
+Autograph Relics,WHAR-VG,Vladimir Guerrero Jr.,Toronto Blue Jays
+Autograph Relics,WHAR-VR,Victor Robles,Washington Nationals
+Autograph Relics,WHAR-WC,Willson Contreras,Chicago Cubs
+Autographs,WHA-AN,Aaron Nola,Philadelphia Phillies
+Autographs,WHA-BL,Brandon Lowe,Tampa Bay Rays
+Autographs,WHA-BR,Brendan Rodgers,Colorado Rockies
+Autographs,WHA-CM,Charlie Morton,Tampa Bay Rays
+Autographs,WHA-CY,Christian Yelich,Milwaukee Brewers
+Autographs,WHA-EJ,Eloy Jimenez,Chicago White Sox
+Autographs,WHA-FL,Francisco Lindor,Cleveland Indians
+Autographs,WHA-FT,Fernando Tatis Jr.,San Diego Padres
+Autographs,WHA-GC,Griffin Canning,Los Angeles Angels
+Autographs,WHA-HR,Hunter Renfroe,San Diego Padres
+Autographs,WHA-JA,Jose Altuve,Houston Astros
+Autographs,WHA-JD,Jon Duplantier,Arizona Diamondbacks
+Autographs,WHA-JH,JD Hammer,Philadelphia Phillies
+Autographs,WHA-JM,Jeff McNeil,New York Mets
+Autographs,WHA-JP,Joc Pederson,Los Angeles Dodgers
+Autographs,WHA-JV,Joey Votto,Cincinnati Reds
+Autographs,WHA-KH,Keston Hiura,Milwaukee Brewers
+Autographs,WHA-KN,Kevin Newman,Pittsburgh Pirates
+Autographs,WHA-LT,Lane Thomas,St. Louis Cardinals
+Autographs,WHA-LV,Luke Voit,New York Yankees
+Autographs,WHA-MC,Michael Chavis,Boston Red Sox
+Autographs,WHA-MM,Manny Machado,San Diego Padres
+Autographs,WHA-MMU,Max Muncy,Los Angeles Dodgers
+Autographs,WHA-MS,Max Scherzer,Washington Nationals
+Autographs,WHA-MT,Mike Trout,Los Angeles Angels
+Autographs,WHA-NA,Nolan Arenado,Colorado Rockies
+Autographs,WHA-NS,Nick Senzel,Cincinnati Reds
+Autographs,WHA-PA,Pete Alonso,New York Mets
+Autographs,WHA-PD,Paul DeJong,St. Louis Cardinals
+Autographs,WHA-RA,Ronald Acuña Jr.,Atlanta Braves
+Autographs,WHA-RD,Rafael Devers,Boston Red Sox
+Autographs,WHA-RH,Ryan Helsley,St. Louis Cardinals
+Autographs,WHA-SA,Shaun Anderson,San Francisco Giants
+Autographs,WHA-SO,Shohei Ohtani,Los Angeles Angels
+Autographs,WHA-TA,Tim Anderson,Chicago White Sox
+Autographs,WHA-TB,Trevor Bauer,Cincinnati Reds
+Autographs,WHA-VG,Vladimir Guerrero Jr.,Toronto Blue Jays
+Autographs,WHA-WA,Willians Astudillo,Minnesota Twins
+Autographs,WHA-WC,Willson Contreras,Chicago Cubs
+Autographs,WHA-WS,Will Smith,Los Angeles Dodgers
+Autographs,WHA-YK,Yusei Kikuchi,Seattle Mariners
