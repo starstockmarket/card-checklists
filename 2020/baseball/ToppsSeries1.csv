@@ -37,7 +37,7 @@ Base,35,Adalberto Mondesi,Kansas City Royals
 Base,36,Sean Doolittle,Washington Nationals
 Base,37,Albert Almora,Chicago Cubs
 Base,38,Austin Nola,Seattle Mariners
-Base,39,Tyler O'neill,St. Louis Cardinals
+Base,39,Tyler O'Neill,St. Louis Cardinals
 Base,40,Bobby Bradley,Cleveland Indians
 Base,41,Brian Anderson,Miami Marlins
 Base,42,Lewis Brinson,Miami Marlins
@@ -543,7 +543,7 @@ Decades Best,DB-91,Miguel Cabrera,Detroit Tigers
 Decades Best,DB-92,Shohei Ohtani,Los Angeles Angels
 Decades Best,DB-93,Mike Trout,Los Angeles Angels
 Decades Best,DB-94,Kris Bryant,Chicago Cubs
-Decades Best,DB-95,Jacob DeGrom,New York Mets
+Decades Best,DB-95,Jacob deGrom,New York Mets
 Decades Best,DB-96,Bryce Harper,Washington Nationals
 Decades Best,DB-97,Max Scherzer,Detroit Tigers
 Decades Best,DB-98,Felix Hernandez,Seattle Mariners
@@ -1218,7 +1218,7 @@ Decades Best Chrome,DBC-91,Miguel Cabrera,Detroit Tigers
 Decades Best Chrome,DBC-92,Shohei Ohtani,Los Angeles Angels
 Decades Best Chrome,DBC-93,Mike Trout,Los Angeles Angels
 Decades Best Chrome,DBC-94,Kris Bryant,Chicago Cubs
-Decades Best Chrome,DBC-95,Jacob DeGrom,New York Mets
+Decades Best Chrome,DBC-95,Jacob deGrom,New York Mets
 Decades Best Chrome,DBC-96,Bryce Harper,Washington Nationals
 Decades Best Chrome,DBC-97,Max Scherzer,Detroit Tigers
 Decades Best Chrome,DBC-98,Felix Hernandez,Seattle Mariners
@@ -1262,7 +1262,7 @@ Decades Best Autographs,DB00-RC,Roger Clemens,New York Yankees
 Decades Best Autographs,DB00-RJ,Randy Johnson,Arizona Diamondbacks
 Decades Best Autographs,DB00-TG,Tom Glavine,Atlanta Braves
 Decades Best Autographs,DB10-AJ,Aaron Judge,New York Yankees
-Decades Best Autographs,DB10-JD,Jacob DeGrom,New York Mets
+Decades Best Autographs,DB10-JD,Jacob deGrom,New York Mets
 Decades Best Autographs,DB10-KB,Kris Bryant,Chicago Cubs
 Decades Best Autographs,DB10-MC,Miguel Cabrera,Detroit Tigers
 Decades Best Autographs,DB10-MS,Max Scherzer,Detroit Tigers
@@ -1281,7 +1281,7 @@ Topps Choice Autographs,TCA-KB,Kris Bryant,Chicago Cubs
 Topps Choice Autographs,TCA-KGJ,Ken Griffey Jr.,Seattle Mariners
 Topps Choice Autographs,TCA-MT,Mike Trout,Los Angeles Angels
 Topps Choice Autographs,TCA-PA,Pete Alonso,New York Mets
-Topps Choice Autographs,TCA-RAJ,Ronald Acuna Jr.,Atlanta Braves
+Topps Choice Autographs,TCA-RAJ,Ronald Acuña Jr.,Atlanta Braves
 Topps Choice Autographs,TCA-SO,Shohei Ohtani,Los Angeles Angels
 Topps Choice Autographs,TCA-VGJ,Vladimir Guerrero Jr.,Toronto Blue Jays
 Topps Choice Autographs,TCA-YA,Yordan Alvarez,Houston Astros
@@ -1303,7 +1303,7 @@ Decades Next Autographs,DNA-MS,Mike Soroka,Atlanta Braves
 Decades Next Autographs,DNA-NH,Nico Hoerner,Chicago Cubs
 Decades Next Autographs,DNA-OAL,Ozzie Albies,Atlanta Braves
 Decades Next Autographs,DNA-PAL,Pete Alonso,New York Mets
-Decades Next Autographs,DNA-RAJ,Ronald Acuna Jr.,Atlanta Braves
+Decades Next Autographs,DNA-RAJ,Ronald Acuña Jr.,Atlanta Braves
 Decades Next Autographs,DNA-RD,Rafael Devers,Boston Red Sox
 Decades Next Autographs,DNA-RL,Ramon Laureano,Oakland Athletics
 Decades Next Autographs,DNA-SOH,Shohei Ohtani,Los Angeles Angels
@@ -1554,7 +1554,7 @@ Postseason Performance Autographs,PPA-SD,Sean Doolittle,Washington Nationals
 1985 Topps Baseball Autographs,85A-MR,Mariano Rivera,New York Yankees
 1985 Topps Baseball Autographs,85A-MSO,Mike Soroka,Atlanta Braves
 1985 Topps Baseball Autographs,85A-MT,Mike Trout,Los Angeles Angels
-1985 Topps Baseball Autographs,85A-MU,Andres Munoz,San Diego Padres
+1985 Topps Baseball Autographs,85A-MU,Andres Muñoz,San Diego Padres
 1985 Topps Baseball Autographs,85A-NGA,Nomar Garciaparra,Boston Red Sox
 1985 Topps Baseball Autographs,85A-NH,Nico Hoerner,Chicago Cubs
 1985 Topps Baseball Autographs,85A-NR,Nolan Ryan,Houston Astros
@@ -1861,7 +1861,7 @@ Major League Material Relics,MLM-YM,Yoan Moncada,Chicago White Sox
 1985 Topps Baseball Relics,85R-RD,Rafael Devers,Boston Red Sox
 1985 Topps Baseball Relics,85R-RH,Rickey Henderson,Oakland Athletics
 1985 Topps Baseball Relics,85R-RHO,Rhys Hoskins,Philadelphia Phillies
-1985 Topps Baseball Relics,85R-RJ,Reggie Jackson,California Los Angeles Angels
+1985 Topps Baseball Relics,85R-RJ,Reggie Jackson,Los Angeles Angels
 1985 Topps Baseball Relics,85R-RS,Ryne Sandberg,Chicago Cubs
 1985 Topps Baseball Relics,85R-RY,Robin Yount,Milwaukee Brewers
 1985 Topps Baseball Relics,85R-TG,Tony Gwynn,San Diego Padres
@@ -2081,7 +2081,7 @@ Rookie Card Retrospective RC Logo Medallion Autograph Manufactured Relics,RRMA-D
 Rookie Card Retrospective RC Logo Medallion Autograph Manufactured Relics,RRMA-FR,Frank Robinson,Cincinnati Reds
 Rookie Card Retrospective RC Logo Medallion Autograph Manufactured Relics,RRMA-FT,Fernando Tatis Jr.,San Diego Padres
 Rookie Card Retrospective RC Logo Medallion Autograph Manufactured Relics,RRMA-FTH,Frank Thomas,Chicago White Sox
-Rookie Card Retrospective RC Logo Medallion Autograph Manufactured Relics,RRMA-IS,Ichiro Suzuki,Seattle Mariners
+Rookie Card Retrospective RC Logo Medallion Autograph Manufactured Relics,RRMA-IS,Ichiro,Seattle Mariners
 Rookie Card Retrospective RC Logo Medallion Autograph Manufactured Relics,RRMA-JA,Jose Altuve,Houston Astros
 Rookie Card Retrospective RC Logo Medallion Autograph Manufactured Relics,RRMA-JB,Jeff Bagwell,Houston Astros
 Rookie Card Retrospective RC Logo Medallion Autograph Manufactured Relics,RRMA-JC,Jose Canseco,Oakland Athletics
