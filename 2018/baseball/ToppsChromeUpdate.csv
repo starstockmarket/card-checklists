@@ -1,0 +1,178 @@
+Card Set,Number,Player,Team
+Base,HMT1,Shohei Ohtani,Los Angeles Angels
+Base,HMT2,Jordan Hicks,St. Louis Cardinals
+Base,HMT3,Joey Lucchesi,San Diego Padres
+Base,HMT4,Tyler Beede,San Francisco Giants
+Base,HMT5,Chris Stratton,San Francisco Giants
+Base,HMT6,Daniel Mengden,Oakland Athletics
+Base,HMT7,Miles Mikolas,St. Louis Cardinals
+Base,HMT8,Tyler O'Neill,St. Louis Cardinals
+Base,HMT9,Gleyber Torres,New York Yankees
+Base,HMT10,Jesse Biddle,Atlanta Braves
+Base,HMT11,Lourdes Gurriel Jr.,Toronto Blue Jays
+Base,HMT12,Isiah Kiner-Falefa,Texas Rangers
+Base,HMT13,Dustin Fowler,Oakland Athletics
+Base,HMT14,Nick Kingham,Pittsburgh Pirates
+Base,HMT15,David Bote,Chicago Cubs
+Base,HMT16,Michael Soroka,Atlanta Braves
+Base,HMT17,Fernando Romero,Minnesota Twins
+Base,HMT18,Jack Flaherty,St. Louis Cardinals
+Base,HMT19,Walker Buehler,Los Angeles Dodgers
+Base,HMT20,Miguel Andujar,New York Yankees
+Base,HMT21,Clint Frazier,New York Yankees
+Base,HMT22,Victor Robles,Washington Nationals
+Base,HMT23,Rafael Devers,Boston Red Sox
+Base,HMT24,Scott Kingery,Philadelphia Phillies
+Base,HMT25,Ronald Acuña Jr.,Atlanta Braves
+Base,HMT26,Gleyber Torres,New York Yankees
+Base,HMT27,Ozzie Albies,Atlanta Braves
+Base,HMT28,Rhys Hoskins,Philadelphia Phillies
+Base,HMT29,Amed Rosario,New York Mets
+Base,HMT30,Scott Kingery,Philadelphia Phillies
+Base,HMT31,Ronald Acuña Jr.,Atlanta Braves
+Base,HMT32,Shohei Ohtani,Los Angeles Angels
+Base,HMT33,Gleyber Torres,New York Yankees
+Base,HMT34,Jordan Hicks,St. Louis Cardinals
+Base,HMT35,Michael Soroka,Atlanta Braves
+Base,HMT36,Nick Kingham,Pittsburgh Pirates
+Base,HMT37,Andrew McCutchen,San Francisco Giants
+Base,HMT38,Giancarlo Stanton,New York Yankees
+Base,HMT39,Eric Hosmer,San Diego Padres
+Base,HMT40,J.D. Martinez,Boston Red Sox
+Base,HMT41,Matt Kemp,Los Angeles Dodgers
+Base,HMT42,Zack Cozart,Los Angeles Angels
+Base,HMT43,Carlos Santana,Philadelphia Phillies
+Base,HMT44,Ian Kinsler,Boston Red Sox
+Base,HMT45,Ichiro,Seattle Mariners
+Base,HMT46,Marcell Ozuna,St. Louis Cardinals
+Base,HMT47,Christian Yelich,Milwaukee Brewers
+Base,HMT48,Matt Harvey,Cincinnati Reds
+Base,HMT49,Todd Frazier,New York Mets
+Base,HMT50,Randal Grichuk,Toronto Blue Jays
+Base,HMT51,Jose Bautista,New York Mets
+Base,HMT52,Stephen Piscotty,Oakland Athletics
+Base,HMT53,Evan Longoria,San Francisco Giants
+Base,HMT54,Austin Meadows,Tampa Bay Rays
+Base,HMT55,Juan Soto,Washington Nationals
+Base,HMT56,Willy Adames,Tampa Bay Rays
+Base,HMT57,Dylan Cozens,Philadelphia Phillies
+Base,HMT58,Felipe Vázquez,Pittsburgh Pirates
+Base,HMT59,Shane Bieber,Cleveland Indians
+Base,HMT60,Jose Abreu,Chicago White Sox
+Base,HMT61,Freddie Freeman,Atlanta Braves
+Base,HMT62,Jose Altuve,Houston Astros
+Base,HMT63,Javier Baez,Chicago Cubs
+Base,HMT64,Jose Ramirez,Cleveland Indians
+Base,HMT65,Nolan Arenado,Colorado Rockies
+Base,HMT66,Manny Machado,Baltimore Orioles
+Base,HMT67,Brandon Crawford,San Francisco Giants
+Base,HMT68,Mookie Betts,Boston Red Sox
+Base,HMT69,Mike Trout,Los Angeles Angels
+Base,HMT70,Aaron Judge,New York Yankees
+Base,HMT71,Nick Markakis,Atlanta Braves
+Base,HMT72,Matt Kemp,Los Angeles Dodgers
+Base,HMT73,Bryce Harper,Washington Nationals
+Base,HMT74,Willson Contreras,Chicago Cubs
+Base,HMT75,J.D. Martinez,Boston Red Sox
+Base,HMT76,Ozzie Albies,Atlanta Braves
+Base,HMT77,Max Scherzer,Washington Nationals
+Base,HMT78,Jacob deGrom,New York Mets
+Base,HMT79,Josh Hader,Milwaukee Brewers
+Base,HMT80,Gleyber Torres,New York Yankees
+Base,HMT81,Francisco Lindor,Cleveland Indians
+Base,HMT82,Alex Bregman,Houston Astros
+Base,HMT83,Chris Sale,Boston Red Sox
+Base,HMT84,Luis Severino,New York Yankees
+Base,HMT85,Corey Kluber,Cleveland Indians
+Base,HMT86,Lorenzo Cain,Milwaukee Brewers
+Base,HMT87,Yadier Molina,St. Louis Cardinals
+Base,HMT88,Mitch Haniger,Seattle Mariners
+Base,HMT89,Joey Votto,Cincinnati Reds
+Base,HMT90,Gerrit Cole,Houston Astros
+Base,HMT91,Scooter Gennett,Cincinnati Reds
+Base,HMT92,Kenley Jansen,Los Angeles Dodgers
+Base,HMT93,Freddy Peralta,Milwaukee Brewers
+Base,HMT94,Yairo Munoz,St. Louis Cardinals
+Base,HMT95,Trevor Story,Colorado Rockies
+Base,HMT96,Charlie Blackmon,Colorado Rockies
+Base,HMT97,Manny Machado,Los Angeles Dodgers
+Base,HMT98,Juan Soto,Washington Nationals
+Base,HMT99,Austin Meadows,Pittsburgh Pirates
+Base,HMT100,Willy Adames,Tampa Bay Rays
+Autographs,ACBU-AM,Andrew McCutchen,San Francisco Giants
+Autographs,ACBU-AR,Amed Rosario,New York Mets
+Autographs,ACBU-AUM,Austin Meadows,Pittsburgh Pirates
+Autographs,ACBU-CAS,Carlos Santana,Philadelphia Phillies
+Autographs,ACBU-CF,Clint Frazier,New York Yankees
+Autographs,ACBU-CHS,Chris Stratton,San Francisco Giants
+Autographs,ACBU-CY,Christian Yelich,Milwaukee Brewers
+Autographs,ACBU-DB,David Bote,Chicago Cubs
+Autographs,ACBU-DC,Dylan Cozens,Philadelphia Phillies
+Autographs,ACBU-DF,Dustin Fowler,Oakland Athletics
+Autographs,ACBU-DM,Daniel Mengden,Oakland Athletics
+Autographs,ACBU-EL,Evan Longoria,San Francisco Giants
+Autographs,ACBU-FM,Francisco Mejia,San Diego Padres
+Autographs,ACBU-FP,Freddy Peralta,Milwaukee Brewers
+Autographs,ACBU-FR,Fernando Romero,Minnesota Twins
+Autographs,ACBU-FV,Felipe Vásquez,Pittsburgh Pirates
+Autographs,ACBU-GT,Gleyber Torres,New York Yankees
+Autographs,ACBU-I,Ichiro,Seattle Mariners
+Autographs,ACBU-IAK,Ian Kinsler,Los Angeles Angels
+Autographs,ACBU-IK,Isiah Kiner-Falefa,Texas Rangers
+Autographs,ACBU-JE,Jesse Biddle,Atlanta Braves
+Autographs,ACBU-JF,Jack Flaherty,St. Louis Cardinals
+Autographs,ACBU-JH,Josh Hader,Milwaukee Brewers
+Autographs,ACBU-JOH,Jordan Hicks,St. Louis Cardinals
+Autographs,ACBU-JS,Juan Soto,Washington Nationals
+Autographs,ACBU-LG,Lourdes Gurriel Jr.,Toronto Blue Jays
+Autographs,ACBU-MH,Mitch Haniger,Seattle Mariners
+Autographs,ACBU-MMI,Miles Mikolas,St. Louis Cardinals
+Autographs,ACBU-MO,Marcell Ozuna,St. Louis Cardinals
+Autographs,ACBU-MSO,Michael Soroka,Atlanta Braves
+Autographs,ACBU-NK,Nick Kingham,Pittsburgh Pirates
+Autographs,ACBU-OA,Ozzie Albies,Atlanta Braves
+Autographs,ACBU-RA,Ronald Acuña Jr.,Atlanta Braves
+Autographs,ACBU-RD,Rafael Devers,Boston Red Sox
+Autographs,ACBU-RH,Rhys Hoskins,Philadelphia Phillies
+Autographs,ACBU-SB,Shane Bieber,Cleveland Indians
+Autographs,ACBU-SK,Scott Kingery,Philadelphia Phillies
+Autographs,ACBU-SO,Shohei Ohtani,Los Angeles Angels
+Autographs,ACBU-TB,Tyler Beede,San Francisco Giants
+Autographs,ACBU-VR,Victor Robles,Washington Nationals
+Autographs,ACBU-WA,Willy Adames,Tampa Bay Rays
+Autographs,ACBU-WB,Walker Buehler,Los Angeles Dodgers
+Autographs,ACBU-ZC,Zack Cozart,Los Angeles Angels
+Rookie Autographs,RA-KM,Kyle Martin,Boston Red Sox
+Rookie Autographs,RA-JM,Juan Minaya,Chicago White Sox
+Rookie Autographs,RA-TD,Tyler Danish,Boston Red Sox
+Rookie Autographs,RA-TT,Travis Taijeron,Los Angeles Dodgers
+An International Affair,IA-AJ,Aaron Judge,New York Yankees
+An International Affair,IA-CC,Carlos Correa,Houston Astros
+An International Affair,IA-DG,Didi Gregorius,New York Yankees
+An International Affair,IA-FF,Freddie Freeman,Atlanta Braves
+An International Affair,IA-FL,Francisco Lindor,Cleveland Indians
+An International Affair,IA-GS,Gary Sanchez,New York Yankees
+An International Affair,IA-GT,Gleyber Torres,New York Yankees
+An International Affair,IA-I,Ichiro,Seattle Mariners
+An International Affair,IA-JA,Jose Altuve,Houston Astros
+An International Affair,IA-JB,Javier Baez,Chicago Cubs
+An International Affair,IA-JV,Joey Votto,Cincinnati Reds
+An International Affair,IA-KD,Khris Davis,Oakland Athletics
+An International Affair,IA-MM,Manny Machado,Los Angeles Dodgers
+An International Affair,IA-MT,Mike Trout,Los Angeles Angels
+An International Affair,IA-OA,Ozzie Albies,Atlanta Braves
+An International Affair,IA-RA,Ronald Acuña Jr.,Atlanta Braves
+An International Affair,IA-RD,Rafael Devers,Boston Red Sox
+An International Affair,IA-SO,Shohei Ohtani,Los Angeles Angels
+An International Affair,IA-YC,Yoenis Cespedes,New York Mets
+An International Affair,IA-YM,Yoan Moncada,Chicago White Sox
+An International Affair Autographs,AIA-CC,Carlos Correa,Houston Astros
+An International Affair Autographs,AIA-FL,Francisco Lindor,Cleveland Indians
+An International Affair Autographs,AIA-GT,Gleyber Torres,New York Yankees
+An International Affair Autographs,AIA-JA,Jose Altuve,Houston Astros
+An International Affair Autographs,AIA-JV,Joey Votto,Cincinnati Reds
+An International Affair Autographs,AIA-MM,Manny Machado,Los Angeles Dodgers
+An International Affair Autographs,AIA-RA,Ronald Acuña Jr.,Atlanta Braves
+An International Affair Autographs,AIA-SO,Shohei Ohtani,Los Angeles Angels
+An International Affair Autographs,AIA-YC,Yoenis Cespedes,New York Mets
+An International Affair Autographs,AIA-YM,Yoan Moncada,Chicago White Sox
