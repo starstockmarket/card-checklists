@@ -1,0 +1,869 @@
+Card Set,Number,Player,Team
+Base,1,Frank Gore,San Francisco 49ers
+Base,2,Cecil Shorts,Jacksonville Jaguars
+Base,3,Justin Tuck,Oakland Raiders
+Base,4,Jordan Reed,Washington Redskins
+Base,5,Demaryius Thomas,Denver Broncos
+Base,6,Joe Flacco,Baltimore Ravens
+Base,7,Randall Cobb,Green Bay Packers
+Base,8,Patrick Willis,San Francisco 49ers
+Base,9,Antonio Brown,Pittsburgh Steelers
+Base,10,Clay Matthews,Green Bay Packers
+Base,11,EJ Manuel,Buffalo Bills
+Base,12,Julius Thomas,Denver Broncos
+Base,13,Dominique Rodgers-Cromartie,New York Giants
+Base,14,Reggie Wayne,Indianapolis Colts
+Base,15,Darrelle Revis,New England Patriots
+Base,16,Pierre Thomas,New Orleans Saints
+Base,17,Drew Brees,New Orleans Saints
+Base,18,Pierre Garçon,Washington Redskins
+Base,19,Kendall Wright,Tennessee Titans
+Base,20,NaVorro Bowman,San Francisco 49ers
+Base,21,Tamba Hali,Kansas City Chiefs
+Base,22,DeSean Jackson,Washington Redskins
+Base,23,Ryan Tannehill,Miami Dolphins
+Base,24,Greg Hardy,Carolina Panthers
+Base,25,Brandon Marshall,Chicago Bears
+Base,26,Wes Welker,Denver Broncos
+Base,27,C.J. Spiller,Buffalo Bills
+Base,28,Geno Smith,New York Jets
+Base,29,J.J. Watt,Houston Texans
+Base,30,Troy Polamalu,Pittsburgh Steelers
+Base,31,Vincent Jackson,Tampa Bay Buccaneers
+Base,32,Michael Crabtree,San Francisco 49ers
+Base,33,Alshon Jeffery,Chicago Bears
+Base,34,Zach Ertz,Philadelphia Eagles
+Base,35,Mike Glennon,Tampa Bay Buccaneers
+Base,36,T.Y. Hilton,Indianapolis Colts
+Base,37,Terrell Suggs,Baltimore Ravens
+Base,38,Ndamukong Suh,Detroit Lions
+Base,39,Patrick Peterson,Arizona Cardinals
+Base,40,DeAndre Hopkins,Houston Texans
+Base,41,Cameron Jordan,New Orleans Saints
+Base,42,Peyton Manning,Denver Broncos
+Base,43,Ryan Mathews,San Diego Chargers
+Base,44,Eric Berry,Kansas City Chiefs
+Base,45,A.J. Green,Cincinnati Bengals
+Base,46,Matt Forté,Chicago Bears
+Base,47,Andrew Luck,Indianapolis Colts
+Base,48,Ace Sanders,Jacksonville Jaguars
+Base,49,Jason Pierre-Paul,New York Giants
+Base,50,Le’Veon Bell,Pittsburgh Steelers
+Base,51,Mario Williams,Buffalo Bills
+Base,52,Alfred Morris,Washington Redskins
+Base,53,Sheldon Richardson,New York Jets
+Base,54,Alex Smith,Kansas City Chiefs
+Base,55,Josh Gordon,Cleveland Browns
+Base,56,Colin Kaepernick,San Francisco 49ers
+Base,57,Tavon Austin,St. Louis Rams
+Base,58,Jay Cutler,Chicago Bears
+Base,59,Percy Harvin,Seattle Seahawks
+Base,60,Victor Cruz,New York Giants
+Base,61,Marshawn Lynch,Seattle Seahawks
+Base,62,Tom Brady,New England Patriots
+Base,63,Giovani Bernard,Cincinnati Bengals
+Base,64,LeSean McCoy,Philadelphia Eagles
+Base,65,Kiko Alonso,Buffalo Bills
+Base,66,Montee Ball,Denver Broncos
+Base,67,Jimmy Graham,New Orleans Saints
+Base,68,Mike Wallace,Miami Dolphins
+Base,69,Jordan Cameron,Cleveland Browns
+Base,70,Muhammad Wilkerson,New York Jets
+Base,71,Reggie Bush,Detroit Lions
+Base,72,Jamaal Charles,Kansas City Chiefs
+Base,73,Matthew Stafford,Detroit Lions
+Base,74,Robert Quinn,St. Louis Rams
+Base,75,Denarius Moore,Oakland Raiders
+Base,76,Larry Fitzgerald,Arizona Cardinals
+Base,77,Tony Romo,Dallas Cowboys
+Base,78,Dez Bryant,Dallas Cowboys
+Base,79,Torrey Smith,Baltimore Ravens
+Base,80,Robert Mathis,Indianapolis Colts
+Base,81,Brian Hartline,Miami Dolphins
+Base,82,Rob Gronkowski,New England Patriots
+Base,83,Aaron Rodgers,Green Bay Packers
+Base,84,Cordarrelle Patterson,Minnesota Vikings
+Base,85,Andy Dalton,Cincinnati Bengals
+Base,86,Vontaze Burﬁct,Cincinnati Bengals
+Base,87,Luke Kuechly,Carolina Panthers
+Base,88,Julio Jones,Atlanta Falcons
+Base,89,Adrian Peterson,Minnesota Vikings
+Base,90,Sean Lee,Dallas Cowboys
+Base,91,Philip Rivers,San Diego Chargers
+Base,92,Anquan Boldin,San Francisco 49ers
+Base,93,Eli Manning,New York Giants
+Base,94,Matt Ryan,Atlanta Falcons
+Base,95,Earl Thomas,Seattle Seahawks
+Base,96,Robert Grifﬁn III,Washington Redskins
+Base,97,Richard Sherman,Seattle Seahawks
+Base,98,Calvin Johnson,Detroit Lions
+Base,99,Roddy White,Atlanta Falcons
+Base,100,Jordy Nelson,Green Bay Packers
+Base,101,Andre Johnson,Houston Texans
+Base,102,Russell Wilson,Seattle Seahawks
+Base,103,Cam Newton,Carolina Panthers
+Base,104,Keenan Allen,San Diego Chargers
+Base,105,Julian Edelman,New England Patriots
+Base,106,Eddie Lacy,Green Bay Packers
+Base,107,Arian Foster,Houston Texans
+Base,108,Von Miller,Denver Broncos
+Base,109,Nick Foles,Philadelphia Eagles
+Base,110,DeMarco Murray,Dallas Cowboys
+Base Variations,9,Antonio Brown,Pittsburgh Steelers
+Base Variations,17,Drew Brees,New Orleans Saints
+Base Variations,32,Michael Crabtree,San Francisco 49ers
+Base Variations,33,Alshon Jeffery,Chicago Bears
+Base Variations,42,Peyton Manning,Denver Broncos
+Base Variations,45,A.J. Green,Cincinnati Bengals
+Base Variations,47,Andrew Luck,Indianapolis Colts
+Base Variations,50,Le’Veon Bell,Pittsburgh Steelers
+Base Variations,52,Alfred Morris,Washington Redskins
+Base Variations,56,Colin Kaepernick,San Francisco 49ers
+Base Variations,60,Victor Cruz,New York Giants
+Base Variations,61,Marshawn Lynch,Seattle Seahawks
+Base Variations,62,Tom Brady,New England Patriots
+Base Variations,63,Giovani Bernard,Cincinnati Bengals
+Base Variations,64,LeSean McCoy,Philadelphia Eagles
+Base Variations,67,Jimmy Graham,New Orleans Saints
+Base Variations,71,Reggie Bush,Detroit Lions
+Base Variations,72,Jamaal Charles,Kansas City Chiefs
+Base Variations,78,Dez Bryant,Dallas Cowboys
+Base Variations,82,Rob Gronkowski,New England Patriots
+Base Variations,83,Aaron Rodgers,Green Bay Packers
+Base Variations,89,Adrian Peterson,Minnesota Vikings
+Base Variations,91,Philip Rivers,San Diego Chargers
+Base Variations,97,Richard Sherman,Seattle Seahawks
+Base Variations,98,Calvin Johnson,Detroit Lions
+Base Variations,99,Roddy White,Atlanta Falcons
+Base Variations,102,Russell Wilson,Seattle Seahawks
+Base Variations,103,Cam Newton,Carolina Panthers
+Base Variations,106,Eddie Lacy,Green Bay Packers
+Base Variations,109,Nick Foles,Philadelphia Eagles
+Rookies,111,Craig Loston,Jacksonville Jaguars
+Rookies,112,Henry Josey,Philadelphia Eagles
+Rookies,113,Jeff Mathews,Atlanta Falcons
+Rookies,114,Davante Adams,Green Bay Packers
+Rookies,115,Derek Carr,Oakland Raiders
+Rookies,116,Bruce Ellington,San Francisco 49ers
+Rookies,117,Odell Beckham Jr.,New York Giants
+Rookies,118,Mike Davis,Oakland Raiders
+Rookies,119,Cyrus Kouandjio,Buffalo Bills
+Rookies,120,Jadeveon Clowney,Houston Texans
+Rookies,121,Josh Huff,Philadelphia Eagles
+Rookies,122,Marion Grice,San Diego Chargers
+Rookies,123,Cody Hoffman,Washington Redskins
+Rookies,124,Kelvin Benjamin,Carolina Panthers
+Rookies,125,Jeremy Hill,Cincinnati Bengals
+Rookies,126,Marqise Lee,Jacksonville Jaguars
+Rookies,127,Devin Street,Dallas Cowboys
+Rookies,128,Yawin Smallwood,Atlanta Falcons
+Rookies,129,Aaron Murray,Kansas City Chiefs
+Rookies,130,Jared Abbrederis,Green Bay Packers
+Rookies,131,C.J. Fiedorowicz,Houston Texans
+Rookies,132,Shaquelle Evans,New York Jets
+Rookies,133,Martavis Bryant,Pittsburgh Steelers
+Rookies,134,Storm Johnson,Jacksonville Jaguars
+Rookies,135,Greg Robinson,St. Louis Rams
+Rookies,136,Ahmad Dixon,Dallas Cowboys
+Rookies,137,Loucheiz Purifoy,Indianapolis Colts
+Rookies,138,Sammy Watkins,Buffalo Bills
+Rookies,139,Tom Savage,Houston Texans
+Rookies,140,Kony Ealy,Carolina Panthers
+Rookies,141,Tajh Boyd,New York Jets
+Rookies,142,Kevin Norwood,Seattle Seahawks
+Rookies,143,LaDarius Perkins,Green Bay Packers
+Rookies,144,AJ McCarron,Cincinnati Bengals
+Rookies,145,Jalen Saunders,New York Jets
+Rookies,146,Connor Shaw,Cleveland Browns
+Rookies,147,Brandon Coleman,New Orleans Saints
+Rookies,148,George Atkinson III,Oakland Raiders
+Rookies,149,Brandin Cooks,New Orleans Saints
+Rookies,150,Jimmy Garoppolo,New England Patriots
+Rookies,151,Logan Thomas,Arizona Cardinals
+Rookies,152,Justin Gilbert,Cleveland Browns
+Rookies,153,Louis Nix,Houston Texans
+Rookies,154,Andre Williams,New York Giants
+Rookies,155,De'Anthony Thomas,Kansas City Chiefs
+Rookies,156,Xavier Grimble,New York Giants
+Rookies,157,Calvin Pryor,New York Jets
+Rookies,158,Carlos Hyde,San Francisco 49ers
+Rookies,159,Ha Ha Clinton-Dix,Green Bay Packers
+Rookies,160,Jerick McKinnon,Minnesota Vikings
+Rookies,161,Anthony Barr,Minnesota Vikings
+Rookies,162,Kareem Martin,Arizona Cardinals
+Rookies,163,Bishop Sankey,Tennessee Titans
+Rookies,164,Tre Mason,St. Louis Rams
+Rookies,165,Ryan Grant,Washington Redskins
+Rookies,166,Ra’Shede Hageman,Atlanta Falcons
+Rookies,167,Stephen Morris,Jacksonville Jaguars
+Rookies,168,David Fales,Chicago Bears
+Rookies,169,Johnny Manziel,Cleveland Browns
+Rookies,170,Will Sutton,Chicago Bears
+Rookies,171,Arthur Lynch,Miami Dolphins
+Rookies,172,Allen Robinson,Jacksonville Jaguars
+Rookies,173,Teddy Bridgewater,Minnesota Vikings
+Rookies,174,Michael Sam,St. Louis Rams
+Rookies,175,Aaron Donald,St. Louis Rams
+Rookies,176,Scott Crichton,Minnesota Vikings
+Rookies,177,Jarvis Landry,Miami Dolphins
+Rookies,178,Austin Seferian-Jenkins,Tampa Bay Buccaneers
+Rookies,179,Lache Seastrunk,Washington Redskins
+Rookies,180,Taylor Lewan,Tennessee Titans
+Rookies,181,Jordan Lynch,Chicago Bears
+Rookies,182,Troy Niklas,Arizona Cardinals
+Rookies,183,Antone Exum,Minnesota Vikings
+Rookies,184,Khalil Mack,Oakland Raiders
+Rookies,185,Mike Evans,Tampa Bay Buccaneers
+Rookies,186,Deone Bucannon,Arizona Cardinals
+Rookies,187,Blake Bortles,Jacksonville Jaguars
+Rookies,188,Ka’Deem Carey,Chicago Bears
+Rookies,189,Pierre Desir,Cleveland Browns
+Rookies,190,Marcus Roberson,St. Louis Rams
+Rookies,191,Charles Sims,Arizona Cardinals
+Rookies,192,Jeff Janis,Green Bay Packers
+Rookies,193,Jace Amaro,New York Jets
+Rookies,194,Silas Redd,Washington Redskins
+Rookies,195,Jason Verrett,San Diego Chargers
+Rookies,196,Tyler Gaffney,Carolina Panthers
+Rookies,197,Donte Moncrief,Indianapolis Colts
+Rookies,198,Timmy Jernigan,Baltimore Ravens
+Rookies,199,Jake Matthews,Atlanta Falcons
+Rookies,200,Robert Herron,Tampa Bay Buccaneers
+Rookies,201,Aaron Colvin,Jacksonville Jaguars
+Rookies,202,Terrance West,Cleveland Browns
+Rookies,203,C.J. Mosley,Baltimore Ravens
+Rookies,204,Darqueze Dennard,Cincinnati Bengals
+Rookies,205,Kyle Van Noy,Detroit Lions
+Rookies,206,Zach Mettenberger,Tennessee Titans
+Rookies,207,Zack Martin,Dallas Cowboys
+Rookies,208,Dion Bailey,Seattle Seahawks
+Rookies,209,Bradley Roby,Denver Broncos
+Rookies,210,Stephon Tuitt,Pittsburgh Steelers
+Rookies,211,Cody Latimer,Denver Broncos
+Rookies,212,Jordan Matthews,Philadelphia Eagles
+Rookies,213,Eric Ebron,Detroit Lions
+Rookies,214,Dri Archer,Pittsburgh Steelers
+Rookies,215,Caraun Reid,Detroit Lions
+Rookies,216,Devonta Freeman,Atlanta Falcons
+Rookies,217,Trent Murphy,Washington Redskins
+Rookies,218,Ryan Shazier,Pittsburgh Steelers
+Rookies,219,Paul Richardson,Seattle Seahawks
+Rookies,220,Damien Williams,Miami Dolphins
+Rookie Variations,114,Davante Adams,Green Bay Packers
+Rookie Variations,115,Derek Carr,Oakland Raiders
+Rookie Variations,117,Odell Beckham Jr.,New York Giants
+Rookie Variations,120,Jadeveon Clowney,Houston Texans
+Rookie Variations,124,Kelvin Benjamin,Carolina Panthers
+Rookie Variations,125,Jeremy Hill,Cincinnati Bengals
+Rookie Variations,126,Marqise Lee,Jacksonville Jaguars
+Rookie Variations,138,Sammy Watkins,Buffalo Bills
+Rookie Variations,141,Tajh Boyd,New York Jets
+Rookie Variations,149,Brandin Cooks,New Orleans Saints
+Rookie Variations,150,Jimmy Garoppolo,New England Patriots
+Rookie Variations,155,De'Anthony Thomas,Kansas City Chiefs
+Rookie Variations,158,Carlos Hyde,San Francisco 49ers
+Rookie Variations,163,Bishop Sankey,Tennessee Titans
+Rookie Variations,164,Tre Mason,St. Louis Rams
+Rookie Variations,169,Johnny Manziel,Cleveland Browns
+Rookie Variations,172,Allen Robinson,Jacksonville Jaguars
+Rookie Variations,173,Teddy Bridgewater,Minnesota Vikings
+Rookie Variations,174,Michael Sam,St. Louis Rams
+Rookie Variations,177,Jarvis Landry,Miami Dolphins
+Rookie Variations,185,Mike Evans,Tampa Bay Buccaneers
+Rookie Variations,187,Blake Bortles,Jacksonville Jaguars
+Rookie Variations,212,Jordan Matthews,Philadelphia Eagles
+Rookie Variations,213,Eric Ebron,Detroit Lions
+Rookie Variations,219,Paul Richardson,Seattle Seahawks
+1000 Yard Club,1,Jordy Nelson,Green Bay Packers
+1000 Yard Club,2,Jimmy Graham,New Orleans Saints
+1000 Yard Club,3,Dez Bryant,Dallas Cowboys
+1000 Yard Club,4,Calvin Johnson,Detroit Lions
+1000 Yard Club,5,Julian Edelman,New England Patriots
+1000 Yard Club,6,Andre Johnson,Houston Texans
+1000 Yard Club,7,Adrian Peterson,Minnesota Vikings
+1000 Yard Club,8,Alfred Morris,Washington Redskins
+1000 Yard Club,9,Josh Gordon,Cleveland Browns
+1000 Yard Club,10,Eddie Lacy,Green Bay Packers
+1000 Yard Club,11,Frank Gore,San Francisco 49ers
+1000 Yard Club,12,Jamaal Charles,Kansas City Chiefs
+1000 Yard Club,13,T.Y. Hilton,Indianapolis Colts
+1000 Yard Club,14,Knowshon Moreno,Denver Broncos
+1000 Yard Club,15,Antonio Brown,Pittsburgh Steelers
+1000 Yard Club,16,A.J. Green,Cincinnati Bengals
+1000 Yard Club,17,LeSean McCoy,Philadelphia Eagles
+1000 Yard Club,18,Reggie Bush,Detroit Lions
+1000 Yard Club,19,Marshawn Lynch,Seattle Seahawks
+1000 Yard Club,20,Demaryius Thomas,Denver Broncos
+1000 Yard Club,21,Alshon Jeffery,Chicago Bears
+1000 Yard Club,22,DeMarco Murray,Dallas Cowboys
+4000 Yard Club,1,Tom Brady,New England Patriots
+4000 Yard Club,2,Drew Brees,New Orleans Saints
+4000 Yard Club,3,Andy Dalton,Cincinnati Bengals
+4000 Yard Club,4,Ben Roethlisberger,Pittsburgh Steelers
+4000 Yard Club,5,Matt Ryan,Atlanta Falcons
+4000 Yard Club,6,Peyton Manning,Denver Broncos
+4000 Yard Club,7,Philip Rivers,San Diego Chargers
+4000 Yard Club,8,Matthew Stafford,Detroit Lions
+1985 Topps,1,Tom Savage,Houston Texans
+1985 Topps,2,Khalil Mack,Oakland Raiders
+1985 Topps,3,Jimmy Garoppolo,New England Patriots
+1985 Topps,4,Jarvis Landry,Miami Dolphins
+1985 Topps,5,Davante Adams,Green Bay Packers
+1985 Topps,6,Teddy Bridgewater,Minnesota Vikings
+1985 Topps,7,Tre Mason,St. Louis Rams
+1985 Topps,8,Jordan Matthews,Philadelphia Eagles
+1985 Topps,9,Paul Richardson,Seattle Seahawks
+1985 Topps,10,Allen Robinson,Jacksonville Jaguars
+1985 Topps,11,Bishop Sankey,Tennessee Titans
+1985 Topps,12,Mike Evans,Tampa Bay Buccaneers
+1985 Topps,13,Eric Ebron,Detroit Lions
+1985 Topps,14,Michael Sam,St. Louis Rams
+1985 Topps,15,Odell Beckham Jr.,New York Giants
+1985 Topps,16,Jadeveon Clowney,Houston Texans
+1985 Topps,17,Tajh Boyd,New York Jets
+1985 Topps,18,Derek Carr,Oakland Raiders
+1985 Topps,19,Carlos Hyde,San Francisco 49ers
+1985 Topps,20,Blake Bortles,Jacksonville Jaguars
+1985 Topps,21,Marqise Lee,Jacksonville Jaguars
+1985 Topps,22,AJ McCarron,Cincinnati Bengals
+1985 Topps,23,Jace Amaro,New York Jets
+1985 Topps,24,Logan Thomas,Arizona Cardinals
+1985 Topps,25,Aaron Murray,Kansas City Chiefs
+1985 Topps,26,Johnny Manziel,Cleveland Browns
+1985 Topps,27,Ka’Deem Carey,Chicago Bears
+1985 Topps,28,Cody Latimer,Denver Broncos
+1985 Topps,29,Sammy Watkins,Buffalo Bills
+1985 Topps,30,Charles Sims,Tampa Bay Buccaneers
+1985 Topps,31,Brandin Cooks,New Orleans Saints
+1985 Topps,32,Dri Archer,Pittsburgh Steelers
+1985 Topps,33,Kelvin Benjamin,Carolina Panthers
+1985 Topps,34,Austin Seferian-Jenkins,Tampa Bay Buccaneers
+1985 Topps,35,Devonta Freeman,Atlanta Falcons
+1985 Topps,36,Jeremy Hill,Cincinnati Bengals
+1985 Topps,37,Donte Moncrief,Indianapolis Colts
+1985 Topps,38,Andre Williams,New York Giants
+1985 Topps,39,De'Anthony Thomas,Kansas City Chiefs
+1985 Topps,40,Zach Mettenberger,Tennessee Titans
+Fantasy Focus,FF-AB,Antonio Brown,Pittsburgh Steelers
+Fantasy Focus,FF-AG,A.J. Green,Cincinnati Bengals
+Fantasy Focus,FF-AJ,Alshon Jeffery,Chicago Bears
+Fantasy Focus,FF-AL,Andrew Luck,Indianapolis Colts
+Fantasy Focus,FF-AP,Adrian Peterson,Minnesota Vikings
+Fantasy Focus,FF-AR,Aaron Rodgers,Green Bay Packers
+Fantasy Focus,FF-BM,Brandon Marshall,Chicago Bears
+Fantasy Focus,FF-CJ,Calvin Johnson,Detroit Lions
+Fantasy Focus,FF-CK,Colin Kaepernick,San Francisco 49ers
+Fantasy Focus,FF-CN,Cam Newton,Carolina Panthers
+Fantasy Focus,FF-DB,Drew Brees,New Orleans Saints
+Fantasy Focus,FF-DM,DeMarco Murray,Dallas Cowboys
+Fantasy Focus,FF-DR,Dez Bryant,Dallas Cowboys
+Fantasy Focus,FF-DT,Demaryius Thomas,Denver Broncos
+Fantasy Focus,FF-EL,Eddie Lacy,Green Bay Packers
+Fantasy Focus,FF-JC,Jamaal Charles,Kansas City Chiefs
+Fantasy Focus,FF-JN,Jordy Nelson,Green Bay Packers
+Fantasy Focus,FF-JR,Jimmy Graham,New Orleans Saints
+Fantasy Focus,FF-JT,Julius Thomas,Denver Broncos
+Fantasy Focus,FF-JW,Jason Witten,Dallas Cowboys
+Fantasy Focus,FF-LM,LeSean McCoy,Philadelphia Eagles
+Fantasy Focus,FF-MF,Matt Forté,Chicago Bears
+Fantasy Focus,FF-ML,Marshawn Lynch,Seattle Seahawks
+Fantasy Focus,FF-MS,Matthew Stafford,Detroit Lions
+Fantasy Focus,FF-PM,Peyton Manning,Denver Broncos
+Fantasy Focus,FF-RB,Reggie Bush,Detroit Lions
+Fantasy Focus,FF-RW,Russell Wilson,Seattle Seahawks
+Fantasy Focus,FF-TB,Tom Brady,New England Patriots
+Fantasy Focus,FF-TR,Tony Romo,Dallas Cowboys
+Fantasy Focus,FF-VD,Vernon Davis,San Francisco 49ers
+1963 Topps Mini Autographs,1,Marqise Lee,Jacksonville Jaguars
+1963 Topps Mini Autographs,2,Tre Mason,St. Louis Rams
+1963 Topps Mini Autographs,3,Jordan Matthews,Philadelphia Eagles
+1963 Topps Mini Autographs,4,Odell Beckham Jr.,New York Giants
+1963 Topps Mini Autographs,6,Kelvin Benjamin,Carolina Panthers
+1963 Topps Mini Autographs,7,Derek Carr,Oakland Raiders
+1963 Topps Mini Autographs,8,Jimmy Garoppolo,New England Patriots
+1963 Topps Mini Autographs,9,Ka’Deem Carey,Chicago Bears
+1963 Topps Mini Autographs,11,Terrance West,Cleveland Browns
+1963 Topps Mini Autographs,13,Aaron Murray,Kansas City Chiefs
+1963 Topps Mini Autographs,15,Davante Adams,Green Bay Packers
+1963 Topps Mini Autographs,16,Jeremy Hill,Cincinnati Bengals
+1963 Topps Mini Autographs,17,Jadeveon Clowney,Houston Texans
+1963 Topps Mini Autographs,18,Austin Seferian-Jenkins,Tampa Bay Buccaneers
+1963 Topps Mini Autographs,19,AJ McCarron,Cincinnati Bengals
+1963 Topps Mini Autographs,20,Sammy Watkins,Buffalo Bills
+1963 Topps Mini Autographs,21,Mike Evans,Tampa Bay Buccaneers
+1963 Topps Mini Autographs,22,Teddy Bridgewater,Minnesota Vikings
+1963 Topps Mini Autographs,23,Paul Richardson,Seattle Seahawks
+1963 Topps Mini Autographs,24,Donte Moncrief,Indianapolis Colts
+1963 Topps Mini Autographs,25,Brandin Cooks,New Orleans Saints
+1963 Topps Mini Autographs,26,Johnny Manziel,Cleveland Browns
+1963 Topps Mini Autographs,27,Eric Ebron,Detroit Lions
+1963 Topps Mini Autographs,28,Jarvis Landry,Miami Dolphins
+1963 Topps Mini Autographs,29,Andre Williams,New York Giants
+1963 Topps Mini Autographs,30,Blake Bortles,Jacksonville Jaguars
+1963 Topps Mini Autographs,31,Logan Thomas,Arizona Cardinals
+1963 Topps Mini Autographs,32,Tom Savage,Houston Texans
+1963 Topps Mini Autographs,33,Bishop Sankey,Tennessee Titans
+1963 Topps Mini Autographs,34,Carlos Hyde,San Francisco 49ers
+1963 Topps Mini Autographs,35,Allen Robinson,Jacksonville Jaguars
+1963 Topps Mini Autographs,39,Zach Mettenberger,Tennessee Titans
+1963 Topps Mini Autographs,41,Devonta Freeman,Atlanta Falcons
+1963 Topps Mini Autographs,42,James White,New England Patriots
+1963 Topps Mini Autographs,45,Cody Latimer,Denver Broncos
+1963 Topps Minis,1,Marqise Lee,Jacksonville Jaguars
+1963 Topps Minis,2,Tre Mason,St. Louis Rams
+1963 Topps Minis,3,Jordan Matthews,Philadelphia Eagles
+1963 Topps Minis,4,Odell Beckham Jr.,New York Giants
+1963 Topps Minis,5,Michael Sam,St. Louis Rams
+1963 Topps Minis,6,Kelvin Benjamin,Carolina Panthers
+1963 Topps Minis,7,Derek Carr,Oakland Raiders
+1963 Topps Minis,8,Jimmy Garoppolo,New England Patriots
+1963 Topps Minis,9,Ka’Deem Carey,Chicago Bears
+1963 Topps Minis,10,Jace Amaro,New York Jets
+1963 Topps Minis,11,Terrance West,Cleveland Browns
+1963 Topps Minis,12,Tajh Boyd,New York Jets
+1963 Topps Minis,13,Aaron Murray,Kansas City Chiefs
+1963 Topps Minis,14,De'Anthony Thomas,Kansas City Chiefs
+1963 Topps Minis,15,Davante Adams,Green Bay Packers
+1963 Topps Minis,16,Jeremy Hill,Cincinnati Bengals
+1963 Topps Minis,17,Jadeveon Clowney,Houston Texans
+1963 Topps Minis,18,Austin Seferian-Jenkins,Tampa Bay Buccaneers
+1963 Topps Minis,19,AJ McCarron,Cincinnati Bengals
+1963 Topps Minis,20,Sammy Watkins,Buffalo Bills
+1963 Topps Minis,21,Mike Evans,Tampa Bay Buccaneers
+1963 Topps Minis,22,Teddy Bridgewater,Minnesota Vikings
+1963 Topps Minis,23,Paul Richardson,Seattle Seahawks
+1963 Topps Minis,24,Donte Moncrief,Indianapolis Colts
+1963 Topps Minis,25,Brandin Cooks,New Orleans Saints
+1963 Topps Minis,26,Johnny Manziel,Cleveland Browns
+1963 Topps Minis,27,Eric Ebron,Detroit Lions
+1963 Topps Minis,28,Jarvis Landry,Miami Dolphins
+1963 Topps Minis,29,Andre Williams,New York Giants
+1963 Topps Minis,30,Blake Bortles,Jacksonville Jaguars
+1963 Topps Minis,31,Logan Thomas,Arizona Cardinals
+1963 Topps Minis,32,Tom Savage,Houston Texans
+1963 Topps Minis,33,Bishop Sankey,Tennessee Titans
+1963 Topps Minis,34,Carlos Hyde,San Francisco 49ers
+1963 Topps Minis,35,Allen Robinson,Jacksonville Jaguars
+1963 Topps Minis,36,Martavis Bryant,Pittsburgh Steelers
+1963 Topps Minis,37,Charles Sims,Tampa Bay Buccaneers
+1963 Topps Minis,38,Jared Abbrederis,Green Bay Packers
+1963 Topps Minis,39,Zach Mettenberger,Tennessee Titans
+1963 Topps Minis,40,David Fales,Chicago Bears
+1963 Topps Minis,41,Devonta Freeman,Atlanta Falcons
+1963 Topps Minis,42,James White,New England Patriots
+1963 Topps Minis,43,Robert Herron,Tampa Bay Buccaneers
+1963 Topps Minis,44,Bruce Ellington,San Francisco 49ers
+1963 Topps Minis,45,Cody Latimer,Denver Broncos
+1965 Topps Tall Boys,TB-1,Jace Amaro,New York Jets
+1965 Topps Tall Boys,TB-2,Allen Robinson,Jacksonville Jaguars
+1965 Topps Tall Boys,TB-3,AJ McCarron,Cincinnati Bengals
+1965 Topps Tall Boys,TB-4,Tajh Boyd,New York Jets
+1965 Topps Tall Boys,TB-5,Aaron Murray,Kansas City Chiefs
+1965 Topps Tall Boys,TB-6,Andre Williams,New York Giants
+1965 Topps Tall Boys,TB-7,Terrance West,Cleveland Browns
+1965 Topps Tall Boys,TB-8,Tre Mason,St. Louis Rams
+1965 Topps Tall Boys,TB-9,Jimmy Garoppolo,New England Patriots
+1965 Topps Tall Boys,TB-10,Jarvis Landry,Miami Dolphins
+1965 Topps Tall Boys,TB-11,Jadeveon Clowney,Houston Texans
+1965 Topps Tall Boys,TB-12,Johnny Manziel,Cleveland Browns
+1965 Topps Tall Boys,TB-13,Teddy Bridgewater,Minnesota Vikings
+1965 Topps Tall Boys,TB-14,Blake Bortles,Jacksonville Jaguars
+1965 Topps Tall Boys,TB-15,Carlos Hyde,San Francisco 49ers
+1965 Topps Tall Boys,TB-16,Davante Adams,Green Bay Packers
+1965 Topps Tall Boys,TB-17,Bishop Sankey,Tennessee Titans
+1965 Topps Tall Boys,TB-18,Paul Richardson,Seattle Seahawks
+1965 Topps Tall Boys,TB-19,De'Anthony Thomas,Kansas City Chiefs
+1965 Topps Tall Boys,TB-20,Kelvin Benjamin,Carolina Panthers
+1965 Topps Tall Boys,TB-21,Sammy Watkins,Buffalo Bills
+1965 Topps Tall Boys,TB-22,Mike Evans,Tampa Bay Buccaneers
+1965 Topps Tall Boys,TB-23,Derek Carr,Oakland Raiders
+1965 Topps Tall Boys,TB-24,Eric Ebron,Detroit Lions
+1965 Topps Tall Boys,TB-25,Marqise Lee,Jacksonville Jaguars
+1965 Topps Tall Boys,TB-26,Odell Beckham Jr.,New York Giants
+1965 Topps Tall Boys,TB-27,Brandin Cooks,New Orleans Saints
+1965 Topps Tall Boys,TB-28,Ka’Deem Carey,Chicago Bears
+1965 Topps Tall Boys,TB-29,Austin Seferian-Jenkins,Tampa Bay Buccaneers
+1965 Topps Tall Boys,TB-30,Jordan Matthews,Philadelphia Eagles
+1965 Topps Tall Boys,TB-31,Tom Savage,Houston Texans
+1965 Topps Tall Boys,TB-32,Michael Sam,St. Louis Rams
+1965 Topps Tall Boys,TB-33,Jeremy Hill,Cincinnati Bengals
+1965 Topps Tall Boys,TB-34,Donte Moncrief,Indianapolis Colts
+1965 Topps Tall Boys,TB-35,Cody Latimer,Denver Broncos
+1965 Topps Tall Boys,TB-36,Devonta Freeman,Atlanta Falcons
+1965 Topps Tall Boys,TB-37,James White,New England Patriots
+1965 Topps Tall Boys,TB-38,Josh Huff,Philadelphia Eagles
+1965 Topps Tall Boys,TB-39,Charles Sims,Tampa Bay Buccaneers
+1965 Topps Tall Boys,TB-40,Zach Mettenberger,Tennessee Titans
+Base Autograph Variations,7,Randall Cobb,Green Bay Packers
+Base Autograph Variations,9,Antonio Brown,Pittsburgh Steelers
+Base Autograph Variations,11,EJ Manuel,Buffalo Bills
+Base Autograph Variations,12,Julius Thomas,Denver Broncos
+Base Autograph Variations,17,Drew Brees,New Orleans Saints
+Base Autograph Variations,33,Alshon Jeffery,Chicago Bears
+Base Autograph Variations,36,T.Y. Hilton,Indianapolis Colts
+Base Autograph Variations,42,Peyton Manning,Denver Broncos
+Base Autograph Variations,43,Ryan Mathews,San Diego Chargers
+Base Autograph Variations,45,A.J. Green,Cincinnati Bengals
+Base Autograph Variations,47,Andrew Luck,Indianapolis Colts
+Base Autograph Variations,50,Le’Veon Bell,Pittsburgh Steelers
+Base Autograph Variations,52,Alfred Morris,Washington Redskins
+Base Autograph Variations,55,Josh Gordon,Cleveland Browns
+Base Autograph Variations,57,Tavon Austin,St. Louis Rams
+Base Autograph Variations,61,Marshawn Lynch,Seattle Seahawks
+Base Autograph Variations,63,Giovani Bernard,Cincinnati Bengals
+Base Autograph Variations,64,LeSean McCoy,Philadelphia Eagles
+Base Autograph Variations,71,Reggie Bush,Detroit Lions
+Base Autograph Variations,72,Jamaal Charles,Kansas City Chiefs
+Base Autograph Variations,82,Rob Gronkowski,New England Patriots
+Base Autograph Variations,83,Aaron Rodgers,Green Bay Packers
+Base Autograph Variations,84,Cordarrelle Patterson,Minnesota Vikings
+Base Autograph Variations,99,Roddy White,Atlanta Falcons
+Base Autograph Variations,102,Russell Wilson,Seattle Seahawks
+Base Autograph Variations,104,Keenan Allen,San Diego Chargers
+Base Autograph Variations,106,Eddie Lacy,Green Bay Packers
+Base Autograph Variations,109,Nick Foles,Philadelphia Eagles
+Base Autograph Variations,221,Zac Stacy,St. Louis Rams
+1000 Yard Club Autographs,1,Jordy Nelson,Green Bay Packers
+1000 Yard Club Autographs,8,Alfred Morris,Washington Redskins
+1000 Yard Club Autographs,9,Josh Gordon,Cleveland Browns
+1000 Yard Club Autographs,10,Eddie Lacy,Green Bay Packers
+1000 Yard Club Autographs,11,Frank Gore,San Francisco 49ers
+1000 Yard Club Autographs,13,T.Y. Hilton,Indianapolis Colts
+1000 Yard Club Autographs,17,LeSean McCoy,Philadelphia Eagles
+1000 Yard Club Autographs,18,Reggie Bush,Detroit Lions
+1000 Yard Club Autographs,19,Marshawn Lynch,Seattle Seahawks
+1000 Yard Club Autographs,21,Alshon Jeffery,Chicago Bears
+4000 Yard Club Autographs,2,Drew Brees,New Orleans Saints
+4000 Yard Club Autographs,5,Matt Ryan,Atlanta Falcons
+4000 Yard Club Autographs,8,Matthew Stafford,Detroit Lions
+Rookie Autographs,112,Henry Josey,Philadelphia Eagles
+Rookie Autographs,114,Davante Adams,Green Bay Packers
+Rookie Autographs,115,Derek Carr,Oakland Raiders
+Rookie Autographs,116,Bruce Ellington,San Francisco 49ers
+Rookie Autographs,117,Odell Beckham Jr.,New York Giants
+Rookie Autographs,118,Mike Davis,Oakland Raiders
+Rookie Autographs,120,Jadeveon Clowney,Houston Texans
+Rookie Autographs,122,Marion Grice,San Diego Chargers
+Rookie Autographs,123,Cody Hoffman,Washington Redskins
+Rookie Autographs,124,Kelvin Benjamin,Carolina Panthers
+Rookie Autographs,125,Jeremy Hill,Cincinnati Bengals
+Rookie Autographs,129,Aaron Murray,Kansas City Chiefs
+Rookie Autographs,130,Jared Abbrederis,Green Bay Packers
+Rookie Autographs,131,C.J. Fiedorowicz,Houston Texans
+Rookie Autographs,132,Shaquelle Evans,New York Jets
+Rookie Autographs,133,Martavis Bryant,Pittsburgh Steelers
+Rookie Autographs,134,Storm Johnson,Jacksonville Jaguars
+Rookie Autographs,138,Sammy Watkins,Buffalo Bills
+Rookie Autographs,139,Tom Savage,Houston Texans
+Rookie Autographs,140,Kony Ealy,Carolina Panthers
+Rookie Autographs,142,Kevin Norwood,Seattle Seahawks
+Rookie Autographs,144,AJ McCarron,Cincinnati Bengals
+Rookie Autographs,146,Connor Shaw,Cleveland Browns
+Rookie Autographs,147,Brandon Coleman,New Orleans Saints
+Rookie Autographs,149,Brandin Cooks,New Orleans Saints
+Rookie Autographs,150,Jimmy Garoppolo,New England Patriots
+Rookie Autographs,151,Logan Thomas,Arizona Cardinals
+Rookie Autographs,154,Andre Williams,New York Giants
+Rookie Autographs,158,Carlos Hyde,San Francisco 49ers
+Rookie Autographs,159,Ha Ha Clinton-Dix,Green Bay Packers
+Rookie Autographs,160,Jerick McKinnon,Minnesota Vikings
+Rookie Autographs,161,Anthony Barr,Minnesota Vikings
+Rookie Autographs,163,Bishop Sankey,Tennessee Titans
+Rookie Autographs,164,Tre Mason,St. Louis Rams
+Rookie Autographs,167,Stephen Morris,Jacksonville Jaguars
+Rookie Autographs,168,David Fales,Chicago Bears
+Rookie Autographs,169,Johnny Manziel,Cleveland Browns
+Rookie Autographs,171,Arthur Lynch,Miami Dolphins
+Rookie Autographs,172,Allen Robinson,Jacksonville Jaguars
+Rookie Autographs,173,Teddy Bridgewater,Minnesota Vikings
+Rookie Autographs,175,Aaron Donald,St. Louis Rams
+Rookie Autographs,176,Scott Crichton,Minnesota Vikings
+Rookie Autographs,177,Jarvis Landry,Miami Dolphins
+Rookie Autographs,178,Austin Seferian-Jenkins,Tampa Bay Buccaneers
+Rookie Autographs,179,Lache Seastrunk,Washington Redskins
+Rookie Autographs,181,Jordan Lynch,Chicago Bears
+Rookie Autographs,182,Troy Niklas,Arizona Cardinals
+Rookie Autographs,185,Mike Evans,Tampa Bay Buccaneers
+Rookie Autographs,187,Blake Bortles,Jacksonville Jaguars
+Rookie Autographs,188,Ka’Deem Carey,Chicago Bears
+Rookie Autographs,189,Pierre Desir,Cleveland Browns
+Rookie Autographs,191,Charles Sims,Tampa Bay Buccaneers
+Rookie Autographs,192,Jeff Janis,Green Bay Packers
+Rookie Autographs,195,Jason Verrett,San Diego Chargers
+Rookie Autographs,199,Jake Matthews,Atlanta Falcons
+Rookie Autographs,200,Robert Herron,Tampa Bay Buccaneers
+Rookie Autographs,202,Terrance West,Cleveland Browns
+Rookie Autographs,203,C.J. Mosley,Baltimore Ravens
+Rookie Autographs,204,Darqueze Dennard,Cincinnati Bengals
+Rookie Autographs,206,Zach Mettenberger,Tennessee Titans
+Rookie Autographs,209,Bradley Roby,Denver Broncos
+Rookie Autographs,211,Cody Latimer,Denver Broncos
+Rookie Autographs,212,Jordan Matthews,Philadelphia Eagles
+Rookie Autographs,213,Eric Ebron,Detroit Lions
+Rookie Autographs,216,Devonta Freeman,Atlanta Falcons
+Rookie Autographs,219,Paul Richardson,Seattle Seahawks
+Rookie Autographs,220,Damien Williams,Miami Dolphins
+Rookie Autographs,221,Trey Millard,San Francisco 49ers
+Rookie Autographs,222,James White,New England Patriots
+Rookie Autographs,223,Michael Campanaro,Baltimore Ravens
+Rookie Autographs,224,Garrett Gilbert,St. Louis Rams
+Rookie Autographs,225,Isaiah Crowell,Cleveland Browns
+Rookie Autographs,226,John Brown,Arizona Cardinals
+Rookie Autograph Variations,114,Davante Adams,Green Bay Packers
+Rookie Autograph Variations,115,Derek Carr,Oakland Raiders
+Rookie Autograph Variations,117,Odell Beckham Jr.,New York Giants
+Rookie Autograph Variations,120,Jadeveon Clowney,Houston Texans
+Rookie Autograph Variations,124,Kelvin Benjamin,Carolina Panthers
+Rookie Autograph Variations,125,Jeremy Hill,Cincinnati Bengals
+Rookie Autograph Variations,126,Marqise Lee,Jacksonville Jaguars
+Rookie Autograph Variations,133,Martavis Bryant,Pittsburgh Steelers
+Rookie Autograph Variations,138,Sammy Watkins,Buffalo Bills
+Rookie Autograph Variations,149,Brandin Cooks,New Orleans Saints
+Rookie Autograph Variations,150,Jimmy Garoppolo,New England Patriots
+Rookie Autograph Variations,154,Andre Williams,New York Giants
+Rookie Autograph Variations,158,Carlos Hyde,San Francisco 49ers
+Rookie Autograph Variations,163,Bishop Sankey,Tennessee Titans
+Rookie Autograph Variations,169,Johnny Manziel,Cleveland Browns
+Rookie Autograph Variations,172,Allen Robinson,Jacksonville Jaguars
+Rookie Autograph Variations,173,Teddy Bridgewater,Minnesota Vikings
+Rookie Autograph Variations,177,Jarvis Landry,Miami Dolphins
+Rookie Autograph Variations,185,Mike Evans,Tampa Bay Buccaneers
+Rookie Autograph Variations,187,Blake Bortles,Jacksonville Jaguars
+Rookie Autograph Variations,188,Ka’Deem Carey,Chicago Bears
+Rookie Autograph Variations,206,Zach Mettenberger,Tennessee Titans
+Rookie Autograph Variations,212,Jordan Matthews,Philadelphia Eagles
+Rookie Autograph Variations,213,Eric Ebron,Detroit Lions
+Rookie Autograph Variations,219,Paul Richardson,Seattle Seahawks
+Dual Rookie Autographs,DRA-BM,Johnny Manziel,Cleveland Browns
+Dual Rookie Autographs,DRA-BM,Teddy Bridgewater,Minnesota Vikings
+Dual Rookie Autographs,DRA-CB,Derek Carr,Oakland Raiders
+Dual Rookie Autographs,DRA-CB,Blake Bortles,Jacksonville Jaguars
+Dual Rookie Autographs,DRA-LB,Jarvis Landry,Miami Dolphins
+Dual Rookie Autographs,DRA-LB,Odell Beckham Jr.,New York Giants
+Dual Rookie Autographs,DRA-WE,Sammy Watkins,Buffalo Bills
+Dual Rookie Autographs,DRA-WE,Mike Evans,Tampa Bay Buccaneers
+Dual Rookie Autographs,DRA-WL,Marqise Lee,Jacksonville Jaguars
+Dual Rookie Autographs,DRA-WL,Sammy Watkins,Buffalo Bills
+Triple Rookie Autographs,TRA-MBB,Blake Bortles,Jacksonville Jaguars
+Triple Rookie Autographs,TRA-MBB,Teddy Bridgewater,Minnesota Vikings
+Triple Rookie Autographs,TRA-MBB,Johnny Manziel,Cleveland Browns
+1985 Topps Autographs,1,Tom Savage,Houston Texans
+1985 Topps Autographs,3,Jimmy Garoppolo,New England Patriots
+1985 Topps Autographs,4,Jarvis Landry,Miami Dolphins
+1985 Topps Autographs,5,Davante Adams,Green Bay Packers
+1985 Topps Autographs,6,Teddy Bridgewater,Minnesota Vikings
+1985 Topps Autographs,7,Tre Mason,St. Louis Rams
+1985 Topps Autographs,8,Jordan Matthews,Philadelphia Eagles
+1985 Topps Autographs,9,Paul Richardson,Seattle Seahawks
+1985 Topps Autographs,10,Allen Robinson,Jacksonville Jaguars
+1985 Topps Autographs,11,Bishop Sankey,Tennessee Titans
+1985 Topps Autographs,12,Mike Evans,Tampa Bay Buccaneers
+1985 Topps Autographs,13,Eric Ebron,Detroit Lions
+1985 Topps Autographs,15,Odell Beckham Jr.,New York Giants
+1985 Topps Autographs,16,Jadeveon Clowney,Houston Texans
+1985 Topps Autographs,18,Derek Carr,Oakland Raiders
+1985 Topps Autographs,19,Carlos Hyde,San Francisco 49ers
+1985 Topps Autographs,20,Blake Bortles,Jacksonville Jaguars
+1985 Topps Autographs,21,Marqise Lee,Jacksonville Jaguars
+1985 Topps Autographs,22,AJ McCarron,Cincinnati Bengals
+1985 Topps Autographs,23,Jace Amaro,New York Jets
+1985 Topps Autographs,24,Logan Thomas,Arizona Cardinals
+1985 Topps Autographs,25,Aaron Murray,Kansas City Chiefs
+1985 Topps Autographs,26,Johnny Manziel,Cleveland Browns
+1985 Topps Autographs,27,Ka’Deem Carey,Chicago Bears
+1985 Topps Autographs,28,Cody Latimer,Denver Broncos
+1985 Topps Autographs,29,Sammy Watkins,Buffalo Bills
+1985 Topps Autographs,30,Charles Sims,Tampa Bay Buccaneers
+1985 Topps Autographs,31,Brandin Cooks,New Orleans Saints
+1985 Topps Autographs,32,Dri Archer,Pittsburgh Steelers
+1985 Topps Autographs,33,Kelvin Benjamin,Carolina Panthers
+1985 Topps Autographs,34,Austin Seferian-Jenkins,Tampa Bay Buccaneers
+1985 Topps Autographs,35,Devonta Freeman,Atlanta Falcons
+1985 Topps Autographs,36,Jeremy Hill,Cincinnati Bengals
+1985 Topps Autographs,38,Andre Williams,New York Giants
+1985 Topps Autographs,40,Zach Mettenberger,Tennessee Titans
+1965 Topps Tall Boy Autographs,TB-2,Allen Robinson,Jacksonville Jaguars
+1965 Topps Tall Boy Autographs,TB-3,AJ McCarron,Cincinnati Bengals
+1965 Topps Tall Boy Autographs,TB-5,Aaron Murray,Kansas City Chiefs
+1965 Topps Tall Boy Autographs,TB-6,Andre Williams,New York Giants
+1965 Topps Tall Boy Autographs,TB-7,Terrance West,Cleveland Browns
+1965 Topps Tall Boy Autographs,TB-11,Jadeveon Clowney,Houston Texans
+1965 Topps Tall Boy Autographs,TB-12,Johnny Manziel,Cleveland Browns
+1965 Topps Tall Boy Autographs,TB-13,Teddy Bridgewater,Minnesota Vikings
+1965 Topps Tall Boy Autographs,TB-14,Blake Bortles,Jacksonville Jaguars
+1965 Topps Tall Boy Autographs,TB-15,Carlos Hyde,San Francisco 49ers
+1965 Topps Tall Boy Autographs,TB-16,Davante Adams,Green Bay Packers
+1965 Topps Tall Boy Autographs,TB-17,Bishop Sankey,Tennessee Titans
+1965 Topps Tall Boy Autographs,TB-18,Paul Richardson,Seattle Seahawks
+1965 Topps Tall Boy Autographs,TB-20,Kelvin Benjamin,Carolina Panthers
+1965 Topps Tall Boy Autographs,TB-21,Sammy Watkins,Buffalo Bills
+1965 Topps Tall Boy Autographs,TB-22,Mike Evans,Tampa Bay Buccaneers
+1965 Topps Tall Boy Autographs,TB-23,Derek Carr,Oakland Raiders
+1965 Topps Tall Boy Autographs,TB-24,Eric Ebron,Detroit Lions
+1965 Topps Tall Boy Autographs,TB-26,Odell Beckham Jr.,New York Giants
+1965 Topps Tall Boy Autographs,TB-27,Brandin Cooks,New Orleans Saints
+1965 Topps Tall Boy Autographs,TB-28,Ka’Deem Carey,Chicago Bears
+1965 Topps Tall Boy Autographs,TB-29,Austin Seferian-Jenkins,Tampa Bay Buccaneers
+1965 Topps Tall Boy Autographs,TB-30,Jordan Matthews,Philadelphia Eagles
+1965 Topps Tall Boy Autographs,TB-31,Tom Savage,Houston Texans
+1965 Topps Tall Boy Autographs,TB-33,Jeremy Hill,Cincinnati Bengals
+1965 Topps Tall Boy Autographs,TB-35,Cody Latimer,Denver Broncos
+1965 Topps Tall Boy Autographs,TB-36,Devonta Freeman,Atlanta Falcons
+1965 Topps Tall Boy Autographs,TB-37,James White,New England Patriots
+1965 Topps Tall Boy Autographs,TB-39,Charles Sims,Tampa Bay Buccaneers
+1965 Topps Tall Boy Autographs,TB-40,Zach Mettenberger,Tennessee Titans
+Chrome Rookie Die-Cuts,CRDC-AM,AJ McCarron,Cincinnati Bengals
+Chrome Rookie Die-Cuts,CRDC-AMU,Aaron Murray,Kansas City Chiefs
+Chrome Rookie Die-Cuts,CRDC-AR,Allen Robinson,Jacksonville Jaguars
+Chrome Rookie Die-Cuts,CRDC-AS,Austin Seferian-Jenkins,Tampa Bay Buccaneers
+Chrome Rookie Die-Cuts,CRDC-AW,Andre Williams,New York Giants
+Chrome Rookie Die-Cuts,CRDC-BB,Blake Bortles,Jacksonville Jaguars
+Chrome Rookie Die-Cuts,CRDC-BC,Brandin Cooks,New Orleans Saints
+Chrome Rookie Die-Cuts,CRDC-BS,Bishop Sankey,Tennessee Titans
+Chrome Rookie Die-Cuts,CRDC-CH,Carlos Hyde,San Francisco 49ers
+Chrome Rookie Die-Cuts,CRDC-CL,Cody Latimer,Denver Broncos
+Chrome Rookie Die-Cuts,CRDC-CS,Charles Sims,Tampa Bay Buccaneers
+Chrome Rookie Die-Cuts,CRDC-DA,Davante Adams,Green Bay Packers
+Chrome Rookie Die-Cuts,CRDC-DC,Derek Carr,Oakland Raiders
+Chrome Rookie Die-Cuts,CRDC-DF,Devonta Freeman,Atlanta Falcons
+Chrome Rookie Die-Cuts,CRDC-DFA,David Fales,Chicago Bears
+Chrome Rookie Die-Cuts,CRDC-DM,Donte Moncrief,Indianapolis Colts
+Chrome Rookie Die-Cuts,CRDC-DT,De'Anthony Thomas,Kansas City Chiefs
+Chrome Rookie Die-Cuts,CRDC-EE,Eric Ebron,Detroit Lions
+Chrome Rookie Die-Cuts,CRDC-JA,Jace Amaro,New York Jets
+Chrome Rookie Die-Cuts,CRDC-JC,Jadeveon Clowney,Houston Texans
+Chrome Rookie Die-Cuts,CRDC-JG,Jimmy Garoppolo,New England Patriots
+Chrome Rookie Die-Cuts,CRDC-JH,Jeremy Hill,Cincinnati Bengals
+Chrome Rookie Die-Cuts,CRDC-JL,Jarvis Landry,Miami Dolphins
+Chrome Rookie Die-Cuts,CRDC-JM,Johnny Manziel,Cleveland Browns
+Chrome Rookie Die-Cuts,CRDC-JMA,Jordan Matthews,Philadelphia Eagles
+Chrome Rookie Die-Cuts,CRDC-KB,Kelvin Benjamin,Carolina Panthers
+Chrome Rookie Die-Cuts,CRDC-KC,Ka’Deem Carey,Chicago Bears
+Chrome Rookie Die-Cuts,CRDC-LT,Logan Thomas,Arizona Cardinals
+Chrome Rookie Die-Cuts,CRDC-ME,Mike Evans,Tampa Bay Buccaneers
+Chrome Rookie Die-Cuts,CRDC-ML,Marqise Lee,Jacksonville Jaguars
+Chrome Rookie Die-Cuts,CRDC-MS,Michael Sam,St. Louis Rams
+Chrome Rookie Die-Cuts,CRDC-OB,Odell Beckham Jr.,New York Giants
+Chrome Rookie Die-Cuts,CRDC-PR,Paul Richardson,Seattle Seahawks
+Chrome Rookie Die-Cuts,CRDC-SW,Sammy Watkins,Buffalo Bills
+Chrome Rookie Die-Cuts,CRDC-TB,Teddy Bridgewater,Minnesota Vikings
+Chrome Rookie Die-Cuts,CRDC-TB,Tajh Boyd,New York Jets
+Chrome Rookie Die-Cuts,CRDC-TM,Tre Mason,St. Louis Rams
+Chrome Rookie Die-Cuts,CRDC-TS,Tom Savage,Houston Texans
+Chrome Rookie Die-Cuts,CRDC-TW,Terrance West,Cleveland Browns
+Chrome Rookie Die-Cuts,CRDC-ZM,Zach Mettenberger,Tennessee Titans
+Chrome Rookie Die-Cut Autographs,CRDC-AM,AJ McCarron,Cincinnati Bengals
+Chrome Rookie Die-Cut Autographs,CRDC-AMU,Aaron Murray,Kansas City Chiefs
+Chrome Rookie Die-Cut Autographs,CRDC-AR,Allen Robinson,Jacksonville Jaguars
+Chrome Rookie Die-Cut Autographs,CRDC-AS,Austin Seferian-Jenkins,Tampa Bay Buccaneers
+Chrome Rookie Die-Cut Autographs,CRDC-AW,Andre Williams,New York Giants
+Chrome Rookie Die-Cut Autographs,CRDC-BB,Blake Bortles,Jacksonville Jaguars
+Chrome Rookie Die-Cut Autographs,CRDC-BC,Brandin Cooks,New Orleans Saints
+Chrome Rookie Die-Cut Autographs,CRDC-BS,Bishop Sankey,Tennessee Titans
+Chrome Rookie Die-Cut Autographs,CRDC-CH,Carlos Hyde,San Francisco 49ers
+Chrome Rookie Die-Cut Autographs,CRDC-CL,Cody Latimer,Denver Broncos
+Chrome Rookie Die-Cut Autographs,CRDC-CS,Charles Sims,Tampa Bay Buccaneers
+Chrome Rookie Die-Cut Autographs,CRDC-DA,Davante Adams,Green Bay Packers
+Chrome Rookie Die-Cut Autographs,CRDC-DC,Derek Carr,Oakland Raiders
+Chrome Rookie Die-Cut Autographs,CRDC-DF,Devonta Freeman,Atlanta Falcons
+Chrome Rookie Die-Cut Autographs,CRDC-DFA,David Fales,Chicago Bears
+Chrome Rookie Die-Cut Autographs,CRDC-EE,Eric Ebron,Detroit Lions
+Chrome Rookie Die-Cut Autographs,CRDC-JC,Jadeveon Clowney,Houston Texans
+Chrome Rookie Die-Cut Autographs,CRDC-JG,Jimmy Garoppolo,New England Patriots
+Chrome Rookie Die-Cut Autographs,CRDC-JH,Jeremy Hill,Cincinnati Bengals
+Chrome Rookie Die-Cut Autographs,CRDC-JL,Jarvis Landry,Miami Dolphins
+Chrome Rookie Die-Cut Autographs,CRDC-JM,Johnny Manziel,Cleveland Browns
+Chrome Rookie Die-Cut Autographs,CRDC-JMA,Jordan Matthews,Philadelphia Eagles
+Chrome Rookie Die-Cut Autographs,CRDC-KB,Kelvin Benjamin,Carolina Panthers
+Chrome Rookie Die-Cut Autographs,CRDC-KC,Ka’Deem Carey,Chicago Bears
+Chrome Rookie Die-Cut Autographs,CRDC-LT,Logan Thomas,Arizona Cardinals
+Chrome Rookie Die-Cut Autographs,CRDC-ME,Mike Evans,Tampa Bay Buccaneers
+Chrome Rookie Die-Cut Autographs,CRDC-ML,Marqise Lee,Jacksonville Jaguars
+Chrome Rookie Die-Cut Autographs,CRDC-OB,Odell Beckham Jr.,New York Giants
+Chrome Rookie Die-Cut Autographs,CRDC-PR,Paul Richardson,Seattle Seahawks
+Chrome Rookie Die-Cut Autographs,CRDC-SW,Sammy Watkins,Buffalo Bills
+Chrome Rookie Die-Cut Autographs,CRDC-TB,Teddy Bridgewater,Minnesota Vikings
+Chrome Rookie Die-Cut Autographs,CRDC-TM,Tre Mason,St. Louis Rams
+Chrome Rookie Die-Cut Autographs,CRDC-TS,Tom Savage,Houston Texans
+Chrome Rookie Die-Cut Autographs,CRDC-TW,Terrance West,Cleveland Browns
+Chrome Rookie Die-Cut Autographs,CRDC-ZM,Zach Mettenberger,Tennessee Titans
+Rookie Autograph Patches,RAP-AM,AJ McCarron,Cincinnati Bengals
+Rookie Autograph Patches,RAP-AR,Allen Robinson,Jacksonville Jaguars
+Rookie Autograph Patches,RAP-ASP,Austin Seferian-Jenkins,Tampa Bay Buccaneers
+Rookie Autograph Patches,RAP-AU,Aaron Murray,Kansas City Chiefs
+Rookie Autograph Patches,RAP-AW,Andre Williams,New York Giants
+Rookie Autograph Patches,RAP-BB,Blake Bortles,Jacksonville Jaguars
+Rookie Autograph Patches,RAP-BC,Brandin Cooks,New Orleans Saints
+Rookie Autograph Patches,RAP-BS,Bishop Sankey,Tennessee Titans
+Rookie Autograph Patches,RAP-CH,Carlos Hyde,San Francisco 49ers
+Rookie Autograph Patches,RAP-CL,Cody Latimer,Denver Broncos
+Rookie Autograph Patches,RAP-CS,Charles Sims,Tampa Bay Buccaneers
+Rookie Autograph Patches,RAP-DA,Davante Adams,Green Bay Packers
+Rookie Autograph Patches,RAP-DAR,Dri Archer,Pittsburgh Steelers
+Rookie Autograph Patches,RAP-DC,Derek Carr,Oakland Raiders
+Rookie Autograph Patches,RAP-DFR,Devonta Freeman,Atlanta Falcons
+Rookie Autograph Patches,RAP-DM,Donte Moncrief,Indianapolis Colts
+Rookie Autograph Patches,RAP-EE,Eric Ebron,Detroit Lions
+Rookie Autograph Patches,RAP-JC,Jadeveon Clowney,Houston Texans
+Rookie Autograph Patches,RAP-JG,Jimmy Garoppolo,New England Patriots
+Rookie Autograph Patches,RAP-JH,Jeremy Hill,Cincinnati Bengals
+Rookie Autograph Patches,RAP-JM,Jordan Matthews,Philadelphia Eagles
+Rookie Autograph Patches,RAP-JN,Jarvis Landry,Miami Dolphins
+Rookie Autograph Patches,RAP-JR,Jace Amaro,New York Jets
+Rookie Autograph Patches,RAP-JZ,Johnny Manziel,Cleveland Browns
+Rookie Autograph Patches,RAP-KB,Kelvin Benjamin,Carolina Panthers
+Rookie Autograph Patches,RAP-KC,Ka’Deem Carey,Chicago Bears
+Rookie Autograph Patches,RAP-LT,Logan Thomas,Arizona Cardinals
+Rookie Autograph Patches,RAP-MB,Martavis Bryant,Pittsburgh Steelers
+Rookie Autograph Patches,RAP-ME,Mike Evans,Tampa Bay Buccaneers
+Rookie Autograph Patches,RAP-ML,Marqise Lee,Jacksonville Jaguars
+Rookie Autograph Patches,RAP-MS,Michael Sam,St. Louis Rams
+Rookie Autograph Patches,RAP-OB,Odell Beckham Jr.,New York Giants
+Rookie Autograph Patches,RAP-PR,Paul Richardson,Seattle Seahawks
+Rookie Autograph Patches,RAP-SW,Sammy Watkins,Buffalo Bills
+Rookie Autograph Patches,RAP-TB,Tajh Boyd,New York Jets
+Rookie Autograph Patches,RAP-TI,Teddy Bridgewater,Minnesota Vikings
+Rookie Autograph Patches,RAP-TM,Tre Mason,St. Louis Rams
+Rookie Autograph Patches,RAP-TS,Tom Savage,Houston Texans
+Rookie Autograph Patches,RAP-TW,Terrance West,Cleveland Browns
+Rookie Autograph Patches,RAP-ZM,Zach Mettenberger,Tennessee Titans
+Rookie Relics,RR-AM,AJ McCarron,Cincinnati Bengals
+Rookie Relics,RR-AR,Allen Robinson,Jacksonville Jaguars
+Rookie Relics,RR-AS,Austin Seferian-Jenkins,Tampa Bay Buccaneers
+Rookie Relics,RR-AU,Aaron Murray,Kansas City Chiefs
+Rookie Relics,RR-AW,Andre Williams,New York Giants
+Rookie Relics,RR-BB,Blake Bortles,Jacksonville Jaguars
+Rookie Relics,RR-BC,Brandin Cooks,New Orleans Saints
+Rookie Relics,RR-BS,Bishop Sankey,Tennessee Titans
+Rookie Relics,RR-CH,Carlos Hyde,San Francisco 49ers
+Rookie Relics,RR-CL,Cody Latimer,Denver Broncos
+Rookie Relics,RR-CS,Charles Sims,Tampa Bay Buccaneers
+Rookie Relics,RR-DA,Davante Adams,Green Bay Packers
+Rookie Relics,RR-DC,Derek Carr,Oakland Raiders
+Rookie Relics,RR-DF,Devonta Freeman,Atlanta Falcons
+Rookie Relics,RR-DM,Donte Moncrief,Indianapolis Colts
+Rookie Relics,RR-DR,Dri Archer,Pittsburgh Steelers
+Rookie Relics,RR-DT,De'Anthony Thomas,Kansas City Chiefs
+Rookie Relics,RR-EE,Eric Ebron,Detroit Lions
+Rookie Relics,RR-JA,Johnny Manziel,Cleveland Browns
+Rookie Relics,RR-JC,Jadeveon Clowney,Houston Texans
+Rookie Relics,RR-JG,Jimmy Garoppolo,New England Patriots
+Rookie Relics,RR-JH,Jeremy Hill,Cincinnati Bengals
+Rookie Relics,RR-JL,Jarvis Landry,Miami Dolphins
+Rookie Relics,RR-JM,Jordan Matthews,Philadelphia Eagles
+Rookie Relics,RR-JR,Jace Amaro,New York Jets
+Rookie Relics,RR-JU,Josh Huff,Philadelphia Eagles
+Rookie Relics,RR-KB,Kelvin Benjamin,Carolina Panthers
+Rookie Relics,RR-KC,Ka’Deem Carey,Chicago Bears
+Rookie Relics,RR-KM,Khalil Mack,Oakland Raiders
+Rookie Relics,RR-LT,Logan Thomas,Arizona Cardinals
+Rookie Relics,RR-ME,Mike Evans,Tampa Bay Buccaneers
+Rookie Relics,RR-ML,Marqise Lee,Jacksonville Jaguars
+Rookie Relics,RR-OB,Odell Beckham Jr.,New York Giants
+Rookie Relics,RR-PR,Paul Richardson,Seattle Seahawks
+Rookie Relics,RR-SW,Sammy Watkins,Buffalo Bills
+Rookie Relics,RR-TB,Teddy Bridgewater,Minnesota Vikings
+Rookie Relics,RR-TM,Tre Mason,St. Louis Rams
+Rookie Relics,RR-TO,Tajh Boyd,New York Jets
+Rookie Relics,RR-TS,Tom Savage,Houston Texans
+Rookie Relics,RR-TW,Terrance West,Cleveland Browns
