@@ -59,21 +59,21 @@ Air Marshals Gold,12,Tony Romo,Dallas Cowboys,10
 Air Marshals Gold,13,Matthew Stafford,Detroit Lions,10
 Air Marshals Gold,14,Eli Manning,New York Giants,10
 Air Marshals Gold,15,Joe Flacco,Baltimore Ravens,10
-Air Marshals Prizm,1,Aaron Rodgers,Green Bay Packers,
-Air Marshals Prizm,2,Peyton Manning,Denver Broncos,
-Air Marshals Prizm,3,Andrew Luck,Indianapolis Colts,
-Air Marshals Prizm,4,Ben Roethlisberger,Pittsburgh Steelers,
-Air Marshals Prizm,5,Matt Ryan,Atlanta Falcons,
-Air Marshals Prizm,6,Colin Kaepernick,San Francisco 49ers,
-Air Marshals Prizm,7,Drew Brees,New Orleans Saints,
-Air Marshals Prizm,8,Tom Brady,New England Patriots,
-Air Marshals Prizm,9,Philip Rivers,San Diego Chargers,
-Air Marshals Prizm,10,Cam Newton,Carolina Panthers,
-Air Marshals Prizm,11,Russell Wilson,Seattle Seahawks,
-Air Marshals Prizm,12,Tony Romo,Dallas Cowboys,
-Air Marshals Prizm,13,Matthew Stafford,Detroit Lions,
-Air Marshals Prizm,14,Eli Manning,New York Giants,
-Air Marshals Prizm,15,Joe Flacco,Baltimore Ravens,
+Air Marshals Silver,1,Aaron Rodgers,Green Bay Packers,
+Air Marshals Silver,2,Peyton Manning,Denver Broncos,
+Air Marshals Silver,3,Andrew Luck,Indianapolis Colts,
+Air Marshals Silver,4,Ben Roethlisberger,Pittsburgh Steelers,
+Air Marshals Silver,5,Matt Ryan,Atlanta Falcons,
+Air Marshals Silver,6,Colin Kaepernick,San Francisco 49ers,
+Air Marshals Silver,7,Drew Brees,New Orleans Saints,
+Air Marshals Silver,8,Tom Brady,New England Patriots,
+Air Marshals Silver,9,Philip Rivers,San Diego Chargers,
+Air Marshals Silver,10,Cam Newton,Carolina Panthers,
+Air Marshals Silver,11,Russell Wilson,Seattle Seahawks,
+Air Marshals Silver,12,Tony Romo,Dallas Cowboys,
+Air Marshals Silver,13,Matthew Stafford,Detroit Lions,
+Air Marshals Silver,14,Eli Manning,New York Giants,
+Air Marshals Silver,15,Joe Flacco,Baltimore Ravens,
 Base,1,Cam Newton,Carolina Panthers,
 Base,2,Matt Ryan,Atlanta Falcons,
 Base,3,Russell Wilson,Seattle Seahawks,
@@ -1734,21 +1734,21 @@ Fireworks Gold Vinyl,12,Aaron Rodgers,Green Bay Packers,5
 Fireworks Gold Vinyl,13,Odell Beckham Jr.,New York Giants,5
 Fireworks Gold Vinyl,14,T.Y. Hilton,Indianapolis Colts,5
 Fireworks Gold Vinyl,15,Dez Bryant,Dallas Cowboys,5
-Fireworks Prizm,1,Tom Brady,New England Patriots,
-Fireworks Prizm,2,DeMarco Murray,Philadelphia Eagles,
-Fireworks Prizm,3,Andrew Luck,Indianapolis Colts,
-Fireworks Prizm,4,LeSean McCoy,Buffalo Bills,
-Fireworks Prizm,5,Peyton Manning,Denver Broncos,
-Fireworks Prizm,6,Antonio Brown,Pittsburgh Steelers,
-Fireworks Prizm,7,Russell Wilson,Seattle Seahawks,
-Fireworks Prizm,8,Julio Jones,Atlanta Falcons,
-Fireworks Prizm,9,Cam Newton,Carolina Panthers,
-Fireworks Prizm,10,Jamaal Charles,Kansas City Chiefs,
-Fireworks Prizm,11,Marshawn Lynch,Seattle Seahawks,
-Fireworks Prizm,12,Aaron Rodgers,Green Bay Packers,
-Fireworks Prizm,13,Odell Beckham Jr.,New York Giants,
-Fireworks Prizm,14,T.Y. Hilton,Indianapolis Colts,
-Fireworks Prizm,15,Dez Bryant,Dallas Cowboys,
+Fireworks Silver,1,Tom Brady,New England Patriots,
+Fireworks Silver,2,DeMarco Murray,Philadelphia Eagles,
+Fireworks Silver,3,Andrew Luck,Indianapolis Colts,
+Fireworks Silver,4,LeSean McCoy,Buffalo Bills,
+Fireworks Silver,5,Peyton Manning,Denver Broncos,
+Fireworks Silver,6,Antonio Brown,Pittsburgh Steelers,
+Fireworks Silver,7,Russell Wilson,Seattle Seahawks,
+Fireworks Silver,8,Julio Jones,Atlanta Falcons,
+Fireworks Silver,9,Cam Newton,Carolina Panthers,
+Fireworks Silver,10,Jamaal Charles,Kansas City Chiefs,
+Fireworks Silver,11,Marshawn Lynch,Seattle Seahawks,
+Fireworks Silver,12,Aaron Rodgers,Green Bay Packers,
+Fireworks Silver,13,Odell Beckham Jr.,New York Giants,
+Fireworks Silver,14,T.Y. Hilton,Indianapolis Colts,
+Fireworks Silver,15,Dez Bryant,Dallas Cowboys,
 Hall of Fame,1,Walter Payton,Chicago Bears,
 Hall of Fame,2,Joe Montana,San Francisco 49ers,
 Hall of Fame,3,Joe Namath,New York Jets,
@@ -1789,16 +1789,16 @@ Hall of Fame Gold Vinyl,7,John Elway,Denver Broncos,5
 Hall of Fame Gold Vinyl,8,Dan Marino,Miami Dolphins,5
 Hall of Fame Gold Vinyl,9,Emmitt Smith,Dallas Cowboys,5
 Hall of Fame Gold Vinyl,10,Jerry Rice,San Francisco 49ers,5
-Hall of Fame Prizm,1,Walter Payton,Chicago Bears,
-Hall of Fame Prizm,2,Joe Montana,San Francisco 49ers,
-Hall of Fame Prizm,3,Joe Namath,New York Jets,
-Hall of Fame Prizm,4,Barry Sanders,Detroit Lions,
-Hall of Fame Prizm,5,Franco Harris,Pittsburgh Steelers,
-Hall of Fame Prizm,6,Jim Kelly,Buffalo Bills,
-Hall of Fame Prizm,7,John Elway,Denver Broncos,
-Hall of Fame Prizm,8,Dan Marino,Miami Dolphins,
-Hall of Fame Prizm,9,Emmitt Smith,Dallas Cowboys,
-Hall of Fame Prizm,10,Jerry Rice,San Francisco 49ers,
+Hall of Fame Silver,1,Walter Payton,Chicago Bears,
+Hall of Fame Silver,2,Joe Montana,San Francisco 49ers,
+Hall of Fame Silver,3,Joe Namath,New York Jets,
+Hall of Fame Silver,4,Barry Sanders,Detroit Lions,
+Hall of Fame Silver,5,Franco Harris,Pittsburgh Steelers,
+Hall of Fame Silver,6,Jim Kelly,Buffalo Bills,
+Hall of Fame Silver,7,John Elway,Denver Broncos,
+Hall of Fame Silver,8,Dan Marino,Miami Dolphins,
+Hall of Fame Silver,9,Emmitt Smith,Dallas Cowboys,
+Hall of Fame Silver,10,Jerry Rice,San Francisco 49ers,
 Helmets,1,Tom Brady,New England Patriots,
 Helmets,2,Russell Wilson,Seattle Seahawks,
 Helmets,3,Peyton Manning,Denver Broncos,
@@ -1879,26 +1879,26 @@ Helmets Gold Vinyl,17,Melvin Gordon,San Diego Chargers,5
 Helmets Gold Vinyl,18,Todd Gurley,St. Louis Rams,5
 Helmets Gold Vinyl,19,Bryce Petty,New York Jets,5
 Helmets Gold Vinyl,20,Maxx Williams,Baltimore Ravens,5
-Helmets Prizm,1,Tom Brady,New England Patriots,
-Helmets Prizm,2,Russell Wilson,Seattle Seahawks,
-Helmets Prizm,3,Peyton Manning,Denver Broncos,
-Helmets Prizm,4,Odell Beckham Jr.,New York Giants,
-Helmets Prizm,5,DeMarco Murray,Philadelphia Eagles,
-Helmets Prizm,6,Aaron Rodgers,Green Bay Packers,
-Helmets Prizm,7,Dez Bryant,Dallas Cowboys,
-Helmets Prizm,8,Andrew Luck,Indianapolis Colts,
-Helmets Prizm,9,Colin Kaepernick,San Francisco 49ers,
-Helmets Prizm,10,Ben Roethlisberger,Pittsburgh Steelers,
-Helmets Prizm,11,Jameis Winston,Tampa Bay Buccaneers,
-Helmets Prizm,12,Marcus Mariota,Tennessee Titans,
-Helmets Prizm,13,Amari Cooper,Oakland Raiders,
-Helmets Prizm,14,Kevin White,Chicago Bears,
-Helmets Prizm,15,DeVante Parker,Miami Dolphins,
-Helmets Prizm,16,Matt Jones,Washington Redskins,
-Helmets Prizm,17,Melvin Gordon,San Diego Chargers,
-Helmets Prizm,18,Todd Gurley,St. Louis Rams,
-Helmets Prizm,19,Bryce Petty,New York Jets,
-Helmets Prizm,20,Maxx Williams,Baltimore Ravens,
+Helmets Silver,1,Tom Brady,New England Patriots,
+Helmets Silver,2,Russell Wilson,Seattle Seahawks,
+Helmets Silver,3,Peyton Manning,Denver Broncos,
+Helmets Silver,4,Odell Beckham Jr.,New York Giants,
+Helmets Silver,5,DeMarco Murray,Philadelphia Eagles,
+Helmets Silver,6,Aaron Rodgers,Green Bay Packers,
+Helmets Silver,7,Dez Bryant,Dallas Cowboys,
+Helmets Silver,8,Andrew Luck,Indianapolis Colts,
+Helmets Silver,9,Colin Kaepernick,San Francisco 49ers,
+Helmets Silver,10,Ben Roethlisberger,Pittsburgh Steelers,
+Helmets Silver,11,Jameis Winston,Tampa Bay Buccaneers,
+Helmets Silver,12,Marcus Mariota,Tennessee Titans,
+Helmets Silver,13,Amari Cooper,Oakland Raiders,
+Helmets Silver,14,Kevin White,Chicago Bears,
+Helmets Silver,15,DeVante Parker,Miami Dolphins,
+Helmets Silver,16,Matt Jones,Washington Redskins,
+Helmets Silver,17,Melvin Gordon,San Diego Chargers,
+Helmets Silver,18,Todd Gurley,St. Louis Rams,
+Helmets Silver,19,Bryce Petty,New York Jets,
+Helmets Silver,20,Maxx Williams,Baltimore Ravens,
 Introductions,1,J.J. Watt,Houston Texans,
 Introductions,2,Cam Newton,Carolina Panthers,
 Introductions,3,Richard Sherman,Seattle Seahawks,
@@ -1944,21 +1944,21 @@ Introductions Gold Vinyl,12,Teddy Bridgewater,Minnesota Vikings,5
 Introductions Gold Vinyl,13,Andrew Luck,Indianapolis Colts,5
 Introductions Gold Vinyl,14,Cameron Wake,Miami Dolphins,5
 Introductions Gold Vinyl,15,Dez Bryant,Dallas Cowboys,5
-Introductions Prizm,1,J.J. Watt,Houston Texans,
-Introductions Prizm,2,Cam Newton,Carolina Panthers,
-Introductions Prizm,3,Richard Sherman,Seattle Seahawks,
-Introductions Prizm,4,Terrell Suggs,Baltimore Ravens,
-Introductions Prizm,5,Tom Brady,New England Patriots,
-Introductions Prizm,6,Calvin Johnson,Detroit Lions,
-Introductions Prizm,7,Larry Fitzgerald,Arizona Cardinals,
-Introductions Prizm,8,Ben Roethlisberger,Pittsburgh Steelers,
-Introductions Prizm,9,DeSean Jackson,Washington Redskins,
-Introductions Prizm,10,Peyton Manning,Denver Broncos,
-Introductions Prizm,11,Aaron Rodgers,Green Bay Packers,
-Introductions Prizm,12,Teddy Bridgewater,Minnesota Vikings,
-Introductions Prizm,13,Andrew Luck,Indianapolis Colts,
-Introductions Prizm,14,Cameron Wake,Miami Dolphins,
-Introductions Prizm,15,Dez Bryant,Dallas Cowboys,
+Introductions Silver,1,J.J. Watt,Houston Texans,
+Introductions Silver,2,Cam Newton,Carolina Panthers,
+Introductions Silver,3,Richard Sherman,Seattle Seahawks,
+Introductions Silver,4,Terrell Suggs,Baltimore Ravens,
+Introductions Silver,5,Tom Brady,New England Patriots,
+Introductions Silver,6,Calvin Johnson,Detroit Lions,
+Introductions Silver,7,Larry Fitzgerald,Arizona Cardinals,
+Introductions Silver,8,Ben Roethlisberger,Pittsburgh Steelers,
+Introductions Silver,9,DeSean Jackson,Washington Redskins,
+Introductions Silver,10,Peyton Manning,Denver Broncos,
+Introductions Silver,11,Aaron Rodgers,Green Bay Packers,
+Introductions Silver,12,Teddy Bridgewater,Minnesota Vikings,
+Introductions Silver,13,Andrew Luck,Indianapolis Colts,
+Introductions Silver,14,Cameron Wake,Miami Dolphins,
+Introductions Silver,15,Dez Bryant,Dallas Cowboys,
 Introductions Gold,1,J.J. Watt,Houston Texans,10
 Introductions Gold,2,Cam Newton,Carolina Panthers,10
 Introductions Gold,3,Richard Sherman,Seattle Seahawks,10
@@ -2225,206 +2225,206 @@ Patented Penmanship Gold,17,Demaryius Thomas,Denver Broncos,5
 Patented Penmanship Gold,18,Drew Brees,New Orleans Saints,5
 Patented Penmanship Gold,19,Tony Romo,Dallas Cowboys,5
 Patented Penmanship Gold,20,Russell Wilson,Seattle Seahawks,5
-Base Prizm,1,Cam Newton,Carolina Panthers,
-Base Prizm,2,Matt Ryan,Atlanta Falcons,
-Base Prizm,3,Russell Wilson,Seattle Seahawks,
-Base Prizm,4,Brett Favre,Green Bay Packers,
-Base Prizm,5,Joe Flacco,Baltimore Ravens,
-Base Prizm,6,Jay Cutler,Chicago Bears,
-Base Prizm,7,John Elway,Denver Broncos,
-Base Prizm,8,Troy Aikman,Dallas Cowboys,
-Base Prizm,9,Drew Brees,New Orleans Saints,
-Base Prizm,10,Eli Manning,New York Giants,
-Base Prizm,11,Larry Fitzgerald,Arizona Cardinals,
-Base Prizm,12,Tom Brady,New England Patriots,
-Base Prizm,13,Dan Marino,Miami Dolphins,
-Base Prizm,14,Andy Dalton,Cincinnati Bengals,
-Base Prizm,15,Brandon Marshall,New York Jets,
-Base Prizm,16,Joe Montana,San Francisco 49ers,
-Base Prizm,17,Philip Rivers,San Diego Chargers,
-Base Prizm,18,Peyton Manning,Denver Broncos,
-Base Prizm,19,Ben Roethlisberger,Pittsburgh Steelers,
-Base Prizm,20,Darren McFadden,Dallas Cowboys,
-Base Prizm,21,Deion Sanders,Atlanta Falcons,
-Base Prizm,22,Emmitt Smith,Dallas Cowboys,
-Base Prizm,23,Arian Foster,Houston Texans,
-Base Prizm,24,Darrelle Revis,New York Jets,
-Base Prizm,25,Richard Sherman,Seattle Seahawks,
-Base Prizm,26,Rod Woodson,Pittsburgh Steelers,
-Base Prizm,27,Eddie Lacy,Green Bay Packers,
-Base Prizm,28,Adrian Peterson,Minnesota Vikings,
-Base Prizm,29,DeMarco Murray,Philadelphia Eagles,
-Base Prizm,30,Terrell Davis,Denver Broncos,
-Base Prizm,31,Kam Chancellor,Seattle Seahawks,
-Base Prizm,32,Eric Weddle,San Diego Chargers,
-Base Prizm,33,Tony Dorsett,Dallas Cowboys,
-Base Prizm,34,Walter Payton,Chicago Bears,
-Base Prizm,35,Joique Bell,Detroit Lions,
-Base Prizm,36,Jerome Bettis,Pittsburgh Steelers,
-Base Prizm,37,Brent Celek,Philadelphia Eagles,
-Base Prizm,38,Pierre Garcon,Washington Redskins,
-Base Prizm,39,Reggie Bush,San Francisco 49ers,
-Base Prizm,40,Gale Sayers,Chicago Bears,
-Base Prizm,41,Victor Cruz,New York Giants,
-Base Prizm,42,Paul Warfield,Cleveland Browns,
-Base Prizm,43,Roger Staubach,Dallas Cowboys,
-Base Prizm,44,John Riggins,Washington Redskins,
-Base Prizm,45,Jeremy Hill,Cincinnati Bengals,
-Base Prizm,46,LeGarrette Blount,New England Patriots,
-Base Prizm,47,Josh McCown,Cleveland Browns,
-Base Prizm,48,Justin Houston,Kansas City Chiefs,
-Base Prizm,49,Carson Palmer,Arizona Cardinals,
-Base Prizm,50,Kiko Alonso,Philadelphia Eagles,
-Base Prizm,51,Frank Gore,Indianapolis Colts,
-Base Prizm,52,Jonathan Stewart,Carolina Panthers,
-Base Prizm,53,Earl Campbell,Houston Oilers,
-Base Prizm,54,Ryan Tannehill,Miami Dolphins,
-Base Prizm,55,Colin Kaepernick,San Francisco 49ers,
-Base Prizm,56,Lawrence Taylor,New York Giants,
-Base Prizm,57,Le'Veon Bell,Pittsburgh Steelers,
-Base Prizm,58,Randall Cobb,Green Bay Packers,
-Base Prizm,59,Rashad Jennings,New York Giants,
-Base Prizm,60,Terrance Williams,Dallas Cowboys,
-Base Prizm,61,Von Miller,Denver Broncos,
-Base Prizm,62,Trent Richardson,Oakland Raiders,
-Base Prizm,63,Sam Bradford,Philadelphia Eagles,
-Base Prizm,64,Matthew Stafford,Detroit Lions,
-Base Prizm,65,LeSean McCoy,Buffalo Bills,
-Base Prizm,66,Art Monk,Washington Redskins,
-Base Prizm,67,Cordarrelle Patterson,Minnesota Vikings,
-Base Prizm,68,Doug Martin,Tampa Bay Buccaneers,
-Base Prizm,69,Devonta Freeman,Atlanta Falcons,
-Base Prizm,70,Michael Crabtree,Oakland Raiders,
-Base Prizm,71,Fran Tarkenton,Minnesota Vikings,
-Base Prizm,72,Kendall Wright,Tennessee Titans,
-Base Prizm,73,Martavis Bryant,Pittsburgh Steelers,
-Base Prizm,74,Isaiah Crowell,Cleveland Browns,
-Base Prizm,75,Jarvis Landry,Miami Dolphins,
-Base Prizm,76,Joe Namath,New York Jets,
-Base Prizm,77,Mohamed Sanu,Cincinnati Bengals,
-Base Prizm,78,Tony Romo,Dallas Cowboys,
-Base Prizm,79,Jordan Reed,Washington Redskins,
-Base Prizm,80,Jerry Rice,San Francisco 49ers,
-Base Prizm,81,Calvin Johnson,Detroit Lions,
-Base Prizm,82,Jason Witten,Dallas Cowboys,
-Base Prizm,83,Johnny Manziel,Cleveland Browns,
-Base Prizm,84,Antonio Brown,Pittsburgh Steelers,
-Base Prizm,85,Antonio Gates,San Diego Chargers,
-Base Prizm,86,Heath Miller,Pittsburgh Steelers,
-Base Prizm,87,Rob Gronkowski,New England Patriots,
-Base Prizm,88,Dez Bryant,Dallas Cowboys,
-Base Prizm,89,Steve Smith Sr.,Baltimore Ravens,
-Base Prizm,90,Ndamukong Suh,Miami Dolphins,
-Base Prizm,91,Tamba Hali,Kansas City Chiefs,
-Base Prizm,92,James Harrison,Pittsburgh Steelers,
-Base Prizm,93,Gerald McCoy,Tampa Bay Buccaneers,
-Base Prizm,94,DeMarcus Ware,Denver Broncos,
-Base Prizm,95,Matt Forte,Chicago Bears,
-Base Prizm,96,Nick Foles,St. Louis Rams,
-Base Prizm,97,C.J. Spiller,New Orleans Saints,
-Base Prizm,98,Dan Fouts,San Diego Chargers,
-Base Prizm,99,J.J. Watt,Houston Texans,
-Base Prizm,100,Ronnie Lott,San Francisco 49ers,
-Base Prizm,101,Tavon Austin,St. Louis Rams,
-Base Prizm,102,C.J. Anderson,Denver Broncos,
-Base Prizm,103,Terry Bradshaw,Pittsburgh Steelers,
-Base Prizm,104,Blake Bortles,Jacksonville Jaguars,
-Base Prizm,105,Brandon LaFell,New England Patriots,
-Base Prizm,106,Kelvin Benjamin,Carolina Panthers,
-Base Prizm,107,Jared Cook,St. Louis Rams,
-Base Prizm,108,Mike Wallace,Minnesota Vikings,
-Base Prizm,109,Alfred Morris,Washington Redskins,
-Base Prizm,110,Percy Harvin,Buffalo Bills,
-Base Prizm,111,Torrey Smith,San Francisco 49ers,
-Base Prizm,112,Aaron Rodgers,Green Bay Packers,
-Base Prizm,113,Emmanuel Sanders,Denver Broncos,
-Base Prizm,114,Khalil Mack,Oakland Raiders,
-Base Prizm,115,DeSean Jackson,Washington Redskins,
-Base Prizm,116,Kyle Rudolph,Minnesota Vikings,
-Base Prizm,117,Earl Thomas,Seattle Seahawks,
-Base Prizm,118,Malcom Floyd,San Diego Chargers,
-Base Prizm,119,Joseph Randle,Dallas Cowboys,
-Base Prizm,120,Julio Jones,Atlanta Falcons,
-Base Prizm,121,Clay Matthews,Green Bay Packers,
-Base Prizm,122,Bishop Sankey,Tennessee Titans,
-Base Prizm,123,Andrew Luck,Indianapolis Colts,
-Base Prizm,124,Latavius Murray,Oakland Raiders,
-Base Prizm,125,Malcolm Butler,New England Patriots,
-Base Prizm,126,Bo Jackson,Los Angeles Raiders,
-Base Prizm,127,Cecil Shorts III,Houston Texans,
-Base Prizm,128,Warren Moon,Houston Oilers,
-Base Prizm,129,Cris Carter,Minnesota Vikings,
-Base Prizm,130,Delanie Walker,Tennessee Titans,
-Base Prizm,131,Jimmy Graham,Seattle Seahawks,
-Base Prizm,132,Marshall Faulk,St. Louis Rams,
-Base Prizm,133,Jason Pierre-Paul,New York Giants,
-Base Prizm,134,Greg Jennings,Miami Dolphins,
-Base Prizm,135,Mark Ingram,New Orleans Saints,
-Base Prizm,136,Charles Woodson,Oakland Raiders,
-Base Prizm,137,Robert Griffin III,Washington Redskins,
-Base Prizm,138,Haloti Ngata ,Detroit Lions,
-Base Prizm,139,Kurt Warner,St. Louis Rams,
-Base Prizm,140,Riley Cooper,Philadelphia Eagles,
-Base Prizm,141,Brandin Cooks,New Orleans Saints,
-Base Prizm,142,Paul Posluszny,Jacksonville Jaguars,
-Base Prizm,143,Justin Hunter,Tennessee Titans,
-Base Prizm,144,Greg Olsen,Carolina Panthers,
-Base Prizm,145,Jordy Nelson,Green Bay Packers,
-Base Prizm,146,Barry Sanders,Detroit Lions,
-Base Prizm,147,Allen Hurns,Jacksonville Jaguars,
-Base Prizm,148,Markus Wheaton,Pittsburgh Steelers,
-Base Prizm,149,Lavonte David,Tampa Bay Buccaneers,
-Base Prizm,150,Vincent Jackson,Tampa Bay Buccaneers,
-Base Prizm,151,Dwayne Bowe,Cleveland Browns,
-Base Prizm,152,Sammy Watkins ,Buffalo Bills,
-Base Prizm,153,Demaryius Thomas,Denver Broncos,
-Base Prizm,154,Kirk Cousins,Washington Redskins,
-Base Prizm,155,Roddy White,Atlanta Falcons,
-Base Prizm,156,Chris Ivory,New York Jets,
-Base Prizm,157,Tre Mason,St. Louis Rams,
-Base Prizm,158,Austin Seferian-Jenkins,Tampa Bay Buccaneers,
-Base Prizm,159,Ryan Mathews,Philadelphia Eagles,
-Base Prizm,160,DeAndre Hopkins,Houston Texans,
-Base Prizm,161,C.J. Mosley,Baltimore Ravens,
-Base Prizm,162,Brian Hoyer,Houston Texans,
-Base Prizm,163,Lamar Miller,Miami Dolphins,
-Base Prizm,164,Julius Thomas,Jacksonville Jaguars,
-Base Prizm,165,Shannon Sharpe,Denver Broncos,
-Base Prizm,166,De'Anthony Thomas,Kansas City Chiefs,
-Base Prizm,167,Julian Edelman,New England Patriots,
-Base Prizm,168,Vernon Davis,San Francisco 49ers,
-Base Prizm,169,Devin Hester,Atlanta Falcons,
-Base Prizm,170,Michael Floyd,Arizona Cardinals,
-Base Prizm,171,Julius Peppers,Green Bay Packers,
-Base Prizm,172,T.Y. Hilton,Indianapolis Colts,
-Base Prizm,173,Justin Forsett,Baltimore Ravens,
-Base Prizm,174,Jeremy Maclin,Kansas City Chiefs,
-Base Prizm,175,Branden Oliver,San Diego Chargers,
-Base Prizm,176,Alshon Jeffery,Chicago Bears,
-Base Prizm,177,Carlos Hyde,San Francisco 49ers,
-Base Prizm,178,Denard Robinson,Jacksonville Jaguars,
-Base Prizm,179,Marques Colston,New Orleans Saints,
-Base Prizm,180,Anquan Boldin,San Francisco 49ers,
-Base Prizm,181,Patrick Peterson,Arizona Cardinals,
-Base Prizm,182,Donte Moncrief,Indianapolis Colts,
-Base Prizm,183,Jamaal Charles,Kansas City Chiefs,
-Base Prizm,184,Odell Beckham Jr.,New York Giants,
-Base Prizm,185,Geno Smith,New York Jets,
-Base Prizm,186,Teddy Bridgewater,Minnesota Vikings,
-Base Prizm,187,Golden Tate,Detroit Lions,
-Base Prizm,188,Eric Dickerson,Los Angeles Rams,
-Base Prizm,189,Mario Williams,Buffalo Bills,
-Base Prizm,190,Eric Decker,New York Jets,
-Base Prizm,191,Jordan Matthews,Philadelphia Eagles,
-Base Prizm,192,Doug Baldwin,Seattle Seahawks,
-Base Prizm,193,Andre Johnson,Indianapolis Colts,
-Base Prizm,194,Alex Smith,Kansas City Chiefs,
-Base Prizm,195,Mike Evans,Tampa Bay Buccaneers,
-Base Prizm,196,Derek Carr,Oakland Raiders,
-Base Prizm,197,A.J. Green,Cincinnati Bengals,
-Base Prizm,198,Marshawn Lynch,Seattle Seahawks,
-Base Prizm,199,Andre Ellington,Arizona Cardinals,
-Base Prizm,200,Terrell Suggs,Baltimore Ravens,
+Base Silver,1,Cam Newton,Carolina Panthers,
+Base Silver,2,Matt Ryan,Atlanta Falcons,
+Base Silver,3,Russell Wilson,Seattle Seahawks,
+Base Silver,4,Brett Favre,Green Bay Packers,
+Base Silver,5,Joe Flacco,Baltimore Ravens,
+Base Silver,6,Jay Cutler,Chicago Bears,
+Base Silver,7,John Elway,Denver Broncos,
+Base Silver,8,Troy Aikman,Dallas Cowboys,
+Base Silver,9,Drew Brees,New Orleans Saints,
+Base Silver,10,Eli Manning,New York Giants,
+Base Silver,11,Larry Fitzgerald,Arizona Cardinals,
+Base Silver,12,Tom Brady,New England Patriots,
+Base Silver,13,Dan Marino,Miami Dolphins,
+Base Silver,14,Andy Dalton,Cincinnati Bengals,
+Base Silver,15,Brandon Marshall,New York Jets,
+Base Silver,16,Joe Montana,San Francisco 49ers,
+Base Silver,17,Philip Rivers,San Diego Chargers,
+Base Silver,18,Peyton Manning,Denver Broncos,
+Base Silver,19,Ben Roethlisberger,Pittsburgh Steelers,
+Base Silver,20,Darren McFadden,Dallas Cowboys,
+Base Silver,21,Deion Sanders,Atlanta Falcons,
+Base Silver,22,Emmitt Smith,Dallas Cowboys,
+Base Silver,23,Arian Foster,Houston Texans,
+Base Silver,24,Darrelle Revis,New York Jets,
+Base Silver,25,Richard Sherman,Seattle Seahawks,
+Base Silver,26,Rod Woodson,Pittsburgh Steelers,
+Base Silver,27,Eddie Lacy,Green Bay Packers,
+Base Silver,28,Adrian Peterson,Minnesota Vikings,
+Base Silver,29,DeMarco Murray,Philadelphia Eagles,
+Base Silver,30,Terrell Davis,Denver Broncos,
+Base Silver,31,Kam Chancellor,Seattle Seahawks,
+Base Silver,32,Eric Weddle,San Diego Chargers,
+Base Silver,33,Tony Dorsett,Dallas Cowboys,
+Base Silver,34,Walter Payton,Chicago Bears,
+Base Silver,35,Joique Bell,Detroit Lions,
+Base Silver,36,Jerome Bettis,Pittsburgh Steelers,
+Base Silver,37,Brent Celek,Philadelphia Eagles,
+Base Silver,38,Pierre Garcon,Washington Redskins,
+Base Silver,39,Reggie Bush,San Francisco 49ers,
+Base Silver,40,Gale Sayers,Chicago Bears,
+Base Silver,41,Victor Cruz,New York Giants,
+Base Silver,42,Paul Warfield,Cleveland Browns,
+Base Silver,43,Roger Staubach,Dallas Cowboys,
+Base Silver,44,John Riggins,Washington Redskins,
+Base Silver,45,Jeremy Hill,Cincinnati Bengals,
+Base Silver,46,LeGarrette Blount,New England Patriots,
+Base Silver,47,Josh McCown,Cleveland Browns,
+Base Silver,48,Justin Houston,Kansas City Chiefs,
+Base Silver,49,Carson Palmer,Arizona Cardinals,
+Base Silver,50,Kiko Alonso,Philadelphia Eagles,
+Base Silver,51,Frank Gore,Indianapolis Colts,
+Base Silver,52,Jonathan Stewart,Carolina Panthers,
+Base Silver,53,Earl Campbell,Houston Oilers,
+Base Silver,54,Ryan Tannehill,Miami Dolphins,
+Base Silver,55,Colin Kaepernick,San Francisco 49ers,
+Base Silver,56,Lawrence Taylor,New York Giants,
+Base Silver,57,Le'Veon Bell,Pittsburgh Steelers,
+Base Silver,58,Randall Cobb,Green Bay Packers,
+Base Silver,59,Rashad Jennings,New York Giants,
+Base Silver,60,Terrance Williams,Dallas Cowboys,
+Base Silver,61,Von Miller,Denver Broncos,
+Base Silver,62,Trent Richardson,Oakland Raiders,
+Base Silver,63,Sam Bradford,Philadelphia Eagles,
+Base Silver,64,Matthew Stafford,Detroit Lions,
+Base Silver,65,LeSean McCoy,Buffalo Bills,
+Base Silver,66,Art Monk,Washington Redskins,
+Base Silver,67,Cordarrelle Patterson,Minnesota Vikings,
+Base Silver,68,Doug Martin,Tampa Bay Buccaneers,
+Base Silver,69,Devonta Freeman,Atlanta Falcons,
+Base Silver,70,Michael Crabtree,Oakland Raiders,
+Base Silver,71,Fran Tarkenton,Minnesota Vikings,
+Base Silver,72,Kendall Wright,Tennessee Titans,
+Base Silver,73,Martavis Bryant,Pittsburgh Steelers,
+Base Silver,74,Isaiah Crowell,Cleveland Browns,
+Base Silver,75,Jarvis Landry,Miami Dolphins,
+Base Silver,76,Joe Namath,New York Jets,
+Base Silver,77,Mohamed Sanu,Cincinnati Bengals,
+Base Silver,78,Tony Romo,Dallas Cowboys,
+Base Silver,79,Jordan Reed,Washington Redskins,
+Base Silver,80,Jerry Rice,San Francisco 49ers,
+Base Silver,81,Calvin Johnson,Detroit Lions,
+Base Silver,82,Jason Witten,Dallas Cowboys,
+Base Silver,83,Johnny Manziel,Cleveland Browns,
+Base Silver,84,Antonio Brown,Pittsburgh Steelers,
+Base Silver,85,Antonio Gates,San Diego Chargers,
+Base Silver,86,Heath Miller,Pittsburgh Steelers,
+Base Silver,87,Rob Gronkowski,New England Patriots,
+Base Silver,88,Dez Bryant,Dallas Cowboys,
+Base Silver,89,Steve Smith Sr.,Baltimore Ravens,
+Base Silver,90,Ndamukong Suh,Miami Dolphins,
+Base Silver,91,Tamba Hali,Kansas City Chiefs,
+Base Silver,92,James Harrison,Pittsburgh Steelers,
+Base Silver,93,Gerald McCoy,Tampa Bay Buccaneers,
+Base Silver,94,DeMarcus Ware,Denver Broncos,
+Base Silver,95,Matt Forte,Chicago Bears,
+Base Silver,96,Nick Foles,St. Louis Rams,
+Base Silver,97,C.J. Spiller,New Orleans Saints,
+Base Silver,98,Dan Fouts,San Diego Chargers,
+Base Silver,99,J.J. Watt,Houston Texans,
+Base Silver,100,Ronnie Lott,San Francisco 49ers,
+Base Silver,101,Tavon Austin,St. Louis Rams,
+Base Silver,102,C.J. Anderson,Denver Broncos,
+Base Silver,103,Terry Bradshaw,Pittsburgh Steelers,
+Base Silver,104,Blake Bortles,Jacksonville Jaguars,
+Base Silver,105,Brandon LaFell,New England Patriots,
+Base Silver,106,Kelvin Benjamin,Carolina Panthers,
+Base Silver,107,Jared Cook,St. Louis Rams,
+Base Silver,108,Mike Wallace,Minnesota Vikings,
+Base Silver,109,Alfred Morris,Washington Redskins,
+Base Silver,110,Percy Harvin,Buffalo Bills,
+Base Silver,111,Torrey Smith,San Francisco 49ers,
+Base Silver,112,Aaron Rodgers,Green Bay Packers,
+Base Silver,113,Emmanuel Sanders,Denver Broncos,
+Base Silver,114,Khalil Mack,Oakland Raiders,
+Base Silver,115,DeSean Jackson,Washington Redskins,
+Base Silver,116,Kyle Rudolph,Minnesota Vikings,
+Base Silver,117,Earl Thomas,Seattle Seahawks,
+Base Silver,118,Malcom Floyd,San Diego Chargers,
+Base Silver,119,Joseph Randle,Dallas Cowboys,
+Base Silver,120,Julio Jones,Atlanta Falcons,
+Base Silver,121,Clay Matthews,Green Bay Packers,
+Base Silver,122,Bishop Sankey,Tennessee Titans,
+Base Silver,123,Andrew Luck,Indianapolis Colts,
+Base Silver,124,Latavius Murray,Oakland Raiders,
+Base Silver,125,Malcolm Butler,New England Patriots,
+Base Silver,126,Bo Jackson,Los Angeles Raiders,
+Base Silver,127,Cecil Shorts III,Houston Texans,
+Base Silver,128,Warren Moon,Houston Oilers,
+Base Silver,129,Cris Carter,Minnesota Vikings,
+Base Silver,130,Delanie Walker,Tennessee Titans,
+Base Silver,131,Jimmy Graham,Seattle Seahawks,
+Base Silver,132,Marshall Faulk,St. Louis Rams,
+Base Silver,133,Jason Pierre-Paul,New York Giants,
+Base Silver,134,Greg Jennings,Miami Dolphins,
+Base Silver,135,Mark Ingram,New Orleans Saints,
+Base Silver,136,Charles Woodson,Oakland Raiders,
+Base Silver,137,Robert Griffin III,Washington Redskins,
+Base Silver,138,Haloti Ngata ,Detroit Lions,
+Base Silver,139,Kurt Warner,St. Louis Rams,
+Base Silver,140,Riley Cooper,Philadelphia Eagles,
+Base Silver,141,Brandin Cooks,New Orleans Saints,
+Base Silver,142,Paul Posluszny,Jacksonville Jaguars,
+Base Silver,143,Justin Hunter,Tennessee Titans,
+Base Silver,144,Greg Olsen,Carolina Panthers,
+Base Silver,145,Jordy Nelson,Green Bay Packers,
+Base Silver,146,Barry Sanders,Detroit Lions,
+Base Silver,147,Allen Hurns,Jacksonville Jaguars,
+Base Silver,148,Markus Wheaton,Pittsburgh Steelers,
+Base Silver,149,Lavonte David,Tampa Bay Buccaneers,
+Base Silver,150,Vincent Jackson,Tampa Bay Buccaneers,
+Base Silver,151,Dwayne Bowe,Cleveland Browns,
+Base Silver,152,Sammy Watkins ,Buffalo Bills,
+Base Silver,153,Demaryius Thomas,Denver Broncos,
+Base Silver,154,Kirk Cousins,Washington Redskins,
+Base Silver,155,Roddy White,Atlanta Falcons,
+Base Silver,156,Chris Ivory,New York Jets,
+Base Silver,157,Tre Mason,St. Louis Rams,
+Base Silver,158,Austin Seferian-Jenkins,Tampa Bay Buccaneers,
+Base Silver,159,Ryan Mathews,Philadelphia Eagles,
+Base Silver,160,DeAndre Hopkins,Houston Texans,
+Base Silver,161,C.J. Mosley,Baltimore Ravens,
+Base Silver,162,Brian Hoyer,Houston Texans,
+Base Silver,163,Lamar Miller,Miami Dolphins,
+Base Silver,164,Julius Thomas,Jacksonville Jaguars,
+Base Silver,165,Shannon Sharpe,Denver Broncos,
+Base Silver,166,De'Anthony Thomas,Kansas City Chiefs,
+Base Silver,167,Julian Edelman,New England Patriots,
+Base Silver,168,Vernon Davis,San Francisco 49ers,
+Base Silver,169,Devin Hester,Atlanta Falcons,
+Base Silver,170,Michael Floyd,Arizona Cardinals,
+Base Silver,171,Julius Peppers,Green Bay Packers,
+Base Silver,172,T.Y. Hilton,Indianapolis Colts,
+Base Silver,173,Justin Forsett,Baltimore Ravens,
+Base Silver,174,Jeremy Maclin,Kansas City Chiefs,
+Base Silver,175,Branden Oliver,San Diego Chargers,
+Base Silver,176,Alshon Jeffery,Chicago Bears,
+Base Silver,177,Carlos Hyde,San Francisco 49ers,
+Base Silver,178,Denard Robinson,Jacksonville Jaguars,
+Base Silver,179,Marques Colston,New Orleans Saints,
+Base Silver,180,Anquan Boldin,San Francisco 49ers,
+Base Silver,181,Patrick Peterson,Arizona Cardinals,
+Base Silver,182,Donte Moncrief,Indianapolis Colts,
+Base Silver,183,Jamaal Charles,Kansas City Chiefs,
+Base Silver,184,Odell Beckham Jr.,New York Giants,
+Base Silver,185,Geno Smith,New York Jets,
+Base Silver,186,Teddy Bridgewater,Minnesota Vikings,
+Base Silver,187,Golden Tate,Detroit Lions,
+Base Silver,188,Eric Dickerson,Los Angeles Rams,
+Base Silver,189,Mario Williams,Buffalo Bills,
+Base Silver,190,Eric Decker,New York Jets,
+Base Silver,191,Jordan Matthews,Philadelphia Eagles,
+Base Silver,192,Doug Baldwin,Seattle Seahawks,
+Base Silver,193,Andre Johnson,Indianapolis Colts,
+Base Silver,194,Alex Smith,Kansas City Chiefs,
+Base Silver,195,Mike Evans,Tampa Bay Buccaneers,
+Base Silver,196,Derek Carr,Oakland Raiders,
+Base Silver,197,A.J. Green,Cincinnati Bengals,
+Base Silver,198,Marshawn Lynch,Seattle Seahawks,
+Base Silver,199,Andre Ellington,Arizona Cardinals,
+Base Silver,200,Terrell Suggs,Baltimore Ravens,
 Prizm Pairs,1,Jameis Winston - Marcus Mariota,Tampa Bay Buccaneers - Tennessee Titans,25
 Prizm Pairs,2,Melvin Gordon - Todd Gurley,San Diego Chargers - St. Louis Rams,99
 Prizm Pairs,3,Amari Cooper - T.J. Yeldon,Oakland Raiders - Jacksonville Jaguars,25
@@ -3104,16 +3104,16 @@ Rookie Photo Variations Gold Vinyl,270,Melvin Gordon,San Diego Chargers,5
 Rookie Photo Variations Gold Vinyl,272,Nelson Agholor,Philadelphia Eagles,5
 Rookie Photo Variations Gold Vinyl,276,Phillip Dorsett,Indianapolis Colts,5
 Rookie Photo Variations Gold Vinyl,291,Todd Gurley,St. Louis Rams,5
-Rookie Photo Variations Prizm,201,Amari Cooper,Oakland Raiders,
-Rookie Photo Variations Prizm,202,Ameer Abdullah,Detroit Lions,
-Rookie Photo Variations Prizm,228,DeVante Parker,Miami Dolphins,
-Rookie Photo Variations Prizm,244,Jameis Winston,Tampa Bay Buccaneers,
-Rookie Photo Variations Prizm,258,Kevin White,Chicago Bears,
-Rookie Photo Variations Prizm,264,Marcus Mariota,Tennessee Titans,
-Rookie Photo Variations Prizm,270,Melvin Gordon,San Diego Chargers,
-Rookie Photo Variations Prizm,272,Nelson Agholor,Philadelphia Eagles,
-Rookie Photo Variations Prizm,276,Phillip Dorsett,Indianapolis Colts,
-Rookie Photo Variations Prizm,291,Todd Gurley,St. Louis Rams,
+Rookie Photo Variations Silver,201,Amari Cooper,Oakland Raiders,
+Rookie Photo Variations Silver,202,Ameer Abdullah,Detroit Lions,
+Rookie Photo Variations Silver,228,DeVante Parker,Miami Dolphins,
+Rookie Photo Variations Silver,244,Jameis Winston,Tampa Bay Buccaneers,
+Rookie Photo Variations Silver,258,Kevin White,Chicago Bears,
+Rookie Photo Variations Silver,264,Marcus Mariota,Tennessee Titans,
+Rookie Photo Variations Silver,270,Melvin Gordon,San Diego Chargers,
+Rookie Photo Variations Silver,272,Nelson Agholor,Philadelphia Eagles,
+Rookie Photo Variations Silver,276,Phillip Dorsett,Indianapolis Colts,
+Rookie Photo Variations Silver,291,Todd Gurley,St. Louis Rams,
 Rookie Revolution,1,Jameis Winston,Tampa Bay Buccaneers,
 Rookie Revolution,2,Marcus Mariota,Tennessee Titans,
 Rookie Revolution,3,Amari Cooper,Oakland Raiders,
@@ -3174,21 +3174,21 @@ Rookie Revolution Gold Vinyl,12,Ty Montgomery,Green Bay Packers,5
 Rookie Revolution Gold Vinyl,13,Devin Smith,New York Jets,5
 Rookie Revolution Gold Vinyl,14,Ameer Abdullah,Detroit Lions,5
 Rookie Revolution Gold Vinyl,15,T.J. Yeldon,Jacksonville Jaguars,5
-Rookie Revolution Prizm,1,Jameis Winston,Tampa Bay Buccaneers,
-Rookie Revolution Prizm,2,Marcus Mariota,Tennessee Titans,
-Rookie Revolution Prizm,3,Amari Cooper,Oakland Raiders,
-Rookie Revolution Prizm,4,Kevin White,Chicago Bears,
-Rookie Revolution Prizm,5,Nelson Agholor,Philadelphia Eagles,
-Rookie Revolution Prizm,6,DeVante Parker,Miami Dolphins,
-Rookie Revolution Prizm,7,Melvin Gordon,San Diego Chargers,
-Rookie Revolution Prizm,8,Todd Gurley,St. Louis Rams,
-Rookie Revolution Prizm,9,Phillip Dorsett,Indianapolis Colts,
-Rookie Revolution Prizm,10,Breshad Perriman,Baltimore Ravens,
-Rookie Revolution Prizm,11,Tevin Coleman,Atlanta Falcons,
-Rookie Revolution Prizm,12,Ty Montgomery,Green Bay Packers,
-Rookie Revolution Prizm,13,Devin Smith,New York Jets,
-Rookie Revolution Prizm,14,Ameer Abdullah,Detroit Lions,
-Rookie Revolution Prizm,15,T.J. Yeldon,Jacksonville Jaguars,
+Rookie Revolution Silver,1,Jameis Winston,Tampa Bay Buccaneers,
+Rookie Revolution Silver,2,Marcus Mariota,Tennessee Titans,
+Rookie Revolution Silver,3,Amari Cooper,Oakland Raiders,
+Rookie Revolution Silver,4,Kevin White,Chicago Bears,
+Rookie Revolution Silver,5,Nelson Agholor,Philadelphia Eagles,
+Rookie Revolution Silver,6,DeVante Parker,Miami Dolphins,
+Rookie Revolution Silver,7,Melvin Gordon,San Diego Chargers,
+Rookie Revolution Silver,8,Todd Gurley,St. Louis Rams,
+Rookie Revolution Silver,9,Phillip Dorsett,Indianapolis Colts,
+Rookie Revolution Silver,10,Breshad Perriman,Baltimore Ravens,
+Rookie Revolution Silver,11,Tevin Coleman,Atlanta Falcons,
+Rookie Revolution Silver,12,Ty Montgomery,Green Bay Packers,
+Rookie Revolution Silver,13,Devin Smith,New York Jets,
+Rookie Revolution Silver,14,Ameer Abdullah,Detroit Lions,
+Rookie Revolution Silver,15,T.J. Yeldon,Jacksonville Jaguars,
 Rookie Signatures,1,Amari Cooper,Oakland Raiders,
 Rookie Signatures,2,Ameer Abdullah,Detroit Lions,
 Rookie Signatures,3,Antwan Goodley,Dallas Cowboys,
@@ -4062,103 +4062,103 @@ Rookie Signatures Mojo Red,97,Ty Montgomery,Green Bay Packers,99
 Rookie Signatures Mojo Red,98,Tyler Lockett,Seattle Seahawks,99
 Rookie Signatures Mojo Red,99,Vic Beasley Jr.,Atlanta Falcons,60
 Rookie Signatures Mojo Red,100,Vince Mayle,Cleveland Browns,99
-Rookie Signatures Prizm,1,Amari Cooper,Oakland Raiders,75
-Rookie Signatures Prizm,2,Ameer Abdullah,Detroit Lions,149
-Rookie Signatures Prizm,3,Antwan Goodley,Dallas Cowboys,249
-Rookie Signatures Prizm,4,Arik Armstead,San Francisco 49ers,250
-Rookie Signatures Prizm,5,Blake Bell,San Francisco 49ers,350
-Rookie Signatures Prizm,6,Ben Koyack,Jacksonville Jaguars,150
-Rookie Signatures Prizm,7,Benardrick McKinney,Houston Texans,249
-Rookie Signatures Prizm,8,Byron Jones,Dallas Cowboys,249
-Rookie Signatures Prizm,9,Breshad Perriman,Baltimore Ravens,60
-Rookie Signatures Prizm,10,Brett Hundley,Green Bay Packers,60
-Rookie Signatures Prizm,11,Bryan Bennett,Indianapolis Colts,40
-Rookie Signatures Prizm,12,Bryce Petty,New York Jets,35
-Rookie Signatures Prizm,13,Buck Allen,Baltimore Ravens,125
-Rookie Signatures Prizm,14,Bud Dupree,Pittsburgh Steelers,150
-Rookie Signatures Prizm,15,Cameron Artis-Payne,Carolina Panthers,125
-Rookie Signatures Prizm,16,Carl Davis,Baltimore Ravens,25
-Rookie Signatures Prizm,17,Chris Conley,Kansas City Chiefs,75
-Rookie Signatures Prizm,18,Clive Walford,Oakland Raiders,199
-Rookie Signatures Prizm,19,Danielle Hunter,Minnesota Vikings,300
-Rookie Signatures Prizm,20,Danny Shelton,Cleveland Browns,175
-Rookie Signatures Prizm,21,Dante Fowler Jr.,Jacksonville Jaguars,249
-Rookie Signatures Prizm,22,Darren Waller,Baltimore Ravens,25
-Rookie Signatures Prizm,23,DaVaris Daniels,Minnesota Vikings,125
-Rookie Signatures Prizm,24,David Cobb,Tennessee Titans,175
-Rookie Signatures Prizm,25,David Johnson,Arizona Cardinals,175
-Rookie Signatures Prizm,26,DeAndrew White,San Francisco 49ers,25
-Rookie Signatures Prizm,27,Denzel Perryman,San Diego Chargers,300
-Rookie Signatures Prizm,28,Deontay Greenberry,Seattle Seahawks,60
-Rookie Signatures Prizm,29,DeVante Parker,Miami Dolphins,125
-Rookie Signatures Prizm,30,Devin Funchess,Carolina Panthers,150
-Rookie Signatures Prizm,31,Devin Smith,New York Jets,125
-Rookie Signatures Prizm,32,Dezmin Lewis,Buffalo Bills,350
-Rookie Signatures Prizm,33,Dorial Green-Beckham,Tennessee Titans,199
-Rookie Signatures Prizm,34,Dres Anderson,San Francisco 49ers,350
-Rookie Signatures Prizm,35,Duke Johnson,Cleveland Browns,100
-Rookie Signatures Prizm,36,Eddie Goldman,Chicago Bears,300
-Rookie Signatures Prizm,37,Eli Harold,San Francisco 49ers,25
-Rookie Signatures Prizm,38,Eric Kendricks,Minnesota Vikings,300
-Rookie Signatures Prizm,39,Eric Rowe,Philadelphia Eagles,350
-Rookie Signatures Prizm,40,Garrett Grayson,New Orleans Saints,25
-Rookie Signatures Prizm,41,Marcus Murphy,New Orleans Saints,300
-Rookie Signatures Prizm,42,Jaelen Strong,Houston Texans,150
-Rookie Signatures Prizm,44,Jameis Winston,Tampa Bay Buccaneers,99
-Rookie Signatures Prizm,45,Jamison Crowder,Washington Redskins,300
-Rookie Signatures Prizm,46,Jay Ajayi,Miami Dolphins,150
-Rookie Signatures Prizm,47,Jeremy Langford,Chicago Bears,125
-Rookie Signatures Prizm,48,Jesse James,Pittsburgh Steelers,350
-Rookie Signatures Prizm,49,J.J. Nelson,Arizona Cardinals,350
-Rookie Signatures Prizm,50,Josh Harper,Oakland Raiders,350
-Rookie Signatures Prizm,51,Josh Robinson,Indianapolis Colts,300
-Rookie Signatures Prizm,52,Josh Shaw,Cincinnati Bengals,350
-Rookie Signatures Prizm,53,Justin Hardy,Atlanta Falcons,300
-Rookie Signatures Prizm,54,Karlos Williams,Buffalo Bills,300
-Rookie Signatures Prizm,55,Kenny Bell,Tampa Bay Buccaneers,350
-Rookie Signatures Prizm,56,Kevin Johnson,Houston Texans,350
-Rookie Signatures Prizm,57,Kevin White,Chicago Bears,99
-Rookie Signatures Prizm,58,Kwon Alexander,Tampa Bay Buccaneers,350
-Rookie Signatures Prizm,59,Landon Collins,New York Giants,125
-Rookie Signatures Prizm,61,Malcolm Brown,St. Louis Rams,199
-Rookie Signatures Prizm,62,Marcus Mariota,Tennessee Titans,125
-Rookie Signatures Prizm,63,Marcus Peters,Kansas City Chiefs,175
-Rookie Signatures Prizm,64,Mario Alford,Cincinnati Bengals,350
-Rookie Signatures Prizm,65,Mario Edwards Jr.,Oakland Raiders,149
-Rookie Signatures Prizm,66,Matt Jones,Washington Redskins,125
-Rookie Signatures Prizm,67,Maxx Williams,Baltimore Ravens,125
-Rookie Signatures Prizm,68,Melvin Gordon,San Diego Chargers,150
-Rookie Signatures Prizm,69,Mike Davis,San Francisco 49ers,125
-Rookie Signatures Prizm,70,Nelson Agholor,Philadelphia Eagles,100
-Rookie Signatures Prizm,71,Nick O'Leary,Buffalo Bills,350
-Rookie Signatures Prizm,72,Owamagbe Odighizuwa,New York Giants,350
-Rookie Signatures Prizm,73,P.J. Williams,New Orleans Saints,350
-Rookie Signatures Prizm,74,Paul Dawson,Cincinnati Bengals,199
-Rookie Signatures Prizm,75,Phillip Dorsett,Indianapolis Colts,350
-Rookie Signatures Prizm,77,Rannell Hall,Tampa Bay Buccaneers,125
-Rookie Signatures Prizm,78,Rashad Greene,Jacksonville Jaguars,125
-Rookie Signatures Prizm,79,Ronald Darby,Buffalo Bills,149
-Rookie Signatures Prizm,80,Sammie Coates,Pittsburgh Steelers,125
-Rookie Signatures Prizm,81,Sean Mannion,St. Louis Rams,25
-Rookie Signatures Prizm,82,Shane Carden,Chicago Bears,300
-Rookie Signatures Prizm,83,Shane Ray,Denver Broncos,300
-Rookie Signatures Prizm,84,Shaq Thompson,Carolina Panthers,249
-Rookie Signatures Prizm,85,Stefon Diggs,Minnesota Vikings,175
-Rookie Signatures Prizm,86,Stephone Anthony,New Orleans Saints,350
-Rookie Signatures Prizm,87,T.J. Yeldon,Jacksonville Jaguars,150
-Rookie Signatures Prizm,88,Taylor Heinicke,Minnesota Vikings,350
-Rookie Signatures Prizm,89,Tevin Coleman,Atlanta Falcons,100
-Rookie Signatures Prizm,90,Titus Davis,San Diego Chargers,350
-Rookie Signatures Prizm,91,Todd Gurley,St. Louis Rams,150
-Rookie Signatures Prizm,92,Tony Lippett,Miami Dolphins,175
-Rookie Signatures Prizm,93,Trae Waynes,Minnesota Vikings,125
-Rookie Signatures Prizm,94,Tre McBride,Tennessee Titans,350
-Rookie Signatures Prizm,95,Trey Flowers,New England Patriots,350
-Rookie Signatures Prizm,96,Trey Williams,Washington Redskins,300
-Rookie Signatures Prizm,97,Ty Montgomery,Green Bay Packers,175
-Rookie Signatures Prizm,98,Tyler Lockett,Seattle Seahawks,175
-Rookie Signatures Prizm,99,Vic Beasley Jr.,Atlanta Falcons,125
-Rookie Signatures Prizm,100,Vince Mayle,Cleveland Browns,300
+Rookie Signatures Silver,1,Amari Cooper,Oakland Raiders,75
+Rookie Signatures Silver,2,Ameer Abdullah,Detroit Lions,149
+Rookie Signatures Silver,3,Antwan Goodley,Dallas Cowboys,249
+Rookie Signatures Silver,4,Arik Armstead,San Francisco 49ers,250
+Rookie Signatures Silver,5,Blake Bell,San Francisco 49ers,350
+Rookie Signatures Silver,6,Ben Koyack,Jacksonville Jaguars,150
+Rookie Signatures Silver,7,Benardrick McKinney,Houston Texans,249
+Rookie Signatures Silver,8,Byron Jones,Dallas Cowboys,249
+Rookie Signatures Silver,9,Breshad Perriman,Baltimore Ravens,60
+Rookie Signatures Silver,10,Brett Hundley,Green Bay Packers,60
+Rookie Signatures Silver,11,Bryan Bennett,Indianapolis Colts,40
+Rookie Signatures Silver,12,Bryce Petty,New York Jets,35
+Rookie Signatures Silver,13,Buck Allen,Baltimore Ravens,125
+Rookie Signatures Silver,14,Bud Dupree,Pittsburgh Steelers,150
+Rookie Signatures Silver,15,Cameron Artis-Payne,Carolina Panthers,125
+Rookie Signatures Silver,16,Carl Davis,Baltimore Ravens,25
+Rookie Signatures Silver,17,Chris Conley,Kansas City Chiefs,75
+Rookie Signatures Silver,18,Clive Walford,Oakland Raiders,199
+Rookie Signatures Silver,19,Danielle Hunter,Minnesota Vikings,300
+Rookie Signatures Silver,20,Danny Shelton,Cleveland Browns,175
+Rookie Signatures Silver,21,Dante Fowler Jr.,Jacksonville Jaguars,249
+Rookie Signatures Silver,22,Darren Waller,Baltimore Ravens,25
+Rookie Signatures Silver,23,DaVaris Daniels,Minnesota Vikings,125
+Rookie Signatures Silver,24,David Cobb,Tennessee Titans,175
+Rookie Signatures Silver,25,David Johnson,Arizona Cardinals,175
+Rookie Signatures Silver,26,DeAndrew White,San Francisco 49ers,25
+Rookie Signatures Silver,27,Denzel Perryman,San Diego Chargers,300
+Rookie Signatures Silver,28,Deontay Greenberry,Seattle Seahawks,60
+Rookie Signatures Silver,29,DeVante Parker,Miami Dolphins,125
+Rookie Signatures Silver,30,Devin Funchess,Carolina Panthers,150
+Rookie Signatures Silver,31,Devin Smith,New York Jets,125
+Rookie Signatures Silver,32,Dezmin Lewis,Buffalo Bills,350
+Rookie Signatures Silver,33,Dorial Green-Beckham,Tennessee Titans,199
+Rookie Signatures Silver,34,Dres Anderson,San Francisco 49ers,350
+Rookie Signatures Silver,35,Duke Johnson,Cleveland Browns,100
+Rookie Signatures Silver,36,Eddie Goldman,Chicago Bears,300
+Rookie Signatures Silver,37,Eli Harold,San Francisco 49ers,25
+Rookie Signatures Silver,38,Eric Kendricks,Minnesota Vikings,300
+Rookie Signatures Silver,39,Eric Rowe,Philadelphia Eagles,350
+Rookie Signatures Silver,40,Garrett Grayson,New Orleans Saints,25
+Rookie Signatures Silver,41,Marcus Murphy,New Orleans Saints,300
+Rookie Signatures Silver,42,Jaelen Strong,Houston Texans,150
+Rookie Signatures Silver,44,Jameis Winston,Tampa Bay Buccaneers,99
+Rookie Signatures Silver,45,Jamison Crowder,Washington Redskins,300
+Rookie Signatures Silver,46,Jay Ajayi,Miami Dolphins,150
+Rookie Signatures Silver,47,Jeremy Langford,Chicago Bears,125
+Rookie Signatures Silver,48,Jesse James,Pittsburgh Steelers,350
+Rookie Signatures Silver,49,J.J. Nelson,Arizona Cardinals,350
+Rookie Signatures Silver,50,Josh Harper,Oakland Raiders,350
+Rookie Signatures Silver,51,Josh Robinson,Indianapolis Colts,300
+Rookie Signatures Silver,52,Josh Shaw,Cincinnati Bengals,350
+Rookie Signatures Silver,53,Justin Hardy,Atlanta Falcons,300
+Rookie Signatures Silver,54,Karlos Williams,Buffalo Bills,300
+Rookie Signatures Silver,55,Kenny Bell,Tampa Bay Buccaneers,350
+Rookie Signatures Silver,56,Kevin Johnson,Houston Texans,350
+Rookie Signatures Silver,57,Kevin White,Chicago Bears,99
+Rookie Signatures Silver,58,Kwon Alexander,Tampa Bay Buccaneers,350
+Rookie Signatures Silver,59,Landon Collins,New York Giants,125
+Rookie Signatures Silver,61,Malcolm Brown,St. Louis Rams,199
+Rookie Signatures Silver,62,Marcus Mariota,Tennessee Titans,125
+Rookie Signatures Silver,63,Marcus Peters,Kansas City Chiefs,175
+Rookie Signatures Silver,64,Mario Alford,Cincinnati Bengals,350
+Rookie Signatures Silver,65,Mario Edwards Jr.,Oakland Raiders,149
+Rookie Signatures Silver,66,Matt Jones,Washington Redskins,125
+Rookie Signatures Silver,67,Maxx Williams,Baltimore Ravens,125
+Rookie Signatures Silver,68,Melvin Gordon,San Diego Chargers,150
+Rookie Signatures Silver,69,Mike Davis,San Francisco 49ers,125
+Rookie Signatures Silver,70,Nelson Agholor,Philadelphia Eagles,100
+Rookie Signatures Silver,71,Nick O'Leary,Buffalo Bills,350
+Rookie Signatures Silver,72,Owamagbe Odighizuwa,New York Giants,350
+Rookie Signatures Silver,73,P.J. Williams,New Orleans Saints,350
+Rookie Signatures Silver,74,Paul Dawson,Cincinnati Bengals,199
+Rookie Signatures Silver,75,Phillip Dorsett,Indianapolis Colts,350
+Rookie Signatures Silver,77,Rannell Hall,Tampa Bay Buccaneers,125
+Rookie Signatures Silver,78,Rashad Greene,Jacksonville Jaguars,125
+Rookie Signatures Silver,79,Ronald Darby,Buffalo Bills,149
+Rookie Signatures Silver,80,Sammie Coates,Pittsburgh Steelers,125
+Rookie Signatures Silver,81,Sean Mannion,St. Louis Rams,25
+Rookie Signatures Silver,82,Shane Carden,Chicago Bears,300
+Rookie Signatures Silver,83,Shane Ray,Denver Broncos,300
+Rookie Signatures Silver,84,Shaq Thompson,Carolina Panthers,249
+Rookie Signatures Silver,85,Stefon Diggs,Minnesota Vikings,175
+Rookie Signatures Silver,86,Stephone Anthony,New Orleans Saints,350
+Rookie Signatures Silver,87,T.J. Yeldon,Jacksonville Jaguars,150
+Rookie Signatures Silver,88,Taylor Heinicke,Minnesota Vikings,350
+Rookie Signatures Silver,89,Tevin Coleman,Atlanta Falcons,100
+Rookie Signatures Silver,90,Titus Davis,San Diego Chargers,350
+Rookie Signatures Silver,91,Todd Gurley,St. Louis Rams,150
+Rookie Signatures Silver,92,Tony Lippett,Miami Dolphins,175
+Rookie Signatures Silver,93,Trae Waynes,Minnesota Vikings,125
+Rookie Signatures Silver,94,Tre McBride,Tennessee Titans,350
+Rookie Signatures Silver,95,Trey Flowers,New England Patriots,350
+Rookie Signatures Silver,96,Trey Williams,Washington Redskins,300
+Rookie Signatures Silver,97,Ty Montgomery,Green Bay Packers,175
+Rookie Signatures Silver,98,Tyler Lockett,Seattle Seahawks,175
+Rookie Signatures Silver,99,Vic Beasley Jr.,Atlanta Falcons,125
+Rookie Signatures Silver,100,Vince Mayle,Cleveland Browns,300
 Rookie Signatures Red,2,Ameer Abdullah,Detroit Lions,75
 Rookie Signatures Red,3,Antwan Goodley,Dallas Cowboys,199
 Rookie Signatures Red,4,Arik Armstead,San Francisco 49ers,200
@@ -5551,106 +5551,106 @@ Rookies Mojo Red,297,Ty Montgomery,Green Bay Packers,99
 Rookies Mojo Red,298,Tyler Lockett,Seattle Seahawks,99
 Rookies Mojo Red,299,Vic Beasley Jr.,Atlanta Falcons,99
 Rookies Mojo Red,300,Vince Mayle,Cleveland Browns,99
-Rookies Prizm,201,Amari Cooper,Oakland Raiders,
-Rookies Prizm,202,Ameer Abdullah,Detroit Lions,
-Rookies Prizm,203,Antwan Goodley,Dallas Cowboys,
-Rookies Prizm,204,Arik Armstead,San Francisco 49ers,
-Rookies Prizm,205,Ben Koyack,Jacksonville Jaguars,
-Rookies Prizm,206,Benardrick McKinney,Houston Texans,
-Rookies Prizm,207,Blake Bell,San Francisco 49ers,
-Rookies Prizm,208,Byron Jones,Dallas Cowboys,
-Rookies Prizm,209,Breshad Perriman,Baltimore Ravens,
-Rookies Prizm,210,Brett Hundley,Green Bay Packers,
-Rookies Prizm,211,Bryan Bennett,Indianapolis Colts,
-Rookies Prizm,212,Bryce Petty,New York Jets,
-Rookies Prizm,213,Bud Dupree,Pittsburgh Steelers,
-Rookies Prizm,214,Cameron Artis-Payne,Carolina Panthers,
-Rookies Prizm,215,Carl Davis,Baltimore Ravens,
-Rookies Prizm,216,Chris Conley,Kansas City Chiefs,
-Rookies Prizm,217,Clive Walford,Oakland Raiders,
-Rookies Prizm,218,Danielle Hunter,Minnesota Vikings,
-Rookies Prizm,219,Danny Shelton,Cleveland Browns,
-Rookies Prizm,220,Dante Fowler Jr.,Jacksonville Jaguars,
-Rookies Prizm,221,Darren Waller,Baltimore Ravens,
-Rookies Prizm,222,DaVaris Daniels,Minnesota Vikings,
-Rookies Prizm,223,David Cobb,Tennessee Titans,
-Rookies Prizm,224,David Johnson,Arizona Cardinals,
-Rookies Prizm,225,DeAndrew White,San Francisco 49ers,
-Rookies Prizm,226,Denzel Perryman,San Diego Chargers,
-Rookies Prizm,227,Duron Carter,Indianapolis Colts,
-Rookies Prizm,228,DeVante Parker,Miami Dolphins,
-Rookies Prizm,229,Devin Funchess,Carolina Panthers,
-Rookies Prizm,230,Devin Smith,New York Jets,
-Rookies Prizm,231,Dezmin Lewis,Buffalo Bills,
-Rookies Prizm,232,Dorial Green-Beckham,Tennessee Titans,
-Rookies Prizm,233,Jarryd Hayne,San Francisco 49ers,
-Rookies Prizm,234,Duke Johnson,Cleveland Browns,
-Rookies Prizm,235,Eddie Goldman,Chicago Bears,
-Rookies Prizm,236,Eli Harold,San Francisco 49ers,
-Rookies Prizm,237,Eric Kendricks,Minnesota Vikings,
-Rookies Prizm,238,Eric Rowe,Philadelphia Eagles,
-Rookies Prizm,239,Garrett Grayson,New Orleans Saints,
-Rookies Prizm,240,Jordan Taylor,Denver Broncos,
-Rookies Prizm,241,Jaelen Strong,Houston Texans,
-Rookies Prizm,242,Jalston Fowler,Tennessee Titans,
-Rookies Prizm,243,Jalen Collins,Atlanta Falcons,
-Rookies Prizm,244,Jameis Winston,Tampa Bay Buccaneers,
-Rookies Prizm,245,Jamison Crowder,Washington Redskins,
-Rookies Prizm,246,Buck Allen,Baltimore Ravens,
-Rookies Prizm,247,Jay Ajayi,Miami Dolphins,
-Rookies Prizm,248,Jeremy Langford,Chicago Bears,
-Rookies Prizm,249,Jesse James,Pittsburgh Steelers,
-Rookies Prizm,250,J.J. Nelson,Arizona Cardinals,
-Rookies Prizm,251,Josh Harper,Oakland Raiders,
-Rookies Prizm,252,Josh Robinson,Indianapolis Colts,
-Rookies Prizm,253,Josh Shaw,Cincinnati Bengals,
-Rookies Prizm,254,Justin Hardy,Atlanta Falcons,
-Rookies Prizm,255,Karlos Williams,Buffalo Bills,
-Rookies Prizm,256,Kenny Bell,Tampa Bay Buccaneers,
-Rookies Prizm,257,Kevin Johnson,Houston Texans,
-Rookies Prizm,258,Kevin White,Chicago Bears,
-Rookies Prizm,259,Kwon Alexander,Tampa Bay Buccaneers,
-Rookies Prizm,260,Landon Collins,New York Giants,
-Rookies Prizm,261,Leonard Williams,New York Jets,
-Rookies Prizm,262,Malcolm Brown,St. Louis Rams,
-Rookies Prizm,263,Malcom Brown,New England Patriots,
-Rookies Prizm,264,Marcus Mariota,Tennessee Titans,
-Rookies Prizm,265,Marcus Peters,Kansas City Chiefs,
-Rookies Prizm,266,Mario Alford,Cincinnati Bengals,
-Rookies Prizm,267,Mike Davis,San Francisco 49ers,
-Rookies Prizm,268,Matt Jones,Washington Redskins,
-Rookies Prizm,269,Maxx Williams,Baltimore Ravens,
-Rookies Prizm,270,Melvin Gordon,San Diego Chargers,
-Rookies Prizm,271,Michael Dyer,Oakland Raiders,
-Rookies Prizm,272,Nelson Agholor,Philadelphia Eagles,
-Rookies Prizm,273,Nick O'Leary,Buffalo Bills,
-Rookies Prizm,274,Owamagbe Odighizuwa,New York Giants,
-Rookies Prizm,275,P.J. Williams,New Orleans Saints,
-Rookies Prizm,276,Phillip Dorsett,Indianapolis Colts,
-Rookies Prizm,277,Randy Gregory,Dallas Cowboys,
-Rookies Prizm,278,Rashad Greene,Jacksonville Jaguars,
-Rookies Prizm,279,Ronald Darby,Buffalo Bills,
-Rookies Prizm,280,Sammie Coates,Pittsburgh Steelers,
-Rookies Prizm,281,Sean Mannion,St. Louis Rams,
-Rookies Prizm,282,Shane Carden,Chicago Bears,
-Rookies Prizm,283,Shane Ray,Denver Broncos,
-Rookies Prizm,284,Shaq Thompson,Carolina Panthers,
-Rookies Prizm,285,Stefon Diggs,Minnesota Vikings,
-Rookies Prizm,286,Stephone Anthony,New Orleans Saints,
-Rookies Prizm,287,T.J. Yeldon,Jacksonville Jaguars,
-Rookies Prizm,288,Taylor Heinicke,Minnesota Vikings,
-Rookies Prizm,289,Tevin Coleman,Atlanta Falcons,
-Rookies Prizm,290,Jahwan Edwards,San Diego Chargers,
-Rookies Prizm,291,Todd Gurley,St. Louis Rams,
-Rookies Prizm,292,Tony Lippett,Miami Dolphins,
-Rookies Prizm,293,Trae Waynes,Minnesota Vikings,
-Rookies Prizm,294,Tre McBride,Tennessee Titans,
-Rookies Prizm,295,Trey Flowers,New England Patriots,
-Rookies Prizm,296,Trey Williams,Washington Redskins,
-Rookies Prizm,297,Ty Montgomery,Green Bay Packers,
-Rookies Prizm,298,Tyler Lockett,Seattle Seahawks,
-Rookies Prizm,299,Vic Beasley Jr.,Atlanta Falcons,
-Rookies Prizm,300,Vince Mayle,Cleveland Browns,
+Rookies Silver,201,Amari Cooper,Oakland Raiders,
+Rookies Silver,202,Ameer Abdullah,Detroit Lions,
+Rookies Silver,203,Antwan Goodley,Dallas Cowboys,
+Rookies Silver,204,Arik Armstead,San Francisco 49ers,
+Rookies Silver,205,Ben Koyack,Jacksonville Jaguars,
+Rookies Silver,206,Benardrick McKinney,Houston Texans,
+Rookies Silver,207,Blake Bell,San Francisco 49ers,
+Rookies Silver,208,Byron Jones,Dallas Cowboys,
+Rookies Silver,209,Breshad Perriman,Baltimore Ravens,
+Rookies Silver,210,Brett Hundley,Green Bay Packers,
+Rookies Silver,211,Bryan Bennett,Indianapolis Colts,
+Rookies Silver,212,Bryce Petty,New York Jets,
+Rookies Silver,213,Bud Dupree,Pittsburgh Steelers,
+Rookies Silver,214,Cameron Artis-Payne,Carolina Panthers,
+Rookies Silver,215,Carl Davis,Baltimore Ravens,
+Rookies Silver,216,Chris Conley,Kansas City Chiefs,
+Rookies Silver,217,Clive Walford,Oakland Raiders,
+Rookies Silver,218,Danielle Hunter,Minnesota Vikings,
+Rookies Silver,219,Danny Shelton,Cleveland Browns,
+Rookies Silver,220,Dante Fowler Jr.,Jacksonville Jaguars,
+Rookies Silver,221,Darren Waller,Baltimore Ravens,
+Rookies Silver,222,DaVaris Daniels,Minnesota Vikings,
+Rookies Silver,223,David Cobb,Tennessee Titans,
+Rookies Silver,224,David Johnson,Arizona Cardinals,
+Rookies Silver,225,DeAndrew White,San Francisco 49ers,
+Rookies Silver,226,Denzel Perryman,San Diego Chargers,
+Rookies Silver,227,Duron Carter,Indianapolis Colts,
+Rookies Silver,228,DeVante Parker,Miami Dolphins,
+Rookies Silver,229,Devin Funchess,Carolina Panthers,
+Rookies Silver,230,Devin Smith,New York Jets,
+Rookies Silver,231,Dezmin Lewis,Buffalo Bills,
+Rookies Silver,232,Dorial Green-Beckham,Tennessee Titans,
+Rookies Silver,233,Jarryd Hayne,San Francisco 49ers,
+Rookies Silver,234,Duke Johnson,Cleveland Browns,
+Rookies Silver,235,Eddie Goldman,Chicago Bears,
+Rookies Silver,236,Eli Harold,San Francisco 49ers,
+Rookies Silver,237,Eric Kendricks,Minnesota Vikings,
+Rookies Silver,238,Eric Rowe,Philadelphia Eagles,
+Rookies Silver,239,Garrett Grayson,New Orleans Saints,
+Rookies Silver,240,Jordan Taylor,Denver Broncos,
+Rookies Silver,241,Jaelen Strong,Houston Texans,
+Rookies Silver,242,Jalston Fowler,Tennessee Titans,
+Rookies Silver,243,Jalen Collins,Atlanta Falcons,
+Rookies Silver,244,Jameis Winston,Tampa Bay Buccaneers,
+Rookies Silver,245,Jamison Crowder,Washington Redskins,
+Rookies Silver,246,Buck Allen,Baltimore Ravens,
+Rookies Silver,247,Jay Ajayi,Miami Dolphins,
+Rookies Silver,248,Jeremy Langford,Chicago Bears,
+Rookies Silver,249,Jesse James,Pittsburgh Steelers,
+Rookies Silver,250,J.J. Nelson,Arizona Cardinals,
+Rookies Silver,251,Josh Harper,Oakland Raiders,
+Rookies Silver,252,Josh Robinson,Indianapolis Colts,
+Rookies Silver,253,Josh Shaw,Cincinnati Bengals,
+Rookies Silver,254,Justin Hardy,Atlanta Falcons,
+Rookies Silver,255,Karlos Williams,Buffalo Bills,
+Rookies Silver,256,Kenny Bell,Tampa Bay Buccaneers,
+Rookies Silver,257,Kevin Johnson,Houston Texans,
+Rookies Silver,258,Kevin White,Chicago Bears,
+Rookies Silver,259,Kwon Alexander,Tampa Bay Buccaneers,
+Rookies Silver,260,Landon Collins,New York Giants,
+Rookies Silver,261,Leonard Williams,New York Jets,
+Rookies Silver,262,Malcolm Brown,St. Louis Rams,
+Rookies Silver,263,Malcom Brown,New England Patriots,
+Rookies Silver,264,Marcus Mariota,Tennessee Titans,
+Rookies Silver,265,Marcus Peters,Kansas City Chiefs,
+Rookies Silver,266,Mario Alford,Cincinnati Bengals,
+Rookies Silver,267,Mike Davis,San Francisco 49ers,
+Rookies Silver,268,Matt Jones,Washington Redskins,
+Rookies Silver,269,Maxx Williams,Baltimore Ravens,
+Rookies Silver,270,Melvin Gordon,San Diego Chargers,
+Rookies Silver,271,Michael Dyer,Oakland Raiders,
+Rookies Silver,272,Nelson Agholor,Philadelphia Eagles,
+Rookies Silver,273,Nick O'Leary,Buffalo Bills,
+Rookies Silver,274,Owamagbe Odighizuwa,New York Giants,
+Rookies Silver,275,P.J. Williams,New Orleans Saints,
+Rookies Silver,276,Phillip Dorsett,Indianapolis Colts,
+Rookies Silver,277,Randy Gregory,Dallas Cowboys,
+Rookies Silver,278,Rashad Greene,Jacksonville Jaguars,
+Rookies Silver,279,Ronald Darby,Buffalo Bills,
+Rookies Silver,280,Sammie Coates,Pittsburgh Steelers,
+Rookies Silver,281,Sean Mannion,St. Louis Rams,
+Rookies Silver,282,Shane Carden,Chicago Bears,
+Rookies Silver,283,Shane Ray,Denver Broncos,
+Rookies Silver,284,Shaq Thompson,Carolina Panthers,
+Rookies Silver,285,Stefon Diggs,Minnesota Vikings,
+Rookies Silver,286,Stephone Anthony,New Orleans Saints,
+Rookies Silver,287,T.J. Yeldon,Jacksonville Jaguars,
+Rookies Silver,288,Taylor Heinicke,Minnesota Vikings,
+Rookies Silver,289,Tevin Coleman,Atlanta Falcons,
+Rookies Silver,290,Jahwan Edwards,San Diego Chargers,
+Rookies Silver,291,Todd Gurley,St. Louis Rams,
+Rookies Silver,292,Tony Lippett,Miami Dolphins,
+Rookies Silver,293,Trae Waynes,Minnesota Vikings,
+Rookies Silver,294,Tre McBride,Tennessee Titans,
+Rookies Silver,295,Trey Flowers,New England Patriots,
+Rookies Silver,296,Trey Williams,Washington Redskins,
+Rookies Silver,297,Ty Montgomery,Green Bay Packers,
+Rookies Silver,298,Tyler Lockett,Seattle Seahawks,
+Rookies Silver,299,Vic Beasley Jr.,Atlanta Falcons,
+Rookies Silver,300,Vince Mayle,Cleveland Browns,
 Rookies Red,201,Amari Cooper,Oakland Raiders,
 Rookies Red,202,Ameer Abdullah,Detroit Lions,
 Rookies Red,203,Antwan Goodley,Dallas Cowboys,
