@@ -1399,20 +1399,6 @@ Donruss Threads Prime,17,Sammy Watkins ,Buffalo Bills,25
 Donruss Threads Prime,18,Stefon Diggs,Minnesota Vikings,25
 Donruss Threads Prime,19,T.J. Yeldon,Jacksonville Jaguars,25
 Donruss Threads Prime,20,Von Miller,Denver Broncos,25
-Fans of the Game,1,Daisy Ridley,No Team,
-Fans of the Game,2,Al Pacino,No Team,
-Fans of the Game,3,Megan Fox,No Team,
-Fans of the Game,4,Skylar Astin,No Team,
-Fans of the Game,5,Daniella Monet,No Team,
-Fans of the Game,6,Marisa Miller,No Team,
-Fans of the Game,7,Darryl McDaniels,No Team,
-Fans of the Game Autograph Gold Vinyl,1,Daisy Ridley,No Team,1
-Fans of the Game Autograph Gold Vinyl,2,Al Pacino,No Team,1
-Fans of the Game Autograph Gold Vinyl,3,Megan Fox,No Team,1
-Fans of the Game Autograph Gold Vinyl,4,Skylar Astin,No Team,1
-Fans of the Game Autograph Gold Vinyl,5,Daniella Monet,No Team,1
-Fans of the Game Autograph Gold Vinyl,6,Marisa Miller,No Team,1
-Fans of the Game Autograph Gold Vinyl,7,Darryl McDaniels,No Team,1
 Fans of the Game Autographs,1,Daisy Ridley,No Team,5
 Fans of the Game Autographs,2,Al Pacino,No Team,5
 Fans of the Game Autographs,3,Megan Fox,No Team,5
@@ -1420,6 +1406,20 @@ Fans of the Game Autographs,4,Skylar Astin,No Team,5
 Fans of the Game Autographs,5,Daniella Monet,No Team,5
 Fans of the Game Autographs,6,Marisa Miller,No Team,5
 Fans of the Game Autographs,7,Darryl McDaniels,No Team,5
+Fans of the Game Autographs Gold Vinyl,1,Daisy Ridley,No Team,1
+Fans of the Game Autographs Gold Vinyl,2,Al Pacino,No Team,1
+Fans of the Game Autographs Gold Vinyl,3,Megan Fox,No Team,1
+Fans of the Game Autographs Gold Vinyl,4,Skylar Astin,No Team,1
+Fans of the Game Autographs Gold Vinyl,5,Daniella Monet,No Team,1
+Fans of the Game Autographs Gold Vinyl,6,Marisa Miller,No Team,1
+Fans of the Game Autographs Gold Vinyl,7,Darryl McDaniels,No Team,1
+Fans of the Game,1,Daisy Ridley,No Team,
+Fans of the Game,2,Al Pacino,No Team,
+Fans of the Game,3,Megan Fox,No Team,
+Fans of the Game,4,Skylar Astin,No Team,
+Fans of the Game,5,Daniella Monet,No Team,
+Fans of the Game,6,Marisa Miller,No Team,
+Fans of the Game,7,Darryl McDaniels,No Team,
 Fans of the Game Blue,1,Daisy Ridley,No Team,149
 Fans of the Game Blue,2,Al Pacino,No Team,149
 Fans of the Game Blue,3,Megan Fox,No Team,149
@@ -3388,26 +3388,26 @@ Rated Rookies Red and Yellow,197,Tyler Boyd,Cincinnati Bengals,
 Rated Rookies Red and Yellow,198,Tyler Ervin,Houston Texans,
 Rated Rookies Red and Yellow,199,Wendell Smallwood,Philadelphia Eagles,
 Rated Rookies Red and Yellow,200,Will Fuller V,Houston Texans,
-Rookie Dual Autograph,1,Carson Wentz - Jared Goff,Philadelphia Eagles - Los Angeles Rams,20
-Rookie Dual Autograph,2,Derrick Henry - Ezekiel Elliott,Tennessee Titans - Dallas Cowboys,20
-Rookie Dual Autograph,3,Devontae Booker - Paxton Lynch,Denver Broncos - Denver Broncos,20
-Rookie Dual Autograph,4,Cardale Jones - Christian Hackenberg,Buffalo Bills - New York Jets,20
-Rookie Dual Autograph,5,Braxton Miller - Will Fuller V,Houston Texans - Houston Texans,20
-Rookie Dual Autograph,6,Alex Collins - C.J. Prosise,Seattle Seahawks - Seattle Seahawks,20
-Rookie Dual Autograph,7,Josh Doctson - Laquon Treadwell,Washington Redskins - Minnesota Vikings,20
-Rookie Dual Autograph,8,Carson Wentz - Dak Prescott,Philadelphia Eagles - Dallas Cowboys,20
-Rookie Dual Autograph,9,Paul Perkins - Sterling Shepard,New York Giants - New York Giants,20
-Rookie Dual Autograph,10,Cody Kessler - Corey Coleman,Cleveland Browns - Cleveland Browns,20
-Rookie Dual Autograph Gold Vinyl,1,Carson Wentz - Jared Goff,Philadelphia Eagles - Los Angeles Rams,1
-Rookie Dual Autograph Gold Vinyl,2,Ezekiel Elliott - Derrick Henry,Dallas Cowboys - Tennessee Titans,1
-Rookie Dual Autograph Gold Vinyl,3,Devontae Booker - Paxton Lynch,Denver Broncos - Denver Broncos,1
-Rookie Dual Autograph Gold Vinyl,4,Cardale Jones - Christian Hackenberg,Buffalo Bills - New York Jets,1
-Rookie Dual Autograph Gold Vinyl,5,Braxton Miller - Will Fuller V,Houston Texans - Houston Texans,1
-Rookie Dual Autograph Gold Vinyl,6,Alex Collins - C.J. Prosise,Seattle Seahawks - Seattle Seahawks,1
-Rookie Dual Autograph Gold Vinyl,7,Laquon Treadwell - Josh Doctson,Minnesota Vikings - Washington Redskins,1
-Rookie Dual Autograph Gold Vinyl,8,Dak Prescott - Carson Wentz,Dallas Cowboys - Philadelphia Eagles,1
-Rookie Dual Autograph Gold Vinyl,9,Paul Perkins - Sterling Shepard,New York Giants - New York Giants,1
-Rookie Dual Autograph Gold Vinyl,10,Cody Kessler - Corey Coleman,Cleveland Browns - Cleveland Browns,1
+Rookie Dual Autographs,1,Carson Wentz - Jared Goff,Philadelphia Eagles - Los Angeles Rams,20
+Rookie Dual Autographs,2,Derrick Henry - Ezekiel Elliott,Tennessee Titans - Dallas Cowboys,20
+Rookie Dual Autographs,3,Devontae Booker - Paxton Lynch,Denver Broncos - Denver Broncos,20
+Rookie Dual Autographs,4,Cardale Jones - Christian Hackenberg,Buffalo Bills - New York Jets,20
+Rookie Dual Autographs,5,Braxton Miller - Will Fuller V,Houston Texans - Houston Texans,20
+Rookie Dual Autographs,6,Alex Collins - C.J. Prosise,Seattle Seahawks - Seattle Seahawks,20
+Rookie Dual Autographs,7,Josh Doctson - Laquon Treadwell,Washington Redskins - Minnesota Vikings,20
+Rookie Dual Autographs,8,Carson Wentz - Dak Prescott,Philadelphia Eagles - Dallas Cowboys,20
+Rookie Dual Autographs,9,Paul Perkins - Sterling Shepard,New York Giants - New York Giants,20
+Rookie Dual Autographs,10,Cody Kessler - Corey Coleman,Cleveland Browns - Cleveland Browns,20
+Rookie Dual Autographs Gold Vinyl,1,Carson Wentz - Jared Goff,Philadelphia Eagles - Los Angeles Rams,1
+Rookie Dual Autographs Gold Vinyl,2,Ezekiel Elliott - Derrick Henry,Dallas Cowboys - Tennessee Titans,1
+Rookie Dual Autographs Gold Vinyl,3,Devontae Booker - Paxton Lynch,Denver Broncos - Denver Broncos,1
+Rookie Dual Autographs Gold Vinyl,4,Cardale Jones - Christian Hackenberg,Buffalo Bills - New York Jets,1
+Rookie Dual Autographs Gold Vinyl,5,Braxton Miller - Will Fuller V,Houston Texans - Houston Texans,1
+Rookie Dual Autographs Gold Vinyl,6,Alex Collins - C.J. Prosise,Seattle Seahawks - Seattle Seahawks,1
+Rookie Dual Autographs Gold Vinyl,7,Laquon Treadwell - Josh Doctson,Minnesota Vikings - Washington Redskins,1
+Rookie Dual Autographs Gold Vinyl,8,Dak Prescott - Carson Wentz,Dallas Cowboys - Philadelphia Eagles,1
+Rookie Dual Autographs Gold Vinyl,9,Paul Perkins - Sterling Shepard,New York Giants - New York Giants,1
+Rookie Dual Autographs Gold Vinyl,10,Cody Kessler - Corey Coleman,Cleveland Browns - Cleveland Browns,1
 Rookie Patch Autograph,1,Alex Collins,Seattle Seahawks,20
 Rookie Patch Autograph,2,Braxton Miller,Houston Texans,20
 Rookie Patch Autograph,3,C.J. Prosise,Seattle Seahawks,20
