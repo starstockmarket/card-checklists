@@ -1,8 +1,8 @@
 Card Set,Number,Player,Team,Seq.
 All-Decade Materials,1,Wilt Chamberlain,Los Angeles Lakers,15
-All-Decade Materials,2,Artis Gilmore,Kentucky Colonels (ABA),49
+All-Decade Materials,2,Artis Gilmore,Kentucky Colonels,49
 All-Decade Materials,3,John Havlicek,Boston Celtics,99
-All-Decade Materials,4,Dan Issel,Kentucky Colonels (ABA),49
+All-Decade Materials,4,Dan Issel,Kentucky Colonels,49
 All-Decade Materials,5,Julius Erving,Philadelphia 76ers,25
 All-Decade Materials,6,Larry Bird,Boston Celtics,25
 All-Decade Materials,7,Magic Johnson,Los Angeles Lakers,99
@@ -20,9 +20,9 @@ All-Decade Materials,18,Kobe Bryant,Los Angeles Lakers,99
 All-Decade Materials,19,Tim Duncan,San Antonio Spurs,99
 All-Decade Materials,20,Dirk Nowitzki,Dallas Mavericks,99
 All-Decade Materials Prime,1,Wilt Chamberlain,Los Angeles Lakers,10
-All-Decade Materials Prime,2,Artis Gilmore,Kentucky Colonels (ABA),10
+All-Decade Materials Prime,2,Artis Gilmore,Kentucky Colonels,10
 All-Decade Materials Prime,3,John Havlicek,Boston Celtics,10
-All-Decade Materials Prime,4,Dan Issel,Kentucky Colonels (ABA),10
+All-Decade Materials Prime,4,Dan Issel,Kentucky Colonels,10
 All-Decade Materials Prime,5,Julius Erving,Philadelphia 76ers,5
 All-Decade Materials Prime,6,Larry Bird,Boston Celtics,10
 All-Decade Materials Prime,7,Magic Johnson,Los Angeles Lakers,5
@@ -40,9 +40,9 @@ All-Decade Materials Prime,18,Kobe Bryant,Los Angeles Lakers,10
 All-Decade Materials Prime,19,Tim Duncan,San Antonio Spurs,10
 All-Decade Materials Prime,20,Dirk Nowitzki,Dallas Mavericks,10
 All-Decade Materials Super Prime,1,Wilt Chamberlain,Los Angeles Lakers,1
-All-Decade Materials Super Prime,2,Artis Gilmore,Kentucky Colonels (ABA),1
+All-Decade Materials Super Prime,2,Artis Gilmore,Kentucky Colonels,1
 All-Decade Materials Super Prime,3,John Havlicek,Boston Celtics,1
-All-Decade Materials Super Prime,4,Dan Issel,Kentucky Colonels (ABA),1
+All-Decade Materials Super Prime,4,Dan Issel,Kentucky Colonels,1
 All-Decade Materials Super Prime,5,Julius Erving,Philadelphia 76ers,1
 All-Decade Materials Super Prime,6,Larry Bird,Boston Celtics,1
 All-Decade Materials Super Prime,7,Magic Johnson,Los Angeles Lakers,1
@@ -129,7 +129,7 @@ All-Decade Memorabilia Signatures Platinum,17,Mitch Richmond,Golden State Warrio
 All-Decade Memorabilia Signatures Platinum,18,Jamaal Wilkes,Los Angeles Lakers,1
 All-Decade Memorabilia Signatures Platinum,19,Detlef Schrempf,Seattle Supersonics,1
 All-Decade Memorabilia Signatures Platinum,20,Jack Sikma,Milwaukee Bucks,1
-All-Decade Signatures,1,Artis Gilmore,Kentucky Colonels (ABA),49
+All-Decade Signatures,1,Artis Gilmore,Kentucky Colonels,49
 All-Decade Signatures,2,Bernard King,New York Knicks,49
 All-Decade Signatures,3,Clyde Drexler,Portland Trail Blazers,25
 All-Decade Signatures,4,Dennis Rodman,Chicago Bulls,25
@@ -149,14 +149,14 @@ All-Decade Signatures,17,Dirk Nowitzki,Dallas Mavericks,25
 All-Decade Signatures,18,Giannis Antetokounmpo,Milwaukee Bucks,25
 All-Decade Signatures,19,Anthony Davis,New Orleans Pelicans,25
 All-Decade Signatures,20,Kyrie Irving,Boston Celtics,25
-All-Decade Signatures Bronze,1,Artis Gilmore,Kentucky Colonels (ABA),25
+All-Decade Signatures Bronze,1,Artis Gilmore,Kentucky Colonels,25
 All-Decade Signatures Bronze,2,Bernard King,New York Knicks,25
 All-Decade Signatures Bronze,6,George McGinnis,Indiana Pacers,25
 All-Decade Signatures Bronze,8,Jo Jo White,Boston Celtics,25
 All-Decade Signatures Bronze,12,Shawn Kemp,Seattle Supersonics,25
 All-Decade Signatures Bronze,13,Walt Frazier,New York Knicks,25
 All-Decade Signatures Bronze,14,Willis Reed,New York Knicks,25
-All-Decade Signatures Gold,1,Artis Gilmore,Kentucky Colonels (ABA),10
+All-Decade Signatures Gold,1,Artis Gilmore,Kentucky Colonels,10
 All-Decade Signatures Gold,2,Bernard King,New York Knicks,10
 All-Decade Signatures Gold,3,Clyde Drexler,Portland Trail Blazers,10
 All-Decade Signatures Gold,4,Dennis Rodman,Chicago Bulls,10
@@ -176,7 +176,7 @@ All-Decade Signatures Gold,17,Dirk Nowitzki,Dallas Mavericks,10
 All-Decade Signatures Gold,18,Giannis Antetokounmpo,Milwaukee Bucks,10
 All-Decade Signatures Gold,19,Anthony Davis,New Orleans Pelicans,10
 All-Decade Signatures Gold,20,Kyrie Irving,Boston Celtics,10
-All-Decade Signatures Platinum,1,Artis Gilmore,Kentucky Colonels (ABA),1
+All-Decade Signatures Platinum,1,Artis Gilmore,Kentucky Colonels,1
 All-Decade Signatures Platinum,2,Bernard King,New York Knicks,1
 All-Decade Signatures Platinum,3,Clyde Drexler,Portland Trail Blazers,1
 All-Decade Signatures Platinum,4,Dennis Rodman,Chicago Bulls,1
@@ -196,506 +196,506 @@ All-Decade Signatures Platinum,17,Dirk Nowitzki,Dallas Mavericks,1
 All-Decade Signatures Platinum,18,Giannis Antetokounmpo,Milwaukee Bucks,1
 All-Decade Signatures Platinum,19,Anthony Davis,New Orleans Pelicans,1
 All-Decade Signatures Platinum,20,Kyrie Irving,Boston Celtics,1
-Base Set,1,Dirk Nowitzki,Dallas Mavericks,99
-Base Set,2,Buddy Hield,Sacramento Kings,99
-Base Set,3,Draymond Green,Golden State Warriors,99
-Base Set,4,Rudy Gobert,Utah Jazz,99
-Base Set,5,Austin Rivers,Los Angeles Clippers,99
-Base Set,6,Eric Bledsoe,Milwaukee Bucks,99
-Base Set,7,Dennis Schroder,Atlanta Hawks,99
-Base Set,8,Dwight Howard,Charlotte Hornets,99
-Base Set,9,Kristaps Porzingis,New York Knicks,99
-Base Set,10,Joel Embiid,Philadelphia 76ers,99
-Base Set,11,Harrison Barnes,Dallas Mavericks,99
-Base Set,12,LaMarcus Aldridge,San Antonio Spurs,99
-Base Set,13,Kevin Durant,Golden State Warriors,99
-Base Set,14,John Wall,Washington Wizards,99
-Base Set,15,Kentavious Caldwell-Pope,Los Angeles Lakers,99
-Base Set,16,Kent Bazemore,Atlanta Hawks,99
-Base Set,17,Giannis Antetokounmpo,Milwaukee Bucks,99
-Base Set,18,Nicolas Batum,Charlotte Hornets,99
-Base Set,19,Tim Hardaway Jr.,New York Knicks,99
-Base Set,20,JJ Redick,Philadelphia 76ers,99
-Base Set,21,Jamal Murray,Denver Nuggets,99
-Base Set,22,Kawhi Leonard,San Antonio Spurs,99
-Base Set,23,James Harden,Houston Rockets,99
-Base Set,24,Otto Porter Jr.,Washington Wizards,99
-Base Set,25,Brandon Ingram,Los Angeles Lakers,99
-Base Set,26,Khris Middleton,Milwaukee Bucks,99
-Base Set,27,Taurean Prince,Atlanta Hawks,99
-Base Set,28,Zach LaVine,Chicago Bulls,99
-Base Set,29,Enes Kanter,New York Knicks,99
-Base Set,30,Devin Booker,Phoenix Suns,99
-Base Set,31,Paul Millsap,Denver Nuggets,99
-Base Set,32,Pau Gasol,San Antonio Spurs,99
-Base Set,33,Eric Gordon,Houston Rockets,99
-Base Set,34,Markieff Morris,Washington Wizards,99
-Base Set,35,Brook Lopez,Los Angeles Lakers,99
-Base Set,36,Kyrie Irving,Boston Celtics,99
-Base Set,37,Jimmy Butler,Minnesota Timberwolves,99
-Base Set,38,Kris Dunn,Chicago Bulls,99
-Base Set,39,Paul George,Oklahoma City Thunder,99
-Base Set,40,T.J. Warren Jr.,Phoenix Suns,99
-Base Set,41,Nikola Jokic,Denver Nuggets,99
-Base Set,42,Manu Ginobili,San Antonio Spurs,99
-Base Set,43,Clint Capela,Houston Rockets,99
-Base Set,44,Marcin Gortat,Washington Wizards,99
-Base Set,45,Marc Gasol,Memphis Grizzlies,99
-Base Set,46,Al Horford,Boston Celtics,99
-Base Set,47,Andrew Wiggins,Minnesota Timberwolves,99
-Base Set,48,Bobby Portis,Chicago Bulls,99
-Base Set,49,Carmelo Anthony,Oklahoma City Thunder,99
-Base Set,50,Tyson Chandler,Phoenix Suns,99
-Base Set,51,Reggie Jackson,Detroit Pistons,99
-Base Set,52,Kyle Lowry,Toronto Raptors,99
-Base Set,53,Victor Oladipo,Indiana Pacers,99
-Base Set,54,Tobias Harris,Detroit Pistons,99
-Base Set,55,Mike Conley,Memphis Grizzlies,99
-Base Set,56,Jaylen Brown,Boston Celtics,99
-Base Set,57,Karl-Anthony Towns,Minnesota Timberwolves,99
-Base Set,58,LeBron James,Cleveland Cavaliers,99
-Base Set,59,Russell Westbrook,Oklahoma City Thunder,99
-Base Set,60,Damian Lillard,Portland Trail Blazers,99
-Base Set,61,Avery Bradley,Detroit Pistons,99
-Base Set,62,DeMar DeRozan,Toronto Raptors,99
-Base Set,63,Darren Collison,Indiana Pacers,99
-Base Set,64,Steven Adams,Oklahoma City Thunder,99
-Base Set,65,JaMychal Green,Memphis Grizzlies,99
-Base Set,66,Jeff Teague,Minnesota Timberwolves,99
-Base Set,67,D'Angelo Russell,Brooklyn Nets,99
-Base Set,68,Aaron Gordon,Orlando Magic,99
-Base Set,69,Kevin Love,Cleveland Cavaliers,99
-Base Set,70,CJ McCollum,Portland Trail Blazers,99
-Base Set,71,Andre Drummond,Detroit Pistons,99
-Base Set,72,Serge Ibaka,Toronto Raptors,99
-Base Set,73,Myles Turner,Indiana Pacers,99
-Base Set,74,Tyreke Evans,Memphis Grizzlies,99
-Base Set,75,Goran Dragic,Miami Heat,99
-Base Set,76,Jrue Holiday,New Orleans Pelicans,99
-Base Set,77,Rondae Hollis-Jefferson,Brooklyn Nets,99
-Base Set,78,Nikola Vucevic,Orlando Magic,99
-Base Set,79,Dwyane Wade,Cleveland Cavaliers,99
-Base Set,80,Al-Farouq Aminu,Portland Trail Blazers,99
-Base Set,81,Stephen Curry,Golden State Warriors,99
-Base Set,82,Ricky Rubio,Utah Jazz,99
-Base Set,83,Chris Paul,Houston Rockets,99
-Base Set,84,Blake Griffin,Los Angeles Clippers,99
-Base Set,85,Hassan Whiteside,Miami Heat,99
-Base Set,86,Jeremy Lin,Brooklyn Nets,99
-Base Set,87,Anthony Davis,New Orleans Pelicans,99
-Base Set,88,Evan Fournier,Orlando Magic,99
-Base Set,89,Isaiah Thomas,Cleveland Cavaliers,99
-Base Set,90,Zach Randolph,Sacramento Kings,99
-Base Set,91,Klay Thompson,Golden State Warriors,99
-Base Set,92,Rodney Hood,Utah Jazz,99
-Base Set,93,DeAndre Jordan,Los Angeles Clippers,99
-Base Set,94,Bojan Bogdanovic,Indiana Pacers,99
-Base Set,95,Dion Waiters,Miami Heat,99
-Base Set,96,DeMarcus Cousins,New Orleans Pelicans,99
-Base Set,97,Kemba Walker,Charlotte Hornets,99
-Base Set,98,Ben Simmons,Philadelphia 76ers,99
-Base Set,99,Wesley Matthews,Dallas Mavericks,99
-Base Set,100,Vince Carter,Sacramento Kings,99
-Base Set Bronze,1,Dirk Nowitzki,Dallas Mavericks,25
-Base Set Bronze,2,Buddy Hield,Sacramento Kings,25
-Base Set Bronze,3,Draymond Green,Golden State Warriors,25
-Base Set Bronze,4,Rudy Gobert,Utah Jazz,25
-Base Set Bronze,5,Austin Rivers,Los Angeles Clippers,25
-Base Set Bronze,6,Eric Bledsoe,Milwaukee Bucks,25
-Base Set Bronze,7,Dennis Schroder,Atlanta Hawks,25
-Base Set Bronze,8,Dwight Howard,Charlotte Hornets,25
-Base Set Bronze,9,Kristaps Porzingis,New York Knicks,25
-Base Set Bronze,10,Joel Embiid,Philadelphia 76ers,25
-Base Set Bronze,11,Harrison Barnes,Dallas Mavericks,25
-Base Set Bronze,12,LaMarcus Aldridge,San Antonio Spurs,25
-Base Set Bronze,13,Kevin Durant,Golden State Warriors,25
-Base Set Bronze,14,John Wall,Washington Wizards,25
-Base Set Bronze,15,Kentavious Caldwell-Pope,Los Angeles Lakers,25
-Base Set Bronze,16,Kent Bazemore,Atlanta Hawks,25
-Base Set Bronze,17,Giannis Antetokounmpo,Milwaukee Bucks,25
-Base Set Bronze,18,Nicolas Batum,Charlotte Hornets,25
-Base Set Bronze,19,Tim Hardaway Jr.,New York Knicks,25
-Base Set Bronze,20,JJ Redick,Philadelphia 76ers,25
-Base Set Bronze,21,Jamal Murray,Denver Nuggets,25
-Base Set Bronze,22,Kawhi Leonard,San Antonio Spurs,25
-Base Set Bronze,23,James Harden,Houston Rockets,25
-Base Set Bronze,24,Otto Porter Jr.,Washington Wizards,25
-Base Set Bronze,25,Brandon Ingram,Los Angeles Lakers,25
-Base Set Bronze,26,Khris Middleton,Milwaukee Bucks,25
-Base Set Bronze,27,Taurean Prince,Atlanta Hawks,25
-Base Set Bronze,28,Zach LaVine,Chicago Bulls,25
-Base Set Bronze,29,Enes Kanter,New York Knicks,25
-Base Set Bronze,30,Devin Booker,Phoenix Suns,25
-Base Set Bronze,31,Paul Millsap,Denver Nuggets,25
-Base Set Bronze,32,Pau Gasol,San Antonio Spurs,25
-Base Set Bronze,33,Eric Gordon,Houston Rockets,25
-Base Set Bronze,34,Markieff Morris,Washington Wizards,25
-Base Set Bronze,35,Brook Lopez,Los Angeles Lakers,25
-Base Set Bronze,36,Kyrie Irving,Boston Celtics,25
-Base Set Bronze,37,Jimmy Butler,Minnesota Timberwolves,25
-Base Set Bronze,38,Kris Dunn,Chicago Bulls,25
-Base Set Bronze,39,Paul George,Oklahoma City Thunder,25
-Base Set Bronze,40,T.J. Warren Jr.,Phoenix Suns,25
-Base Set Bronze,41,Nikola Jokic,Denver Nuggets,25
-Base Set Bronze,42,Manu Ginobili,San Antonio Spurs,25
-Base Set Bronze,43,Clint Capela,Houston Rockets,25
-Base Set Bronze,44,Marcin Gortat,Washington Wizards,25
-Base Set Bronze,45,Marc Gasol,Memphis Grizzlies,25
-Base Set Bronze,46,Al Horford,Boston Celtics,25
-Base Set Bronze,47,Andrew Wiggins,Minnesota Timberwolves,25
-Base Set Bronze,48,Bobby Portis,Chicago Bulls,25
-Base Set Bronze,49,Carmelo Anthony,Oklahoma City Thunder,25
-Base Set Bronze,50,Tyson Chandler,Phoenix Suns,25
-Base Set Bronze,51,Reggie Jackson,Detroit Pistons,25
-Base Set Bronze,52,Kyle Lowry,Toronto Raptors,25
-Base Set Bronze,53,Victor Oladipo,Indiana Pacers,25
-Base Set Bronze,54,Tobias Harris,Detroit Pistons,25
-Base Set Bronze,55,Mike Conley,Memphis Grizzlies,25
-Base Set Bronze,56,Jaylen Brown,Boston Celtics,25
-Base Set Bronze,57,Karl-Anthony Towns,Minnesota Timberwolves,25
-Base Set Bronze,58,LeBron James,Cleveland Cavaliers,25
-Base Set Bronze,59,Russell Westbrook,Oklahoma City Thunder,25
-Base Set Bronze,60,Damian Lillard,Portland Trail Blazers,25
-Base Set Bronze,61,Avery Bradley,Detroit Pistons,25
-Base Set Bronze,62,DeMar DeRozan,Toronto Raptors,25
-Base Set Bronze,63,Darren Collison,Indiana Pacers,25
-Base Set Bronze,64,Steven Adams,Oklahoma City Thunder,25
-Base Set Bronze,65,JaMychal Green,Memphis Grizzlies,25
-Base Set Bronze,66,Jeff Teague,Minnesota Timberwolves,25
-Base Set Bronze,67,D'Angelo Russell,Brooklyn Nets,25
-Base Set Bronze,68,Aaron Gordon,Orlando Magic,25
-Base Set Bronze,69,Kevin Love,Cleveland Cavaliers,25
-Base Set Bronze,70,CJ McCollum,Portland Trail Blazers,25
-Base Set Bronze,71,Andre Drummond,Detroit Pistons,25
-Base Set Bronze,72,Serge Ibaka,Toronto Raptors,25
-Base Set Bronze,73,Myles Turner,Indiana Pacers,25
-Base Set Bronze,74,Tyreke Evans,Memphis Grizzlies,25
-Base Set Bronze,75,Goran Dragic,Miami Heat,25
-Base Set Bronze,76,Jrue Holiday,New Orleans Pelicans,25
-Base Set Bronze,77,Rondae Hollis-Jefferson,Brooklyn Nets,25
-Base Set Bronze,78,Nikola Vucevic,Orlando Magic,25
-Base Set Bronze,79,Dwyane Wade,Cleveland Cavaliers,25
-Base Set Bronze,80,Al-Farouq Aminu,Portland Trail Blazers,25
-Base Set Bronze,81,Stephen Curry,Golden State Warriors,25
-Base Set Bronze,82,Ricky Rubio,Utah Jazz,25
-Base Set Bronze,83,Chris Paul,Houston Rockets,25
-Base Set Bronze,84,Blake Griffin,Los Angeles Clippers,25
-Base Set Bronze,85,Hassan Whiteside,Miami Heat,25
-Base Set Bronze,86,Jeremy Lin,Brooklyn Nets,25
-Base Set Bronze,87,Anthony Davis,New Orleans Pelicans,25
-Base Set Bronze,88,Evan Fournier,Orlando Magic,25
-Base Set Bronze,89,Isaiah Thomas,Cleveland Cavaliers,25
-Base Set Bronze,90,Zach Randolph,Sacramento Kings,25
-Base Set Bronze,91,Klay Thompson,Golden State Warriors,25
-Base Set Bronze,92,Rodney Hood,Utah Jazz,25
-Base Set Bronze,93,DeAndre Jordan,Los Angeles Clippers,25
-Base Set Bronze,94,Bojan Bogdanovic,Indiana Pacers,25
-Base Set Bronze,95,Dion Waiters,Miami Heat,25
-Base Set Bronze,96,DeMarcus Cousins,New Orleans Pelicans,25
-Base Set Bronze,97,Kemba Walker,Charlotte Hornets,25
-Base Set Bronze,98,Ben Simmons,Philadelphia 76ers,25
-Base Set Bronze,99,Wesley Matthews,Dallas Mavericks,25
-Base Set Bronze,100,Vince Carter,Sacramento Kings,25
-Base Set Emerald,1,Dirk Nowitzki,Dallas Mavericks,5
-Base Set Emerald,2,Buddy Hield,Sacramento Kings,5
-Base Set Emerald,3,Draymond Green,Golden State Warriors,5
-Base Set Emerald,4,Rudy Gobert,Utah Jazz,5
-Base Set Emerald,5,Austin Rivers,Los Angeles Clippers,5
-Base Set Emerald,6,Eric Bledsoe,Milwaukee Bucks,5
-Base Set Emerald,7,Dennis Schroder,Atlanta Hawks,5
-Base Set Emerald,8,Dwight Howard,Charlotte Hornets,5
-Base Set Emerald,9,Kristaps Porzingis,New York Knicks,5
-Base Set Emerald,10,Joel Embiid,Philadelphia 76ers,5
-Base Set Emerald,11,Harrison Barnes,Dallas Mavericks,5
-Base Set Emerald,12,LaMarcus Aldridge,San Antonio Spurs,5
-Base Set Emerald,13,Kevin Durant,Golden State Warriors,5
-Base Set Emerald,14,John Wall,Washington Wizards,5
-Base Set Emerald,15,Kentavious Caldwell-Pope,Los Angeles Lakers,5
-Base Set Emerald,16,Kent Bazemore,Atlanta Hawks,5
-Base Set Emerald,17,Giannis Antetokounmpo,Milwaukee Bucks,5
-Base Set Emerald,18,Nicolas Batum,Charlotte Hornets,5
-Base Set Emerald,19,Tim Hardaway Jr.,New York Knicks,5
-Base Set Emerald,20,JJ Redick,Philadelphia 76ers,5
-Base Set Emerald,21,Jamal Murray,Denver Nuggets,5
-Base Set Emerald,22,Kawhi Leonard,San Antonio Spurs,5
-Base Set Emerald,23,James Harden,Houston Rockets,5
-Base Set Emerald,24,Otto Porter Jr.,Washington Wizards,5
-Base Set Emerald,25,Brandon Ingram,Los Angeles Lakers,5
-Base Set Emerald,26,Khris Middleton,Milwaukee Bucks,5
-Base Set Emerald,27,Taurean Prince,Atlanta Hawks,5
-Base Set Emerald,28,Zach LaVine,Chicago Bulls,5
-Base Set Emerald,29,Enes Kanter,New York Knicks,5
-Base Set Emerald,30,Devin Booker,Phoenix Suns,5
-Base Set Emerald,31,Paul Millsap,Denver Nuggets,5
-Base Set Emerald,32,Pau Gasol,San Antonio Spurs,5
-Base Set Emerald,33,Eric Gordon,Houston Rockets,5
-Base Set Emerald,34,Markieff Morris,Washington Wizards,5
-Base Set Emerald,35,Brook Lopez,Los Angeles Lakers,5
-Base Set Emerald,36,Kyrie Irving,Boston Celtics,5
-Base Set Emerald,37,Jimmy Butler,Minnesota Timberwolves,5
-Base Set Emerald,38,Kris Dunn,Chicago Bulls,5
-Base Set Emerald,39,Paul George,Oklahoma City Thunder,5
-Base Set Emerald,40,T.J. Warren Jr.,Phoenix Suns,5
-Base Set Emerald,41,Nikola Jokic,Denver Nuggets,5
-Base Set Emerald,42,Manu Ginobili,San Antonio Spurs,5
-Base Set Emerald,43,Clint Capela,Houston Rockets,5
-Base Set Emerald,44,Marcin Gortat,Washington Wizards,5
-Base Set Emerald,45,Marc Gasol,Memphis Grizzlies,5
-Base Set Emerald,46,Al Horford,Boston Celtics,5
-Base Set Emerald,47,Andrew Wiggins,Minnesota Timberwolves,5
-Base Set Emerald,48,Bobby Portis,Chicago Bulls,5
-Base Set Emerald,49,Carmelo Anthony,Oklahoma City Thunder,5
-Base Set Emerald,50,Tyson Chandler,Phoenix Suns,5
-Base Set Emerald,51,Reggie Jackson,Detroit Pistons,5
-Base Set Emerald,52,Kyle Lowry,Toronto Raptors,5
-Base Set Emerald,53,Victor Oladipo,Indiana Pacers,5
-Base Set Emerald,54,Tobias Harris,Detroit Pistons,5
-Base Set Emerald,55,Mike Conley,Memphis Grizzlies,5
-Base Set Emerald,56,Jaylen Brown,Boston Celtics,5
-Base Set Emerald,57,Karl-Anthony Towns,Minnesota Timberwolves,5
-Base Set Emerald,58,LeBron James,Cleveland Cavaliers,5
-Base Set Emerald,59,Russell Westbrook,Oklahoma City Thunder,5
-Base Set Emerald,60,Damian Lillard,Portland Trail Blazers,5
-Base Set Emerald,61,Avery Bradley,Detroit Pistons,5
-Base Set Emerald,62,DeMar DeRozan,Toronto Raptors,5
-Base Set Emerald,63,Darren Collison,Indiana Pacers,5
-Base Set Emerald,64,Steven Adams,Oklahoma City Thunder,5
-Base Set Emerald,65,JaMychal Green,Memphis Grizzlies,5
-Base Set Emerald,66,Jeff Teague,Minnesota Timberwolves,5
-Base Set Emerald,67,D'Angelo Russell,Brooklyn Nets,5
-Base Set Emerald,68,Aaron Gordon,Orlando Magic,5
-Base Set Emerald,69,Kevin Love,Cleveland Cavaliers,5
-Base Set Emerald,70,CJ McCollum,Portland Trail Blazers,5
-Base Set Emerald,71,Andre Drummond,Detroit Pistons,5
-Base Set Emerald,72,Serge Ibaka,Toronto Raptors,5
-Base Set Emerald,73,Myles Turner,Indiana Pacers,5
-Base Set Emerald,74,Tyreke Evans,Memphis Grizzlies,5
-Base Set Emerald,75,Goran Dragic,Miami Heat,5
-Base Set Emerald,76,Jrue Holiday,New Orleans Pelicans,5
-Base Set Emerald,77,Rondae Hollis-Jefferson,Brooklyn Nets,5
-Base Set Emerald,78,Nikola Vucevic,Orlando Magic,5
-Base Set Emerald,79,Dwyane Wade,Cleveland Cavaliers,5
-Base Set Emerald,80,Al-Farouq Aminu,Portland Trail Blazers,5
-Base Set Emerald,81,Stephen Curry,Golden State Warriors,5
-Base Set Emerald,82,Ricky Rubio,Utah Jazz,5
-Base Set Emerald,83,Chris Paul,Houston Rockets,5
-Base Set Emerald,84,Blake Griffin,Los Angeles Clippers,5
-Base Set Emerald,85,Hassan Whiteside,Miami Heat,5
-Base Set Emerald,86,Jeremy Lin,Brooklyn Nets,5
-Base Set Emerald,87,Anthony Davis,New Orleans Pelicans,5
-Base Set Emerald,88,Evan Fournier,Orlando Magic,5
-Base Set Emerald,89,Isaiah Thomas,Cleveland Cavaliers,5
-Base Set Emerald,90,Zach Randolph,Sacramento Kings,5
-Base Set Emerald,91,Klay Thompson,Golden State Warriors,5
-Base Set Emerald,92,Rodney Hood,Utah Jazz,5
-Base Set Emerald,93,DeAndre Jordan,Los Angeles Clippers,5
-Base Set Emerald,94,Bojan Bogdanovic,Indiana Pacers,5
-Base Set Emerald,95,Dion Waiters,Miami Heat,5
-Base Set Emerald,96,DeMarcus Cousins,New Orleans Pelicans,5
-Base Set Emerald,97,Kemba Walker,Charlotte Hornets,5
-Base Set Emerald,98,Ben Simmons,Philadelphia 76ers,5
-Base Set Emerald,99,Wesley Matthews,Dallas Mavericks,5
-Base Set Emerald,100,Vince Carter,Sacramento Kings,5
-Base Set Gold,1,Dirk Nowitzki,Dallas Mavericks,10
-Base Set Gold,2,Buddy Hield,Sacramento Kings,10
-Base Set Gold,3,Draymond Green,Golden State Warriors,10
-Base Set Gold,4,Rudy Gobert,Utah Jazz,10
-Base Set Gold,5,Austin Rivers,Los Angeles Clippers,10
-Base Set Gold,6,Eric Bledsoe,Milwaukee Bucks,10
-Base Set Gold,7,Dennis Schroder,Atlanta Hawks,10
-Base Set Gold,8,Dwight Howard,Charlotte Hornets,10
-Base Set Gold,9,Kristaps Porzingis,New York Knicks,10
-Base Set Gold,10,Joel Embiid,Philadelphia 76ers,10
-Base Set Gold,11,Harrison Barnes,Dallas Mavericks,10
-Base Set Gold,12,LaMarcus Aldridge,San Antonio Spurs,10
-Base Set Gold,13,Kevin Durant,Golden State Warriors,10
-Base Set Gold,14,John Wall,Washington Wizards,10
-Base Set Gold,15,Kentavious Caldwell-Pope,Los Angeles Lakers,10
-Base Set Gold,16,Kent Bazemore,Atlanta Hawks,10
-Base Set Gold,17,Giannis Antetokounmpo,Milwaukee Bucks,10
-Base Set Gold,18,Nicolas Batum,Charlotte Hornets,10
-Base Set Gold,19,Tim Hardaway Jr.,New York Knicks,10
-Base Set Gold,20,JJ Redick,Philadelphia 76ers,10
-Base Set Gold,21,Jamal Murray,Denver Nuggets,10
-Base Set Gold,22,Kawhi Leonard,San Antonio Spurs,10
-Base Set Gold,23,James Harden,Houston Rockets,10
-Base Set Gold,24,Otto Porter Jr.,Washington Wizards,10
-Base Set Gold,25,Brandon Ingram,Los Angeles Lakers,10
-Base Set Gold,26,Khris Middleton,Milwaukee Bucks,10
-Base Set Gold,27,Taurean Prince,Atlanta Hawks,10
-Base Set Gold,28,Zach LaVine,Chicago Bulls,10
-Base Set Gold,29,Enes Kanter,New York Knicks,10
-Base Set Gold,30,Devin Booker,Phoenix Suns,10
-Base Set Gold,31,Paul Millsap,Denver Nuggets,10
-Base Set Gold,32,Pau Gasol,San Antonio Spurs,10
-Base Set Gold,33,Eric Gordon,Houston Rockets,10
-Base Set Gold,34,Markieff Morris,Washington Wizards,10
-Base Set Gold,35,Brook Lopez,Los Angeles Lakers,10
-Base Set Gold,36,Kyrie Irving,Boston Celtics,10
-Base Set Gold,37,Jimmy Butler,Minnesota Timberwolves,10
-Base Set Gold,38,Kris Dunn,Chicago Bulls,10
-Base Set Gold,39,Paul George,Oklahoma City Thunder,10
-Base Set Gold,40,T.J. Warren Jr.,Phoenix Suns,10
-Base Set Gold,41,Nikola Jokic,Denver Nuggets,10
-Base Set Gold,42,Manu Ginobili,San Antonio Spurs,10
-Base Set Gold,43,Clint Capela,Houston Rockets,10
-Base Set Gold,44,Marcin Gortat,Washington Wizards,10
-Base Set Gold,45,Marc Gasol,Memphis Grizzlies,10
-Base Set Gold,46,Al Horford,Boston Celtics,10
-Base Set Gold,47,Andrew Wiggins,Minnesota Timberwolves,10
-Base Set Gold,48,Bobby Portis,Chicago Bulls,10
-Base Set Gold,49,Carmelo Anthony,Oklahoma City Thunder,10
-Base Set Gold,50,Tyson Chandler,Phoenix Suns,10
-Base Set Gold,51,Reggie Jackson,Detroit Pistons,10
-Base Set Gold,52,Kyle Lowry,Toronto Raptors,10
-Base Set Gold,53,Victor Oladipo,Indiana Pacers,10
-Base Set Gold,54,Tobias Harris,Detroit Pistons,10
-Base Set Gold,55,Mike Conley,Memphis Grizzlies,10
-Base Set Gold,56,Jaylen Brown,Boston Celtics,10
-Base Set Gold,57,Karl-Anthony Towns,Minnesota Timberwolves,10
-Base Set Gold,58,LeBron James,Cleveland Cavaliers,10
-Base Set Gold,59,Russell Westbrook,Oklahoma City Thunder,10
-Base Set Gold,60,Damian Lillard,Portland Trail Blazers,10
-Base Set Gold,61,Avery Bradley,Detroit Pistons,10
-Base Set Gold,62,DeMar DeRozan,Toronto Raptors,10
-Base Set Gold,63,Darren Collison,Indiana Pacers,10
-Base Set Gold,64,Steven Adams,Oklahoma City Thunder,10
-Base Set Gold,65,JaMychal Green,Memphis Grizzlies,10
-Base Set Gold,66,Jeff Teague,Minnesota Timberwolves,10
-Base Set Gold,67,D'Angelo Russell,Brooklyn Nets,10
-Base Set Gold,68,Aaron Gordon,Orlando Magic,10
-Base Set Gold,69,Kevin Love,Cleveland Cavaliers,10
-Base Set Gold,70,CJ McCollum,Portland Trail Blazers,10
-Base Set Gold,71,Andre Drummond,Detroit Pistons,10
-Base Set Gold,72,Serge Ibaka,Toronto Raptors,10
-Base Set Gold,73,Myles Turner,Indiana Pacers,10
-Base Set Gold,74,Tyreke Evans,Memphis Grizzlies,10
-Base Set Gold,75,Goran Dragic,Miami Heat,10
-Base Set Gold,76,Jrue Holiday,New Orleans Pelicans,10
-Base Set Gold,77,Rondae Hollis-Jefferson,Brooklyn Nets,10
-Base Set Gold,78,Nikola Vucevic,Orlando Magic,10
-Base Set Gold,79,Dwyane Wade,Cleveland Cavaliers,10
-Base Set Gold,80,Al-Farouq Aminu,Portland Trail Blazers,10
-Base Set Gold,81,Stephen Curry,Golden State Warriors,10
-Base Set Gold,82,Ricky Rubio,Utah Jazz,10
-Base Set Gold,83,Chris Paul,Houston Rockets,10
-Base Set Gold,84,Blake Griffin,Los Angeles Clippers,10
-Base Set Gold,85,Hassan Whiteside,Miami Heat,10
-Base Set Gold,86,Jeremy Lin,Brooklyn Nets,10
-Base Set Gold,87,Anthony Davis,New Orleans Pelicans,10
-Base Set Gold,88,Evan Fournier,Orlando Magic,10
-Base Set Gold,89,Isaiah Thomas,Cleveland Cavaliers,10
-Base Set Gold,90,Zach Randolph,Sacramento Kings,10
-Base Set Gold,91,Klay Thompson,Golden State Warriors,10
-Base Set Gold,92,Rodney Hood,Utah Jazz,10
-Base Set Gold,93,DeAndre Jordan,Los Angeles Clippers,10
-Base Set Gold,94,Bojan Bogdanovic,Indiana Pacers,10
-Base Set Gold,95,Dion Waiters,Miami Heat,10
-Base Set Gold,96,DeMarcus Cousins,New Orleans Pelicans,10
-Base Set Gold,97,Kemba Walker,Charlotte Hornets,10
-Base Set Gold,98,Ben Simmons,Philadelphia 76ers,10
-Base Set Gold,99,Wesley Matthews,Dallas Mavericks,10
-Base Set Gold,100,Vince Carter,Sacramento Kings,10
-Base Set Platinum,1,Dirk Nowitzki,Dallas Mavericks,1
-Base Set Platinum,2,Buddy Hield,Sacramento Kings,1
-Base Set Platinum,3,Draymond Green,Golden State Warriors,1
-Base Set Platinum,4,Rudy Gobert,Utah Jazz,1
-Base Set Platinum,5,Austin Rivers,Los Angeles Clippers,1
-Base Set Platinum,6,Eric Bledsoe,Milwaukee Bucks,1
-Base Set Platinum,7,Dennis Schroder,Atlanta Hawks,1
-Base Set Platinum,8,Dwight Howard,Charlotte Hornets,1
-Base Set Platinum,9,Kristaps Porzingis,New York Knicks,1
-Base Set Platinum,10,Joel Embiid,Philadelphia 76ers,1
-Base Set Platinum,11,Harrison Barnes,Dallas Mavericks,1
-Base Set Platinum,12,LaMarcus Aldridge,San Antonio Spurs,1
-Base Set Platinum,13,Kevin Durant,Golden State Warriors,1
-Base Set Platinum,14,John Wall,Washington Wizards,1
-Base Set Platinum,15,Kentavious Caldwell-Pope,Los Angeles Lakers,1
-Base Set Platinum,16,Kent Bazemore,Atlanta Hawks,1
-Base Set Platinum,17,Giannis Antetokounmpo,Milwaukee Bucks,1
-Base Set Platinum,18,Nicolas Batum,Charlotte Hornets,1
-Base Set Platinum,19,Tim Hardaway Jr.,New York Knicks,1
-Base Set Platinum,20,JJ Redick,Philadelphia 76ers,1
-Base Set Platinum,21,Jamal Murray,Denver Nuggets,1
-Base Set Platinum,22,Kawhi Leonard,San Antonio Spurs,1
-Base Set Platinum,23,James Harden,Houston Rockets,1
-Base Set Platinum,24,Otto Porter Jr.,Washington Wizards,1
-Base Set Platinum,25,Brandon Ingram,Los Angeles Lakers,1
-Base Set Platinum,26,Khris Middleton,Milwaukee Bucks,1
-Base Set Platinum,27,Taurean Prince,Atlanta Hawks,1
-Base Set Platinum,28,Zach LaVine,Chicago Bulls,1
-Base Set Platinum,29,Enes Kanter,New York Knicks,1
-Base Set Platinum,30,Devin Booker,Phoenix Suns,1
-Base Set Platinum,31,Paul Millsap,Denver Nuggets,1
-Base Set Platinum,32,Pau Gasol,San Antonio Spurs,1
-Base Set Platinum,33,Eric Gordon,Houston Rockets,1
-Base Set Platinum,34,Markieff Morris,Washington Wizards,1
-Base Set Platinum,35,Brook Lopez,Los Angeles Lakers,1
-Base Set Platinum,36,Kyrie Irving,Boston Celtics,1
-Base Set Platinum,37,Jimmy Butler,Minnesota Timberwolves,1
-Base Set Platinum,38,Kris Dunn,Chicago Bulls,1
-Base Set Platinum,39,Paul George,Oklahoma City Thunder,1
-Base Set Platinum,40,T.J. Warren Jr.,Phoenix Suns,1
-Base Set Platinum,41,Nikola Jokic,Denver Nuggets,1
-Base Set Platinum,42,Manu Ginobili,San Antonio Spurs,1
-Base Set Platinum,43,Clint Capela,Houston Rockets,1
-Base Set Platinum,44,Marcin Gortat,Washington Wizards,1
-Base Set Platinum,45,Marc Gasol,Memphis Grizzlies,1
-Base Set Platinum,46,Al Horford,Boston Celtics,1
-Base Set Platinum,47,Andrew Wiggins,Minnesota Timberwolves,1
-Base Set Platinum,48,Bobby Portis,Chicago Bulls,1
-Base Set Platinum,49,Carmelo Anthony,Oklahoma City Thunder,1
-Base Set Platinum,50,Tyson Chandler,Phoenix Suns,1
-Base Set Platinum,51,Reggie Jackson,Detroit Pistons,1
-Base Set Platinum,52,Kyle Lowry,Toronto Raptors,1
-Base Set Platinum,53,Victor Oladipo,Indiana Pacers,1
-Base Set Platinum,54,Tobias Harris,Detroit Pistons,1
-Base Set Platinum,55,Mike Conley,Memphis Grizzlies,1
-Base Set Platinum,56,Jaylen Brown,Boston Celtics,1
-Base Set Platinum,57,Karl-Anthony Towns,Minnesota Timberwolves,1
-Base Set Platinum,58,LeBron James,Cleveland Cavaliers,1
-Base Set Platinum,59,Russell Westbrook,Oklahoma City Thunder,1
-Base Set Platinum,60,Damian Lillard,Portland Trail Blazers,1
-Base Set Platinum,61,Avery Bradley,Detroit Pistons,1
-Base Set Platinum,62,DeMar DeRozan,Toronto Raptors,1
-Base Set Platinum,63,Darren Collison,Indiana Pacers,1
-Base Set Platinum,64,Steven Adams,Oklahoma City Thunder,1
-Base Set Platinum,65,JaMychal Green,Memphis Grizzlies,1
-Base Set Platinum,66,Jeff Teague,Minnesota Timberwolves,1
-Base Set Platinum,67,D'Angelo Russell,Brooklyn Nets,1
-Base Set Platinum,68,Aaron Gordon,Orlando Magic,1
-Base Set Platinum,69,Kevin Love,Cleveland Cavaliers,1
-Base Set Platinum,70,CJ McCollum,Portland Trail Blazers,1
-Base Set Platinum,71,Andre Drummond,Detroit Pistons,1
-Base Set Platinum,72,Serge Ibaka,Toronto Raptors,1
-Base Set Platinum,73,Myles Turner,Indiana Pacers,1
-Base Set Platinum,74,Tyreke Evans,Memphis Grizzlies,1
-Base Set Platinum,75,Goran Dragic,Miami Heat,1
-Base Set Platinum,76,Jrue Holiday,New Orleans Pelicans,1
-Base Set Platinum,77,Rondae Hollis-Jefferson,Brooklyn Nets,1
-Base Set Platinum,78,Nikola Vucevic,Orlando Magic,1
-Base Set Platinum,79,Dwyane Wade,Cleveland Cavaliers,1
-Base Set Platinum,80,Al-Farouq Aminu,Portland Trail Blazers,1
-Base Set Platinum,81,Stephen Curry,Golden State Warriors,1
-Base Set Platinum,82,Ricky Rubio,Utah Jazz,1
-Base Set Platinum,83,Chris Paul,Houston Rockets,1
-Base Set Platinum,84,Blake Griffin,Los Angeles Clippers,1
-Base Set Platinum,85,Hassan Whiteside,Miami Heat,1
-Base Set Platinum,86,Jeremy Lin,Brooklyn Nets,1
-Base Set Platinum,87,Anthony Davis,New Orleans Pelicans,1
-Base Set Platinum,88,Evan Fournier,Orlando Magic,1
-Base Set Platinum,89,Isaiah Thomas,Cleveland Cavaliers,1
-Base Set Platinum,90,Zach Randolph,Sacramento Kings,1
-Base Set Platinum,91,Klay Thompson,Golden State Warriors,1
-Base Set Platinum,92,Rodney Hood,Utah Jazz,1
-Base Set Platinum,93,DeAndre Jordan,Los Angeles Clippers,1
-Base Set Platinum,94,Bojan Bogdanovic,Indiana Pacers,1
-Base Set Platinum,95,Dion Waiters,Miami Heat,1
-Base Set Platinum,96,DeMarcus Cousins,New Orleans Pelicans,1
-Base Set Platinum,97,Kemba Walker,Charlotte Hornets,1
-Base Set Platinum,98,Ben Simmons,Philadelphia 76ers,1
-Base Set Platinum,99,Wesley Matthews,Dallas Mavericks,1
-Base Set Platinum,100,Vince Carter,Sacramento Kings,1
+Base,1,Dirk Nowitzki,Dallas Mavericks,99
+Base,2,Buddy Hield,Sacramento Kings,99
+Base,3,Draymond Green,Golden State Warriors,99
+Base,4,Rudy Gobert,Utah Jazz,99
+Base,5,Austin Rivers,Los Angeles Clippers,99
+Base,6,Eric Bledsoe,Milwaukee Bucks,99
+Base,7,Dennis Schroder,Atlanta Hawks,99
+Base,8,Dwight Howard,Charlotte Hornets,99
+Base,9,Kristaps Porzingis,New York Knicks,99
+Base,10,Joel Embiid,Philadelphia 76ers,99
+Base,11,Harrison Barnes,Dallas Mavericks,99
+Base,12,LaMarcus Aldridge,San Antonio Spurs,99
+Base,13,Kevin Durant,Golden State Warriors,99
+Base,14,John Wall,Washington Wizards,99
+Base,15,Kentavious Caldwell-Pope,Los Angeles Lakers,99
+Base,16,Kent Bazemore,Atlanta Hawks,99
+Base,17,Giannis Antetokounmpo,Milwaukee Bucks,99
+Base,18,Nicolas Batum,Charlotte Hornets,99
+Base,19,Tim Hardaway Jr.,New York Knicks,99
+Base,20,JJ Redick,Philadelphia 76ers,99
+Base,21,Jamal Murray,Denver Nuggets,99
+Base,22,Kawhi Leonard,San Antonio Spurs,99
+Base,23,James Harden,Houston Rockets,99
+Base,24,Otto Porter Jr.,Washington Wizards,99
+Base,25,Brandon Ingram,Los Angeles Lakers,99
+Base,26,Khris Middleton,Milwaukee Bucks,99
+Base,27,Taurean Prince,Atlanta Hawks,99
+Base,28,Zach LaVine,Chicago Bulls,99
+Base,29,Enes Kanter,New York Knicks,99
+Base,30,Devin Booker,Phoenix Suns,99
+Base,31,Paul Millsap,Denver Nuggets,99
+Base,32,Pau Gasol,San Antonio Spurs,99
+Base,33,Eric Gordon,Houston Rockets,99
+Base,34,Markieff Morris,Washington Wizards,99
+Base,35,Brook Lopez,Los Angeles Lakers,99
+Base,36,Kyrie Irving,Boston Celtics,99
+Base,37,Jimmy Butler,Minnesota Timberwolves,99
+Base,38,Kris Dunn,Chicago Bulls,99
+Base,39,Paul George,Oklahoma City Thunder,99
+Base,40,T.J. Warren Jr.,Phoenix Suns,99
+Base,41,Nikola Jokic,Denver Nuggets,99
+Base,42,Manu Ginobili,San Antonio Spurs,99
+Base,43,Clint Capela,Houston Rockets,99
+Base,44,Marcin Gortat,Washington Wizards,99
+Base,45,Marc Gasol,Memphis Grizzlies,99
+Base,46,Al Horford,Boston Celtics,99
+Base,47,Andrew Wiggins,Minnesota Timberwolves,99
+Base,48,Bobby Portis,Chicago Bulls,99
+Base,49,Carmelo Anthony,Oklahoma City Thunder,99
+Base,50,Tyson Chandler,Phoenix Suns,99
+Base,51,Reggie Jackson,Detroit Pistons,99
+Base,52,Kyle Lowry,Toronto Raptors,99
+Base,53,Victor Oladipo,Indiana Pacers,99
+Base,54,Tobias Harris,Detroit Pistons,99
+Base,55,Mike Conley,Memphis Grizzlies,99
+Base,56,Jaylen Brown,Boston Celtics,99
+Base,57,Karl-Anthony Towns,Minnesota Timberwolves,99
+Base,58,LeBron James,Cleveland Cavaliers,99
+Base,59,Russell Westbrook,Oklahoma City Thunder,99
+Base,60,Damian Lillard,Portland Trail Blazers,99
+Base,61,Avery Bradley,Detroit Pistons,99
+Base,62,DeMar DeRozan,Toronto Raptors,99
+Base,63,Darren Collison,Indiana Pacers,99
+Base,64,Steven Adams,Oklahoma City Thunder,99
+Base,65,JaMychal Green,Memphis Grizzlies,99
+Base,66,Jeff Teague,Minnesota Timberwolves,99
+Base,67,D'Angelo Russell,Brooklyn Nets,99
+Base,68,Aaron Gordon,Orlando Magic,99
+Base,69,Kevin Love,Cleveland Cavaliers,99
+Base,70,CJ McCollum,Portland Trail Blazers,99
+Base,71,Andre Drummond,Detroit Pistons,99
+Base,72,Serge Ibaka,Toronto Raptors,99
+Base,73,Myles Turner,Indiana Pacers,99
+Base,74,Tyreke Evans,Memphis Grizzlies,99
+Base,75,Goran Dragic,Miami Heat,99
+Base,76,Jrue Holiday,New Orleans Pelicans,99
+Base,77,Rondae Hollis-Jefferson,Brooklyn Nets,99
+Base,78,Nikola Vucevic,Orlando Magic,99
+Base,79,Dwyane Wade,Cleveland Cavaliers,99
+Base,80,Al-Farouq Aminu,Portland Trail Blazers,99
+Base,81,Stephen Curry,Golden State Warriors,99
+Base,82,Ricky Rubio,Utah Jazz,99
+Base,83,Chris Paul,Houston Rockets,99
+Base,84,Blake Griffin,Los Angeles Clippers,99
+Base,85,Hassan Whiteside,Miami Heat,99
+Base,86,Jeremy Lin,Brooklyn Nets,99
+Base,87,Anthony Davis,New Orleans Pelicans,99
+Base,88,Evan Fournier,Orlando Magic,99
+Base,89,Isaiah Thomas,Cleveland Cavaliers,99
+Base,90,Zach Randolph,Sacramento Kings,99
+Base,91,Klay Thompson,Golden State Warriors,99
+Base,92,Rodney Hood,Utah Jazz,99
+Base,93,DeAndre Jordan,Los Angeles Clippers,99
+Base,94,Bojan Bogdanovic,Indiana Pacers,99
+Base,95,Dion Waiters,Miami Heat,99
+Base,96,DeMarcus Cousins,New Orleans Pelicans,99
+Base,97,Kemba Walker,Charlotte Hornets,99
+Base,98,Ben Simmons,Philadelphia 76ers,99
+Base,99,Wesley Matthews,Dallas Mavericks,99
+Base,100,Vince Carter,Sacramento Kings,99
+Base Bronze,1,Dirk Nowitzki,Dallas Mavericks,25
+Base Bronze,2,Buddy Hield,Sacramento Kings,25
+Base Bronze,3,Draymond Green,Golden State Warriors,25
+Base Bronze,4,Rudy Gobert,Utah Jazz,25
+Base Bronze,5,Austin Rivers,Los Angeles Clippers,25
+Base Bronze,6,Eric Bledsoe,Milwaukee Bucks,25
+Base Bronze,7,Dennis Schroder,Atlanta Hawks,25
+Base Bronze,8,Dwight Howard,Charlotte Hornets,25
+Base Bronze,9,Kristaps Porzingis,New York Knicks,25
+Base Bronze,10,Joel Embiid,Philadelphia 76ers,25
+Base Bronze,11,Harrison Barnes,Dallas Mavericks,25
+Base Bronze,12,LaMarcus Aldridge,San Antonio Spurs,25
+Base Bronze,13,Kevin Durant,Golden State Warriors,25
+Base Bronze,14,John Wall,Washington Wizards,25
+Base Bronze,15,Kentavious Caldwell-Pope,Los Angeles Lakers,25
+Base Bronze,16,Kent Bazemore,Atlanta Hawks,25
+Base Bronze,17,Giannis Antetokounmpo,Milwaukee Bucks,25
+Base Bronze,18,Nicolas Batum,Charlotte Hornets,25
+Base Bronze,19,Tim Hardaway Jr.,New York Knicks,25
+Base Bronze,20,JJ Redick,Philadelphia 76ers,25
+Base Bronze,21,Jamal Murray,Denver Nuggets,25
+Base Bronze,22,Kawhi Leonard,San Antonio Spurs,25
+Base Bronze,23,James Harden,Houston Rockets,25
+Base Bronze,24,Otto Porter Jr.,Washington Wizards,25
+Base Bronze,25,Brandon Ingram,Los Angeles Lakers,25
+Base Bronze,26,Khris Middleton,Milwaukee Bucks,25
+Base Bronze,27,Taurean Prince,Atlanta Hawks,25
+Base Bronze,28,Zach LaVine,Chicago Bulls,25
+Base Bronze,29,Enes Kanter,New York Knicks,25
+Base Bronze,30,Devin Booker,Phoenix Suns,25
+Base Bronze,31,Paul Millsap,Denver Nuggets,25
+Base Bronze,32,Pau Gasol,San Antonio Spurs,25
+Base Bronze,33,Eric Gordon,Houston Rockets,25
+Base Bronze,34,Markieff Morris,Washington Wizards,25
+Base Bronze,35,Brook Lopez,Los Angeles Lakers,25
+Base Bronze,36,Kyrie Irving,Boston Celtics,25
+Base Bronze,37,Jimmy Butler,Minnesota Timberwolves,25
+Base Bronze,38,Kris Dunn,Chicago Bulls,25
+Base Bronze,39,Paul George,Oklahoma City Thunder,25
+Base Bronze,40,T.J. Warren Jr.,Phoenix Suns,25
+Base Bronze,41,Nikola Jokic,Denver Nuggets,25
+Base Bronze,42,Manu Ginobili,San Antonio Spurs,25
+Base Bronze,43,Clint Capela,Houston Rockets,25
+Base Bronze,44,Marcin Gortat,Washington Wizards,25
+Base Bronze,45,Marc Gasol,Memphis Grizzlies,25
+Base Bronze,46,Al Horford,Boston Celtics,25
+Base Bronze,47,Andrew Wiggins,Minnesota Timberwolves,25
+Base Bronze,48,Bobby Portis,Chicago Bulls,25
+Base Bronze,49,Carmelo Anthony,Oklahoma City Thunder,25
+Base Bronze,50,Tyson Chandler,Phoenix Suns,25
+Base Bronze,51,Reggie Jackson,Detroit Pistons,25
+Base Bronze,52,Kyle Lowry,Toronto Raptors,25
+Base Bronze,53,Victor Oladipo,Indiana Pacers,25
+Base Bronze,54,Tobias Harris,Detroit Pistons,25
+Base Bronze,55,Mike Conley,Memphis Grizzlies,25
+Base Bronze,56,Jaylen Brown,Boston Celtics,25
+Base Bronze,57,Karl-Anthony Towns,Minnesota Timberwolves,25
+Base Bronze,58,LeBron James,Cleveland Cavaliers,25
+Base Bronze,59,Russell Westbrook,Oklahoma City Thunder,25
+Base Bronze,60,Damian Lillard,Portland Trail Blazers,25
+Base Bronze,61,Avery Bradley,Detroit Pistons,25
+Base Bronze,62,DeMar DeRozan,Toronto Raptors,25
+Base Bronze,63,Darren Collison,Indiana Pacers,25
+Base Bronze,64,Steven Adams,Oklahoma City Thunder,25
+Base Bronze,65,JaMychal Green,Memphis Grizzlies,25
+Base Bronze,66,Jeff Teague,Minnesota Timberwolves,25
+Base Bronze,67,D'Angelo Russell,Brooklyn Nets,25
+Base Bronze,68,Aaron Gordon,Orlando Magic,25
+Base Bronze,69,Kevin Love,Cleveland Cavaliers,25
+Base Bronze,70,CJ McCollum,Portland Trail Blazers,25
+Base Bronze,71,Andre Drummond,Detroit Pistons,25
+Base Bronze,72,Serge Ibaka,Toronto Raptors,25
+Base Bronze,73,Myles Turner,Indiana Pacers,25
+Base Bronze,74,Tyreke Evans,Memphis Grizzlies,25
+Base Bronze,75,Goran Dragic,Miami Heat,25
+Base Bronze,76,Jrue Holiday,New Orleans Pelicans,25
+Base Bronze,77,Rondae Hollis-Jefferson,Brooklyn Nets,25
+Base Bronze,78,Nikola Vucevic,Orlando Magic,25
+Base Bronze,79,Dwyane Wade,Cleveland Cavaliers,25
+Base Bronze,80,Al-Farouq Aminu,Portland Trail Blazers,25
+Base Bronze,81,Stephen Curry,Golden State Warriors,25
+Base Bronze,82,Ricky Rubio,Utah Jazz,25
+Base Bronze,83,Chris Paul,Houston Rockets,25
+Base Bronze,84,Blake Griffin,Los Angeles Clippers,25
+Base Bronze,85,Hassan Whiteside,Miami Heat,25
+Base Bronze,86,Jeremy Lin,Brooklyn Nets,25
+Base Bronze,87,Anthony Davis,New Orleans Pelicans,25
+Base Bronze,88,Evan Fournier,Orlando Magic,25
+Base Bronze,89,Isaiah Thomas,Cleveland Cavaliers,25
+Base Bronze,90,Zach Randolph,Sacramento Kings,25
+Base Bronze,91,Klay Thompson,Golden State Warriors,25
+Base Bronze,92,Rodney Hood,Utah Jazz,25
+Base Bronze,93,DeAndre Jordan,Los Angeles Clippers,25
+Base Bronze,94,Bojan Bogdanovic,Indiana Pacers,25
+Base Bronze,95,Dion Waiters,Miami Heat,25
+Base Bronze,96,DeMarcus Cousins,New Orleans Pelicans,25
+Base Bronze,97,Kemba Walker,Charlotte Hornets,25
+Base Bronze,98,Ben Simmons,Philadelphia 76ers,25
+Base Bronze,99,Wesley Matthews,Dallas Mavericks,25
+Base Bronze,100,Vince Carter,Sacramento Kings,25
+Base Emerald,1,Dirk Nowitzki,Dallas Mavericks,5
+Base Emerald,2,Buddy Hield,Sacramento Kings,5
+Base Emerald,3,Draymond Green,Golden State Warriors,5
+Base Emerald,4,Rudy Gobert,Utah Jazz,5
+Base Emerald,5,Austin Rivers,Los Angeles Clippers,5
+Base Emerald,6,Eric Bledsoe,Milwaukee Bucks,5
+Base Emerald,7,Dennis Schroder,Atlanta Hawks,5
+Base Emerald,8,Dwight Howard,Charlotte Hornets,5
+Base Emerald,9,Kristaps Porzingis,New York Knicks,5
+Base Emerald,10,Joel Embiid,Philadelphia 76ers,5
+Base Emerald,11,Harrison Barnes,Dallas Mavericks,5
+Base Emerald,12,LaMarcus Aldridge,San Antonio Spurs,5
+Base Emerald,13,Kevin Durant,Golden State Warriors,5
+Base Emerald,14,John Wall,Washington Wizards,5
+Base Emerald,15,Kentavious Caldwell-Pope,Los Angeles Lakers,5
+Base Emerald,16,Kent Bazemore,Atlanta Hawks,5
+Base Emerald,17,Giannis Antetokounmpo,Milwaukee Bucks,5
+Base Emerald,18,Nicolas Batum,Charlotte Hornets,5
+Base Emerald,19,Tim Hardaway Jr.,New York Knicks,5
+Base Emerald,20,JJ Redick,Philadelphia 76ers,5
+Base Emerald,21,Jamal Murray,Denver Nuggets,5
+Base Emerald,22,Kawhi Leonard,San Antonio Spurs,5
+Base Emerald,23,James Harden,Houston Rockets,5
+Base Emerald,24,Otto Porter Jr.,Washington Wizards,5
+Base Emerald,25,Brandon Ingram,Los Angeles Lakers,5
+Base Emerald,26,Khris Middleton,Milwaukee Bucks,5
+Base Emerald,27,Taurean Prince,Atlanta Hawks,5
+Base Emerald,28,Zach LaVine,Chicago Bulls,5
+Base Emerald,29,Enes Kanter,New York Knicks,5
+Base Emerald,30,Devin Booker,Phoenix Suns,5
+Base Emerald,31,Paul Millsap,Denver Nuggets,5
+Base Emerald,32,Pau Gasol,San Antonio Spurs,5
+Base Emerald,33,Eric Gordon,Houston Rockets,5
+Base Emerald,34,Markieff Morris,Washington Wizards,5
+Base Emerald,35,Brook Lopez,Los Angeles Lakers,5
+Base Emerald,36,Kyrie Irving,Boston Celtics,5
+Base Emerald,37,Jimmy Butler,Minnesota Timberwolves,5
+Base Emerald,38,Kris Dunn,Chicago Bulls,5
+Base Emerald,39,Paul George,Oklahoma City Thunder,5
+Base Emerald,40,T.J. Warren Jr.,Phoenix Suns,5
+Base Emerald,41,Nikola Jokic,Denver Nuggets,5
+Base Emerald,42,Manu Ginobili,San Antonio Spurs,5
+Base Emerald,43,Clint Capela,Houston Rockets,5
+Base Emerald,44,Marcin Gortat,Washington Wizards,5
+Base Emerald,45,Marc Gasol,Memphis Grizzlies,5
+Base Emerald,46,Al Horford,Boston Celtics,5
+Base Emerald,47,Andrew Wiggins,Minnesota Timberwolves,5
+Base Emerald,48,Bobby Portis,Chicago Bulls,5
+Base Emerald,49,Carmelo Anthony,Oklahoma City Thunder,5
+Base Emerald,50,Tyson Chandler,Phoenix Suns,5
+Base Emerald,51,Reggie Jackson,Detroit Pistons,5
+Base Emerald,52,Kyle Lowry,Toronto Raptors,5
+Base Emerald,53,Victor Oladipo,Indiana Pacers,5
+Base Emerald,54,Tobias Harris,Detroit Pistons,5
+Base Emerald,55,Mike Conley,Memphis Grizzlies,5
+Base Emerald,56,Jaylen Brown,Boston Celtics,5
+Base Emerald,57,Karl-Anthony Towns,Minnesota Timberwolves,5
+Base Emerald,58,LeBron James,Cleveland Cavaliers,5
+Base Emerald,59,Russell Westbrook,Oklahoma City Thunder,5
+Base Emerald,60,Damian Lillard,Portland Trail Blazers,5
+Base Emerald,61,Avery Bradley,Detroit Pistons,5
+Base Emerald,62,DeMar DeRozan,Toronto Raptors,5
+Base Emerald,63,Darren Collison,Indiana Pacers,5
+Base Emerald,64,Steven Adams,Oklahoma City Thunder,5
+Base Emerald,65,JaMychal Green,Memphis Grizzlies,5
+Base Emerald,66,Jeff Teague,Minnesota Timberwolves,5
+Base Emerald,67,D'Angelo Russell,Brooklyn Nets,5
+Base Emerald,68,Aaron Gordon,Orlando Magic,5
+Base Emerald,69,Kevin Love,Cleveland Cavaliers,5
+Base Emerald,70,CJ McCollum,Portland Trail Blazers,5
+Base Emerald,71,Andre Drummond,Detroit Pistons,5
+Base Emerald,72,Serge Ibaka,Toronto Raptors,5
+Base Emerald,73,Myles Turner,Indiana Pacers,5
+Base Emerald,74,Tyreke Evans,Memphis Grizzlies,5
+Base Emerald,75,Goran Dragic,Miami Heat,5
+Base Emerald,76,Jrue Holiday,New Orleans Pelicans,5
+Base Emerald,77,Rondae Hollis-Jefferson,Brooklyn Nets,5
+Base Emerald,78,Nikola Vucevic,Orlando Magic,5
+Base Emerald,79,Dwyane Wade,Cleveland Cavaliers,5
+Base Emerald,80,Al-Farouq Aminu,Portland Trail Blazers,5
+Base Emerald,81,Stephen Curry,Golden State Warriors,5
+Base Emerald,82,Ricky Rubio,Utah Jazz,5
+Base Emerald,83,Chris Paul,Houston Rockets,5
+Base Emerald,84,Blake Griffin,Los Angeles Clippers,5
+Base Emerald,85,Hassan Whiteside,Miami Heat,5
+Base Emerald,86,Jeremy Lin,Brooklyn Nets,5
+Base Emerald,87,Anthony Davis,New Orleans Pelicans,5
+Base Emerald,88,Evan Fournier,Orlando Magic,5
+Base Emerald,89,Isaiah Thomas,Cleveland Cavaliers,5
+Base Emerald,90,Zach Randolph,Sacramento Kings,5
+Base Emerald,91,Klay Thompson,Golden State Warriors,5
+Base Emerald,92,Rodney Hood,Utah Jazz,5
+Base Emerald,93,DeAndre Jordan,Los Angeles Clippers,5
+Base Emerald,94,Bojan Bogdanovic,Indiana Pacers,5
+Base Emerald,95,Dion Waiters,Miami Heat,5
+Base Emerald,96,DeMarcus Cousins,New Orleans Pelicans,5
+Base Emerald,97,Kemba Walker,Charlotte Hornets,5
+Base Emerald,98,Ben Simmons,Philadelphia 76ers,5
+Base Emerald,99,Wesley Matthews,Dallas Mavericks,5
+Base Emerald,100,Vince Carter,Sacramento Kings,5
+Base Gold,1,Dirk Nowitzki,Dallas Mavericks,10
+Base Gold,2,Buddy Hield,Sacramento Kings,10
+Base Gold,3,Draymond Green,Golden State Warriors,10
+Base Gold,4,Rudy Gobert,Utah Jazz,10
+Base Gold,5,Austin Rivers,Los Angeles Clippers,10
+Base Gold,6,Eric Bledsoe,Milwaukee Bucks,10
+Base Gold,7,Dennis Schroder,Atlanta Hawks,10
+Base Gold,8,Dwight Howard,Charlotte Hornets,10
+Base Gold,9,Kristaps Porzingis,New York Knicks,10
+Base Gold,10,Joel Embiid,Philadelphia 76ers,10
+Base Gold,11,Harrison Barnes,Dallas Mavericks,10
+Base Gold,12,LaMarcus Aldridge,San Antonio Spurs,10
+Base Gold,13,Kevin Durant,Golden State Warriors,10
+Base Gold,14,John Wall,Washington Wizards,10
+Base Gold,15,Kentavious Caldwell-Pope,Los Angeles Lakers,10
+Base Gold,16,Kent Bazemore,Atlanta Hawks,10
+Base Gold,17,Giannis Antetokounmpo,Milwaukee Bucks,10
+Base Gold,18,Nicolas Batum,Charlotte Hornets,10
+Base Gold,19,Tim Hardaway Jr.,New York Knicks,10
+Base Gold,20,JJ Redick,Philadelphia 76ers,10
+Base Gold,21,Jamal Murray,Denver Nuggets,10
+Base Gold,22,Kawhi Leonard,San Antonio Spurs,10
+Base Gold,23,James Harden,Houston Rockets,10
+Base Gold,24,Otto Porter Jr.,Washington Wizards,10
+Base Gold,25,Brandon Ingram,Los Angeles Lakers,10
+Base Gold,26,Khris Middleton,Milwaukee Bucks,10
+Base Gold,27,Taurean Prince,Atlanta Hawks,10
+Base Gold,28,Zach LaVine,Chicago Bulls,10
+Base Gold,29,Enes Kanter,New York Knicks,10
+Base Gold,30,Devin Booker,Phoenix Suns,10
+Base Gold,31,Paul Millsap,Denver Nuggets,10
+Base Gold,32,Pau Gasol,San Antonio Spurs,10
+Base Gold,33,Eric Gordon,Houston Rockets,10
+Base Gold,34,Markieff Morris,Washington Wizards,10
+Base Gold,35,Brook Lopez,Los Angeles Lakers,10
+Base Gold,36,Kyrie Irving,Boston Celtics,10
+Base Gold,37,Jimmy Butler,Minnesota Timberwolves,10
+Base Gold,38,Kris Dunn,Chicago Bulls,10
+Base Gold,39,Paul George,Oklahoma City Thunder,10
+Base Gold,40,T.J. Warren Jr.,Phoenix Suns,10
+Base Gold,41,Nikola Jokic,Denver Nuggets,10
+Base Gold,42,Manu Ginobili,San Antonio Spurs,10
+Base Gold,43,Clint Capela,Houston Rockets,10
+Base Gold,44,Marcin Gortat,Washington Wizards,10
+Base Gold,45,Marc Gasol,Memphis Grizzlies,10
+Base Gold,46,Al Horford,Boston Celtics,10
+Base Gold,47,Andrew Wiggins,Minnesota Timberwolves,10
+Base Gold,48,Bobby Portis,Chicago Bulls,10
+Base Gold,49,Carmelo Anthony,Oklahoma City Thunder,10
+Base Gold,50,Tyson Chandler,Phoenix Suns,10
+Base Gold,51,Reggie Jackson,Detroit Pistons,10
+Base Gold,52,Kyle Lowry,Toronto Raptors,10
+Base Gold,53,Victor Oladipo,Indiana Pacers,10
+Base Gold,54,Tobias Harris,Detroit Pistons,10
+Base Gold,55,Mike Conley,Memphis Grizzlies,10
+Base Gold,56,Jaylen Brown,Boston Celtics,10
+Base Gold,57,Karl-Anthony Towns,Minnesota Timberwolves,10
+Base Gold,58,LeBron James,Cleveland Cavaliers,10
+Base Gold,59,Russell Westbrook,Oklahoma City Thunder,10
+Base Gold,60,Damian Lillard,Portland Trail Blazers,10
+Base Gold,61,Avery Bradley,Detroit Pistons,10
+Base Gold,62,DeMar DeRozan,Toronto Raptors,10
+Base Gold,63,Darren Collison,Indiana Pacers,10
+Base Gold,64,Steven Adams,Oklahoma City Thunder,10
+Base Gold,65,JaMychal Green,Memphis Grizzlies,10
+Base Gold,66,Jeff Teague,Minnesota Timberwolves,10
+Base Gold,67,D'Angelo Russell,Brooklyn Nets,10
+Base Gold,68,Aaron Gordon,Orlando Magic,10
+Base Gold,69,Kevin Love,Cleveland Cavaliers,10
+Base Gold,70,CJ McCollum,Portland Trail Blazers,10
+Base Gold,71,Andre Drummond,Detroit Pistons,10
+Base Gold,72,Serge Ibaka,Toronto Raptors,10
+Base Gold,73,Myles Turner,Indiana Pacers,10
+Base Gold,74,Tyreke Evans,Memphis Grizzlies,10
+Base Gold,75,Goran Dragic,Miami Heat,10
+Base Gold,76,Jrue Holiday,New Orleans Pelicans,10
+Base Gold,77,Rondae Hollis-Jefferson,Brooklyn Nets,10
+Base Gold,78,Nikola Vucevic,Orlando Magic,10
+Base Gold,79,Dwyane Wade,Cleveland Cavaliers,10
+Base Gold,80,Al-Farouq Aminu,Portland Trail Blazers,10
+Base Gold,81,Stephen Curry,Golden State Warriors,10
+Base Gold,82,Ricky Rubio,Utah Jazz,10
+Base Gold,83,Chris Paul,Houston Rockets,10
+Base Gold,84,Blake Griffin,Los Angeles Clippers,10
+Base Gold,85,Hassan Whiteside,Miami Heat,10
+Base Gold,86,Jeremy Lin,Brooklyn Nets,10
+Base Gold,87,Anthony Davis,New Orleans Pelicans,10
+Base Gold,88,Evan Fournier,Orlando Magic,10
+Base Gold,89,Isaiah Thomas,Cleveland Cavaliers,10
+Base Gold,90,Zach Randolph,Sacramento Kings,10
+Base Gold,91,Klay Thompson,Golden State Warriors,10
+Base Gold,92,Rodney Hood,Utah Jazz,10
+Base Gold,93,DeAndre Jordan,Los Angeles Clippers,10
+Base Gold,94,Bojan Bogdanovic,Indiana Pacers,10
+Base Gold,95,Dion Waiters,Miami Heat,10
+Base Gold,96,DeMarcus Cousins,New Orleans Pelicans,10
+Base Gold,97,Kemba Walker,Charlotte Hornets,10
+Base Gold,98,Ben Simmons,Philadelphia 76ers,10
+Base Gold,99,Wesley Matthews,Dallas Mavericks,10
+Base Gold,100,Vince Carter,Sacramento Kings,10
+Base Platinum,1,Dirk Nowitzki,Dallas Mavericks,1
+Base Platinum,2,Buddy Hield,Sacramento Kings,1
+Base Platinum,3,Draymond Green,Golden State Warriors,1
+Base Platinum,4,Rudy Gobert,Utah Jazz,1
+Base Platinum,5,Austin Rivers,Los Angeles Clippers,1
+Base Platinum,6,Eric Bledsoe,Milwaukee Bucks,1
+Base Platinum,7,Dennis Schroder,Atlanta Hawks,1
+Base Platinum,8,Dwight Howard,Charlotte Hornets,1
+Base Platinum,9,Kristaps Porzingis,New York Knicks,1
+Base Platinum,10,Joel Embiid,Philadelphia 76ers,1
+Base Platinum,11,Harrison Barnes,Dallas Mavericks,1
+Base Platinum,12,LaMarcus Aldridge,San Antonio Spurs,1
+Base Platinum,13,Kevin Durant,Golden State Warriors,1
+Base Platinum,14,John Wall,Washington Wizards,1
+Base Platinum,15,Kentavious Caldwell-Pope,Los Angeles Lakers,1
+Base Platinum,16,Kent Bazemore,Atlanta Hawks,1
+Base Platinum,17,Giannis Antetokounmpo,Milwaukee Bucks,1
+Base Platinum,18,Nicolas Batum,Charlotte Hornets,1
+Base Platinum,19,Tim Hardaway Jr.,New York Knicks,1
+Base Platinum,20,JJ Redick,Philadelphia 76ers,1
+Base Platinum,21,Jamal Murray,Denver Nuggets,1
+Base Platinum,22,Kawhi Leonard,San Antonio Spurs,1
+Base Platinum,23,James Harden,Houston Rockets,1
+Base Platinum,24,Otto Porter Jr.,Washington Wizards,1
+Base Platinum,25,Brandon Ingram,Los Angeles Lakers,1
+Base Platinum,26,Khris Middleton,Milwaukee Bucks,1
+Base Platinum,27,Taurean Prince,Atlanta Hawks,1
+Base Platinum,28,Zach LaVine,Chicago Bulls,1
+Base Platinum,29,Enes Kanter,New York Knicks,1
+Base Platinum,30,Devin Booker,Phoenix Suns,1
+Base Platinum,31,Paul Millsap,Denver Nuggets,1
+Base Platinum,32,Pau Gasol,San Antonio Spurs,1
+Base Platinum,33,Eric Gordon,Houston Rockets,1
+Base Platinum,34,Markieff Morris,Washington Wizards,1
+Base Platinum,35,Brook Lopez,Los Angeles Lakers,1
+Base Platinum,36,Kyrie Irving,Boston Celtics,1
+Base Platinum,37,Jimmy Butler,Minnesota Timberwolves,1
+Base Platinum,38,Kris Dunn,Chicago Bulls,1
+Base Platinum,39,Paul George,Oklahoma City Thunder,1
+Base Platinum,40,T.J. Warren Jr.,Phoenix Suns,1
+Base Platinum,41,Nikola Jokic,Denver Nuggets,1
+Base Platinum,42,Manu Ginobili,San Antonio Spurs,1
+Base Platinum,43,Clint Capela,Houston Rockets,1
+Base Platinum,44,Marcin Gortat,Washington Wizards,1
+Base Platinum,45,Marc Gasol,Memphis Grizzlies,1
+Base Platinum,46,Al Horford,Boston Celtics,1
+Base Platinum,47,Andrew Wiggins,Minnesota Timberwolves,1
+Base Platinum,48,Bobby Portis,Chicago Bulls,1
+Base Platinum,49,Carmelo Anthony,Oklahoma City Thunder,1
+Base Platinum,50,Tyson Chandler,Phoenix Suns,1
+Base Platinum,51,Reggie Jackson,Detroit Pistons,1
+Base Platinum,52,Kyle Lowry,Toronto Raptors,1
+Base Platinum,53,Victor Oladipo,Indiana Pacers,1
+Base Platinum,54,Tobias Harris,Detroit Pistons,1
+Base Platinum,55,Mike Conley,Memphis Grizzlies,1
+Base Platinum,56,Jaylen Brown,Boston Celtics,1
+Base Platinum,57,Karl-Anthony Towns,Minnesota Timberwolves,1
+Base Platinum,58,LeBron James,Cleveland Cavaliers,1
+Base Platinum,59,Russell Westbrook,Oklahoma City Thunder,1
+Base Platinum,60,Damian Lillard,Portland Trail Blazers,1
+Base Platinum,61,Avery Bradley,Detroit Pistons,1
+Base Platinum,62,DeMar DeRozan,Toronto Raptors,1
+Base Platinum,63,Darren Collison,Indiana Pacers,1
+Base Platinum,64,Steven Adams,Oklahoma City Thunder,1
+Base Platinum,65,JaMychal Green,Memphis Grizzlies,1
+Base Platinum,66,Jeff Teague,Minnesota Timberwolves,1
+Base Platinum,67,D'Angelo Russell,Brooklyn Nets,1
+Base Platinum,68,Aaron Gordon,Orlando Magic,1
+Base Platinum,69,Kevin Love,Cleveland Cavaliers,1
+Base Platinum,70,CJ McCollum,Portland Trail Blazers,1
+Base Platinum,71,Andre Drummond,Detroit Pistons,1
+Base Platinum,72,Serge Ibaka,Toronto Raptors,1
+Base Platinum,73,Myles Turner,Indiana Pacers,1
+Base Platinum,74,Tyreke Evans,Memphis Grizzlies,1
+Base Platinum,75,Goran Dragic,Miami Heat,1
+Base Platinum,76,Jrue Holiday,New Orleans Pelicans,1
+Base Platinum,77,Rondae Hollis-Jefferson,Brooklyn Nets,1
+Base Platinum,78,Nikola Vucevic,Orlando Magic,1
+Base Platinum,79,Dwyane Wade,Cleveland Cavaliers,1
+Base Platinum,80,Al-Farouq Aminu,Portland Trail Blazers,1
+Base Platinum,81,Stephen Curry,Golden State Warriors,1
+Base Platinum,82,Ricky Rubio,Utah Jazz,1
+Base Platinum,83,Chris Paul,Houston Rockets,1
+Base Platinum,84,Blake Griffin,Los Angeles Clippers,1
+Base Platinum,85,Hassan Whiteside,Miami Heat,1
+Base Platinum,86,Jeremy Lin,Brooklyn Nets,1
+Base Platinum,87,Anthony Davis,New Orleans Pelicans,1
+Base Platinum,88,Evan Fournier,Orlando Magic,1
+Base Platinum,89,Isaiah Thomas,Cleveland Cavaliers,1
+Base Platinum,90,Zach Randolph,Sacramento Kings,1
+Base Platinum,91,Klay Thompson,Golden State Warriors,1
+Base Platinum,92,Rodney Hood,Utah Jazz,1
+Base Platinum,93,DeAndre Jordan,Los Angeles Clippers,1
+Base Platinum,94,Bojan Bogdanovic,Indiana Pacers,1
+Base Platinum,95,Dion Waiters,Miami Heat,1
+Base Platinum,96,DeMarcus Cousins,New Orleans Pelicans,1
+Base Platinum,97,Kemba Walker,Charlotte Hornets,1
+Base Platinum,98,Ben Simmons,Philadelphia 76ers,1
+Base Platinum,99,Wesley Matthews,Dallas Mavericks,1
+Base Platinum,100,Vince Carter,Sacramento Kings,1
 Century Materials,1,Chris Paul,Houston Rockets,49
 Century Materials,2,Goran Dragic,Miami Heat,49
 Century Materials,3,Pau Gasol,San Antonio Spurs,99
@@ -1381,7 +1381,7 @@ Colossal Logoman,6,John Salley,Chicago Bulls,1
 Colossal Logoman,7,Steve Kerr,San Antonio Spurs,1
 Colossal Logoman,8,James Harden,Houston Rockets,3
 Colossal Logoman,9,Chris Webber,Sacramento Kings,1
-Colossal Logoman,10,Shaquille O'Neal ,Los Angeles Lakers,1
+Colossal Logoman,10,Shaquille O'Neal,Los Angeles Lakers,1
 Colossal Logoman,11,Andrew Wiggins,Minnesota Timberwolves,3
 Colossal Logoman,12,Taurean Prince,Atlanta Hawks,2
 Colossal Logoman,13,Paul George,Oklahoma City Thunder,1
@@ -1690,54 +1690,6 @@ Colossal Rookie Materials Super Prime,37,Derrick White,San Antonio Spurs,1
 Colossal Rookie Materials Super Prime,38,Frank Ntilikina,New York Knicks,1
 Colossal Rookie Materials Super Prime,39,Wes Iwundu,Orlando Magic,1
 Colossal Rookie Materials Super Prime,40,Luke Kennard,Detroit Pistons,1
-Game Gear,1,Ricky Rubio,Utah Jazz,99
-Game Gear,2,Kevin Durant,Golden State Warriors,99
-Game Gear,4,Dwyane Wade,Cleveland Cavaliers,49
-Game Gear,5,Marcus Smart,Boston Celtics,99
-Game Gear,6,Dirk Nowitzki,Dallas Mavericks,49
-Game Gear,7,Rajon Rondo,New Orleans Pelicans,49
-Game Gear,8,Paul George,Oklahoma City Thunder,49
-Game Gear,9,Kemba Walker,Charlotte Hornets,99
-Game Gear,10,Andrew Wiggins,Minnesota Timberwolves,99
-Game Gear,11,Kevin Love,Cleveland Cavaliers,49
-Game Gear,12,LeBron James,Cleveland Cavaliers,99
-Game Gear,13,D'Angelo Russell,Brooklyn Nets,49
-Game Gear,14,Chris Paul,Houston Rockets,49
-Game Gear,15,Buddy Hield,Sacramento Kings,99
-Game Gear,16,Anthony Davis,New Orleans Pelicans,49
-Game Gear,17,Julius Randle,Los Angeles Lakers,99
-Game Gear,18,Draymond Green,Golden State Warriors,99
-Game Gear,19,Tyreke Evans,Memphis Grizzlies,99
-Game Gear,20,John Wall,Washington Wizards,99
-Game Gear,21,Brandon Ingram,Los Angeles Lakers,99
-Game Gear,22,Russell Westbrook,Oklahoma City Thunder,49
-Game Gear,23,Jeremy Lin,Brooklyn Nets,99
-Game Gear,24,Carmelo Anthony,Oklahoma City Thunder,49
-Game Gear,25,Joel Embiid,Philadelphia 76ers,99
-Game Gear,26,Derrick Rose,Cleveland Cavaliers,49
-Game Gear,27,Mike Conley,Memphis Grizzlies,99
-Game Gear,28,Pau Gasol,San Antonio Spurs,99
-Game Gear,29,DeMar DeRozan,Toronto Raptors,99
-Game Gear,30,Jabari Parker,Milwaukee Bucks,99
-Game Gear,31,DeMarcus Cousins,New Orleans Pelicans,49
-Game Gear,33,Kristaps Porzingis,New York Knicks,49
-Game Gear,34,Kyrie Irving,Boston Celtics,49
-Game Gear,35,Otto Porter Jr.,Washington Wizards,99
-Game Gear,36,Blake Griffin,Los Angeles Clippers,99
-Game Gear,37,Kawhi Leonard,San Antonio Spurs,99
-Game Gear,38,Giannis Antetokounmpo,Milwaukee Bucks,49
-Game Gear,39,Al Horford,Boston Celtics,99
-Game Gear,40,Marc Gasol,Memphis Grizzlies,99
-Game Gear,41,Vince Carter,Sacramento Kings,99
-Game Gear,42,Stephen Curry,Golden State Warriors,99
-Game Gear,43,LaMarcus Aldridge,San Antonio Spurs,99
-Game Gear,44,Damian Lillard,Portland Trail Blazers,49
-Game Gear,45,Kris Dunn,Chicago Bulls,49
-Game Gear,46,Dwight Howard,Charlotte Hornets,99
-Game Gear,47,Bradley Beal,Washington Wizards,99
-Game Gear,48,Karl-Anthony Towns,Minnesota Timberwolves,99
-Game Gear,49,Klay Thompson,Golden State Warriors,99
-Game Gear,50,Jimmy Butler,Minnesota Timberwolves,49
 Game Gear Autographs,1,Brandon Ingram,Los Angeles Lakers,49
 Game Gear Autographs,2,Reggie Jackson,Detroit Pistons,49
 Game Gear Autographs,3,D'Angelo Russell,Brooklyn Nets,49
@@ -1924,6 +1876,147 @@ Game Gear Duals Prime Tag,27,Isaiah Thomas,Cleveland Cavaliers,1
 Game Gear Duals Prime Tag,28,Dwyane Wade,Cleveland Cavaliers,1
 Game Gear Duals Prime Tag,29,Buddy Hield,Sacramento Kings,1
 Game Gear Duals Prime Tag,30,Kyrie Irving,Boston Celtics,1
+Game Gear Triple Autographs,1,Evan Turner,Portland Trail Blazers,25
+Game Gear Triple Autographs,2,Rudy Gay,San Antonio Spurs,25
+Game Gear Triple Autographs,3,Enes Kanter,New York Knicks,25
+Game Gear Triple Autographs,4,DeMarre Carroll,Brooklyn Nets,25
+Game Gear Triple Autographs,5,Tyus Jones,Minnesota Timberwolves,25
+Game Gear Triple Autographs,6,Malcolm Brogdon,Milwaukee Bucks,25
+Game Gear Triple Autographs,7,Patrick Beverley,Los Angeles Clippers,25
+Game Gear Triple Autographs,8,Rudy Gobert,Utah Jazz,25
+Game Gear Triple Autographs,9,Seth Curry,Dallas Mavericks,25
+Game Gear Triple Autographs,10,James Johnson,Miami Heat,25
+Game Gear Triple Autographs,11,Chris Paul,Houston Rockets,25
+Game Gear Triple Autographs,12,Damian Lillard,Portland Trail Blazers,25
+Game Gear Triple Autographs,13,Kyrie Irving,Boston Celtics,25
+Game Gear Triple Autographs,14,Blake Griffin,Los Angeles Clippers,25
+Game Gear Triple Autographs,15,Giannis Antetokounmpo,Milwaukee Bucks,25
+Game Gear Triple Autographs,16,Andrew Wiggins,Minnesota Timberwolves,25
+Game Gear Triple Autographs,17,Karl-Anthony Towns,Minnesota Timberwolves,25
+Game Gear Triple Autographs,18,Marc Gasol,Memphis Grizzlies,25
+Game Gear Triple Autographs,19,Ricky Rubio,Utah Jazz,25
+Game Gear Triple Autographs,20,Brandon Ingram,Los Angeles Lakers,25
+Game Gear Triple Autographs Prime,1,Evan Turner,Portland Trail Blazers,10
+Game Gear Triple Autographs Prime,3,Enes Kanter,New York Knicks,10
+Game Gear Triple Autographs Prime,4,DeMarre Carroll,Brooklyn Nets,10
+Game Gear Triple Autographs Prime,5,Tyus Jones,Minnesota Timberwolves,10
+Game Gear Triple Autographs Prime,6,Malcolm Brogdon,Milwaukee Bucks,10
+Game Gear Triple Autographs Prime,7,Patrick Beverley,Los Angeles Clippers,10
+Game Gear Triple Autographs Prime,8,Rudy Gobert,Utah Jazz,10
+Game Gear Triple Autographs Prime,9,Seth Curry,Dallas Mavericks,10
+Game Gear Triple Autographs Prime,10,James Johnson,Miami Heat,10
+Game Gear Triple Autographs Prime,11,Chris Paul,Houston Rockets,10
+Game Gear Triple Autographs Prime,12,Damian Lillard,Portland Trail Blazers,10
+Game Gear Triple Autographs Prime,13,Kyrie Irving,Boston Celtics,10
+Game Gear Triple Autographs Prime,14,Blake Griffin,Los Angeles Clippers,10
+Game Gear Triple Autographs Prime,15,Giannis Antetokounmpo,Milwaukee Bucks,10
+Game Gear Triple Autographs Prime,16,Andrew Wiggins,Minnesota Timberwolves,10
+Game Gear Triple Autographs Prime,17,Karl-Anthony Towns,Minnesota Timberwolves,10
+Game Gear Triple Autographs Prime,18,Marc Gasol,Memphis Grizzlies,10
+Game Gear Triple Autographs Prime,19,Ricky Rubio,Utah Jazz,10
+Game Gear Triple Autographs Prime,20,Brandon Ingram,Los Angeles Lakers,10
+Game Gear Triples,1,Russell Westbrook,Oklahoma City Thunder,49
+Game Gear Triples,2,Karl-Anthony Towns,Minnesota Timberwolves,99
+Game Gear Triples,3,Stephen Curry,Golden State Warriors,99
+Game Gear Triples,4,Marc Gasol,Memphis Grizzlies,99
+Game Gear Triples,5,Chris Paul,Houston Rockets,99
+Game Gear Triples,6,Brandon Ingram,Los Angeles Lakers,99
+Game Gear Triples,7,Kyrie Irving,Boston Celtics,49
+Game Gear Triples,8,Anthony Davis,New Orleans Pelicans,99
+Game Gear Triples,9,Kevin Durant,Golden State Warriors,99
+Game Gear Triples,10,Paul George,Oklahoma City Thunder,49
+Game Gear Triples,12,John Wall,Washington Wizards,99
+Game Gear Triples,13,Dwyane Wade,Cleveland Cavaliers,99
+Game Gear Triples,14,Ricky Rubio,Utah Jazz,99
+Game Gear Triples,15,Carmelo Anthony,Oklahoma City Thunder,99
+Game Gear Triples,16,Vince Carter,Sacramento Kings,99
+Game Gear Triples,17,Damian Lillard,Portland Trail Blazers,99
+Game Gear Triples,18,Blake Griffin,Los Angeles Clippers,99
+Game Gear Triples,19,LeBron James,Cleveland Cavaliers,99
+Game Gear Triples,20,Pau Gasol,San Antonio Spurs,99
+Game Gear Triples Prime,1,Russell Westbrook,Oklahoma City Thunder,25
+Game Gear Triples Prime,2,Karl-Anthony Towns,Minnesota Timberwolves,25
+Game Gear Triples Prime,3,Stephen Curry,Golden State Warriors,10
+Game Gear Triples Prime,4,Marc Gasol,Memphis Grizzlies,25
+Game Gear Triples Prime,6,Brandon Ingram,Los Angeles Lakers,25
+Game Gear Triples Prime,8,Anthony Davis,New Orleans Pelicans,25
+Game Gear Triples Prime,9,Kevin Durant,Golden State Warriors,10
+Game Gear Triples Prime,10,Paul George,Oklahoma City Thunder,25
+Game Gear Triples Prime,12,John Wall,Washington Wizards,5
+Game Gear Triples Prime,13,Dwyane Wade,Cleveland Cavaliers,10
+Game Gear Triples Prime,15,Carmelo Anthony,Oklahoma City Thunder,25
+Game Gear Triples Prime,16,Vince Carter,Sacramento Kings,25
+Game Gear Triples Prime,17,Damian Lillard,Portland Trail Blazers,25
+Game Gear Triples Prime,18,Blake Griffin,Los Angeles Clippers,25
+Game Gear Triples Prime,19,LeBron James,Cleveland Cavaliers,25
+Game Gear Triples Prime,20,Pau Gasol,San Antonio Spurs,25
+Game Gear Triples Prime Tag,1,Russell Westbrook,Oklahoma City Thunder,1
+Game Gear Triples Prime Tag,2,Karl-Anthony Towns,Minnesota Timberwolves,1
+Game Gear Triples Prime Tag,3,Stephen Curry,Golden State Warriors,1
+Game Gear Triples Prime Tag,4,Marc Gasol,Memphis Grizzlies,1
+Game Gear Triples Prime Tag,5,Chris Paul,Houston Rockets,1
+Game Gear Triples Prime Tag,6,Brandon Ingram,Los Angeles Lakers,1
+Game Gear Triples Prime Tag,7,Kyrie Irving,Boston Celtics,1
+Game Gear Triples Prime Tag,8,Anthony Davis,New Orleans Pelicans,1
+Game Gear Triples Prime Tag,9,Kevin Durant,Golden State Warriors,1
+Game Gear Triples Prime Tag,10,Paul George,Oklahoma City Thunder,1
+Game Gear Triples Prime Tag,12,John Wall,Washington Wizards,1
+Game Gear Triples Prime Tag,13,Dwyane Wade,Cleveland Cavaliers,1
+Game Gear Triples Prime Tag,14,Ricky Rubio,Utah Jazz,1
+Game Gear Triples Prime Tag,15,Carmelo Anthony,Oklahoma City Thunder,1
+Game Gear Triples Prime Tag,16,Vince Carter,Sacramento Kings,1
+Game Gear Triples Prime Tag,17,Damian Lillard,Portland Trail Blazers,1
+Game Gear Triples Prime Tag,18,Blake Griffin,Los Angeles Clippers,1
+Game Gear Triples Prime Tag,19,LeBron James,Cleveland Cavaliers,1
+Game Gear Triples Prime Tag,20,Pau Gasol,San Antonio Spurs,1
+Game Gear,1,Ricky Rubio,Utah Jazz,99
+Game Gear,2,Kevin Durant,Golden State Warriors,99
+Game Gear,4,Dwyane Wade,Cleveland Cavaliers,49
+Game Gear,5,Marcus Smart,Boston Celtics,99
+Game Gear,6,Dirk Nowitzki,Dallas Mavericks,49
+Game Gear,7,Rajon Rondo,New Orleans Pelicans,49
+Game Gear,8,Paul George,Oklahoma City Thunder,49
+Game Gear,9,Kemba Walker,Charlotte Hornets,99
+Game Gear,10,Andrew Wiggins,Minnesota Timberwolves,99
+Game Gear,11,Kevin Love,Cleveland Cavaliers,49
+Game Gear,12,LeBron James,Cleveland Cavaliers,99
+Game Gear,13,D'Angelo Russell,Brooklyn Nets,49
+Game Gear,14,Chris Paul,Houston Rockets,49
+Game Gear,15,Buddy Hield,Sacramento Kings,99
+Game Gear,16,Anthony Davis,New Orleans Pelicans,49
+Game Gear,17,Julius Randle,Los Angeles Lakers,99
+Game Gear,18,Draymond Green,Golden State Warriors,99
+Game Gear,19,Tyreke Evans,Memphis Grizzlies,99
+Game Gear,20,John Wall,Washington Wizards,99
+Game Gear,21,Brandon Ingram,Los Angeles Lakers,99
+Game Gear,22,Russell Westbrook,Oklahoma City Thunder,49
+Game Gear,23,Jeremy Lin,Brooklyn Nets,99
+Game Gear,24,Carmelo Anthony,Oklahoma City Thunder,49
+Game Gear,25,Joel Embiid,Philadelphia 76ers,99
+Game Gear,26,Derrick Rose,Cleveland Cavaliers,49
+Game Gear,27,Mike Conley,Memphis Grizzlies,99
+Game Gear,28,Pau Gasol,San Antonio Spurs,99
+Game Gear,29,DeMar DeRozan,Toronto Raptors,99
+Game Gear,30,Jabari Parker,Milwaukee Bucks,99
+Game Gear,31,DeMarcus Cousins,New Orleans Pelicans,49
+Game Gear,33,Kristaps Porzingis,New York Knicks,49
+Game Gear,34,Kyrie Irving,Boston Celtics,49
+Game Gear,35,Otto Porter Jr.,Washington Wizards,99
+Game Gear,36,Blake Griffin,Los Angeles Clippers,99
+Game Gear,37,Kawhi Leonard,San Antonio Spurs,99
+Game Gear,38,Giannis Antetokounmpo,Milwaukee Bucks,49
+Game Gear,39,Al Horford,Boston Celtics,99
+Game Gear,40,Marc Gasol,Memphis Grizzlies,99
+Game Gear,41,Vince Carter,Sacramento Kings,99
+Game Gear,42,Stephen Curry,Golden State Warriors,99
+Game Gear,43,LaMarcus Aldridge,San Antonio Spurs,99
+Game Gear,44,Damian Lillard,Portland Trail Blazers,49
+Game Gear,45,Kris Dunn,Chicago Bulls,49
+Game Gear,46,Dwight Howard,Charlotte Hornets,99
+Game Gear,47,Bradley Beal,Washington Wizards,99
+Game Gear,48,Karl-Anthony Towns,Minnesota Timberwolves,99
+Game Gear,49,Klay Thompson,Golden State Warriors,99
+Game Gear,50,Jimmy Butler,Minnesota Timberwolves,49
 Game Gear Prime,1,Ricky Rubio,Utah Jazz,25
 Game Gear Prime,2,Kevin Durant,Golden State Warriors,10
 Game Gear Prime,4,Dwyane Wade,Cleveland Cavaliers,10
@@ -2018,99 +2111,6 @@ Game Gear Prime Tag,47,Bradley Beal,Washington Wizards,1
 Game Gear Prime Tag,48,Karl-Anthony Towns,Minnesota Timberwolves,1
 Game Gear Prime Tag,49,Klay Thompson,Golden State Warriors,1
 Game Gear Prime Tag,50,Jimmy Butler,Minnesota Timberwolves,1
-Game Gear Triple Autographs,1,Evan Turner,Portland Trail Blazers,25
-Game Gear Triple Autographs,2,Rudy Gay,San Antonio Spurs,25
-Game Gear Triple Autographs,3,Enes Kanter,New York Knicks,25
-Game Gear Triple Autographs,4,DeMarre Carroll,Brooklyn Nets,25
-Game Gear Triple Autographs,5,Tyus Jones,Minnesota Timberwolves,25
-Game Gear Triple Autographs,6,Malcolm Brogdon,Milwaukee Bucks,25
-Game Gear Triple Autographs,7,Patrick Beverley,Los Angeles Clippers,25
-Game Gear Triple Autographs,8,Rudy Gobert,Utah Jazz,25
-Game Gear Triple Autographs,9,Seth Curry,Dallas Mavericks,25
-Game Gear Triple Autographs,10,James Johnson,Miami Heat,25
-Game Gear Triple Autographs,11,Chris Paul,Houston Rockets,25
-Game Gear Triple Autographs,12,Damian Lillard,Portland Trail Blazers,25
-Game Gear Triple Autographs,13,Kyrie Irving,Boston Celtics,25
-Game Gear Triple Autographs,14,Blake Griffin,Los Angeles Clippers,25
-Game Gear Triple Autographs,15,Giannis Antetokounmpo,Milwaukee Bucks,25
-Game Gear Triple Autographs,16,Andrew Wiggins,Minnesota Timberwolves,25
-Game Gear Triple Autographs,17,Karl-Anthony Towns,Minnesota Timberwolves,25
-Game Gear Triple Autographs,18,Marc Gasol,Memphis Grizzlies,25
-Game Gear Triple Autographs,19,Ricky Rubio,Utah Jazz,25
-Game Gear Triple Autographs,20,Brandon Ingram,Los Angeles Lakers,25
-Game Gear Triple Autographs Prime,1,Evan Turner,Portland Trail Blazers,10
-Game Gear Triple Autographs Prime,3,Enes Kanter,New York Knicks,10
-Game Gear Triple Autographs Prime,4,DeMarre Carroll,Brooklyn Nets,10
-Game Gear Triple Autographs Prime,5,Tyus Jones,Minnesota Timberwolves,10
-Game Gear Triple Autographs Prime,6,Malcolm Brogdon,Milwaukee Bucks,10
-Game Gear Triple Autographs Prime,7,Patrick Beverley,Los Angeles Clippers,10
-Game Gear Triple Autographs Prime,8,Rudy Gobert,Utah Jazz,10
-Game Gear Triple Autographs Prime,9,Seth Curry,Dallas Mavericks,10
-Game Gear Triple Autographs Prime,10,James Johnson,Miami Heat,10
-Game Gear Triple Autographs Prime,11,Chris Paul,Houston Rockets,10
-Game Gear Triple Autographs Prime,12,Damian Lillard,Portland Trail Blazers,10
-Game Gear Triple Autographs Prime,13,Kyrie Irving,Boston Celtics,10
-Game Gear Triple Autographs Prime,14,Blake Griffin,Los Angeles Clippers,10
-Game Gear Triple Autographs Prime,15,Giannis Antetokounmpo,Milwaukee Bucks,10
-Game Gear Triple Autographs Prime,16,Andrew Wiggins,Minnesota Timberwolves,10
-Game Gear Triple Autographs Prime,17,Karl-Anthony Towns,Minnesota Timberwolves,10
-Game Gear Triple Autographs Prime,18,Marc Gasol,Memphis Grizzlies,10
-Game Gear Triple Autographs Prime,19,Ricky Rubio,Utah Jazz,10
-Game Gear Triple Autographs Prime,20,Brandon Ingram,Los Angeles Lakers,10
-Game Gear Triples,1,Russell Westbrook,Oklahoma City Thunder,49
-Game Gear Triples,2,Karl-Anthony Towns,Minnesota Timberwolves,99
-Game Gear Triples,3,Stephen Curry,Golden State Warriors,99
-Game Gear Triples,4,Marc Gasol,Memphis Grizzlies,99
-Game Gear Triples,5,Chris Paul,Houston Rockets,99
-Game Gear Triples,6,Brandon Ingram,Los Angeles Lakers,99
-Game Gear Triples,7,Kyrie Irving,Boston Celtics,49
-Game Gear Triples,8,Anthony Davis,New Orleans Pelicans,99
-Game Gear Triples,9,Kevin Durant,Golden State Warriors,99
-Game Gear Triples,10,Paul George,Oklahoma City Thunder,49
-Game Gear Triples,12,John Wall,Washington Wizards,99
-Game Gear Triples,13,Dwyane Wade,Cleveland Cavaliers,99
-Game Gear Triples,14,Ricky Rubio,Utah Jazz,99
-Game Gear Triples,15,Carmelo Anthony,Oklahoma City Thunder,99
-Game Gear Triples,16,Vince Carter,Sacramento Kings,99
-Game Gear Triples,17,Damian Lillard,Portland Trail Blazers,99
-Game Gear Triples,18,Blake Griffin,Los Angeles Clippers,99
-Game Gear Triples,19,LeBron James,Cleveland Cavaliers,99
-Game Gear Triples,20,Pau Gasol,San Antonio Spurs,99
-Game Gear Triples Prime,1,Russell Westbrook,Oklahoma City Thunder,25
-Game Gear Triples Prime,2,Karl-Anthony Towns,Minnesota Timberwolves,25
-Game Gear Triples Prime,3,Stephen Curry,Golden State Warriors,10
-Game Gear Triples Prime,4,Marc Gasol,Memphis Grizzlies,25
-Game Gear Triples Prime,6,Brandon Ingram,Los Angeles Lakers,25
-Game Gear Triples Prime,8,Anthony Davis,New Orleans Pelicans,25
-Game Gear Triples Prime,9,Kevin Durant,Golden State Warriors,10
-Game Gear Triples Prime,10,Paul George,Oklahoma City Thunder,25
-Game Gear Triples Prime,12,John Wall,Washington Wizards,5
-Game Gear Triples Prime,13,Dwyane Wade,Cleveland Cavaliers,10
-Game Gear Triples Prime,15,Carmelo Anthony,Oklahoma City Thunder,25
-Game Gear Triples Prime,16,Vince Carter,Sacramento Kings,25
-Game Gear Triples Prime,17,Damian Lillard,Portland Trail Blazers,25
-Game Gear Triples Prime,18,Blake Griffin,Los Angeles Clippers,25
-Game Gear Triples Prime,19,LeBron James,Cleveland Cavaliers,25
-Game Gear Triples Prime,20,Pau Gasol,San Antonio Spurs,25
-Game Gear Triples Prime Tag,1,Russell Westbrook,Oklahoma City Thunder,1
-Game Gear Triples Prime Tag,2,Karl-Anthony Towns,Minnesota Timberwolves,1
-Game Gear Triples Prime Tag,3,Stephen Curry,Golden State Warriors,1
-Game Gear Triples Prime Tag,4,Marc Gasol,Memphis Grizzlies,1
-Game Gear Triples Prime Tag,5,Chris Paul,Houston Rockets,1
-Game Gear Triples Prime Tag,6,Brandon Ingram,Los Angeles Lakers,1
-Game Gear Triples Prime Tag,7,Kyrie Irving,Boston Celtics,1
-Game Gear Triples Prime Tag,8,Anthony Davis,New Orleans Pelicans,1
-Game Gear Triples Prime Tag,9,Kevin Durant,Golden State Warriors,1
-Game Gear Triples Prime Tag,10,Paul George,Oklahoma City Thunder,1
-Game Gear Triples Prime Tag,12,John Wall,Washington Wizards,1
-Game Gear Triples Prime Tag,13,Dwyane Wade,Cleveland Cavaliers,1
-Game Gear Triples Prime Tag,14,Ricky Rubio,Utah Jazz,1
-Game Gear Triples Prime Tag,15,Carmelo Anthony,Oklahoma City Thunder,1
-Game Gear Triples Prime Tag,16,Vince Carter,Sacramento Kings,1
-Game Gear Triples Prime Tag,17,Damian Lillard,Portland Trail Blazers,1
-Game Gear Triples Prime Tag,18,Blake Griffin,Los Angeles Clippers,1
-Game Gear Triples Prime Tag,19,LeBron James,Cleveland Cavaliers,1
-Game Gear Triples Prime Tag,20,Pau Gasol,San Antonio Spurs,1
 Hometown Heroes,1,David Robinson,San Antonio Spurs,49
 Hometown Heroes,2,Richard Jefferson,Denver Nuggets,99
 Hometown Heroes,3,Jason Kidd,Phoenix Suns,49
@@ -2137,7 +2137,7 @@ Hometown Heroes,23,Vince Carter,Sacramento Kings,49
 Hometown Heroes,24,Spencer Haywood,Seattle Supersonics,99
 Hometown Heroes,25,Rick Barry,Golden State Warriors,99
 Hometown Heroes,26,Walt Frazier,New York Knicks,99
-Hometown Heroes,27,Shaquille O'Neal ,Miami Heat,35
+Hometown Heroes,27,Shaquille O'Neal,Miami Heat,35
 Hometown Heroes,28,Latrell Sprewell,New York Knicks,99
 Hometown Heroes,29,Kevin Durant,Golden State Warriors,49
 Hometown Heroes,30,Lenny Wilkens,St. Louis Hawks,99
@@ -2154,7 +2154,7 @@ Hometown Heroes,40,Dennis Smith Jr.,Dallas Mavericks,99
 Hometown Heroes,41,Kevin McHale,Boston Celtics,49
 Hometown Heroes,42,Cedric Ceballos,Los Angeles Lakers,99
 Hometown Heroes,43,Anfernee Hardaway,Orlando Magic,49
-Hometown Heroes,44,Dan Issel,Kentucky Colonels (ABA),99
+Hometown Heroes,44,Dan Issel,Kentucky Colonels,99
 Hometown Heroes,45,Harrison Barnes,Dallas Mavericks,99
 Hometown Heroes,46,Calvin Murphy,Houston Rockets,99
 Hometown Heroes,47,Larry Bird,Boston Celtics,35
@@ -2187,7 +2187,7 @@ Hometown Heroes Bronze,23,Vince Carter,Sacramento Kings,25
 Hometown Heroes Bronze,24,Spencer Haywood,Seattle Supersonics,25
 Hometown Heroes Bronze,25,Rick Barry,Golden State Warriors,25
 Hometown Heroes Bronze,26,Walt Frazier,New York Knicks,25
-Hometown Heroes Bronze,27,Shaquille O'Neal ,Miami Heat,25
+Hometown Heroes Bronze,27,Shaquille O'Neal,Miami Heat,25
 Hometown Heroes Bronze,28,Latrell Sprewell,New York Knicks,25
 Hometown Heroes Bronze,30,Lenny Wilkens,St. Louis Hawks,25
 Hometown Heroes Bronze,31,Kevin Love,Cleveland Cavaliers,25
@@ -2203,12 +2203,12 @@ Hometown Heroes Bronze,40,Dennis Smith Jr.,Dallas Mavericks,25
 Hometown Heroes Bronze,41,Kevin McHale,Boston Celtics,25
 Hometown Heroes Bronze,42,Cedric Ceballos,Los Angeles Lakers,25
 Hometown Heroes Bronze,43,Anfernee Hardaway,Orlando Magic,25
-Hometown Heroes Bronze,44,Dan Issel,Kentucky Colonels (ABA),25
+Hometown Heroes Bronze,44,Dan Issel,Kentucky Colonels,25
 Hometown Heroes Bronze,45,Harrison Barnes,Dallas Mavericks,25
 Hometown Heroes Bronze,46,Calvin Murphy,Houston Rockets,25
 Hometown Heroes Bronze,47,Larry Bird,Boston Celtics,25
 Hometown Heroes Bronze,48,Cliff Hagan,St. Louis Hawks,25
-Hometown Heroes Bronze,49,Jerry WestKevin Durant,Los Angeles LakersGolden State Warriors,25
+Hometown Heroes Bronze,49,Jerry West - Kevin Durant,Los Angeles Lakers - Golden State Warriors,25
 Hometown Heroes Bronze,50,Rudy Gay,San Antonio Spurs,25
 Hometown Heroes Gold,1,David Robinson,San Antonio Spurs,10
 Hometown Heroes Gold,2,Richard Jefferson,Denver Nuggets,10
@@ -2236,7 +2236,7 @@ Hometown Heroes Gold,23,Vince Carter,Sacramento Kings,10
 Hometown Heroes Gold,24,Spencer Haywood,Seattle Supersonics,10
 Hometown Heroes Gold,25,Rick Barry,Golden State Warriors,10
 Hometown Heroes Gold,26,Walt Frazier,New York Knicks,10
-Hometown Heroes Gold,27,Shaquille O'Neal ,Miami Heat,10
+Hometown Heroes Gold,27,Shaquille O'Neal,Miami Heat,10
 Hometown Heroes Gold,28,Latrell Sprewell,New York Knicks,10
 Hometown Heroes Gold,29,Kevin Durant,Golden State Warriors,10
 Hometown Heroes Gold,30,Lenny Wilkens,St. Louis Hawks,10
@@ -2253,7 +2253,7 @@ Hometown Heroes Gold,40,Dennis Smith Jr.,Dallas Mavericks,10
 Hometown Heroes Gold,41,Kevin McHale,Boston Celtics,10
 Hometown Heroes Gold,42,Cedric Ceballos,Los Angeles Lakers,10
 Hometown Heroes Gold,43,Anfernee Hardaway,Orlando Magic,10
-Hometown Heroes Gold,44,Dan Issel,Kentucky Colonels (ABA),10
+Hometown Heroes Gold,44,Dan Issel,Kentucky Colonels,10
 Hometown Heroes Gold,45,Harrison Barnes,Dallas Mavericks,10
 Hometown Heroes Gold,46,Calvin Murphy,Houston Rockets,10
 Hometown Heroes Gold,47,Larry Bird,Boston Celtics,10
@@ -2286,7 +2286,7 @@ Hometown Heroes Platinum,23,Vince Carter,Sacramento Kings,1
 Hometown Heroes Platinum,24,Spencer Haywood,Seattle Supersonics,1
 Hometown Heroes Platinum,25,Rick Barry,Golden State Warriors,1
 Hometown Heroes Platinum,26,Walt Frazier,New York Knicks,1
-Hometown Heroes Platinum,27,Shaquille O'Neal ,Miami Heat,1
+Hometown Heroes Platinum,27,Shaquille O'Neal,Miami Heat,1
 Hometown Heroes Platinum,28,Latrell Sprewell,New York Knicks,1
 Hometown Heroes Platinum,29,Kevin Durant,Golden State Warriors,1
 Hometown Heroes Platinum,30,Lenny Wilkens,St. Louis Hawks,1
@@ -2303,7 +2303,7 @@ Hometown Heroes Platinum,40,Dennis Smith Jr.,Dallas Mavericks,1
 Hometown Heroes Platinum,41,Kevin McHale,Boston Celtics,1
 Hometown Heroes Platinum,42,Cedric Ceballos,Los Angeles Lakers,1
 Hometown Heroes Platinum,43,Anfernee Hardaway,Orlando Magic,1
-Hometown Heroes Platinum,44,Dan Issel,Kentucky Colonels (ABA),1
+Hometown Heroes Platinum,44,Dan Issel,Kentucky Colonels,1
 Hometown Heroes Platinum,45,Harrison Barnes,Dallas Mavericks,1
 Hometown Heroes Platinum,46,Calvin Murphy,Houston Rockets,1
 Hometown Heroes Platinum,47,Larry Bird,Boston Celtics,1
@@ -3098,7 +3098,7 @@ Personalized,87,Dennis Smith Jr.,Dallas Mavericks,1
 Personalized,88,Dennis Smith Jr.,Dallas Mavericks,1
 Personalized,89,Dennis Smith Jr.,Dallas Mavericks,1
 Personalized,90,Dennis Smith Jr.,Dallas Mavericks,1
-Retro Materials,1,Shaquille O'Neal ,Phoenix Suns,49
+Retro Materials,1,Shaquille O'Neal,Phoenix Suns,49
 Retro Materials,2,Jermaine O'Neal,Miami Heat,49
 Retro Materials,4,Juwan Howard,Portland Trail Blazers,99
 Retro Materials,5,Kevin Duckworth,Portland Trail Blazers,99
@@ -3141,7 +3141,7 @@ Retro Materials,47,Rafer Alston,Orlando Magic,99
 Retro Materials,48,Dominique Wilkins,Los Angeles Clippers,49
 Retro Materials,49,Scottie Pippen,Chicago Bulls,49
 Retro Materials,50,Jeff Hornacek,Utah Jazz,49
-Retro Materials Bronze,1,Shaquille O'Neal ,Phoenix Suns,25
+Retro Materials Bronze,1,Shaquille O'Neal,Phoenix Suns,25
 Retro Materials Bronze,2,Jermaine O'Neal,Miami Heat,25
 Retro Materials Bronze,3,Terry Cummings,San Diego Clippers,25
 Retro Materials Bronze,4,Juwan Howard,Portland Trail Blazers,25
@@ -3190,7 +3190,7 @@ Retro Materials Bronze,47,Rafer Alston,Orlando Magic,25
 Retro Materials Bronze,48,Dominique Wilkins,Los Angeles Clippers,25
 Retro Materials Bronze,49,Scottie Pippen,Chicago Bulls,25
 Retro Materials Bronze,50,Jeff Hornacek,Utah Jazz,25
-Retro Materials Gold,1,Shaquille O'Neal ,Phoenix Suns,10
+Retro Materials Gold,1,Shaquille O'Neal,Phoenix Suns,10
 Retro Materials Gold,2,Jermaine O'Neal,Miami Heat,10
 Retro Materials Gold,3,Terry Cummings,San Diego Clippers,10
 Retro Materials Gold,4,Juwan Howard,Portland Trail Blazers,10
@@ -3236,7 +3236,7 @@ Retro Materials Gold,47,Rafer Alston,Orlando Magic,10
 Retro Materials Gold,48,Dominique Wilkins,Los Angeles Clippers,10
 Retro Materials Gold,49,Scottie Pippen,Chicago Bulls,10
 Retro Materials Gold,50,Jeff Hornacek,Utah Jazz,10
-Retro Materials Platinum,1,Shaquille O'Neal ,Phoenix Suns,1
+Retro Materials Platinum,1,Shaquille O'Neal,Phoenix Suns,1
 Retro Materials Platinum,2,Jermaine O'Neal,Miami Heat,1
 Retro Materials Platinum,3,Terry Cummings,San Diego Clippers,1
 Retro Materials Platinum,4,Juwan Howard,Portland Trail Blazers,1
@@ -3732,6 +3732,52 @@ Rookie Patch Autographs Emerald,144,Milos Teodosic,Los Angeles Clippers,5
 Rookie Patch Autographs Emerald,146,Damyean Dotson,New York Knicks,5
 Rookie Patch Autographs Emerald,148,Wayne Selden,Memphis Grizzlies,5
 Rookie Patch Autographs Emerald,149,Zhou Qi,Houston Rockets,5
+Rookie Patch Autographs Bronze,101,Markelle Fultz,Philadelphia 76ers,25
+Rookie Patch Autographs Bronze,102,Lonzo Ball,Los Angeles Lakers,25
+Rookie Patch Autographs Bronze,103,Jayson Tatum,Boston Celtics,25
+Rookie Patch Autographs Bronze,104,Josh Jackson,Phoenix Suns,25
+Rookie Patch Autographs Bronze,105,De'Aaron Fox,Sacramento Kings,25
+Rookie Patch Autographs Bronze,106,Jonathan Isaac,Orlando Magic,25
+Rookie Patch Autographs Bronze,107,Lauri Markkanen,Chicago Bulls,25
+Rookie Patch Autographs Bronze,108,Frank Ntilikina,New York Knicks,25
+Rookie Patch Autographs Bronze,109,Dennis Smith Jr.,Dallas Mavericks,25
+Rookie Patch Autographs Bronze,110,Zach Collins,Portland Trail Blazers,25
+Rookie Patch Autographs Bronze,111,Malik Monk,Charlotte Hornets,25
+Rookie Patch Autographs Bronze,112,Luke Kennard,Detroit Pistons,25
+Rookie Patch Autographs Bronze,113,Donovan Mitchell,Utah Jazz,25
+Rookie Patch Autographs Bronze,114,Bam Adebayo,Miami Heat,25
+Rookie Patch Autographs Bronze,116,Justin Patton,Minnesota Timberwolves,25
+Rookie Patch Autographs Bronze,117,D.J. Wilson,Milwaukee Bucks,25
+Rookie Patch Autographs Bronze,118,T.J. Leaf,Indiana Pacers,25
+Rookie Patch Autographs Bronze,119,John Collins,Atlanta Hawks,25
+Rookie Patch Autographs Bronze,120,Harry Giles,Sacramento Kings,25
+Rookie Patch Autographs Bronze,121,Terrance Ferguson,Oklahoma City Thunder,25
+Rookie Patch Autographs Bronze,122,Jarrett Allen,Brooklyn Nets,25
+Rookie Patch Autographs Bronze,123,OG Anunoby,Toronto Raptors,25
+Rookie Patch Autographs Bronze,124,Tyler Lydon,Denver Nuggets,25
+Rookie Patch Autographs Bronze,125,Caleb Swanigan,Portland Trail Blazers,25
+Rookie Patch Autographs Bronze,126,Kyle Kuzma,Los Angeles Lakers,25
+Rookie Patch Autographs Bronze,127,Tony Bradley,Utah Jazz,25
+Rookie Patch Autographs Bronze,128,Derrick White,San Antonio Spurs,25
+Rookie Patch Autographs Bronze,129,Josh Hart,Los Angeles Lakers,25
+Rookie Patch Autographs Bronze,130,Frank Jackson,New Orleans Pelicans,25
+Rookie Patch Autographs Bronze,131,Davon Reed,Phoenix Suns,25
+Rookie Patch Autographs Bronze,132,Wes Iwundu,Orlando Magic,25
+Rookie Patch Autographs Bronze,133,Frank Mason III,Sacramento Kings,25
+Rookie Patch Autographs Bronze,134,Ivan Rabb,Memphis Grizzlies,25
+Rookie Patch Autographs Bronze,135,Semi Ojeleye,Boston Celtics,25
+Rookie Patch Autographs Bronze,136,Jordan Bell,Golden State Warriors,25
+Rookie Patch Autographs Bronze,137,Jawun Evans,Los Angeles Clippers,25
+Rookie Patch Autographs Bronze,138,Dwayne Bacon,Charlotte Hornets,25
+Rookie Patch Autographs Bronze,139,Tyler Dorsey,Atlanta Hawks,25
+Rookie Patch Autographs Bronze,140,Sterling Brown,Milwaukee Bucks,25
+Rookie Patch Autographs Bronze,141,Sindarius Thornwell,Los Angeles Clippers,25
+Rookie Patch Autographs Bronze,142,Ante Zizic,Cleveland Cavaliers,25
+Rookie Patch Autographs Bronze,143,Ike Anigbogu,Indiana Pacers,25
+Rookie Patch Autographs Bronze,144,Milos Teodosic,Los Angeles Clippers,25
+Rookie Patch Autographs Bronze,146,Damyean Dotson,New York Knicks,25
+Rookie Patch Autographs Bronze,148,Wayne Selden,Memphis Grizzlies,25
+Rookie Patch Autographs Bronze,149,Zhou Qi,Houston Rockets,25
 Rookie Patch Autographs Gold,101,Markelle Fultz,Philadelphia 76ers,10
 Rookie Patch Autographs Gold,102,Lonzo Ball,Los Angeles Lakers,10
 Rookie Patch Autographs Gold,103,Jayson Tatum,Boston Celtics,10
@@ -3961,6 +4007,52 @@ Rookie Patch Autographs Logoman,144,Milos Teodosic,Los Angeles Clippers,1
 Rookie Patch Autographs Logoman,146,Damyean Dotson,New York Knicks,1
 Rookie Patch Autographs Logoman,148,Wayne Selden,Memphis Grizzlies,1
 Rookie Patch Autographs Logoman,149,Zhou Qi,Houston Rockets,1
+Rookie Patch Autographs Platinum,101,Markelle Fultz,Philadelphia 76ers,1
+Rookie Patch Autographs Platinum,102,Lonzo Ball,Los Angeles Lakers,1
+Rookie Patch Autographs Platinum,103,Jayson Tatum,Boston Celtics,1
+Rookie Patch Autographs Platinum,104,Josh Jackson,Phoenix Suns,1
+Rookie Patch Autographs Platinum,105,De'Aaron Fox,Sacramento Kings,1
+Rookie Patch Autographs Platinum,106,Jonathan Isaac,Orlando Magic,1
+Rookie Patch Autographs Platinum,107,Lauri Markkanen,Chicago Bulls,1
+Rookie Patch Autographs Platinum,108,Frank Ntilikina,New York Knicks,1
+Rookie Patch Autographs Platinum,109,Dennis Smith Jr.,Dallas Mavericks,1
+Rookie Patch Autographs Platinum,110,Zach Collins,Portland Trail Blazers,1
+Rookie Patch Autographs Platinum,111,Malik Monk,Charlotte Hornets,1
+Rookie Patch Autographs Platinum,112,Luke Kennard,Detroit Pistons,1
+Rookie Patch Autographs Platinum,113,Donovan Mitchell,Utah Jazz,1
+Rookie Patch Autographs Platinum,114,Bam Adebayo,Miami Heat,1
+Rookie Patch Autographs Platinum,116,Justin Patton,Minnesota Timberwolves,1
+Rookie Patch Autographs Platinum,117,D.J. Wilson,Milwaukee Bucks,1
+Rookie Patch Autographs Platinum,118,T.J. Leaf,Indiana Pacers,1
+Rookie Patch Autographs Platinum,119,John Collins,Atlanta Hawks,1
+Rookie Patch Autographs Platinum,120,Harry Giles,Sacramento Kings,1
+Rookie Patch Autographs Platinum,121,Terrance Ferguson,Oklahoma City Thunder,1
+Rookie Patch Autographs Platinum,122,Jarrett Allen,Brooklyn Nets,1
+Rookie Patch Autographs Platinum,123,OG Anunoby,Toronto Raptors,1
+Rookie Patch Autographs Platinum,124,Tyler Lydon,Denver Nuggets,1
+Rookie Patch Autographs Platinum,125,Caleb Swanigan,Portland Trail Blazers,1
+Rookie Patch Autographs Platinum,126,Kyle Kuzma,Los Angeles Lakers,1
+Rookie Patch Autographs Platinum,127,Tony Bradley,Utah Jazz,1
+Rookie Patch Autographs Platinum,128,Derrick White,San Antonio Spurs,1
+Rookie Patch Autographs Platinum,129,Josh Hart,Los Angeles Lakers,1
+Rookie Patch Autographs Platinum,130,Frank Jackson,New Orleans Pelicans,1
+Rookie Patch Autographs Platinum,131,Davon Reed,Phoenix Suns,1
+Rookie Patch Autographs Platinum,132,Wes Iwundu,Orlando Magic,1
+Rookie Patch Autographs Platinum,133,Frank Mason III,Sacramento Kings,1
+Rookie Patch Autographs Platinum,134,Ivan Rabb,Memphis Grizzlies,1
+Rookie Patch Autographs Platinum,135,Semi Ojeleye,Boston Celtics,1
+Rookie Patch Autographs Platinum,136,Jordan Bell,Golden State Warriors,1
+Rookie Patch Autographs Platinum,137,Jawun Evans,Los Angeles Clippers,1
+Rookie Patch Autographs Platinum,138,Dwayne Bacon,Charlotte Hornets,1
+Rookie Patch Autographs Platinum,139,Tyler Dorsey,Atlanta Hawks,1
+Rookie Patch Autographs Platinum,140,Sterling Brown,Milwaukee Bucks,1
+Rookie Patch Autographs Platinum,141,Sindarius Thornwell,Los Angeles Clippers,1
+Rookie Patch Autographs Platinum,142,Ante Zizic,Cleveland Cavaliers,1
+Rookie Patch Autographs Platinum,143,Ike Anigbogu,Indiana Pacers,1
+Rookie Patch Autographs Platinum,144,Milos Teodosic,Los Angeles Clippers,1
+Rookie Patch Autographs Platinum,146,Damyean Dotson,New York Knicks,1
+Rookie Patch Autographs Platinum,148,Wayne Selden,Memphis Grizzlies,1
+Rookie Patch Autographs Platinum,149,Zhou Qi,Houston Rockets,1
 Rookie Triple Materials,1,Frank Ntilikina,New York Knicks,99
 Rookie Triple Materials,2,Caleb Swanigan,Portland Trail Blazers,99
 Rookie Triple Materials,3,Malik Monk,Charlotte Hornets,99
@@ -4069,7 +4161,7 @@ Signatures,15,Kenny Smith,Houston Rockets,99
 Signatures,16,Mark Price,Cleveland Cavaliers,99
 Signatures,17,Zach LaVine,Chicago Bulls,99
 Signatures,18,Robert Horry,Los Angeles Lakers,99
-Signatures,19,Shaquille O'Neal ,Orlando Magic,35
+Signatures,19,Shaquille O'Neal,Orlando Magic,35
 Signatures,20,Bryant Reeves,Vancouver Grizzlies,99
 Signatures,21,Karl-Anthony Towns,Minnesota Timberwolves,35
 Signatures,22,Rudy Gobert,Utah Jazz,99
@@ -4139,7 +4231,7 @@ Signatures Bronze,15,Kenny Smith,Houston Rockets,25
 Signatures Bronze,16,Mark Price,Cleveland Cavaliers,25
 Signatures Bronze,17,Zach LaVine,Chicago Bulls,25
 Signatures Bronze,18,Robert Horry,Los Angeles Lakers,25
-Signatures Bronze,19,Shaquille O'Neal ,Orlando Magic,25
+Signatures Bronze,19,Shaquille O'Neal,Orlando Magic,25
 Signatures Bronze,20,Bryant Reeves,Vancouver Grizzlies,25
 Signatures Bronze,21,Karl-Anthony Towns,Minnesota Timberwolves,25
 Signatures Bronze,22,Rudy Gobert,Utah Jazz,25
@@ -4209,7 +4301,7 @@ Signatures Emerald,15,Kenny Smith,Houston Rockets,5
 Signatures Emerald,16,Mark Price,Cleveland Cavaliers,5
 Signatures Emerald,17,Zach LaVine,Chicago Bulls,5
 Signatures Emerald,18,Robert Horry,Los Angeles Lakers,5
-Signatures Emerald,19,Shaquille O'Neal ,Orlando Magic,5
+Signatures Emerald,19,Shaquille O'Neal,Orlando Magic,5
 Signatures Emerald,20,Bryant Reeves,Vancouver Grizzlies,5
 Signatures Emerald,21,Karl-Anthony Towns,Minnesota Timberwolves,5
 Signatures Emerald,22,Rudy Gobert,Utah Jazz,5
@@ -4279,7 +4371,7 @@ Signatures Gold,15,Kenny Smith,Houston Rockets,10
 Signatures Gold,16,Mark Price,Cleveland Cavaliers,10
 Signatures Gold,17,Zach LaVine,Chicago Bulls,10
 Signatures Gold,18,Robert Horry,Los Angeles Lakers,10
-Signatures Gold,19,Shaquille O'Neal ,Orlando Magic,10
+Signatures Gold,19,Shaquille O'Neal,Orlando Magic,10
 Signatures Gold,20,Bryant Reeves,Vancouver Grizzlies,10
 Signatures Gold,21,Karl-Anthony Towns,Minnesota Timberwolves,10
 Signatures Gold,22,Rudy Gobert,Utah Jazz,10
@@ -4349,7 +4441,7 @@ Signatures Platinum,15,Kenny Smith,Houston Rockets,1
 Signatures Platinum,16,Mark Price,Cleveland Cavaliers,1
 Signatures Platinum,17,Zach LaVine,Chicago Bulls,1
 Signatures Platinum,18,Robert Horry,Los Angeles Lakers,1
-Signatures Platinum,19,Shaquille O'Neal ,Orlando Magic,1
+Signatures Platinum,19,Shaquille O'Neal,Orlando Magic,1
 Signatures Platinum,20,Bryant Reeves,Vancouver Grizzlies,1
 Signatures Platinum,21,Karl-Anthony Towns,Minnesota Timberwolves,1
 Signatures Platinum,22,Rudy Gobert,Utah Jazz,1
@@ -4420,7 +4512,7 @@ Treasured Signatures,18,Gary Payton,Milwaukee Bucks,35
 Treasured Signatures,19,Ivica Zubac,Los Angeles Lakers,50
 Treasured Signatures,20,Shaun Livingston,Golden State Warriors,50
 Treasured Signatures,21,Patrick Patterson,Oklahoma City Thunder,50
-Treasured Signatures,22,Shaquille O'Neal ,Los Angeles Lakers,25
+Treasured Signatures,22,Shaquille O'Neal,Los Angeles Lakers,25
 Treasured Signatures,23,Antawn Jamison,Dallas Mavericks,50
 Treasured Signatures,24,Magic Johnson,Los Angeles Lakers,25
 Treasured Signatures,25,Danny Manning,Los Angeles Clippers,50
@@ -4450,6 +4542,16 @@ Treasured Signatures,48,Kemba Walker,Charlotte Hornets,50
 Treasured Signatures,49,Darrell Arthur,Denver Nuggets,50
 Treasured Signatures,50,Steve Kerr,Chicago Bulls,50
 Treasured Signatures,51,Bob Dandridge,Milwaukee Bucks,50
+Treasured Tags Autographs,1,Kobe Bryant,Los Angeles Lakers,1
+Treasured Tags Autographs,2,Kevin Durant,Golden State Warriors,1
+Treasured Tags Autographs,3,Shaquille O'Neal,Orlando Magic,1
+Treasured Tags Autographs,4,Allen Iverson,Philadelphia 76ers,1
+Treasured Tags Autographs,5,Reggie Miller,Indiana Pacers,1
+Treasured Tags Autographs,6,Chris Paul,Houston Rockets,1
+Treasured Tags Autographs,7,Dwyane Wade,Cleveland Cavaliers,1
+Treasured Tags Autographs,8,Damian Lillard,Portland Trail Blazers,1
+Treasured Tags Autographs,9,Karl Malone,Utah Jazz,1
+Treasured Tags Autographs,10,Dirk Nowitzki,Dallas Mavericks,1
 Treasured Tags,1,John Stockton,Utah Jazz,5
 Treasured Tags,2,Clyde Drexler,Houston Rockets,5
 Treasured Tags,3,John Wall,Washington Wizards,5
@@ -4472,7 +4574,7 @@ Treasured Tags,19,Tim Duncan,San Antonio Spurs,2
 Treasured Tags,20,Grant Hill,Detroit Pistons,5
 Treasured Tags,21,Chris Webber,Washington Wizards,5
 Treasured Tags,22,Tracy McGrady,Houston Rockets,3
-Treasured Tags,23,Shaquille O'Neal ,Orlando Magic,5
+Treasured Tags,23,Shaquille O'Neal,Orlando Magic,5
 Treasured Tags,24,Glen Rice,Miami Heat,5
 Treasured Tags,25,Anfernee Hardaway,Orlando Magic,1
 Treasured Tags,26,Larry Johnson,Charlotte Hornets,5
@@ -4481,16 +4583,6 @@ Treasured Tags,28,Jamal Mashburn,Dallas Mavericks,5
 Treasured Tags,29,DeMar DeRozan,Toronto Raptors,5
 Treasured Tags,30,Joe Dumars,Detroit Pistons,1
 Treasured Tags,31,Larry Bird,Boston Celtics,3
-Treasured Tags Autographs,1,Kobe Bryant,Los Angeles Lakers,1
-Treasured Tags Autographs,2,Kevin Durant,Golden State Warriors,1
-Treasured Tags Autographs,3,Shaquille O'Neal ,Orlando Magic,1
-Treasured Tags Autographs,4,Allen Iverson,Philadelphia 76ers,1
-Treasured Tags Autographs,5,Reggie Miller,Indiana Pacers,1
-Treasured Tags Autographs,6,Chris Paul,Houston Rockets,1
-Treasured Tags Autographs,7,Dwyane Wade,Cleveland Cavaliers,1
-Treasured Tags Autographs,8,Damian Lillard,Portland Trail Blazers,1
-Treasured Tags Autographs,9,Karl Malone,Utah Jazz,1
-Treasured Tags Autographs,10,Dirk Nowitzki,Dallas Mavericks,1
 Treasured Threads,1,Blake Griffin,Los Angeles Clippers,99
 Treasured Threads,2,Thon Maker,Milwaukee Bucks,99
 Treasured Threads,3,Jimmy Butler,Minnesota Timberwolves,49
@@ -4644,7 +4736,7 @@ Treasures of the Hall,5,Rick Barry,Golden State Warriors,49
 Treasures of the Hall,6,David Thompson,Denver Nuggets,99
 Treasures of the Hall,7,Dave Cowens,Boston Celtics,99
 Treasures of the Hall,8,Robert Parish,Boston Celtics,99
-Treasures of the Hall,9,Shaquille O'Neal ,Los Angeles Lakers,35
+Treasures of the Hall,9,Shaquille O'Neal,Los Angeles Lakers,35
 Treasures of the Hall,10,Gail Goodrich,Los Angeles Lakers,99
 Treasures of the Hall,11,Kareem Abdul-Jabbar,Milwaukee Bucks,35
 Treasures of the Hall,12,Adrian Dantley,Utah Jazz,99
@@ -4653,7 +4745,7 @@ Treasures of the Hall,14,Bob McAdoo,Buffalo Braves,99
 Treasures of the Hall,15,George Gervin,San Antonio Spurs,99
 Treasures of the Hall,16,Tom Heinsohn,Boston Celtics,99
 Treasures of the Hall,17,Bill Walton,Boston Celtics,99
-Treasures of the Hall,18,Louie Dampier,Kentucky Colonels (ABA),99
+Treasures of the Hall,18,Louie Dampier,Kentucky Colonels,99
 Treasures of the Hall,19,Karl Malone,Utah Jazz,35
 Treasures of the Hall,20,Sam Jones,Boston Celtics,99
 Treasures of the Hall Bronze,1,Magic Johnson,Los Angeles Lakers,25
@@ -4664,7 +4756,7 @@ Treasures of the Hall Bronze,5,Rick Barry,Golden State Warriors,25
 Treasures of the Hall Bronze,6,David Thompson,Denver Nuggets,25
 Treasures of the Hall Bronze,7,Dave Cowens,Boston Celtics,25
 Treasures of the Hall Bronze,8,Robert Parish,Boston Celtics,25
-Treasures of the Hall Bronze,9,Shaquille O'Neal ,Los Angeles Lakers,25
+Treasures of the Hall Bronze,9,Shaquille O'Neal,Los Angeles Lakers,25
 Treasures of the Hall Bronze,10,Gail Goodrich,Los Angeles Lakers,25
 Treasures of the Hall Bronze,11,Kareem Abdul-Jabbar,Milwaukee Bucks,25
 Treasures of the Hall Bronze,12,Adrian Dantley,Utah Jazz,25
@@ -4673,7 +4765,7 @@ Treasures of the Hall Bronze,14,Bob McAdoo,Buffalo Braves,25
 Treasures of the Hall Bronze,15,George Gervin,San Antonio Spurs,25
 Treasures of the Hall Bronze,16,Tom Heinsohn,Boston Celtics,25
 Treasures of the Hall Bronze,17,Bill Walton,Boston Celtics,25
-Treasures of the Hall Bronze,18,Louie Dampier,Kentucky Colonels (ABA),25
+Treasures of the Hall Bronze,18,Louie Dampier,Kentucky Colonels,25
 Treasures of the Hall Bronze,19,Karl Malone,Utah Jazz,25
 Treasures of the Hall Bronze,20,Sam Jones,Boston Celtics,25
 Treasures of the Hall Gold,1,Magic Johnson,Los Angeles Lakers,10
@@ -4684,7 +4776,7 @@ Treasures of the Hall Gold,5,Rick Barry,Golden State Warriors,10
 Treasures of the Hall Gold,6,David Thompson,Denver Nuggets,10
 Treasures of the Hall Gold,7,Dave Cowens,Boston Celtics,10
 Treasures of the Hall Gold,8,Robert Parish,Boston Celtics,10
-Treasures of the Hall Gold,9,Shaquille O'Neal ,Los Angeles Lakers,10
+Treasures of the Hall Gold,9,Shaquille O'Neal,Los Angeles Lakers,10
 Treasures of the Hall Gold,10,Gail Goodrich,Los Angeles Lakers,10
 Treasures of the Hall Gold,11,Kareem Abdul-Jabbar,Milwaukee Bucks,10
 Treasures of the Hall Gold,12,Adrian Dantley,Utah Jazz,10
@@ -4693,7 +4785,7 @@ Treasures of the Hall Gold,14,Bob McAdoo,Buffalo Braves,10
 Treasures of the Hall Gold,15,George Gervin,San Antonio Spurs,10
 Treasures of the Hall Gold,16,Tom Heinsohn,Boston Celtics,10
 Treasures of the Hall Gold,17,Bill Walton,Boston Celtics,10
-Treasures of the Hall Gold,18,Louie Dampier,Kentucky Colonels (ABA),10
+Treasures of the Hall Gold,18,Louie Dampier,Kentucky Colonels,10
 Treasures of the Hall Gold,19,Karl Malone,Utah Jazz,10
 Treasures of the Hall Gold,20,Sam Jones,Boston Celtics,10
 Treasures of the Hall Platinum,1,Magic Johnson,Los Angeles Lakers,1
@@ -4704,7 +4796,7 @@ Treasures of the Hall Platinum,5,Rick Barry,Golden State Warriors,1
 Treasures of the Hall Platinum,6,David Thompson,Denver Nuggets,1
 Treasures of the Hall Platinum,7,Dave Cowens,Boston Celtics,1
 Treasures of the Hall Platinum,8,Robert Parish,Boston Celtics,1
-Treasures of the Hall Platinum,9,Shaquille O'Neal ,Los Angeles Lakers,1
+Treasures of the Hall Platinum,9,Shaquille O'Neal,Los Angeles Lakers,1
 Treasures of the Hall Platinum,10,Gail Goodrich,Los Angeles Lakers,1
 Treasures of the Hall Platinum,11,Kareem Abdul-Jabbar,Milwaukee Bucks,1
 Treasures of the Hall Platinum,12,Adrian Dantley,Utah Jazz,1
@@ -4713,7 +4805,7 @@ Treasures of the Hall Platinum,14,Bob McAdoo,Buffalo Braves,1
 Treasures of the Hall Platinum,15,George Gervin,San Antonio Spurs,1
 Treasures of the Hall Platinum,16,Tom Heinsohn,Boston Celtics,1
 Treasures of the Hall Platinum,17,Bill Walton,Boston Celtics,1
-Treasures of the Hall Platinum,18,Louie Dampier,Kentucky Colonels (ABA),1
+Treasures of the Hall Platinum,18,Louie Dampier,Kentucky Colonels,1
 Treasures of the Hall Platinum,19,Karl Malone,Utah Jazz,1
 Treasures of the Hall Platinum,20,Sam Jones,Boston Celtics,1
 Tremendous Treasures,1,Nikola Vucevic,Orlando Magic,99
