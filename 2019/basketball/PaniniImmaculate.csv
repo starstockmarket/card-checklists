@@ -1,0 +1,917 @@
+Card Set,Number,Player,Team,Seq.
+Autographs,41,Artis Gilmore,Jacksonville Dolphins,25
+Autographs,42,Bob McAdoo,North Carolina Tar Heels,25
+Autographs,43,Calvin Murphy,Niagara Purple Eagles,25
+Autographs,44,Christian Laettner,Duke Blue Devils,25
+Autographs,45,Dan Issel,Kentucky Wildcats,25
+Autographs,46,David Robinson,Navy Midshipmen,25
+Autographs,47,Elvin Hayes,Houston Cougars,25
+Autographs,48,Eric Bledsoe,Kentucky Wildcats,25
+Autographs,49,Hakeem Olajuwon,Houston Cougars,25
+Autographs,50,Jamaal Wilkes,UCLA Bruins,25
+Autographs,51,Jeff Sheppard,Kentucky Wildcats,25
+Autographs,52,Jerry West,West Virginia Mountaineers,25
+Autographs,53,JJ Redick,Duke Blue Devils,25
+Autographs,54,Kyrie Irving,Duke Blue Devils,25
+Autographs,55,Magic Johnson,Michigan State Spartans,25
+Autographs,56,Marcus Camby,UMass Minutemen,25
+Autographs,57,Mark Aguirre,DePaul Blue Demons,25
+Autographs,58,Monte Morris,Iowa State Cyclones,25
+Autographs,59,Sam Perkins,North Carolina Tar Heels,25
+Autographs,60,Wayne Turner,Kentucky Wildcats,25
+Autographs Gold,41,Artis Gilmore,Jacksonville Dolphins,10
+Autographs Gold,42,Bob McAdoo,North Carolina Tar Heels,10
+Autographs Gold,43,Calvin Murphy,Niagara Purple Eagles,10
+Autographs Gold,44,Christian Laettner,Duke Blue Devils,10
+Autographs Gold,45,Dan Issel,Kentucky Wildcats,10
+Autographs Gold,46,David Robinson,Navy Midshipmen,10
+Autographs Gold,47,Elvin Hayes,Houston Cougars,10
+Autographs Gold,48,Eric Bledsoe,Kentucky Wildcats,10
+Autographs Gold,49,Hakeem Olajuwon,Houston Cougars,10
+Autographs Gold,50,Jamaal Wilkes,UCLA Bruins,10
+Autographs Gold,51,Jeff Sheppard,Kentucky Wildcats,10
+Autographs Gold,52,Jerry West,West Virginia Mountaineers,10
+Autographs Gold,53,JJ Redick,Duke Blue Devils,10
+Autographs Gold,54,Kyrie Irving,Duke Blue Devils,10
+Autographs Gold,55,Magic Johnson,Michigan State Spartans,10
+Autographs Gold,56,Marcus Camby,UMass Minutemen,10
+Autographs Gold,57,Mark Aguirre,DePaul Blue Demons,10
+Autographs Gold,58,Monte Morris,Iowa State Cyclones,10
+Autographs Gold,59,Sam Perkins,North Carolina Tar Heels,10
+Autographs Gold,60,Wayne Turner,Kentucky Wildcats,10
+Autographs Green,41,Artis Gilmore,Jacksonville Dolphins,5
+Autographs Green,42,Bob McAdoo,North Carolina Tar Heels,5
+Autographs Green,43,Calvin Murphy,Niagara Purple Eagles,5
+Autographs Green,44,Christian Laettner,Duke Blue Devils,5
+Autographs Green,45,Dan Issel,Kentucky Wildcats,5
+Autographs Green,46,David Robinson,Navy Midshipmen,5
+Autographs Green,47,Elvin Hayes,Houston Cougars,5
+Autographs Green,48,Eric Bledsoe,Kentucky Wildcats,5
+Autographs Green,49,Hakeem Olajuwon,Houston Cougars,5
+Autographs Green,50,Jamaal Wilkes,UCLA Bruins,5
+Autographs Green,51,Jeff Sheppard,Kentucky Wildcats,5
+Autographs Green,52,Jerry West,West Virginia Mountaineers,5
+Autographs Green,53,JJ Redick,Duke Blue Devils,5
+Autographs Green,54,Kyrie Irving,Duke Blue Devils,5
+Autographs Green,55,Magic Johnson,Michigan State Spartans,5
+Autographs Green,56,Marcus Camby,UMass Minutemen,5
+Autographs Green,57,Mark Aguirre,DePaul Blue Demons,5
+Autographs Green,58,Monte Morris,Iowa State Cyclones,5
+Autographs Green,59,Sam Perkins,North Carolina Tar Heels,5
+Autographs Green,60,Wayne Turner,Kentucky Wildcats,5
+Autographs Platinum,41,Artis Gilmore,Jacksonville Dolphins,1
+Autographs Platinum,42,Bob McAdoo,North Carolina Tar Heels,1
+Autographs Platinum,43,Calvin Murphy,Niagara Purple Eagles,1
+Autographs Platinum,44,Christian Laettner,Duke Blue Devils,1
+Autographs Platinum,45,Dan Issel,Kentucky Wildcats,1
+Autographs Platinum,46,David Robinson,Navy Midshipmen,1
+Autographs Platinum,47,Elvin Hayes,Houston Cougars,1
+Autographs Platinum,48,Eric Bledsoe,Kentucky Wildcats,1
+Autographs Platinum,49,Hakeem Olajuwon,Houston Cougars,1
+Autographs Platinum,50,Jamaal Wilkes,UCLA Bruins,1
+Autographs Platinum,51,Jeff Sheppard,Kentucky Wildcats,1
+Autographs Platinum,52,Jerry West,West Virginia Mountaineers,1
+Autographs Platinum,53,JJ Redick,Duke Blue Devils,1
+Autographs Platinum,54,Kyrie Irving,Duke Blue Devils,1
+Autographs Platinum,55,Magic Johnson,Michigan State Spartans,1
+Autographs Platinum,56,Marcus Camby,UMass Minutemen,1
+Autographs Platinum,57,Mark Aguirre,DePaul Blue Demons,1
+Autographs Platinum,58,Monte Morris,Iowa State Cyclones,1
+Autographs Platinum,59,Sam Perkins,North Carolina Tar Heels,1
+Autographs Platinum,60,Wayne Turner,Kentucky Wildcats,1
+Base,1,Anthony Davis,Kentucky Wildcats,80
+Base,2,Ben Simmons,LSU Tigers,80
+Base,3,Charles Barkley,Auburn Tigers,80
+Base,4,De'Aaron Fox,Kentucky Wildcats,80
+Base,5,Deandre Ayton,Arizona Wildcats,80
+Base,6,Devin Booker,Kentucky Wildcats,80
+Base,7,Donovan Mitchell,Louisville Cardinals,80
+Base,8,James Harden,Arizona State Sun Devils,80
+Base,9,Jayson Tatum,Duke Blue Devils,80
+Base,10,Joel Embiid,Kansas Jayhawks,80
+Base,11,Kawhi Leonard,San Diego State Aztecs,80
+Base,12,Kevin Durant,Texas Longhorns,80
+Base,13,Kyle Kuzma,Utah Utes,80
+Base,14,Kyrie Irving,Duke Blue Devils,80
+Base,15,Larry Bird,Indiana State Sycamores,80
+Base,16,Magic Johnson,Michigan State Spartans,80
+Base,17,Russell Westbrook,UCLA Bruins,80
+Base,18,Shaquille O'Neal,LSU Tigers,80
+Base,19,Stephen Curry,Davidson Wildcats,80
+Base,20,Trae Young,Oklahoma Sooners,80
+Base Gold,1,Anthony Davis,Kentucky Wildcats,10
+Base Gold,2,Ben Simmons,LSU Tigers,10
+Base Gold,3,Charles Barkley,Auburn Tigers,10
+Base Gold,4,De'Aaron Fox,Kentucky Wildcats,10
+Base Gold,5,Deandre Ayton,Arizona Wildcats,10
+Base Gold,6,Devin Booker,Kentucky Wildcats,10
+Base Gold,7,Donovan Mitchell,Louisville Cardinals,10
+Base Gold,8,James Harden,Arizona State Sun Devils,10
+Base Gold,9,Jayson Tatum,Duke Blue Devils,10
+Base Gold,10,Joel Embiid,Kansas Jayhawks,10
+Base Gold,11,Kawhi Leonard,San Diego State Aztecs,10
+Base Gold,12,Kevin Durant,Texas Longhorns,10
+Base Gold,13,Kyle Kuzma,Utah Utes,10
+Base Gold,14,Kyrie Irving,Duke Blue Devils,10
+Base Gold,15,Larry Bird,Indiana State Sycamores,10
+Base Gold,16,Magic Johnson,Michigan State Spartans,10
+Base Gold,17,Russell Westbrook,UCLA Bruins,10
+Base Gold,18,Shaquille O'Neal,LSU Tigers,10
+Base Gold,19,Stephen Curry,Davidson Wildcats,10
+Base Gold,20,Trae Young,Oklahoma Sooners,10
+Base Green,1,Anthony Davis,Kentucky Wildcats,5
+Base Green,2,Ben Simmons,LSU Tigers,5
+Base Green,3,Charles Barkley,Auburn Tigers,5
+Base Green,4,De'Aaron Fox,Kentucky Wildcats,5
+Base Green,5,Deandre Ayton,Arizona Wildcats,5
+Base Green,6,Devin Booker,Kentucky Wildcats,5
+Base Green,7,Donovan Mitchell,Louisville Cardinals,5
+Base Green,8,James Harden,Arizona State Sun Devils,5
+Base Green,9,Jayson Tatum,Duke Blue Devils,5
+Base Green,10,Joel Embiid,Kansas Jayhawks,5
+Base Green,11,Kawhi Leonard,San Diego State Aztecs,5
+Base Green,12,Kevin Durant,Texas Longhorns,5
+Base Green,13,Kyle Kuzma,Utah Utes,5
+Base Green,14,Kyrie Irving,Duke Blue Devils,5
+Base Green,15,Larry Bird,Indiana State Sycamores,5
+Base Green,16,Magic Johnson,Michigan State Spartans,5
+Base Green,17,Russell Westbrook,UCLA Bruins,5
+Base Green,18,Shaquille O'Neal,LSU Tigers,5
+Base Green,19,Stephen Curry,Davidson Wildcats,5
+Base Green,20,Trae Young,Oklahoma Sooners,5
+Base Platinum,1,Anthony Davis,Kentucky Wildcats,1
+Base Platinum,2,Ben Simmons,LSU Tigers,1
+Base Platinum,3,Charles Barkley,Auburn Tigers,1
+Base Platinum,4,De'Aaron Fox,Kentucky Wildcats,1
+Base Platinum,5,Deandre Ayton,Arizona Wildcats,1
+Base Platinum,6,Devin Booker,Kentucky Wildcats,1
+Base Platinum,7,Donovan Mitchell,Louisville Cardinals,1
+Base Platinum,8,James Harden,Arizona State Sun Devils,1
+Base Platinum,9,Jayson Tatum,Duke Blue Devils,1
+Base Platinum,10,Joel Embiid,Kansas Jayhawks,1
+Base Platinum,11,Kawhi Leonard,San Diego State Aztecs,1
+Base Platinum,12,Kevin Durant,Texas Longhorns,1
+Base Platinum,13,Kyle Kuzma,Utah Utes,1
+Base Platinum,14,Kyrie Irving,Duke Blue Devils,1
+Base Platinum,15,Larry Bird,Indiana State Sycamores,1
+Base Platinum,16,Magic Johnson,Michigan State Spartans,1
+Base Platinum,17,Russell Westbrook,UCLA Bruins,1
+Base Platinum,18,Shaquille O'Neal,LSU Tigers,1
+Base Platinum,19,Stephen Curry,Davidson Wildcats,1
+Base Platinum,20,Trae Young,Oklahoma Sooners,1
+Combos Relics,1,Brandon Clarke - Rui Hachimura,Gonzaga Bulldogs - Gonzaga Bulldogs,10
+Combos Relics,2,De'Andre Hunter - Ty Jerome,Virginia Cavaliers - Virginia Cavaliers,10
+Combos Relics,3,RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils,10
+Combos Relics,4,Dedric Lawson - Devonte' Graham,Kansas Jayhawks - Kansas Jayhawks,10
+Combos Relics,5,Cam Reddish - Zion Williamson,Duke Blue Devils - Duke Blue Devils,10
+Combos Relics,6,Jarrett Culver - Romeo Langford,Texas Tech Red Raiders - Indiana Hoosiers,10
+Combos Relics,7,Jarrett Culver - Zhaire Smith,Texas Tech Red Raiders - Texas Tech Red Raiders,10
+Combos Relics,8,Admiral Schofield - Grant Williams,Tennessee Volunteers - Tennessee Volunteers,10
+Combos Relics,9,Bol Bol - Troy Brown Jr.,Oregon Ducks - Oregon Ducks,10
+Combos Relics,10,Buddy Hield - Trae Young,Oklahoma Sooners - Oklahoma Sooners,10
+Combos Relics,11,Jontay Porter - Michael Porter Jr.,Missouri Tigers - Missouri Tigers,10
+Combos Relics,12,Ignas Brazdeikis - Moritz Wagner,Michigan Wolverines - Michigan Wolverines,10
+Combos Relics,13,Bruno Fernando - Kevin Huerter,Maryland Terrapins - Maryland Terrapins,10
+Combos Relics,14,Donovan Mitchell - Montrezl Harrell,Louisville Cardinals - Louisville Cardinals,10
+Combos Relics,15,Deandre Ayton - Zion Williamson,Arizona Wildcats - Duke Blue Devils,10
+Combos Relics Prime,1,Brandon Clarke - Rui Hachimura,Gonzaga Bulldogs - Gonzaga Bulldogs,5
+Combos Relics Prime,2,De'Andre Hunter - Ty Jerome,Virginia Cavaliers - Virginia Cavaliers,5
+Combos Relics Prime,3,RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils,5
+Combos Relics Prime,4,Dedric Lawson - Devonte' Graham,Kansas Jayhawks - Kansas Jayhawks,5
+Combos Relics Prime,5,Cam Reddish - Zion Williamson,Duke Blue Devils - Duke Blue Devils,5
+Combos Relics Prime,6,Jarrett Culver - Romeo Langford,Texas Tech Red Raiders - Indiana Hoosiers,5
+Combos Relics Prime,7,Jarrett Culver - Zhaire Smith,Texas Tech Red Raiders - Texas Tech Red Raiders,5
+Combos Relics Prime,8,Admiral Schofield - Grant Williams,Tennessee Volunteers - Tennessee Volunteers,5
+Combos Relics Prime,9,Bol Bol - Troy Brown Jr.,Oregon Ducks - Oregon Ducks,5
+Combos Relics Prime,10,Buddy Hield - Trae Young,Oklahoma Sooners - Oklahoma Sooners,5
+Combos Relics Prime,11,Jontay Porter - Michael Porter Jr.,Missouri Tigers - Missouri Tigers,5
+Combos Relics Prime,12,Ignas Brazdeikis - Moritz Wagner,Michigan Wolverines - Michigan Wolverines,5
+Combos Relics Prime,13,Bruno Fernando - Kevin Huerter,Maryland Terrapins - Maryland Terrapins,5
+Combos Relics Prime,14,Donovan Mitchell - Montrezl Harrell,Louisville Cardinals - Louisville Cardinals,5
+Combos Relics Prime,15,Deandre Ayton - Zion Williamson,Arizona Wildcats - Duke Blue Devils,5
+Combos Relics Tags,1,Brandon Clarke - Rui Hachimura,Gonzaga Bulldogs - Gonzaga Bulldogs,1
+Combos Relics Tags,2,De'Andre Hunter - Ty Jerome,Virginia Cavaliers - Virginia Cavaliers,1
+Combos Relics Tags,3,RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils,1
+Combos Relics Tags,4,Dedric Lawson - Devonte' Graham,Kansas Jayhawks - Kansas Jayhawks,1
+Combos Relics Tags,5,Cam Reddish - Zion Williamson,Duke Blue Devils - Duke Blue Devils,1
+Combos Relics Tags,6,Jarrett Culver - Romeo Langford,Texas Tech Red Raiders - Indiana Hoosiers,1
+Combos Relics Tags,7,Jarrett Culver - Zhaire Smith,Texas Tech Red Raiders - Texas Tech Red Raiders,1
+Combos Relics Tags,8,Admiral Schofield - Grant Williams,Tennessee Volunteers - Tennessee Volunteers,1
+Combos Relics Tags,9,Bol Bol - Troy Brown Jr.,Oregon Ducks - Oregon Ducks,1
+Combos Relics Tags,10,Buddy Hield - Trae Young,Oklahoma Sooners - Oklahoma Sooners,1
+Combos Relics Tags,11,Jontay Porter - Michael Porter Jr.,Missouri Tigers - Missouri Tigers,1
+Combos Relics Tags,12,Ignas Brazdeikis - Moritz Wagner,Michigan Wolverines - Michigan Wolverines,1
+Combos Relics Tags,13,Bruno Fernando - Kevin Huerter,Maryland Terrapins - Maryland Terrapins,1
+Combos Relics Tags,14,Donovan Mitchell - Montrezl Harrell,Louisville Cardinals - Louisville Cardinals,1
+Combos Relics Tags,15,Deandre Ayton - Zion Williamson,Arizona Wildcats - Duke Blue Devils,1
+Immaculate Dual Autographs,1,Brandon Clarke - Rui Hachimura,Gonzaga Bulldogs - Gonzaga Bulldogs,25
+Immaculate Dual Autographs,2,De'Andre Hunter - Ty Jerome,Virginia Cavaliers - Virginia Cavaliers,25
+Immaculate Dual Autographs,3,RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils,25
+Immaculate Dual Autographs,4,Admiral Schofield - Grant Williams,Tennessee Volunteers - Tennessee Volunteers,25
+Immaculate Dual Autographs,5,Coby White - Nassir Little,North Carolina Tar Heels - North Carolina Tar Heels,25
+Immaculate Dual Autographs,6,Keldon Johnson - Tyler Herro,Kentucky Wildcats - Kentucky Wildcats,25
+Immaculate Dual Autographs Gold,1,Brandon Clarke - Rui Hachimura,Gonzaga Bulldogs - Gonzaga Bulldogs,10
+Immaculate Dual Autographs Gold,2,De'Andre Hunter - Ty Jerome,Virginia Cavaliers - Virginia Cavaliers,10
+Immaculate Dual Autographs Gold,3,RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils,10
+Immaculate Dual Autographs Gold,4,Admiral Schofield - Grant Williams,Tennessee Volunteers - Tennessee Volunteers,10
+Immaculate Dual Autographs Gold,5,Coby White - Nassir Little,North Carolina Tar Heels - North Carolina Tar Heels,10
+Immaculate Dual Autographs Gold,6,Keldon Johnson - Tyler Herro,Kentucky Wildcats - Kentucky Wildcats,10
+Immaculate Dual Autographs Platinum,1,Brandon Clarke - Rui Hachimura,Gonzaga Bulldogs - Gonzaga Bulldogs,1
+Immaculate Dual Autographs Platinum,2,De'Andre Hunter - Ty Jerome,Virginia Cavaliers - Virginia Cavaliers,1
+Immaculate Dual Autographs Platinum,3,RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils,1
+Immaculate Dual Autographs Platinum,4,Admiral Schofield - Grant Williams,Tennessee Volunteers - Tennessee Volunteers,1
+Immaculate Dual Autographs Platinum,5,Coby White - Nassir Little,North Carolina Tar Heels - North Carolina Tar Heels,1
+Immaculate Dual Autographs Platinum,6,Keldon Johnson - Tyler Herro,Kentucky Wildcats - Kentucky Wildcats,1
+Immaculate Dual Brand Logos,1,RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils,1
+Immaculate Dual Brand Logos,2,Cam Reddish - Zion Williamson,Duke Blue Devils - Duke Blue Devils,1
+Immaculate Dual Brand Logos,3,Coby White - Nassir Little,North Carolina Tar Heels - North Carolina Tar Heels,1
+Immaculate Dual Brand Logos,4,Keldon Johnson - PJ Washington Jr.,Kentucky Wildcats - Kentucky Wildcats,1
+Immaculate Dual Brand Logos,5,Dedric Lawson - Devonte' Graham,Kansas Jayhawks - Kansas Jayhawks,1
+Immaculate Dual Brand Logos,6,Admiral Schofield - Grant Williams,Tennessee Volunteers - Tennessee Volunteers,1
+Immaculate Dual Brand Logos,8,Brandon Clarke - Rui Hachimura,Gonzaga Bulldogs - Gonzaga Bulldogs,1
+Immaculate Dual Brand Logos,9,Jontay Porter - Michael Porter Jr.,Missouri Tigers - Missouri Tigers,1
+Immaculate Dual Brand Logos,11,Eric Paschall - Mikal Bridges,Villanova Wildcats - Villanova Wildcats,1
+Immaculate Dual Brand Logos,12,Keldon Johnson - Tyler Herro,Kentucky Wildcats - Kentucky Wildcats,1
+Immaculate Dual Brand Logos,13,Donte DiVincenzo - Eric Paschall,Villanova Wildcats - Villanova Wildcats,1
+Immaculate Dual Brand Logos,15,Jarrett Culver - Kevin Porter Jr.,Texas Tech Red Raiders - USC Trojans,1
+Immaculate Dual Brand Logos,17,Bol Bol - Louis King,Oregon Ducks - Oregon Ducks,1
+Immaculate Dual Brand Logos,18,Bruno Fernando - Kevin Huerter,Maryland Terrapins - Maryland Terrapins,1
+Immaculate Dual Brand Logos,19,Aaron Holiday - Kris Wilkes,UCLA Bruins - UCLA Bruins,1
+Immaculate Dual Brand Logos,20,Ignas Brazdeikis - Moritz Wagner,Michigan Wolverines - Michigan Wolverines,1
+Immaculate Dual Team Logo Shields,1,RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils,1
+Immaculate Dual Team Logo Shields,2,Cam Reddish - Zion Williamson,Duke Blue Devils - Duke Blue Devils,1
+Immaculate Dual Team Logo Shields,3,Coby White - Nassir Little,North Carolina Tar Heels - North Carolina Tar Heels,1
+Immaculate Dual Team Logo Shields,4,Keldon Johnson - PJ Washington Jr.,Kentucky Wildcats - Kentucky Wildcats,1
+Immaculate Dual Team Logo Shields,12,Keldon Johnson - Tyler Herro,Kentucky Wildcats - Kentucky Wildcats,1
+Immaculate Dual Team Logo Shields,17,Bol Bol - Louis King,Oregon Ducks - Oregon Ducks,1
+Immaculate Ink Combos,61,Admiral Schofield - Grant Williams,Tennessee Volunteers - Tennessee Volunteers,10
+Immaculate Ink Combos,63,Jontay Porter - Michael Porter Jr.,Missouri Tigers - Missouri Tigers,10
+Immaculate Ink Combos,64,Jarrett Culver - Zhaire Smith,Texas Tech Red Raiders - Texas Tech Red Raiders,10
+Immaculate Ink Combos,65,Bruno Fernando - Kevin Huerter,Maryland Terrapins - Maryland Terrapins,10
+Immaculate Ink Combos,66,Deandre Ayton - Zion Williamson,Arizona Wildcats - Duke Blue Devils,10
+Immaculate Ink Combos,67,Ja Morant - Trae Young,Murray State Racers - Oklahoma Sooners,10
+Immaculate Ink Combos,68,Jaxson Hayes - Mo Bamba,Texas Longhorns - Texas Longhorns,10
+Immaculate Ink Combos,69,De'Andre Hunter - Ty Jerome,Virginia Cavaliers - Virginia Cavaliers,10
+Immaculate Ink Combos,70,Bol Bol - Tacko Fall,Oregon Ducks - UCF Knights,10
+Immaculate Jumbos,1,Zion Williamson,Duke Blue Devils,10
+Immaculate Jumbos,2,Ja Morant,Murray State Racers,10
+Immaculate Jumbos,3,RJ Barrett,Duke Blue Devils,10
+Immaculate Jumbos,4,Cam Reddish,Duke Blue Devils,10
+Immaculate Jumbos,5,Jarrett Culver,Texas Tech Red Raiders,10
+Immaculate Jumbos,6,De'Andre Hunter,Virginia Cavaliers,10
+Immaculate Jumbos,7,Coby White,North Carolina Tar Heels,10
+Immaculate Jumbos,8,Romeo Langford,Indiana Hoosiers,10
+Immaculate Jumbos,9,Bol Bol,Oregon Ducks,10
+Immaculate Jumbos,10,PJ Washington Jr.,Kentucky Wildcats,10
+Immaculate Jumbos,11,Kevin Porter Jr.,USC Trojans,10
+Immaculate Jumbos,12,Brandon Clarke,Gonzaga Bulldogs,10
+Immaculate Jumbos,13,Tyler Herro,Kentucky Wildcats,10
+Immaculate Jumbos,14,Nassir Little,North Carolina Tar Heels,10
+Immaculate Jumbos,15,Rui Hachimura,Gonzaga Bulldogs,10
+Immaculate Jumbos,16,Cameron Johnson,North Carolina Tar Heels,10
+Immaculate Jumbos,17,Keldon Johnson,Kentucky Wildcats,10
+Immaculate Jumbos,18,Nickeil Alexander-Walker,Virginia Tech Hokies,10
+Immaculate Jumbos,19,KZ Okpala,Stanford Cardinal,10
+Immaculate Jumbos,20,Carsen Edwards,Purdue Boilermakers,10
+Immaculate Jumbos Championship Logo,6,De'Andre Hunter,Virginia Cavaliers,1
+Immaculate Jumbos Championship Logo,15,Rui Hachimura,Gonzaga Bulldogs,5
+Immaculate Jumbos Conference Logo,1,Zion Williamson,Duke Blue Devils,1
+Immaculate Jumbos Conference Logo,2,Ja Morant,Murray State Racers,1
+Immaculate Jumbos Conference Logo,3,RJ Barrett,Duke Blue Devils,1
+Immaculate Jumbos Conference Logo,4,Cam Reddish,Duke Blue Devils,1
+Immaculate Jumbos Conference Logo,5,Jarrett Culver,Texas Tech Red Raiders,1
+Immaculate Jumbos Conference Logo,6,De'Andre Hunter,Virginia Cavaliers,1
+Immaculate Jumbos Conference Logo,7,Coby White,North Carolina Tar Heels,1
+Immaculate Jumbos Conference Logo,9,Bol Bol,Oregon Ducks,1
+Immaculate Jumbos Conference Logo,10,PJ Washington Jr.,Kentucky Wildcats,1
+Immaculate Jumbos Conference Logo,11,Kevin Porter Jr.,USC Trojans,1
+Immaculate Jumbos Conference Logo,13,Tyler Herro,Kentucky Wildcats,1
+Immaculate Jumbos Conference Logo,14,Nassir Little,North Carolina Tar Heels,1
+Immaculate Jumbos Conference Logo,16,Cameron Johnson,North Carolina Tar Heels,1
+Immaculate Jumbos Conference Logo,17,Keldon Johnson,Kentucky Wildcats,1
+Immaculate Jumbos Conference Logo,18,Nickeil Alexander-Walker,Virginia Tech Hokies,1
+Immaculate Jumbos Conference Logo,19,KZ Okpala,Stanford Cardinal,1
+Immaculate Jumbos Conference Logo,20,Carsen Edwards,Purdue Boilermakers,1
+Immaculate Jumbos Numbers,1,Zion Williamson,Duke Blue Devils,5
+Immaculate Jumbos Numbers,2,Ja Morant,Murray State Racers,5
+Immaculate Jumbos Numbers,3,RJ Barrett,Duke Blue Devils,5
+Immaculate Jumbos Numbers,4,Cam Reddish,Duke Blue Devils,5
+Immaculate Jumbos Numbers,5,Jarrett Culver,Texas Tech Red Raiders,1
+Immaculate Jumbos Numbers,6,De'Andre Hunter,Virginia Cavaliers,1
+Immaculate Jumbos Numbers,7,Coby White,North Carolina Tar Heels,5
+Immaculate Jumbos Numbers,8,Romeo Langford,Indiana Hoosiers,5
+Immaculate Jumbos Numbers,9,Bol Bol,Oregon Ducks,5
+Immaculate Jumbos Numbers,10,PJ Washington Jr.,Kentucky Wildcats,5
+Immaculate Jumbos Numbers,11,Kevin Porter Jr.,USC Trojans,5
+Immaculate Jumbos Numbers,12,Brandon Clarke,Gonzaga Bulldogs,5
+Immaculate Jumbos Numbers,13,Tyler Herro,Kentucky Wildcats,1
+Immaculate Jumbos Numbers,14,Nassir Little,North Carolina Tar Heels,5
+Immaculate Jumbos Numbers,15,Rui Hachimura,Gonzaga Bulldogs,5
+Immaculate Jumbos Numbers,16,Cameron Johnson,North Carolina Tar Heels,5
+Immaculate Jumbos Numbers,17,Keldon Johnson,Kentucky Wildcats,5
+Immaculate Jumbos Numbers,18,Nickeil Alexander-Walker,Virginia Tech Hokies,5
+Immaculate Jumbos Numbers,19,KZ Okpala,Stanford Cardinal,5
+Immaculate Jumbos Numbers,20,Carsen Edwards,Purdue Boilermakers,5
+Immaculate Jumbos Team Logos,1,Zion Williamson,Duke Blue Devils,1
+Immaculate Jumbos Team Logos,3,RJ Barrett,Duke Blue Devils,5
+Immaculate Jumbos Team Logos,4,Cam Reddish,Duke Blue Devils,5
+Immaculate Jumbos Team Logos,7,Coby White,North Carolina Tar Heels,5
+Immaculate Jumbos Team Logos,9,Bol Bol,Oregon Ducks,5
+Immaculate Jumbos Team Logos,10,PJ Washington Jr.,Kentucky Wildcats,5
+Immaculate Jumbos Team Logos,13,Tyler Herro,Kentucky Wildcats,1
+Immaculate Jumbos Team Logos,14,Nassir Little,North Carolina Tar Heels,5
+Immaculate Jumbos Team Logos,17,Keldon Johnson,Kentucky Wildcats,5
+Immaculate Numbers Memorabilia,21,Donovan Mitchell,Louisville Cardinals,10
+Immaculate Numbers Memorabilia,22,Montrezl Harrell,Louisville Cardinals,10
+Immaculate Numbers Memorabilia,23,Trae Young,Oklahoma Sooners,10
+Immaculate Numbers Memorabilia,24,Devin Booker,Kentucky Wildcats,10
+Immaculate Numbers Memorabilia,25,Kevin Durant,Texas Longhorns,10
+Immaculate Numbers Memorabilia,26,Karl-Anthony Towns,Kentucky Wildcats,10
+Immaculate Numbers Memorabilia,27,D'Angelo Russell,Ohio State Buckeyes,10
+Immaculate Numbers Memorabilia,28,Buddy Hield,Oklahoma Sooners,10
+Immaculate Numbers Memorabilia,30,Jamal Murray,Kentucky Wildcats,10
+Immaculate Numbers Memorabilia,31,De'Aaron Fox,Kentucky Wildcats,10
+Immaculate Numbers Memorabilia,32,Collin Sexton,Alabama Crimson Tide,10
+Immaculate Numbers Memorabilia,33,Deandre Ayton,Arizona Wildcats,10
+Immaculate Numbers Memorabilia,34,Jayson Tatum,Duke Blue Devils,10
+Immaculate Numbers Memorabilia,35,Malcolm Brogdon,Virginia Cavaliers,10
+Immaculate Numbers Memorabilia,36,Marvin Bagley III,Duke Blue Devils,10
+Immaculate Numbers Memorabilia,37,Jaren Jackson Jr.,Michigan State Spartans,10
+Immaculate Numbers Memorabilia,38,Jaylen Brown,Cal Golden Bears,10
+Immaculate Numbers Memorabilia,39,Myles Turner,Texas Longhorns,10
+Immaculate Numbers Memorabilia,40,Kevin Knox II,Kentucky Wildcats,10
+Immaculate Numbers Memorabilia Prime,21,Donovan Mitchell,Louisville Cardinals,5
+Immaculate Numbers Memorabilia Prime,22,Montrezl Harrell,Louisville Cardinals,5
+Immaculate Numbers Memorabilia Prime,23,Trae Young,Oklahoma Sooners,5
+Immaculate Numbers Memorabilia Prime,24,Devin Booker,Kentucky Wildcats,5
+Immaculate Numbers Memorabilia Prime,27,D'Angelo Russell,Ohio State Buckeyes,5
+Immaculate Numbers Memorabilia Prime,28,Buddy Hield,Oklahoma Sooners,5
+Immaculate Numbers Memorabilia Prime,30,Jamal Murray,Kentucky Wildcats,5
+Immaculate Numbers Memorabilia Prime,31,De'Aaron Fox,Kentucky Wildcats,5
+Immaculate Numbers Memorabilia Prime,32,Collin Sexton,Alabama Crimson Tide,5
+Immaculate Numbers Memorabilia Prime,33,Deandre Ayton,Arizona Wildcats,5
+Immaculate Numbers Memorabilia Prime,34,Jayson Tatum,Duke Blue Devils,5
+Immaculate Numbers Memorabilia Prime,35,Malcolm Brogdon,Virginia Cavaliers,5
+Immaculate Numbers Memorabilia Prime,36,Marvin Bagley III,Duke Blue Devils,5
+Immaculate Numbers Memorabilia Prime,37,Jaren Jackson Jr.,Michigan State Spartans,5
+Immaculate Numbers Memorabilia Prime,38,Jaylen Brown,Cal Golden Bears,5
+Immaculate Numbers Memorabilia Prime,39,Myles Turner,Texas Longhorns,5
+Immaculate Numbers Memorabilia Prime,40,Kevin Knox II,Kentucky Wildcats,5
+Immaculate Quads Autographs,1,Ja Morant - RJ Barrett - Rui Hachimura - Zion Williamson,Murray State Racers - Duke Blue Devils - Gonzaga Bulldogs - Duke Blue Devils,25
+Immaculate Quads Autographs Gold,1,Ja Morant - RJ Barrett - Rui Hachimura - Zion Williamson,Murray State Racers - Duke Blue Devils - Gonzaga Bulldogs - Duke Blue Devils,10
+Immaculate Quads Autographs Platinum,1,Ja Morant - RJ Barrett - Rui Hachimura - Zion Williamson,Murray State Racers - Duke Blue Devils - Gonzaga Bulldogs - Duke Blue Devils,1
+Immaculate Sneak Peek,1,Zion Williamson,Duke Blue Devils,8
+Immaculate Sneak Peek,2,Ja Morant,Murray State Racers,8
+Immaculate Sneak Peek,3,RJ Barrett,Duke Blue Devils,8
+Immaculate Sneak Peek,5,De'Andre Hunter,Virginia Cavaliers,8
+Immaculate Sneak Peek,6,Jarrett Culver,Texas Tech Red Raiders,8
+Immaculate Sneak Peek,7,Cam Reddish,Duke Blue Devils,8
+Immaculate Sneak Peek,8,Jaxson Hayes,Texas Longhorns,8
+Immaculate Sneak Peek,11,PJ Washington Jr.,Kentucky Wildcats,7
+Immaculate Sneak Peek,12,Romeo Langford,Indiana Hoosiers,8
+Immaculate Sneak Peek,15,Tyler Herro,Kentucky Wildcats,8
+Immaculate Sneak Peek,16,Nassir Little,North Carolina Tar Heels,8
+Immaculate Sneak Peek,19,Nickeil Alexander-Walker,Virginia Tech Hokies,8
+Immaculate Sneak Peek,20,Cameron Johnson,North Carolina Tar Heels,8
+Immaculate Sneakers,1,Zion Williamson,Duke Blue Devils,5
+Immaculate Sneakers,2,Ja Morant,Murray State Racers,5
+Immaculate Sneakers,3,RJ Barrett,Duke Blue Devils,5
+Immaculate Sneakers,5,De'Andre Hunter,Virginia Cavaliers,5
+Immaculate Sneakers,6,Jarrett Culver,Texas Tech Red Raiders,5
+Immaculate Sneakers,7,Cam Reddish,Duke Blue Devils,5
+Immaculate Sneakers,8,Jaxson Hayes,Texas Longhorns,5
+Immaculate Sneakers,11,PJ Washington Jr.,Kentucky Wildcats,5
+Immaculate Sneakers,12,Romeo Langford,Indiana Hoosiers,5
+Immaculate Sneakers,15,Tyler Herro,Kentucky Wildcats,5
+Immaculate Sneakers,16,Nassir Little,North Carolina Tar Heels,5
+Immaculate Sneakers,19,Nickeil Alexander-Walker,Virginia Tech Hokies,5
+Immaculate Sneakers,20,Cameron Johnson,North Carolina Tar Heels,5
+Immaculate Trios Autographs,1,Keldon Johnson - PJ Washington Jr. - Tyler Herro,Kentucky Wildcats - Kentucky Wildcats - Kentucky Wildcats,25
+Immaculate Trios Autographs,2,Cameron Johnson - Coby White - Nassir Little,North Carolina Tar Heels - North Carolina Tar Heels - North Carolina Tar Heels,25
+Immaculate Trios Autographs,3,Cam Reddish - RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils - Duke Blue Devils,25
+Immaculate Trios Autographs Gold,1,Keldon Johnson - PJ Washington Jr. - Tyler Herro,Kentucky Wildcats - Kentucky Wildcats - Kentucky Wildcats,10
+Immaculate Trios Autographs Gold,2,Cameron Johnson - Coby White - Nassir Little,North Carolina Tar Heels - North Carolina Tar Heels - North Carolina Tar Heels,10
+Immaculate Trios Autographs Gold,3,Cam Reddish - RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils - Duke Blue Devils,10
+Immaculate Trios Autographs Platinum,1,Keldon Johnson - PJ Washington Jr. - Tyler Herro,Kentucky Wildcats - Kentucky Wildcats - Kentucky Wildcats,1
+Immaculate Trios Autographs Platinum,2,Cameron Johnson - Coby White - Nassir Little,North Carolina Tar Heels - North Carolina Tar Heels - North Carolina Tar Heels,1
+Immaculate Trios Autographs Platinum,3,Cam Reddish - RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils - Duke Blue Devils,1
+Premium Patches Rookie Autographs,81,Zion Williamson,Duke Blue Devils,99
+Premium Patches Rookie Autographs,82,Ja Morant,Murray State Racers,99
+Premium Patches Rookie Autographs,83,RJ Barrett,Duke Blue Devils,99
+Premium Patches Rookie Autographs,84,Cam Reddish,Duke Blue Devils,99
+Premium Patches Rookie Autographs,86,Jarrett Culver,Texas Tech Red Raiders,25
+Premium Patches Rookie Autographs,87,De'Andre Hunter,Virginia Cavaliers,49
+Premium Patches Rookie Autographs,88,Coby White,North Carolina Tar Heels,99
+Premium Patches Rookie Autographs,89,Romeo Langford,Indiana Hoosiers,99
+Premium Patches Rookie Autographs,90,Jaxson Hayes,Texas Longhorns,49
+Premium Patches Rookie Autographs,91,Rui Hachimura,Gonzaga Bulldogs,99
+Premium Patches Rookie Autographs,92,Nassir Little,North Carolina Tar Heels,99
+Premium Patches Rookie Autographs,93,Keldon Johnson,Kentucky Wildcats,99
+Premium Patches Rookie Autographs,94,Bol Bol,Oregon Ducks,49
+Premium Patches Rookie Autographs,95,PJ Washington Jr.,Kentucky Wildcats,99
+Premium Patches Rookie Autographs,96,Bruno Fernando,Maryland Terrapins,25
+Premium Patches Rookie Autographs,97,Kevin Porter Jr.,USC Trojans,99
+Premium Patches Rookie Autographs,98,Brandon Clarke,Gonzaga Bulldogs,99
+Premium Patches Rookie Autographs,99,Cameron Johnson,North Carolina Tar Heels,99
+Premium Patches Rookie Autographs,100,KZ Okpala,Stanford Cardinal,99
+Premium Patches Rookie Autographs,101,Nickeil Alexander-Walker,Virginia Tech Hokies,99
+Premium Patches Rookie Autographs,103,Tyler Herro,Kentucky Wildcats,99
+Premium Patches Rookie Autographs,104,Carsen Edwards,Purdue Boilermakers,99
+Premium Patches Rookie Autographs,105,Ty Jerome,Virginia Cavaliers,99
+Premium Patches Rookie Autographs,106,Grant Williams,Tennessee Volunteers,25
+Premium Patches Rookie Autographs,107,Daniel Gafford,Arkansas Razorbacks,99
+Premium Patches Rookie Autographs,108,Eric Paschall,Villanova Wildcats,49
+Premium Patches Rookie Autographs,109,Ignas Brazdeikis,Michigan Wolverines,49
+Premium Patches Rookie Autographs,110,Mfiondu Kabengele,Florida State Seminoles,99
+Premium Patches Rookie Autographs Brand Logo,81,Zion Williamson,Duke Blue Devils,2
+Premium Patches Rookie Autographs Brand Logo,82,Ja Morant,Murray State Racers,2
+Premium Patches Rookie Autographs Brand Logo,83,RJ Barrett,Duke Blue Devils,2
+Premium Patches Rookie Autographs Brand Logo,84,Cam Reddish,Duke Blue Devils,2
+Premium Patches Rookie Autographs Brand Logo,86,Jarrett Culver,Texas Tech Red Raiders,1
+Premium Patches Rookie Autographs Brand Logo,87,De'Andre Hunter,Virginia Cavaliers,2
+Premium Patches Rookie Autographs Brand Logo,88,Coby White,North Carolina Tar Heels,5
+Premium Patches Rookie Autographs Brand Logo,89,Romeo Langford,Indiana Hoosiers,2
+Premium Patches Rookie Autographs Brand Logo,91,Rui Hachimura,Gonzaga Bulldogs,5
+Premium Patches Rookie Autographs Brand Logo,92,Nassir Little,North Carolina Tar Heels,5
+Premium Patches Rookie Autographs Brand Logo,93,Keldon Johnson,Kentucky Wildcats,5
+Premium Patches Rookie Autographs Brand Logo,94,Bol Bol,Oregon Ducks,2
+Premium Patches Rookie Autographs Brand Logo,95,PJ Washington Jr.,Kentucky Wildcats,5
+Premium Patches Rookie Autographs Brand Logo,96,Bruno Fernando,Maryland Terrapins,2
+Premium Patches Rookie Autographs Brand Logo,97,Kevin Porter Jr.,USC Trojans,5
+Premium Patches Rookie Autographs Brand Logo,98,Brandon Clarke,Gonzaga Bulldogs,2
+Premium Patches Rookie Autographs Brand Logo,99,Cameron Johnson,North Carolina Tar Heels,2
+Premium Patches Rookie Autographs Brand Logo,100,KZ Okpala,Stanford Cardinal,2
+Premium Patches Rookie Autographs Brand Logo,101,Nickeil Alexander-Walker,Virginia Tech Hokies,1
+Premium Patches Rookie Autographs Brand Logo,103,Tyler Herro,Kentucky Wildcats,2
+Premium Patches Rookie Autographs Brand Logo,104,Carsen Edwards,Purdue Boilermakers,5
+Premium Patches Rookie Autographs Brand Logo,106,Grant Williams,Tennessee Volunteers,1
+Premium Patches Rookie Autographs Brand Logo,107,Daniel Gafford,Arkansas Razorbacks,5
+Premium Patches Rookie Autographs Brand Logo,108,Eric Paschall,Villanova Wildcats,5
+Premium Patches Rookie Autographs Brand Logo,109,Ignas Brazdeikis,Michigan Wolverines,2
+Premium Patches Rookie Autographs Brand Logo,110,Mfiondu Kabengele,Florida State Seminoles,2
+Premium Patches Rookie Autographs Championship Logo,86,Jarrett Culver,Texas Tech Red Raiders,1
+Premium Patches Rookie Autographs Championship Logo,87,De'Andre Hunter,Virginia Cavaliers,5
+Premium Patches Rookie Autographs Championship Logo,91,Rui Hachimura,Gonzaga Bulldogs,5
+Premium Patches Rookie Autographs Championship Logo,98,Brandon Clarke,Gonzaga Bulldogs,1
+Premium Patches Rookie Autographs Championship Logo,105,Ty Jerome,Virginia Cavaliers,1
+Premium Patches Rookie Autographs Championship Logo,108,Eric Paschall,Villanova Wildcats,5
+Premium Patches Rookie Autographs Conference Logo,81,Zion Williamson,Duke Blue Devils,1
+Premium Patches Rookie Autographs Conference Logo,82,Ja Morant,Murray State Racers,1
+Premium Patches Rookie Autographs Conference Logo,83,RJ Barrett,Duke Blue Devils,1
+Premium Patches Rookie Autographs Conference Logo,84,Cam Reddish,Duke Blue Devils,1
+Premium Patches Rookie Autographs Conference Logo,86,Jarrett Culver,Texas Tech Red Raiders,1
+Premium Patches Rookie Autographs Conference Logo,87,De'Andre Hunter,Virginia Cavaliers,1
+Premium Patches Rookie Autographs Conference Logo,88,Coby White,North Carolina Tar Heels,1
+Premium Patches Rookie Autographs Conference Logo,89,Romeo Langford,Indiana Hoosiers,1
+Premium Patches Rookie Autographs Conference Logo,92,Nassir Little,North Carolina Tar Heels,1
+Premium Patches Rookie Autographs Conference Logo,93,Keldon Johnson,Kentucky Wildcats,1
+Premium Patches Rookie Autographs Conference Logo,94,Bol Bol,Oregon Ducks,1
+Premium Patches Rookie Autographs Conference Logo,95,PJ Washington Jr.,Kentucky Wildcats,1
+Premium Patches Rookie Autographs Conference Logo,96,Bruno Fernando,Maryland Terrapins,1
+Premium Patches Rookie Autographs Conference Logo,97,Kevin Porter Jr.,USC Trojans,1
+Premium Patches Rookie Autographs Conference Logo,99,Cameron Johnson,North Carolina Tar Heels,1
+Premium Patches Rookie Autographs Conference Logo,100,KZ Okpala,Stanford Cardinal,1
+Premium Patches Rookie Autographs Conference Logo,101,Nickeil Alexander-Walker,Virginia Tech Hokies,1
+Premium Patches Rookie Autographs Conference Logo,103,Tyler Herro,Kentucky Wildcats,1
+Premium Patches Rookie Autographs Conference Logo,104,Carsen Edwards,Purdue Boilermakers,1
+Premium Patches Rookie Autographs Conference Logo,105,Ty Jerome,Virginia Cavaliers,1
+Premium Patches Rookie Autographs Conference Logo,106,Grant Williams,Tennessee Volunteers,1
+Premium Patches Rookie Autographs Conference Logo,107,Daniel Gafford,Arkansas Razorbacks,1
+Premium Patches Rookie Autographs Conference Logo,109,Ignas Brazdeikis,Michigan Wolverines,1
+Premium Patches Rookie Autographs Conference Logo,110,Mfiondu Kabengele,Florida State Seminoles,1
+Premium Patches Rookie Autographs Gold,81,Zion Williamson,Duke Blue Devils,25
+Premium Patches Rookie Autographs Gold,82,Ja Morant,Murray State Racers,25
+Premium Patches Rookie Autographs Gold,83,RJ Barrett,Duke Blue Devils,25
+Premium Patches Rookie Autographs Gold,84,Cam Reddish,Duke Blue Devils,25
+Premium Patches Rookie Autographs Gold,86,Jarrett Culver,Texas Tech Red Raiders,10
+Premium Patches Rookie Autographs Gold,87,De'Andre Hunter,Virginia Cavaliers,25
+Premium Patches Rookie Autographs Gold,88,Coby White,North Carolina Tar Heels,25
+Premium Patches Rookie Autographs Gold,89,Romeo Langford,Indiana Hoosiers,25
+Premium Patches Rookie Autographs Gold,90,Jaxson Hayes,Texas Longhorns,25
+Premium Patches Rookie Autographs Gold,91,Rui Hachimura,Gonzaga Bulldogs,25
+Premium Patches Rookie Autographs Gold,92,Nassir Little,North Carolina Tar Heels,25
+Premium Patches Rookie Autographs Gold,93,Keldon Johnson,Kentucky Wildcats,25
+Premium Patches Rookie Autographs Gold,94,Bol Bol,Oregon Ducks,25
+Premium Patches Rookie Autographs Gold,95,PJ Washington Jr.,Kentucky Wildcats,25
+Premium Patches Rookie Autographs Gold,96,Bruno Fernando,Maryland Terrapins,10
+Premium Patches Rookie Autographs Gold,97,Kevin Porter Jr.,USC Trojans,25
+Premium Patches Rookie Autographs Gold,98,Brandon Clarke,Gonzaga Bulldogs,25
+Premium Patches Rookie Autographs Gold,99,Cameron Johnson,North Carolina Tar Heels,25
+Premium Patches Rookie Autographs Gold,100,KZ Okpala,Stanford Cardinal,25
+Premium Patches Rookie Autographs Gold,101,Nickeil Alexander-Walker,Virginia Tech Hokies,25
+Premium Patches Rookie Autographs Gold,103,Tyler Herro,Kentucky Wildcats,25
+Premium Patches Rookie Autographs Gold,104,Carsen Edwards,Purdue Boilermakers,25
+Premium Patches Rookie Autographs Gold,105,Ty Jerome,Virginia Cavaliers,25
+Premium Patches Rookie Autographs Gold,106,Grant Williams,Tennessee Volunteers,10
+Premium Patches Rookie Autographs Gold,107,Daniel Gafford,Arkansas Razorbacks,25
+Premium Patches Rookie Autographs Gold,108,Eric Paschall,Villanova Wildcats,25
+Premium Patches Rookie Autographs Gold,109,Ignas Brazdeikis,Michigan Wolverines,25
+Premium Patches Rookie Autographs Gold,110,Mfiondu Kabengele,Florida State Seminoles,25
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,81,Zion Williamson,Duke Blue Devils,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,82,Ja Morant,Murray State Racers,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,83,RJ Barrett,Duke Blue Devils,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,84,Cam Reddish,Duke Blue Devils,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,86,Jarrett Culver,Texas Tech Red Raiders,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,87,De'Andre Hunter,Virginia Cavaliers,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,88,Coby White,North Carolina Tar Heels,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,89,Romeo Langford,Indiana Hoosiers,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,90,Jaxson Hayes,Texas Longhorns,1
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,91,Rui Hachimura,Gonzaga Bulldogs,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,92,Nassir Little,North Carolina Tar Heels,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,93,Keldon Johnson,Kentucky Wildcats,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,94,Bol Bol,Oregon Ducks,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,95,PJ Washington Jr.,Kentucky Wildcats,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,96,Bruno Fernando,Maryland Terrapins,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,97,Kevin Porter Jr.,USC Trojans,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,98,Brandon Clarke,Gonzaga Bulldogs,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,99,Cameron Johnson,North Carolina Tar Heels,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,100,KZ Okpala,Stanford Cardinal,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,101,Nickeil Alexander-Walker,Virginia Tech Hokies,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,103,Tyler Herro,Kentucky Wildcats,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,104,Carsen Edwards,Purdue Boilermakers,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,105,Ty Jerome,Virginia Cavaliers,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,106,Grant Williams,Tennessee Volunteers,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,107,Daniel Gafford,Arkansas Razorbacks,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,108,Eric Paschall,Villanova Wildcats,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,109,Ignas Brazdeikis,Michigan Wolverines,5
+Premium Patches Rookie Autographs Laundry Tag Brand Logo,110,Mfiondu Kabengele,Florida State Seminoles,5
+Premium Patches Rookie Autographs Laundry Tag Team Logo,86,Jarrett Culver,Texas Tech Red Raiders,5
+Premium Patches Rookie Autographs Laundry Tag Team Logo,96,Bruno Fernando,Maryland Terrapins,5
+Premium Patches Rookie Autographs Platinum,81,Zion Williamson,Duke Blue Devils,1
+Premium Patches Rookie Autographs Platinum,82,Ja Morant,Murray State Racers,1
+Premium Patches Rookie Autographs Platinum,83,RJ Barrett,Duke Blue Devils,1
+Premium Patches Rookie Autographs Platinum,84,Cam Reddish,Duke Blue Devils,1
+Premium Patches Rookie Autographs Platinum,86,Jarrett Culver,Texas Tech Red Raiders,1
+Premium Patches Rookie Autographs Platinum,87,De'Andre Hunter,Virginia Cavaliers,1
+Premium Patches Rookie Autographs Platinum,88,Coby White,North Carolina Tar Heels,1
+Premium Patches Rookie Autographs Platinum,89,Romeo Langford,Indiana Hoosiers,1
+Premium Patches Rookie Autographs Platinum,90,Jaxson Hayes,Texas Longhorns,1
+Premium Patches Rookie Autographs Platinum,91,Rui Hachimura,Gonzaga Bulldogs,1
+Premium Patches Rookie Autographs Platinum,92,Nassir Little,North Carolina Tar Heels,1
+Premium Patches Rookie Autographs Platinum,93,Keldon Johnson,Kentucky Wildcats,1
+Premium Patches Rookie Autographs Platinum,94,Bol Bol,Oregon Ducks,1
+Premium Patches Rookie Autographs Platinum,95,PJ Washington Jr.,Kentucky Wildcats,1
+Premium Patches Rookie Autographs Platinum,96,Bruno Fernando,Maryland Terrapins,1
+Premium Patches Rookie Autographs Platinum,97,Kevin Porter Jr.,USC Trojans,1
+Premium Patches Rookie Autographs Platinum,98,Brandon Clarke,Gonzaga Bulldogs,1
+Premium Patches Rookie Autographs Platinum,99,Cameron Johnson,North Carolina Tar Heels,1
+Premium Patches Rookie Autographs Platinum,100,KZ Okpala,Stanford Cardinal,1
+Premium Patches Rookie Autographs Platinum,101,Nickeil Alexander-Walker,Virginia Tech Hokies,1
+Premium Patches Rookie Autographs Platinum,103,Tyler Herro,Kentucky Wildcats,1
+Premium Patches Rookie Autographs Platinum,104,Carsen Edwards,Purdue Boilermakers,1
+Premium Patches Rookie Autographs Platinum,105,Ty Jerome,Virginia Cavaliers,1
+Premium Patches Rookie Autographs Platinum,106,Grant Williams,Tennessee Volunteers,1
+Premium Patches Rookie Autographs Platinum,107,Daniel Gafford,Arkansas Razorbacks,1
+Premium Patches Rookie Autographs Platinum,108,Eric Paschall,Villanova Wildcats,1
+Premium Patches Rookie Autographs Platinum,109,Ignas Brazdeikis,Michigan Wolverines,1
+Premium Patches Rookie Autographs Platinum,110,Mfiondu Kabengele,Florida State Seminoles,1
+Premium Patches Rookie Autographs Team Logo Shield,81,Zion Williamson,Duke Blue Devils,1
+Premium Patches Rookie Autographs Team Logo Shield,83,RJ Barrett,Duke Blue Devils,1
+Premium Patches Rookie Autographs Team Logo Shield,84,Cam Reddish,Duke Blue Devils,1
+Premium Patches Rookie Autographs Team Logo Shield,88,Coby White,North Carolina Tar Heels,1
+Premium Patches Rookie Autographs Team Logo Shield,92,Nassir Little,North Carolina Tar Heels,1
+Premium Patches Rookie Autographs Team Logo Shield,93,Keldon Johnson,Kentucky Wildcats,1
+Premium Patches Rookie Autographs Team Logo Shield,94,Bol Bol,Oregon Ducks,1
+Premium Patches Rookie Autographs Team Logo Shield,95,PJ Washington Jr.,Kentucky Wildcats,1
+Premium Patches Rookie Autographs Team Logo Shield,103,Tyler Herro,Kentucky Wildcats,1
+Premium Patches Rookie Autographs Team Logo Shield,105,Ty Jerome,Virginia Cavaliers,1
+Premium Patches Rookie Autographs Team Slogan,104,Carsen Edwards,Purdue Boilermakers,5
+Premium Patches Rookie Autographs Team Slogan,108,Eric Paschall,Villanova Wildcats,5
+Quads Relics,1,Ja Morant - RJ Barrett - Rui Hachimura - Zion Williamson,Murray State Racers - Duke Blue Devils - Gonzaga Bulldogs - Duke Blue Devils,10
+Quads Relics,2,Donte DiVincenzo - Eric Paschall - Jalen Brunson - Mikal Bridges,Villanova Wildcats - Villanova Wildcats - Villanova Wildcats - Villanova Wildcats,10
+Quads Relics,3,De'Andre Hunter - Justin Anderson - Malcolm Brogdon - Ty Jerome,Virginia Cavaliers - Virginia Cavaliers - Virginia Cavaliers - Virginia Cavaliers,10
+Quads Relics,4,Aaron Holiday - Kris Wilkes - Lonzo Ball - TJ Leaf,UCLA Bruins - UCLA Bruins - UCLA Bruins - UCLA Bruins,10
+Quads Relics,5,Jaxson Hayes - Kevin Durant - Mo Bamba - Myles Turner,Texas Longhorns - Texas Longhorns - Texas Longhorns - Texas Longhorns,10
+Quads Relics,6,De'Aaron Fox - Devin Booker - Keldon Johnson - Kevin Knox II,Kentucky Wildcats - Kentucky Wildcats - Kentucky Wildcats - Kentucky Wildcats,10
+Quads Relics,7,Jayson Tatum - Marvin Bagley III - RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils - Duke Blue Devils - Duke Blue Devils,10
+Quads Relics,8,Donovan Mitchell - Karl-Anthony Towns - Malcolm Brogdon - Trae Young,Louisville Cardinals - Kentucky Wildcats - Virginia Cavaliers - Oklahoma Sooners,10
+Quads Relics Prime,1,Ja Morant - RJ Barrett - Rui Hachimura - Zion Williamson,Murray State Racers - Duke Blue Devils - Gonzaga Bulldogs - Duke Blue Devils,5
+Quads Relics Prime,2,Donte DiVincenzo - Eric Paschall - Jalen Brunson - Mikal Bridges,Villanova Wildcats - Villanova Wildcats - Villanova Wildcats - Villanova Wildcats,5
+Quads Relics Prime,3,De'Andre Hunter - Justin Anderson - Malcolm Brogdon - Ty Jerome,Virginia Cavaliers - Virginia Cavaliers - Virginia Cavaliers - Virginia Cavaliers,5
+Quads Relics Prime,4,Aaron Holiday - Kris Wilkes - Lonzo Ball - TJ Leaf,UCLA Bruins - UCLA Bruins - UCLA Bruins - UCLA Bruins,5
+Quads Relics Prime,5,Jaxson Hayes - Kevin Durant - Mo Bamba - Myles Turner,Texas Longhorns - Texas Longhorns - Texas Longhorns - Texas Longhorns,5
+Quads Relics Prime,6,De'Aaron Fox - Devin Booker - Keldon Johnson - Kevin Knox II,Kentucky Wildcats - Kentucky Wildcats - Kentucky Wildcats - Kentucky Wildcats,5
+Quads Relics Prime,7,Jayson Tatum - Marvin Bagley III - RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils - Duke Blue Devils - Duke Blue Devils,5
+Quads Relics Prime,8,Donovan Mitchell - Karl-Anthony Towns - Malcolm Brogdon - Trae Young,Louisville Cardinals - Kentucky Wildcats - Virginia Cavaliers - Oklahoma Sooners,5
+Quads Relics Tags,1,Ja Morant - RJ Barrett - Rui Hachimura - Zion Williamson,Murray State Racers - Duke Blue Devils - Gonzaga Bulldogs - Duke Blue Devils,1
+Quads Relics Tags,2,Donte DiVincenzo - Eric Paschall - Jalen Brunson - Mikal Bridges,Villanova Wildcats - Villanova Wildcats - Villanova Wildcats - Villanova Wildcats,1
+Quads Relics Tags,3,De'Andre Hunter - Justin Anderson - Malcolm Brogdon - Ty Jerome,Virginia Cavaliers - Virginia Cavaliers - Virginia Cavaliers - Virginia Cavaliers,1
+Quads Relics Tags,4,Aaron Holiday - Kris Wilkes - Lonzo Ball - TJ Leaf,UCLA Bruins - UCLA Bruins - UCLA Bruins - UCLA Bruins,1
+Quads Relics Tags,5,Jaxson Hayes - Kevin Durant - Mo Bamba - Myles Turner,Texas Longhorns - Texas Longhorns - Texas Longhorns - Texas Longhorns,1
+Quads Relics Tags,6,De'Aaron Fox - Devin Booker - Keldon Johnson - Kevin Knox II,Kentucky Wildcats - Kentucky Wildcats - Kentucky Wildcats - Kentucky Wildcats,1
+Quads Relics Tags,7,Jayson Tatum - Marvin Bagley III - RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils - Duke Blue Devils - Duke Blue Devils,1
+Quads Relics Tags,8,Donovan Mitchell - Karl-Anthony Towns - Malcolm Brogdon - Trae Young,Louisville Cardinals - Kentucky Wildcats - Virginia Cavaliers - Oklahoma Sooners,1
+Rookie Autographs,71,Grant Williams,Tennessee Volunteers,99
+Rookie Autographs,72,Mfiondu Kabengele,Florida State Seminoles,99
+Rookie Autographs,73,Dylan Windler,Belmont Bruins,99
+Rookie Autographs,74,Admiral Schofield,Tennessee Volunteers,99
+Rookie Autographs,75,Jaylen Nowell,Washington Huskies,99
+Rookie Autographs,76,Isaiah Roby,Nebraska Cornhuskers,99
+Rookie Autographs,77,Jalen McDaniels,San Diego State Aztecs,99
+Rookie Autographs,78,Nicolas Claxton,Georgia Bulldogs,99
+Rookie Autographs,79,Chuma Okeke,Auburn,99
+Rookie Autographs,80,Jordan Bone,Tennessee Volunteers,99
+Rookie Autographs Gold,71,Grant Williams,Tennessee Volunteers,25
+Rookie Autographs Gold,72,Mfiondu Kabengele,Florida State Seminoles,25
+Rookie Autographs Gold,73,Dylan Windler,Belmont Bruins,25
+Rookie Autographs Gold,74,Admiral Schofield,Tennessee Volunteers,25
+Rookie Autographs Gold,75,Jaylen Nowell,Washington Huskies,25
+Rookie Autographs Gold,76,Isaiah Roby,Nebraska Cornhuskers,25
+Rookie Autographs Gold,77,Jalen McDaniels,San Diego State Aztecs,25
+Rookie Autographs Gold,78,Nicolas Claxton,Georgia Bulldogs,25
+Rookie Autographs Gold,79,Chuma Okeke,Auburn,25
+Rookie Autographs Gold,80,Jordan Bone,Tennessee Volunteers,25
+Rookie Autographs Platinum,71,Grant Williams,Tennessee Volunteers,1
+Rookie Autographs Platinum,72,Mfiondu Kabengele,Florida State Seminoles,1
+Rookie Autographs Platinum,73,Dylan Windler,Belmont Bruins,1
+Rookie Autographs Platinum,74,Admiral Schofield,Tennessee Volunteers,1
+Rookie Autographs Platinum,75,Jaylen Nowell,Washington Huskies,1
+Rookie Autographs Platinum,76,Isaiah Roby,Nebraska Cornhuskers,1
+Rookie Autographs Platinum,77,Jalen McDaniels,San Diego State Aztecs,1
+Rookie Autographs Platinum,78,Nicolas Claxton,Georgia Bulldogs,1
+Rookie Autographs Platinum,79,Chuma Okeke,Auburn,1
+Rookie Autographs Platinum,80,Jordan Bone,Tennessee Volunteers,1
+Rookie Patch Autographs,81,Zion Williamson,Duke Blue Devils,99
+Rookie Patch Autographs,82,Ja Morant,Murray State Racers,99
+Rookie Patch Autographs,83,RJ Barrett,Duke Blue Devils,99
+Rookie Patch Autographs,84,Cam Reddish,Duke Blue Devils,99
+Rookie Patch Autographs,86,Jarrett Culver,Texas Tech Red Raiders,49
+Rookie Patch Autographs,87,De'Andre Hunter,Virginia Cavaliers,99
+Rookie Patch Autographs,88,Coby White,North Carolina Tar Heels,99
+Rookie Patch Autographs,89,Romeo Langford,Indiana Hoosiers,99
+Rookie Patch Autographs,91,Rui Hachimura,Gonzaga Bulldogs,99
+Rookie Patch Autographs,92,Nassir Little,North Carolina Tar Heels,99
+Rookie Patch Autographs,93,Keldon Johnson,Kentucky Wildcats,99
+Rookie Patch Autographs,94,Bol Bol,Oregon Ducks,99
+Rookie Patch Autographs,95,PJ Washington Jr.,Kentucky Wildcats,99
+Rookie Patch Autographs,96,Bruno Fernando,Maryland Terrapins,49
+Rookie Patch Autographs,97,Kevin Porter Jr.,USC Trojans,99
+Rookie Patch Autographs,98,Brandon Clarke,Gonzaga Bulldogs,99
+Rookie Patch Autographs,99,Cameron Johnson,North Carolina Tar Heels,99
+Rookie Patch Autographs,100,KZ Okpala,Stanford Cardinal,99
+Rookie Patch Autographs,102,Jontay Porter,Missouri Tigers,99
+Rookie Patch Autographs,104,Tyler Herro,Kentucky Wildcats,99
+Rookie Patch Autographs,105,Matisse Thybulle,Washington Huskies,99
+Rookie Patch Autographs,108,Daniel Gafford,Arkansas Razorbacks,99
+Rookie Patch Autographs,110,Eric Paschall,Villanova Wildcats,99
+Rookie Patch Autographs,111,Kris Wilkes,UCLA Bruins,99
+Rookie Patch Autographs,116,Carsen Edwards,Purdue Boilermakers,99
+Rookie Patch Autographs,117,Dedric Lawson,Kansas Jayhawks,99
+Rookie Patch Autographs,118,Grant Williams,Tennessee Volunteers,49
+Rookie Patch Autographs,119,Ignas Brazdeikis,Michigan Wolverines,99
+Rookie Patch Autographs Brand Logo,81,Zion Williamson,Duke Blue Devils,2
+Rookie Patch Autographs Brand Logo,82,Ja Morant,Murray State Racers,2
+Rookie Patch Autographs Brand Logo,83,RJ Barrett,Duke Blue Devils,2
+Rookie Patch Autographs Brand Logo,84,Cam Reddish,Duke Blue Devils,2
+Rookie Patch Autographs Brand Logo,86,Jarrett Culver,Texas Tech Red Raiders,1
+Rookie Patch Autographs Brand Logo,87,De'Andre Hunter,Virginia Cavaliers,2
+Rookie Patch Autographs Brand Logo,88,Coby White,North Carolina Tar Heels,1
+Rookie Patch Autographs Brand Logo,89,Romeo Langford,Indiana Hoosiers,2
+Rookie Patch Autographs Brand Logo,91,Rui Hachimura,Gonzaga Bulldogs,1
+Rookie Patch Autographs Brand Logo,92,Nassir Little,North Carolina Tar Heels,5
+Rookie Patch Autographs Brand Logo,93,Keldon Johnson,Kentucky Wildcats,5
+Rookie Patch Autographs Brand Logo,94,Bol Bol,Oregon Ducks,2
+Rookie Patch Autographs Brand Logo,95,PJ Washington Jr.,Kentucky Wildcats,5
+Rookie Patch Autographs Brand Logo,96,Bruno Fernando,Maryland Terrapins,2
+Rookie Patch Autographs Brand Logo,97,Kevin Porter Jr.,USC Trojans,5
+Rookie Patch Autographs Brand Logo,98,Brandon Clarke,Gonzaga Bulldogs,2
+Rookie Patch Autographs Brand Logo,99,Cameron Johnson,North Carolina Tar Heels,2
+Rookie Patch Autographs Brand Logo,100,KZ Okpala,Stanford Cardinal,2
+Rookie Patch Autographs Brand Logo,102,Jontay Porter,Missouri Tigers,5
+Rookie Patch Autographs Brand Logo,104,Tyler Herro,Kentucky Wildcats,2
+Rookie Patch Autographs Brand Logo,105,Matisse Thybulle,Washington Huskies,2
+Rookie Patch Autographs Brand Logo,108,Daniel Gafford,Arkansas Razorbacks,5
+Rookie Patch Autographs Brand Logo,110,Eric Paschall,Villanova Wildcats,5
+Rookie Patch Autographs Brand Logo,111,Kris Wilkes,UCLA Bruins,5
+Rookie Patch Autographs Brand Logo,116,Carsen Edwards,Purdue Boilermakers,5
+Rookie Patch Autographs Brand Logo,117,Dedric Lawson,Kansas Jayhawks,5
+Rookie Patch Autographs Brand Logo,118,Grant Williams,Tennessee Volunteers,1
+Rookie Patch Autographs Brand Logo,119,Ignas Brazdeikis,Michigan Wolverines,2
+Rookie Patch Autographs Championship Logo,86,Jarrett Culver,Texas Tech Red Raiders,2
+Rookie Patch Autographs Championship Logo,87,De'Andre Hunter,Virginia Cavaliers,1
+Rookie Patch Autographs Championship Logo,91,Rui Hachimura,Gonzaga Bulldogs,5
+Rookie Patch Autographs Championship Logo,98,Brandon Clarke,Gonzaga Bulldogs,1
+Rookie Patch Autographs Championship Logo,99,Cameron Johnson,North Carolina Tar Heels,1
+Rookie Patch Autographs Championship Logo,110,Eric Paschall,Villanova Wildcats,5
+Rookie Patch Autographs Conference Logo,81,Zion Williamson,Duke Blue Devils,1
+Rookie Patch Autographs Conference Logo,82,Ja Morant,Murray State Racers,1
+Rookie Patch Autographs Conference Logo,83,RJ Barrett,Duke Blue Devils,1
+Rookie Patch Autographs Conference Logo,84,Cam Reddish,Duke Blue Devils,1
+Rookie Patch Autographs Conference Logo,86,Jarrett Culver,Texas Tech Red Raiders,1
+Rookie Patch Autographs Conference Logo,87,De'Andre Hunter,Virginia Cavaliers,1
+Rookie Patch Autographs Conference Logo,89,Romeo Langford,Indiana Hoosiers,1
+Rookie Patch Autographs Conference Logo,92,Nassir Little,North Carolina Tar Heels,1
+Rookie Patch Autographs Conference Logo,93,Keldon Johnson,Kentucky Wildcats,1
+Rookie Patch Autographs Conference Logo,94,Bol Bol,Oregon Ducks,1
+Rookie Patch Autographs Conference Logo,95,PJ Washington Jr.,Kentucky Wildcats,1
+Rookie Patch Autographs Conference Logo,96,Bruno Fernando,Maryland Terrapins,1
+Rookie Patch Autographs Conference Logo,97,Kevin Porter Jr.,USC Trojans,1
+Rookie Patch Autographs Conference Logo,99,Cameron Johnson,North Carolina Tar Heels,1
+Rookie Patch Autographs Conference Logo,100,KZ Okpala,Stanford Cardinal,1
+Rookie Patch Autographs Conference Logo,102,Jontay Porter,Missouri Tigers,1
+Rookie Patch Autographs Conference Logo,104,Tyler Herro,Kentucky Wildcats,1
+Rookie Patch Autographs Conference Logo,105,Matisse Thybulle,Washington Huskies,1
+Rookie Patch Autographs Conference Logo,108,Daniel Gafford,Arkansas Razorbacks,1
+Rookie Patch Autographs Conference Logo,111,Kris Wilkes,UCLA Bruins,1
+Rookie Patch Autographs Conference Logo,116,Carsen Edwards,Purdue Boilermakers,1
+Rookie Patch Autographs Conference Logo,117,Dedric Lawson,Kansas Jayhawks,1
+Rookie Patch Autographs Conference Logo,118,Grant Williams,Tennessee Volunteers,1
+Rookie Patch Autographs Conference Logo,119,Ignas Brazdeikis,Michigan Wolverines,1
+Rookie Patch Autographs Gold,81,Zion Williamson,Duke Blue Devils,25
+Rookie Patch Autographs Gold,82,Ja Morant,Murray State Racers,25
+Rookie Patch Autographs Gold,83,RJ Barrett,Duke Blue Devils,25
+Rookie Patch Autographs Gold,84,Cam Reddish,Duke Blue Devils,25
+Rookie Patch Autographs Gold,86,Jarrett Culver,Texas Tech Red Raiders,25
+Rookie Patch Autographs Gold,87,De'Andre Hunter,Virginia Cavaliers,25
+Rookie Patch Autographs Gold,88,Coby White,North Carolina Tar Heels,25
+Rookie Patch Autographs Gold,89,Romeo Langford,Indiana Hoosiers,25
+Rookie Patch Autographs Gold,91,Rui Hachimura,Gonzaga Bulldogs,25
+Rookie Patch Autographs Gold,92,Nassir Little,North Carolina Tar Heels,25
+Rookie Patch Autographs Gold,93,Keldon Johnson,Kentucky Wildcats,25
+Rookie Patch Autographs Gold,94,Bol Bol,Oregon Ducks,25
+Rookie Patch Autographs Gold,95,PJ Washington Jr.,Kentucky Wildcats,25
+Rookie Patch Autographs Gold,96,Bruno Fernando,Maryland Terrapins,25
+Rookie Patch Autographs Gold,97,Kevin Porter Jr.,USC Trojans,25
+Rookie Patch Autographs Gold,98,Brandon Clarke,Gonzaga Bulldogs,25
+Rookie Patch Autographs Gold,99,Cameron Johnson,North Carolina Tar Heels,25
+Rookie Patch Autographs Gold,100,KZ Okpala,Stanford Cardinal,25
+Rookie Patch Autographs Gold,102,Jontay Porter,Missouri Tigers,25
+Rookie Patch Autographs Gold,104,Tyler Herro,Kentucky Wildcats,25
+Rookie Patch Autographs Gold,105,Matisse Thybulle,Washington Huskies,25
+Rookie Patch Autographs Gold,108,Daniel Gafford,Arkansas Razorbacks,25
+Rookie Patch Autographs Gold,110,Eric Paschall,Villanova Wildcats,25
+Rookie Patch Autographs Gold,111,Kris Wilkes,UCLA Bruins,25
+Rookie Patch Autographs Gold,116,Carsen Edwards,Purdue Boilermakers,25
+Rookie Patch Autographs Gold,117,Dedric Lawson,Kansas Jayhawks,25
+Rookie Patch Autographs Gold,118,Grant Williams,Tennessee Volunteers,25
+Rookie Patch Autographs Gold,119,Ignas Brazdeikis,Michigan Wolverines,25
+Rookie Patch Autographs Laundry Tag Brand Logo,81,Zion Williamson,Duke Blue Devils,5
+Rookie Patch Autographs Laundry Tag Brand Logo,82,Ja Morant,Murray State Racers,5
+Rookie Patch Autographs Laundry Tag Brand Logo,83,RJ Barrett,Duke Blue Devils,5
+Rookie Patch Autographs Laundry Tag Brand Logo,84,Cam Reddish,Duke Blue Devils,5
+Rookie Patch Autographs Laundry Tag Brand Logo,86,Jarrett Culver,Texas Tech Red Raiders,2
+Rookie Patch Autographs Laundry Tag Brand Logo,87,De'Andre Hunter,Virginia Cavaliers,5
+Rookie Patch Autographs Laundry Tag Brand Logo,88,Coby White,North Carolina Tar Heels,5
+Rookie Patch Autographs Laundry Tag Brand Logo,89,Romeo Langford,Indiana Hoosiers,5
+Rookie Patch Autographs Laundry Tag Brand Logo,91,Rui Hachimura,Gonzaga Bulldogs,5
+Rookie Patch Autographs Laundry Tag Brand Logo,92,Nassir Little,North Carolina Tar Heels,5
+Rookie Patch Autographs Laundry Tag Brand Logo,93,Keldon Johnson,Kentucky Wildcats,5
+Rookie Patch Autographs Laundry Tag Brand Logo,94,Bol Bol,Oregon Ducks,5
+Rookie Patch Autographs Laundry Tag Brand Logo,95,PJ Washington Jr.,Kentucky Wildcats,5
+Rookie Patch Autographs Laundry Tag Brand Logo,96,Bruno Fernando,Maryland Terrapins,5
+Rookie Patch Autographs Laundry Tag Brand Logo,97,Kevin Porter Jr.,USC Trojans,5
+Rookie Patch Autographs Laundry Tag Brand Logo,98,Brandon Clarke,Gonzaga Bulldogs,5
+Rookie Patch Autographs Laundry Tag Brand Logo,99,Cameron Johnson,North Carolina Tar Heels,5
+Rookie Patch Autographs Laundry Tag Brand Logo,100,KZ Okpala,Stanford Cardinal,5
+Rookie Patch Autographs Laundry Tag Brand Logo,102,Jontay Porter,Missouri Tigers,5
+Rookie Patch Autographs Laundry Tag Brand Logo,104,Tyler Herro,Kentucky Wildcats,5
+Rookie Patch Autographs Laundry Tag Brand Logo,105,Matisse Thybulle,Washington Huskies,5
+Rookie Patch Autographs Laundry Tag Brand Logo,108,Daniel Gafford,Arkansas Razorbacks,5
+Rookie Patch Autographs Laundry Tag Brand Logo,110,Eric Paschall,Villanova Wildcats,5
+Rookie Patch Autographs Laundry Tag Brand Logo,111,Kris Wilkes,UCLA Bruins,5
+Rookie Patch Autographs Laundry Tag Brand Logo,116,Carsen Edwards,Purdue Boilermakers,5
+Rookie Patch Autographs Laundry Tag Brand Logo,117,Dedric Lawson,Kansas Jayhawks,5
+Rookie Patch Autographs Laundry Tag Brand Logo,118,Grant Williams,Tennessee Volunteers,4
+Rookie Patch Autographs Laundry Tag Brand Logo,119,Ignas Brazdeikis,Michigan Wolverines,5
+Rookie Patch Autographs Laundry Tag Team Logo,86,Jarrett Culver,Texas Tech Red Raiders,5
+Rookie Patch Autographs Laundry Tag Team Logo,96,Bruno Fernando,Maryland Terrapins,5
+Rookie Patch Autographs Laundry Tag Team Logo,111,Kris Wilkes,UCLA Bruins,5
+Rookie Patch Autographs Platinum,81,Zion Williamson,Duke Blue Devils,1
+Rookie Patch Autographs Platinum,82,Ja Morant,Murray State Racers,1
+Rookie Patch Autographs Platinum,83,RJ Barrett,Duke Blue Devils,1
+Rookie Patch Autographs Platinum,84,Cam Reddish,Duke Blue Devils,1
+Rookie Patch Autographs Platinum,86,Jarrett Culver,Texas Tech Red Raiders,1
+Rookie Patch Autographs Platinum,87,De'Andre Hunter,Virginia Cavaliers,1
+Rookie Patch Autographs Platinum,88,Coby White,North Carolina Tar Heels,1
+Rookie Patch Autographs Platinum,89,Romeo Langford,Indiana Hoosiers,1
+Rookie Patch Autographs Platinum,91,Rui Hachimura,Gonzaga Bulldogs,1
+Rookie Patch Autographs Platinum,92,Nassir Little,North Carolina Tar Heels,1
+Rookie Patch Autographs Platinum,93,Keldon Johnson,Kentucky Wildcats,1
+Rookie Patch Autographs Platinum,94,Bol Bol,Oregon Ducks,1
+Rookie Patch Autographs Platinum,95,PJ Washington Jr.,Kentucky Wildcats,1
+Rookie Patch Autographs Platinum,96,Bruno Fernando,Maryland Terrapins,1
+Rookie Patch Autographs Platinum,97,Kevin Porter Jr.,USC Trojans,1
+Rookie Patch Autographs Platinum,98,Brandon Clarke,Gonzaga Bulldogs,1
+Rookie Patch Autographs Platinum,99,Cameron Johnson,North Carolina Tar Heels,1
+Rookie Patch Autographs Platinum,100,KZ Okpala,Stanford Cardinal,1
+Rookie Patch Autographs Platinum,102,Jontay Porter,Missouri Tigers,1
+Rookie Patch Autographs Platinum,104,Tyler Herro,Kentucky Wildcats,1
+Rookie Patch Autographs Platinum,105,Matisse Thybulle,Washington Huskies,1
+Rookie Patch Autographs Platinum,108,Daniel Gafford,Arkansas Razorbacks,1
+Rookie Patch Autographs Platinum,110,Eric Paschall,Villanova Wildcats,1
+Rookie Patch Autographs Platinum,111,Kris Wilkes,UCLA Bruins,1
+Rookie Patch Autographs Platinum,116,Carsen Edwards,Purdue Boilermakers,1
+Rookie Patch Autographs Platinum,117,Dedric Lawson,Kansas Jayhawks,1
+Rookie Patch Autographs Platinum,118,Grant Williams,Tennessee Volunteers,1
+Rookie Patch Autographs Platinum,119,Ignas Brazdeikis,Michigan Wolverines,1
+Rookie Patch Autographs Team Logo Shield,81,Zion Williamson,Duke Blue Devils,1
+Rookie Patch Autographs Team Logo Shield,83,RJ Barrett,Duke Blue Devils,1
+Rookie Patch Autographs Team Logo Shield,84,Cam Reddish,Duke Blue Devils,1
+Rookie Patch Autographs Team Logo Shield,88,Coby White,North Carolina Tar Heels,1
+Rookie Patch Autographs Team Logo Shield,92,Nassir Little,North Carolina Tar Heels,1
+Rookie Patch Autographs Team Logo Shield,93,Keldon Johnson,Kentucky Wildcats,1
+Rookie Patch Autographs Team Logo Shield,94,Bol Bol,Oregon Ducks,1
+Rookie Patch Autographs Team Logo Shield,95,PJ Washington Jr.,Kentucky Wildcats,1
+Rookie Patch Autographs Team Logo Shield,104,Tyler Herro,Kentucky Wildcats,1
+Rookie Patch Autographs Team Slogan,110,Eric Paschall,Villanova Wildcats,5
+Rookie Patch Autographs Team Slogan,111,Kris Wilkes,UCLA Bruins,5
+Rookie Patch Autographs Team Slogan,116,Carsen Edwards,Purdue Boilermakers,5
+RPS Rookie Player Caps,1,Zion Williamson,Duke Blue Devils,10
+RPS Rookie Player Caps,2,Ja Morant,Murray State Racers,10
+RPS Rookie Player Caps,3,RJ Barrett,Duke Blue Devils,10
+RPS Rookie Player Caps,4,Chuma Okeke,Auburn Tigers,10
+RPS Rookie Player Caps,5,De'Andre Hunter,Virginia Cavaliers,10
+RPS Rookie Player Caps,6,Jarrett Culver,Texas Tech Red Raiders,10
+RPS Rookie Player Caps,7,Cam Reddish,Duke Blue Devils,10
+RPS Rookie Player Caps,8,Jaxson Hayes,Texas Longhorns,4
+RPS Rookie Player Caps,9,Coby White,North Carolina Tar Heels,10
+RPS Rookie Player Caps,10,Ty Jerome,Virginia Cavaliers,10
+RPS Rookie Player Caps,11,PJ Washington Jr.,Kentucky Wildcats,10
+RPS Rookie Player Caps,12,Romeo Langford,Indiana Hoosiers,10
+RPS Rookie Player Caps,13,Brandon Clarke,Gonzaga Bulldogs,10
+RPS Rookie Player Caps,15,Tyler Herro,Kentucky Wildcats,10
+RPS Rookie Player Caps,16,Nassir Little,North Carolina Tar Heels,8
+RPS Rookie Player Caps,18,Grant Williams,Tennessee Volunteers,10
+RPS Rookie Player Caps,19,Nickeil Alexander-Walker,Virginia Tech Hokies,10
+RPS Rookie Player Caps,20,Cameron Johnson,North Carolina Tar Heels,10
+RPS Rookie Player Caps Brand Logo,1,Zion Williamson,Duke Blue Devils,2
+RPS Rookie Player Caps Brand Logo,3,RJ Barrett,Duke Blue Devils,2
+RPS Rookie Player Caps Brand Logo,4,Chuma Okeke,Auburn Tigers,2
+RPS Rookie Player Caps Brand Logo,5,De'Andre Hunter,Virginia Cavaliers,2
+RPS Rookie Player Caps Brand Logo,6,Jarrett Culver,Texas Tech Red Raiders,2
+RPS Rookie Player Caps Brand Logo,7,Cam Reddish,Duke Blue Devils,2
+RPS Rookie Player Caps Brand Logo,8,Jaxson Hayes,Texas Longhorns,2
+RPS Rookie Player Caps Brand Logo,9,Coby White,North Carolina Tar Heels,2
+RPS Rookie Player Caps Brand Logo,10,Ty Jerome,Virginia Cavaliers,2
+RPS Rookie Player Caps Brand Logo,11,PJ Washington Jr.,Kentucky Wildcats,2
+RPS Rookie Player Caps Brand Logo,12,Romeo Langford,Indiana Hoosiers,2
+RPS Rookie Player Caps Brand Logo,13,Brandon Clarke,Gonzaga Bulldogs,2
+RPS Rookie Player Caps Brand Logo,15,Tyler Herro,Kentucky Wildcats,2
+RPS Rookie Player Caps Brand Logo,16,Nassir Little,North Carolina Tar Heels,2
+RPS Rookie Player Caps Brand Logo,18,Grant Williams,Tennessee Volunteers,2
+RPS Rookie Player Caps Brand Logo,19,Nickeil Alexander-Walker,Virginia Tech Hokies,2
+RPS Rookie Player Caps Brand Logo,20,Cameron Johnson,North Carolina Tar Heels,2
+RPS Rookie Player Caps Button,1,Zion Williamson,Duke Blue Devils,2
+RPS Rookie Player Caps Button,2,Ja Morant,Murray State Racers,2
+RPS Rookie Player Caps Button,3,RJ Barrett,Duke Blue Devils,2
+RPS Rookie Player Caps Button,4,Chuma Okeke,Auburn Tigers,2
+RPS Rookie Player Caps Button,5,De'Andre Hunter,Virginia Cavaliers,2
+RPS Rookie Player Caps Button,6,Jarrett Culver,Texas Tech Red Raiders,2
+RPS Rookie Player Caps Button,7,Cam Reddish,Duke Blue Devils,2
+RPS Rookie Player Caps Button,8,Jaxson Hayes,Texas Longhorns,2
+RPS Rookie Player Caps Button,9,Coby White,North Carolina Tar Heels,2
+RPS Rookie Player Caps Button,10,Ty Jerome,Virginia Cavaliers,2
+RPS Rookie Player Caps Button,11,PJ Washington Jr.,Kentucky Wildcats,2
+RPS Rookie Player Caps Button,12,Romeo Langford,Indiana Hoosiers,2
+RPS Rookie Player Caps Button,13,Brandon Clarke,Gonzaga Bulldogs,2
+RPS Rookie Player Caps Button,15,Tyler Herro,Kentucky Wildcats,2
+RPS Rookie Player Caps Button,16,Nassir Little,North Carolina Tar Heels,2
+RPS Rookie Player Caps Button,18,Grant Williams,Tennessee Volunteers,2
+RPS Rookie Player Caps Button,19,Nickeil Alexander-Walker,Virginia Tech Hokies,2
+RPS Rookie Player Caps Button,20,Cameron Johnson,North Carolina Tar Heels,2
+RPS Rookie Player Caps Team Logo,1,Zion Williamson,Duke Blue Devils,4
+RPS Rookie Player Caps Team Logo,2,Ja Morant,Murray State Racers,4
+RPS Rookie Player Caps Team Logo,3,RJ Barrett,Duke Blue Devils,4
+RPS Rookie Player Caps Team Logo,4,Chuma Okeke,Auburn Tigers,4
+RPS Rookie Player Caps Team Logo,5,De'Andre Hunter,Virginia Cavaliers,2
+RPS Rookie Player Caps Team Logo,6,Jarrett Culver,Texas Tech Red Raiders,2
+RPS Rookie Player Caps Team Logo,7,Cam Reddish,Duke Blue Devils,4
+RPS Rookie Player Caps Team Logo,8,Jaxson Hayes,Texas Longhorns,2
+RPS Rookie Player Caps Team Logo,9,Coby White,North Carolina Tar Heels,2
+RPS Rookie Player Caps Team Logo,10,Ty Jerome,Virginia Cavaliers,2
+RPS Rookie Player Caps Team Logo,11,PJ Washington Jr.,Kentucky Wildcats,2
+RPS Rookie Player Caps Team Logo,12,Romeo Langford,Indiana Hoosiers,4
+RPS Rookie Player Caps Team Logo,13,Brandon Clarke,Gonzaga Bulldogs,2
+RPS Rookie Player Caps Team Logo,15,Tyler Herro,Kentucky Wildcats,2
+RPS Rookie Player Caps Team Logo,16,Nassir Little,North Carolina Tar Heels,2
+RPS Rookie Player Caps Team Logo,18,Grant Williams,Tennessee Volunteers,2
+RPS Rookie Player Caps Team Logo,19,Nickeil Alexander-Walker,Virginia Tech Hokies,2
+RPS Rookie Player Caps Team Logo,20,Cameron Johnson,North Carolina Tar Heels,2
+Team Slogan Signatures Die Cuts,1,Zion Williamson,Duke Blue Devils,5
+Team Slogan Signatures Die Cuts,2,Ja Morant,Murray State Racers,5
+Team Slogan Signatures Die Cuts,3,RJ Barrett,Duke Blue Devils,5
+Team Slogan Signatures Die Cuts,4,Cam Reddish,Duke Blue Devils,5
+Team Slogan Signatures Die Cuts,5,Jarrett Culver,Texas Tech Red Raiders,5
+Team Slogan Signatures Die Cuts,6,De'Andre Hunter,Virginia Cavaliers,5
+Team Slogan Signatures Die Cuts,7,Coby White,North Carolina Tar Heels,5
+Team Slogan Signatures Die Cuts,8,Tyler Herro,Kentucky Wildcats,5
+Team Slogan Signatures Die Cuts,9,Rui Hachimura,Gonzaga Bulldogs,5
+Team Slogan Signatures Die Cuts,10,PJ Washington Jr.,Kentucky Wildcats,5
+Trios Relics,1,Ja Morant - RJ Barrett - Zion Williamson,Murray State Racers - Duke Blue Devils - Duke Blue Devils,10
+Trios Relics,2,Cameron Johnson - Coby White - Nassir Little,North Carolina Tar Heels - North Carolina Tar Heels - North Carolina Tar Heels,10
+Trios Relics,3,Keldon Johnson - PJ Washington Jr. - Tyler Herro,Kentucky Wildcats - Kentucky Wildcats - Kentucky Wildcats,10
+Trios Relics,4,Jaxson Hayes - Mo Bamba - Myles Turner,Texas Longhorns - Texas Longhorns - Texas Longhorns,10
+Trios Relics,6,Caris LeVert - Ignas Brazdeikis - Moritz Wagner,Michigan Wolverines - Michigan Wolverines - Michigan Wolverines,10
+Trios Relics,7,Cam Reddish - RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils - Duke Blue Devils,10
+Trios Relics Prime,1,Ja Morant - RJ Barrett - Zion Williamson,Murray State Racers - Duke Blue Devils - Duke Blue Devils,5
+Trios Relics Prime,2,Cameron Johnson - Coby White - Nassir Little,North Carolina Tar Heels - North Carolina Tar Heels - North Carolina Tar Heels,5
+Trios Relics Prime,3,Keldon Johnson - PJ Washington Jr. - Tyler Herro,Kentucky Wildcats - Kentucky Wildcats - Kentucky Wildcats,5
+Trios Relics Prime,4,Jaxson Hayes - Mo Bamba - Myles Turner,Texas Longhorns - Texas Longhorns - Texas Longhorns,5
+Trios Relics Prime,6,Caris LeVert - Ignas Brazdeikis - Moritz Wagner,Michigan Wolverines - Michigan Wolverines - Michigan Wolverines,5
+Trios Relics Prime,7,Cam Reddish - RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils - Duke Blue Devils,5
+Trios Relics Tags,1,Ja Morant - RJ Barrett - Zion Williamson,Murray State Racers - Duke Blue Devils - Duke Blue Devils,1
+Trios Relics Tags,2,Cameron Johnson - Coby White - Nassir Little,North Carolina Tar Heels - North Carolina Tar Heels - North Carolina Tar Heels,1
+Trios Relics Tags,3,Keldon Johnson - PJ Washington Jr. - Tyler Herro,Kentucky Wildcats - Kentucky Wildcats - Kentucky Wildcats,1
+Trios Relics Tags,4,Jaxson Hayes - Mo Bamba - Myles Turner,Texas Longhorns - Texas Longhorns - Texas Longhorns,1
+Trios Relics Tags,6,Caris LeVert - Ignas Brazdeikis - Moritz Wagner,Michigan Wolverines - Michigan Wolverines - Michigan Wolverines,1
+Trios Relics Tags,7,Cam Reddish - RJ Barrett - Zion Williamson,Duke Blue Devils - Duke Blue Devils - Duke Blue Devils,1
