@@ -1,0 +1,1428 @@
+Card Set,Number,Player,Team,Seq.
+Base,1,Aaron Gordon,Orlando Magic,99
+Base,2,Al Horford,Boston Celtics,99
+Base,3,Andre Drummond,Detroit Pistons,99
+Base,4,Andrew Wiggins,Minnesota Timberwolves,99
+Base,5,Anthony Davis,New Orleans Pelicans,99
+Base,6,Avery Bradley,Los Angeles Clippers,99
+Base,7,Ben Simmons,Philadelphia 76ers,99
+Base,8,Blake Griffin,Detroit Pistons,99
+Base,9,Bradley Beal,Washington Wizards,99
+Base,10,Brandon Ingram,Los Angeles Lakers,99
+Base,11,Buddy Hield,Sacramento Kings,99
+Base,12,CJ McCollum,Portland Trail Blazers,99
+Base,13,Carmelo Anthony,Oklahoma City Thunder,99
+Base,14,Chris Paul,Houston Rockets,99
+Base,15,Clint Capela,Houston Rockets,99
+Base,16,Damian Lillard,Portland Trail Blazers,99
+Base,17,D'Angelo Russell,Brooklyn Nets,99
+Base,18,Dario Saric,Philadelphia 76ers,99
+Base,19,De'Aaron Fox,Sacramento Kings,99
+Base,20,DeAndre Jordan,Los Angeles Clippers,99
+Base,21,DeMar DeRozan,Toronto Raptors,99
+Base,22,DeMarcus Cousins,New Orleans Pelicans,99
+Base,23,Dennis Schroder,Atlanta Hawks,99
+Base,24,Dennis Smith Jr.,Dallas Mavericks,99
+Base,25,Derrick Favors,Utah Jazz,99
+Base,26,Derrick Rose,Minnesota Timberwolves,99
+Base,27,Devin Booker,Phoenix Suns,99
+Base,28,Dirk Nowitzki,Dallas Mavericks,99
+Base,29,Donovan Mitchell,Utah Jazz,99
+Base,30,Draymond Green,Golden State Warriors,99
+Base,31,Dwight Howard,Orlando Magic,99
+Base,32,Dwyane Wade,Miami Heat,99
+Base,33,Enes Kanter,New York Knicks,99
+Base,34,Eric Bledsoe,Milwaukee Bucks,99
+Base,35,Eric Gordon,Houston Rockets,99
+Base,36,Evan Fournier,Orlando Magic,99
+Base,37,George Hill,Cleveland Cavaliers,99
+Base,38,Giannis Antetokounmpo,Milwaukee Bucks,99
+Base,39,Goran Dragic,Miami Heat,99
+Base,40,Gordon Hayward,Boston Celtics,99
+Base,41,Harrison Barnes,Dallas Mavericks,99
+Base,42,Hassan Whiteside,Miami Heat,99
+Base,43,Jamal Murray,Denver Nuggets,99
+Base,44,James Harden,Houston Rockets,99
+Base,45,Jayson Tatum,Boston Celtics,99
+Base,46,Jimmy Butler,Minnesota Timberwolves,99
+Base,47,Joel Embiid,Philadelphia 76ers,99
+Base,48,John Wall,Washington Wizards,99
+Base,49,Jonas Valanciunas,Toronto Raptors,99
+Base,50,Jrue Holiday,New Orleans Pelicans,99
+Base,51,Julius Randle,Los Angeles Lakers,99
+Base,52,Jusuf Nurkic,Portland Trail Blazers,99
+Base,53,Karl-Anthony Towns,Minnesota Timberwolves,99
+Base,54,Kawhi Leonard,San Antonio Spurs,99
+Base,55,Kemba Walker,Charlotte Hornets,99
+Base,56,Kent Bazemore,Atlanta Hawks,99
+Base,57,Kevin Durant,Golden State Warriors,99
+Base,58,Kevin Love,Cleveland Cavaliers,99
+Base,59,Khris Middleton,Milwaukee Bucks,99
+Base,60,Klay Thompson,Golden State Warriors,99
+Base,61,Kris Dunn,Chicago Bulls,99
+Base,62,Kristaps Porzingis,New York Knicks,99
+Base,63,Kyle Kuzma,Los Angeles Lakers,99
+Base,64,Kyle Lowry,Toronto Raptors,99
+Base,65,Kyrie Irving,Boston Celtics,99
+Base,66,LaMarcus Aldridge,San Antonio Spurs,99
+Base,67,Larry Nance Jr.,Cleveland Cavaliers,99
+Base,68,Lauri Markkanen,Chicago Bulls,99
+Base,69,LeBron James,Cleveland Cavaliers,99
+Base,70,Lonzo Ball,Los Angeles Lakers,99
+Base,71,Lou Williams,Los Angeles Clippers,99
+Base,72,Marc Gasol,Memphis Grizzlies,99
+Base,73,Markelle Fultz,Philadelphia 76ers,99
+Base,74,MarShon Brooks,Memphis Grizzlies,99
+Base,75,Michael Beasley,New York Knicks,99
+Base,76,Mike Conley,Memphis Grizzlies,99
+Base,77,Myles Turner,Indiana Pacers,99
+Base,78,Nicolas Batum,Charlotte Hornets,99
+Base,79,Nikola Jokic,Denver Nuggets,99
+Base,80,Nikola Vucevic,Orlando Magic,99
+Base,81,Otto Porter Jr.,Washington Wizards,99
+Base,82,Pau Gasol,San Antonio Spurs,99
+Base,83,Paul George,Oklahoma City Thunder,99
+Base,84,Paul Millsap,Denver Nuggets,99
+Base,85,Reggie Jackson,Detroit Pistons,99
+Base,86,Ricky Rubio,Utah Jazz,99
+Base,87,Rondae Hollis-Jefferson,Brooklyn Nets,99
+Base,88,Rudy Gay,San Antonio Spurs,99
+Base,89,Rudy Gobert,Utah Jazz,99
+Base,90,Russell Westbrook,Oklahoma City Thunder,99
+Base,91,Spencer Dinwiddie,Brooklyn Nets,99
+Base,92,Stephen Curry,Golden State Warriors,99
+Base,93,TJ Warren,Phoenix Suns,99
+Base,94,Taurean Prince,Atlanta Hawks,99
+Base,95,Thaddeus Young,Indiana Pacers,99
+Base,96,Tyson Chandler,Phoenix Suns,99
+Base,97,Victor Oladipo,Indiana Pacers,99
+Base,98,Wesley Matthews,Dallas Mavericks,99
+Base,99,Willie Cauley-Stein,Sacramento Kings,99
+Base,100,Zach LaVine,Chicago Bulls,99
+Base Holo Gold,1,Aaron Gordon,Orlando Magic,10
+Base Holo Gold,2,Al Horford,Boston Celtics,10
+Base Holo Gold,3,Andre Drummond,Detroit Pistons,10
+Base Holo Gold,4,Andrew Wiggins,Minnesota Timberwolves,10
+Base Holo Gold,5,Anthony Davis,New Orleans Pelicans,10
+Base Holo Gold,6,Avery Bradley,Los Angeles Clippers,10
+Base Holo Gold,7,Ben Simmons,Philadelphia 76ers,10
+Base Holo Gold,8,Blake Griffin,Detroit Pistons,10
+Base Holo Gold,9,Bradley Beal,Washington Wizards,10
+Base Holo Gold,10,Brandon Ingram,Los Angeles Lakers,10
+Base Holo Gold,11,Buddy Hield,Sacramento Kings,10
+Base Holo Gold,12,CJ McCollum,Portland Trail Blazers,10
+Base Holo Gold,13,Carmelo Anthony,Oklahoma City Thunder,10
+Base Holo Gold,14,Chris Paul,Houston Rockets,10
+Base Holo Gold,15,Clint Capela,Houston Rockets,10
+Base Holo Gold,16,Damian Lillard,Portland Trail Blazers,10
+Base Holo Gold,17,D'Angelo Russell,Brooklyn Nets,10
+Base Holo Gold,18,Dario Saric,Philadelphia 76ers,10
+Base Holo Gold,19,De'Aaron Fox,Sacramento Kings,10
+Base Holo Gold,20,DeAndre Jordan,Los Angeles Clippers,10
+Base Holo Gold,21,DeMar DeRozan,Toronto Raptors,10
+Base Holo Gold,22,DeMarcus Cousins,New Orleans Pelicans,10
+Base Holo Gold,23,Dennis Schroder,Atlanta Hawks,10
+Base Holo Gold,24,Dennis Smith Jr.,Dallas Mavericks,10
+Base Holo Gold,25,Derrick Favors,Utah Jazz,10
+Base Holo Gold,26,Derrick Rose,Minnesota Timberwolves,10
+Base Holo Gold,27,Devin Booker,Phoenix Suns,10
+Base Holo Gold,28,Dirk Nowitzki,Dallas Mavericks,10
+Base Holo Gold,29,Donovan Mitchell,Utah Jazz,10
+Base Holo Gold,30,Draymond Green,Golden State Warriors,10
+Base Holo Gold,31,Dwight Howard,Orlando Magic,10
+Base Holo Gold,32,Dwyane Wade,Miami Heat,10
+Base Holo Gold,33,Enes Kanter,New York Knicks,10
+Base Holo Gold,34,Eric Bledsoe,Milwaukee Bucks,10
+Base Holo Gold,35,Eric Gordon,Houston Rockets,10
+Base Holo Gold,36,Evan Fournier,Orlando Magic,10
+Base Holo Gold,37,George Hill,Cleveland Cavaliers,10
+Base Holo Gold,38,Giannis Antetokounmpo,Milwaukee Bucks,10
+Base Holo Gold,39,Goran Dragic,Miami Heat,10
+Base Holo Gold,40,Gordon Hayward,Boston Celtics,10
+Base Holo Gold,41,Harrison Barnes,Dallas Mavericks,10
+Base Holo Gold,42,Hassan Whiteside,Miami Heat,10
+Base Holo Gold,43,Jamal Murray,Denver Nuggets,10
+Base Holo Gold,44,James Harden,Houston Rockets,10
+Base Holo Gold,45,Jayson Tatum,Boston Celtics,10
+Base Holo Gold,46,Jimmy Butler,Minnesota Timberwolves,10
+Base Holo Gold,47,Joel Embiid,Philadelphia 76ers,10
+Base Holo Gold,48,John Wall,Washington Wizards,10
+Base Holo Gold,49,Jonas Valanciunas,Toronto Raptors,10
+Base Holo Gold,50,Jrue Holiday,New Orleans Pelicans,10
+Base Holo Gold,51,Julius Randle,Los Angeles Lakers,10
+Base Holo Gold,52,Jusuf Nurkic,Portland Trail Blazers,10
+Base Holo Gold,53,Karl-Anthony Towns,Minnesota Timberwolves,10
+Base Holo Gold,54,Kawhi Leonard,San Antonio Spurs,10
+Base Holo Gold,55,Kemba Walker,Charlotte Hornets,10
+Base Holo Gold,56,Kent Bazemore,Atlanta Hawks,10
+Base Holo Gold,57,Kevin Durant,Golden State Warriors,10
+Base Holo Gold,58,Kevin Love,Cleveland Cavaliers,10
+Base Holo Gold,59,Khris Middleton,Milwaukee Bucks,10
+Base Holo Gold,60,Klay Thompson,Golden State Warriors,10
+Base Holo Gold,61,Kris Dunn,Chicago Bulls,10
+Base Holo Gold,62,Kristaps Porzingis,New York Knicks,10
+Base Holo Gold,63,Kyle Kuzma,Los Angeles Lakers,10
+Base Holo Gold,64,Kyle Lowry,Toronto Raptors,10
+Base Holo Gold,65,Kyrie Irving,Boston Celtics,10
+Base Holo Gold,66,LaMarcus Aldridge,San Antonio Spurs,10
+Base Holo Gold,67,Larry Nance Jr.,Cleveland Cavaliers,10
+Base Holo Gold,68,Lauri Markkanen,Chicago Bulls,10
+Base Holo Gold,69,LeBron James,Cleveland Cavaliers,10
+Base Holo Gold,70,Lonzo Ball,Los Angeles Lakers,10
+Base Holo Gold,71,Lou Williams,Los Angeles Clippers,10
+Base Holo Gold,72,Marc Gasol,Memphis Grizzlies,10
+Base Holo Gold,73,Markelle Fultz,Philadelphia 76ers,10
+Base Holo Gold,74,MarShon Brooks,Memphis Grizzlies,10
+Base Holo Gold,75,Michael Beasley,New York Knicks,10
+Base Holo Gold,76,Mike Conley,Memphis Grizzlies,10
+Base Holo Gold,77,Myles Turner,Indiana Pacers,10
+Base Holo Gold,78,Nicolas Batum,Charlotte Hornets,10
+Base Holo Gold,79,Nikola Jokic,Denver Nuggets,10
+Base Holo Gold,80,Nikola Vucevic,Orlando Magic,10
+Base Holo Gold,81,Otto Porter Jr.,Washington Wizards,10
+Base Holo Gold,82,Pau Gasol,San Antonio Spurs,10
+Base Holo Gold,83,Paul George,Oklahoma City Thunder,10
+Base Holo Gold,84,Paul Millsap,Denver Nuggets,10
+Base Holo Gold,85,Reggie Jackson,Detroit Pistons,10
+Base Holo Gold,86,Ricky Rubio,Utah Jazz,10
+Base Holo Gold,87,Rondae Hollis-Jefferson,Brooklyn Nets,10
+Base Holo Gold,88,Rudy Gay,San Antonio Spurs,10
+Base Holo Gold,89,Rudy Gobert,Utah Jazz,10
+Base Holo Gold,90,Russell Westbrook,Oklahoma City Thunder,10
+Base Holo Gold,91,Spencer Dinwiddie,Brooklyn Nets,10
+Base Holo Gold,92,Stephen Curry,Golden State Warriors,10
+Base Holo Gold,93,TJ Warren,Phoenix Suns,10
+Base Holo Gold,94,Taurean Prince,Atlanta Hawks,10
+Base Holo Gold,95,Thaddeus Young,Indiana Pacers,10
+Base Holo Gold,96,Tyson Chandler,Phoenix Suns,10
+Base Holo Gold,97,Victor Oladipo,Indiana Pacers,10
+Base Holo Gold,98,Wesley Matthews,Dallas Mavericks,10
+Base Holo Gold,99,Willie Cauley-Stein,Sacramento Kings,10
+Base Holo Gold,100,Zach LaVine,Chicago Bulls,10
+Base Holo Silver,1,Aaron Gordon,Orlando Magic,49
+Base Holo Silver,2,Al Horford,Boston Celtics,49
+Base Holo Silver,3,Andre Drummond,Detroit Pistons,49
+Base Holo Silver,4,Andrew Wiggins,Minnesota Timberwolves,49
+Base Holo Silver,5,Anthony Davis,New Orleans Pelicans,49
+Base Holo Silver,6,Avery Bradley,Los Angeles Clippers,49
+Base Holo Silver,7,Ben Simmons,Philadelphia 76ers,49
+Base Holo Silver,8,Blake Griffin,Detroit Pistons,49
+Base Holo Silver,9,Bradley Beal,Washington Wizards,49
+Base Holo Silver,10,Brandon Ingram,Los Angeles Lakers,49
+Base Holo Silver,11,Buddy Hield,Sacramento Kings,49
+Base Holo Silver,12,CJ McCollum,Portland Trail Blazers,49
+Base Holo Silver,13,Carmelo Anthony,Oklahoma City Thunder,49
+Base Holo Silver,14,Chris Paul,Houston Rockets,49
+Base Holo Silver,15,Clint Capela,Houston Rockets,49
+Base Holo Silver,16,Damian Lillard,Portland Trail Blazers,49
+Base Holo Silver,17,D'Angelo Russell,Brooklyn Nets,49
+Base Holo Silver,18,Dario Saric,Philadelphia 76ers,49
+Base Holo Silver,19,De'Aaron Fox,Sacramento Kings,49
+Base Holo Silver,20,DeAndre Jordan,Los Angeles Clippers,49
+Base Holo Silver,21,DeMar DeRozan,Toronto Raptors,49
+Base Holo Silver,22,DeMarcus Cousins,New Orleans Pelicans,49
+Base Holo Silver,23,Dennis Schroder,Atlanta Hawks,49
+Base Holo Silver,24,Dennis Smith Jr.,Dallas Mavericks,49
+Base Holo Silver,25,Derrick Favors,Utah Jazz,49
+Base Holo Silver,26,Derrick Rose,Minnesota Timberwolves,49
+Base Holo Silver,27,Devin Booker,Phoenix Suns,49
+Base Holo Silver,28,Dirk Nowitzki,Dallas Mavericks,49
+Base Holo Silver,29,Donovan Mitchell,Utah Jazz,49
+Base Holo Silver,30,Draymond Green,Golden State Warriors,49
+Base Holo Silver,31,Dwight Howard,Orlando Magic,49
+Base Holo Silver,32,Dwyane Wade,Miami Heat,49
+Base Holo Silver,33,Enes Kanter,New York Knicks,49
+Base Holo Silver,34,Eric Bledsoe,Milwaukee Bucks,49
+Base Holo Silver,35,Eric Gordon,Houston Rockets,49
+Base Holo Silver,36,Evan Fournier,Orlando Magic,49
+Base Holo Silver,37,George Hill,Cleveland Cavaliers,49
+Base Holo Silver,38,Giannis Antetokounmpo,Milwaukee Bucks,49
+Base Holo Silver,39,Goran Dragic,Miami Heat,49
+Base Holo Silver,40,Gordon Hayward,Boston Celtics,49
+Base Holo Silver,41,Harrison Barnes,Dallas Mavericks,49
+Base Holo Silver,42,Hassan Whiteside,Miami Heat,49
+Base Holo Silver,43,Jamal Murray,Denver Nuggets,49
+Base Holo Silver,44,James Harden,Houston Rockets,49
+Base Holo Silver,45,Jayson Tatum,Boston Celtics,49
+Base Holo Silver,46,Jimmy Butler,Minnesota Timberwolves,49
+Base Holo Silver,47,Joel Embiid,Philadelphia 76ers,49
+Base Holo Silver,48,John Wall,Washington Wizards,49
+Base Holo Silver,49,Jonas Valanciunas,Toronto Raptors,49
+Base Holo Silver,50,Jrue Holiday,New Orleans Pelicans,49
+Base Holo Silver,51,Julius Randle,Los Angeles Lakers,49
+Base Holo Silver,52,Jusuf Nurkic,Portland Trail Blazers,49
+Base Holo Silver,53,Karl-Anthony Towns,Minnesota Timberwolves,49
+Base Holo Silver,54,Kawhi Leonard,San Antonio Spurs,49
+Base Holo Silver,55,Kemba Walker,Charlotte Hornets,49
+Base Holo Silver,56,Kent Bazemore,Atlanta Hawks,49
+Base Holo Silver,57,Kevin Durant,Golden State Warriors,49
+Base Holo Silver,58,Kevin Love,Cleveland Cavaliers,49
+Base Holo Silver,59,Khris Middleton,Milwaukee Bucks,49
+Base Holo Silver,60,Klay Thompson,Golden State Warriors,49
+Base Holo Silver,61,Kris Dunn,Chicago Bulls,49
+Base Holo Silver,62,Kristaps Porzingis,New York Knicks,49
+Base Holo Silver,63,Kyle Kuzma,Los Angeles Lakers,49
+Base Holo Silver,64,Kyle Lowry,Toronto Raptors,49
+Base Holo Silver,65,Kyrie Irving,Boston Celtics,49
+Base Holo Silver,66,LaMarcus Aldridge,San Antonio Spurs,49
+Base Holo Silver,67,Larry Nance Jr.,Cleveland Cavaliers,49
+Base Holo Silver,68,Lauri Markkanen,Chicago Bulls,49
+Base Holo Silver,69,LeBron James,Cleveland Cavaliers,49
+Base Holo Silver,70,Lonzo Ball,Los Angeles Lakers,49
+Base Holo Silver,71,Lou Williams,Los Angeles Clippers,49
+Base Holo Silver,72,Marc Gasol,Memphis Grizzlies,49
+Base Holo Silver,73,Markelle Fultz,Philadelphia 76ers,49
+Base Holo Silver,74,MarShon Brooks,Memphis Grizzlies,49
+Base Holo Silver,75,Michael Beasley,New York Knicks,49
+Base Holo Silver,76,Mike Conley,Memphis Grizzlies,49
+Base Holo Silver,77,Myles Turner,Indiana Pacers,49
+Base Holo Silver,78,Nicolas Batum,Charlotte Hornets,49
+Base Holo Silver,79,Nikola Jokic,Denver Nuggets,49
+Base Holo Silver,80,Nikola Vucevic,Orlando Magic,49
+Base Holo Silver,81,Otto Porter Jr.,Washington Wizards,49
+Base Holo Silver,82,Pau Gasol,San Antonio Spurs,49
+Base Holo Silver,83,Paul George,Oklahoma City Thunder,49
+Base Holo Silver,84,Paul Millsap,Denver Nuggets,49
+Base Holo Silver,85,Reggie Jackson,Detroit Pistons,49
+Base Holo Silver,86,Ricky Rubio,Utah Jazz,49
+Base Holo Silver,87,Rondae Hollis-Jefferson,Brooklyn Nets,49
+Base Holo Silver,88,Rudy Gay,San Antonio Spurs,49
+Base Holo Silver,89,Rudy Gobert,Utah Jazz,49
+Base Holo Silver,90,Russell Westbrook,Oklahoma City Thunder,49
+Base Holo Silver,91,Spencer Dinwiddie,Brooklyn Nets,49
+Base Holo Silver,92,Stephen Curry,Golden State Warriors,49
+Base Holo Silver,93,TJ Warren,Phoenix Suns,49
+Base Holo Silver,94,Taurean Prince,Atlanta Hawks,49
+Base Holo Silver,95,Thaddeus Young,Indiana Pacers,49
+Base Holo Silver,96,Tyson Chandler,Phoenix Suns,49
+Base Holo Silver,97,Victor Oladipo,Indiana Pacers,49
+Base Holo Silver,98,Wesley Matthews,Dallas Mavericks,49
+Base Holo Silver,99,Willie Cauley-Stein,Sacramento Kings,49
+Base Holo Silver,100,Zach LaVine,Chicago Bulls,49
+Base Platinum,1,Aaron Gordon,Orlando Magic,1
+Base Platinum,2,Al Horford,Boston Celtics,1
+Base Platinum,3,Andre Drummond,Detroit Pistons,1
+Base Platinum,4,Andrew Wiggins,Minnesota Timberwolves,1
+Base Platinum,5,Anthony Davis,New Orleans Pelicans,1
+Base Platinum,6,Avery Bradley,Los Angeles Clippers,1
+Base Platinum,7,Ben Simmons,Philadelphia 76ers,1
+Base Platinum,8,Blake Griffin,Detroit Pistons,1
+Base Platinum,9,Bradley Beal,Washington Wizards,1
+Base Platinum,10,Brandon Ingram,Los Angeles Lakers,1
+Base Platinum,11,Buddy Hield,Sacramento Kings,1
+Base Platinum,12,CJ McCollum,Portland Trail Blazers,1
+Base Platinum,13,Carmelo Anthony,Oklahoma City Thunder,1
+Base Platinum,14,Chris Paul,Houston Rockets,1
+Base Platinum,15,Clint Capela,Houston Rockets,1
+Base Platinum,16,Damian Lillard,Portland Trail Blazers,1
+Base Platinum,17,D'Angelo Russell,Brooklyn Nets,1
+Base Platinum,18,Dario Saric,Philadelphia 76ers,1
+Base Platinum,19,De'Aaron Fox,Sacramento Kings,1
+Base Platinum,20,DeAndre Jordan,Los Angeles Clippers,1
+Base Platinum,21,DeMar DeRozan,Toronto Raptors,1
+Base Platinum,22,DeMarcus Cousins,New Orleans Pelicans,1
+Base Platinum,23,Dennis Schroder,Atlanta Hawks,1
+Base Platinum,24,Dennis Smith Jr.,Dallas Mavericks,1
+Base Platinum,25,Derrick Favors,Utah Jazz,1
+Base Platinum,26,Derrick Rose,Minnesota Timberwolves,1
+Base Platinum,27,Devin Booker,Phoenix Suns,1
+Base Platinum,28,Dirk Nowitzki,Dallas Mavericks,1
+Base Platinum,29,Donovan Mitchell,Utah Jazz,1
+Base Platinum,30,Draymond Green,Golden State Warriors,1
+Base Platinum,31,Dwight Howard,Orlando Magic,1
+Base Platinum,32,Dwyane Wade,Miami Heat,1
+Base Platinum,33,Enes Kanter,New York Knicks,1
+Base Platinum,34,Eric Bledsoe,Milwaukee Bucks,1
+Base Platinum,35,Eric Gordon,Houston Rockets,1
+Base Platinum,36,Evan Fournier,Orlando Magic,1
+Base Platinum,37,George Hill,Cleveland Cavaliers,1
+Base Platinum,38,Giannis Antetokounmpo,Milwaukee Bucks,1
+Base Platinum,39,Goran Dragic,Miami Heat,1
+Base Platinum,40,Gordon Hayward,Boston Celtics,1
+Base Platinum,41,Harrison Barnes,Dallas Mavericks,1
+Base Platinum,42,Hassan Whiteside,Miami Heat,1
+Base Platinum,43,Jamal Murray,Denver Nuggets,1
+Base Platinum,44,James Harden,Houston Rockets,1
+Base Platinum,45,Jayson Tatum,Boston Celtics,1
+Base Platinum,46,Jimmy Butler,Minnesota Timberwolves,1
+Base Platinum,47,Joel Embiid,Philadelphia 76ers,1
+Base Platinum,48,John Wall,Washington Wizards,1
+Base Platinum,49,Jonas Valanciunas,Toronto Raptors,1
+Base Platinum,50,Jrue Holiday,New Orleans Pelicans,1
+Base Platinum,51,Julius Randle,Los Angeles Lakers,1
+Base Platinum,52,Jusuf Nurkic,Portland Trail Blazers,1
+Base Platinum,53,Karl-Anthony Towns,Minnesota Timberwolves,1
+Base Platinum,54,Kawhi Leonard,San Antonio Spurs,1
+Base Platinum,55,Kemba Walker,Charlotte Hornets,1
+Base Platinum,56,Kent Bazemore,Atlanta Hawks,1
+Base Platinum,57,Kevin Durant,Golden State Warriors,1
+Base Platinum,58,Kevin Love,Cleveland Cavaliers,1
+Base Platinum,59,Khris Middleton,Milwaukee Bucks,1
+Base Platinum,60,Klay Thompson,Golden State Warriors,1
+Base Platinum,61,Kris Dunn,Chicago Bulls,1
+Base Platinum,62,Kristaps Porzingis,New York Knicks,1
+Base Platinum,63,Kyle Kuzma,Los Angeles Lakers,1
+Base Platinum,64,Kyle Lowry,Toronto Raptors,1
+Base Platinum,65,Kyrie Irving,Boston Celtics,1
+Base Platinum,66,LaMarcus Aldridge,San Antonio Spurs,1
+Base Platinum,67,Larry Nance Jr.,Cleveland Cavaliers,1
+Base Platinum,68,Lauri Markkanen,Chicago Bulls,1
+Base Platinum,69,LeBron James,Cleveland Cavaliers,1
+Base Platinum,70,Lonzo Ball,Los Angeles Lakers,1
+Base Platinum,71,Lou Williams,Los Angeles Clippers,1
+Base Platinum,72,Marc Gasol,Memphis Grizzlies,1
+Base Platinum,73,Markelle Fultz,Philadelphia 76ers,1
+Base Platinum,74,MarShon Brooks,Memphis Grizzlies,1
+Base Platinum,75,Michael Beasley,New York Knicks,1
+Base Platinum,76,Mike Conley,Memphis Grizzlies,1
+Base Platinum,77,Myles Turner,Indiana Pacers,1
+Base Platinum,78,Nicolas Batum,Charlotte Hornets,1
+Base Platinum,79,Nikola Jokic,Denver Nuggets,1
+Base Platinum,80,Nikola Vucevic,Orlando Magic,1
+Base Platinum,81,Otto Porter Jr.,Washington Wizards,1
+Base Platinum,82,Pau Gasol,San Antonio Spurs,1
+Base Platinum,83,Paul George,Oklahoma City Thunder,1
+Base Platinum,84,Paul Millsap,Denver Nuggets,1
+Base Platinum,85,Reggie Jackson,Detroit Pistons,1
+Base Platinum,86,Ricky Rubio,Utah Jazz,1
+Base Platinum,87,Rondae Hollis-Jefferson,Brooklyn Nets,1
+Base Platinum,88,Rudy Gay,San Antonio Spurs,1
+Base Platinum,89,Rudy Gobert,Utah Jazz,1
+Base Platinum,90,Russell Westbrook,Oklahoma City Thunder,1
+Base Platinum,91,Spencer Dinwiddie,Brooklyn Nets,1
+Base Platinum,92,Stephen Curry,Golden State Warriors,1
+Base Platinum,93,TJ Warren,Phoenix Suns,1
+Base Platinum,94,Taurean Prince,Atlanta Hawks,1
+Base Platinum,95,Thaddeus Young,Indiana Pacers,1
+Base Platinum,96,Tyson Chandler,Phoenix Suns,1
+Base Platinum,97,Victor Oladipo,Indiana Pacers,1
+Base Platinum,98,Wesley Matthews,Dallas Mavericks,1
+Base Platinum,99,Willie Cauley-Stein,Sacramento Kings,1
+Base Platinum,100,Zach LaVine,Chicago Bulls,1
+Elegance Retired Jersey Autographs,1,Mark Price,Cleveland Cavaliers,99
+Elegance Retired Jersey Autographs,2,Alonzo Mourning,Charlotte Hornets,25
+Elegance Retired Jersey Autographs,4,Clyde Drexler,Portland Trail Blazers,25
+Elegance Retired Jersey Autographs,5,Dominique Wilkins,Atlanta Hawks,25
+Elegance Retired Jersey Autographs,6,Kobe Bryant,Los Angeles Lakers,25
+Elegance Retired Jersey Autographs,7,Artis Gilmore,San Antonio Spurs,99
+Elegance Retired Jersey Autographs,8,Allen Iverson,Philadelphia 76ers,25
+Elegance Retired Jersey Autographs,9,B.J. Armstrong,Chicago Bulls,99
+Elegance Retired Jersey Autographs,10,Julius Erving,Philadelphia 76ers,25
+Elegance Retired Jersey Autographs,11,Shawn Bradley,Philadelphia 76ers,99
+Elegance Retired Jersey Autographs,12,David Robinson,San Antonio Spurs,25
+Elegance Retired Jersey Autographs,13,Detlef Schrempf,Dallas Mavericks,99
+Elegance Retired Jersey Autographs,14,Grant Hill,Detroit Pistons,25
+Elegance Retired Jersey Autographs,15,Christian Laettner,Washington Wizards,99
+Elegance Retired Jersey Autographs,16,Shaquille O'Neal,Phoenix Suns,25
+Elegance Retired Jersey Autographs,17,Robert Parish,Boston Celtics,99
+Elegance Retired Jersey Autographs,18,Karl Malone,Utah Jazz,25
+Elegance Retired Jersey Autographs,19,Tom Gugliotta,Minnesota Timberwolves,99
+Elegance Retired Jersey Autographs,20,Larry Bird,Boston Celtics,25
+Elegance Retired Jersey Autographs Holo Gold,1,Mark Price,Cleveland Cavaliers,10
+Elegance Retired Jersey Autographs Holo Gold,2,Alonzo Mourning,Charlotte Hornets,10
+Elegance Retired Jersey Autographs Holo Gold,4,Clyde Drexler,Portland Trail Blazers,10
+Elegance Retired Jersey Autographs Holo Gold,5,Dominique Wilkins,Atlanta Hawks,10
+Elegance Retired Jersey Autographs Holo Gold,6,Kobe Bryant,Los Angeles Lakers,10
+Elegance Retired Jersey Autographs Holo Gold,7,Artis Gilmore,San Antonio Spurs,10
+Elegance Retired Jersey Autographs Holo Gold,8,Allen Iverson,Philadelphia 76ers,10
+Elegance Retired Jersey Autographs Holo Gold,9,B.J. Armstrong,Chicago Bulls,10
+Elegance Retired Jersey Autographs Holo Gold,10,Julius Erving,Philadelphia 76ers,10
+Elegance Retired Jersey Autographs Holo Gold,11,Shawn Bradley,Philadelphia 76ers,10
+Elegance Retired Jersey Autographs Holo Gold,12,David Robinson,San Antonio Spurs,10
+Elegance Retired Jersey Autographs Holo Gold,13,Detlef Schrempf,Dallas Mavericks,10
+Elegance Retired Jersey Autographs Holo Gold,14,Grant Hill,Detroit Pistons,10
+Elegance Retired Jersey Autographs Holo Gold,16,Shaquille O'Neal,Phoenix Suns,10
+Elegance Retired Jersey Autographs Holo Gold,17,Robert Parish,Boston Celtics,10
+Elegance Retired Jersey Autographs Holo Gold,18,Karl Malone,Utah Jazz,10
+Elegance Retired Jersey Autographs Holo Gold,19,Tom Gugliotta,Minnesota Timberwolves,10
+Elegance Retired Jersey Autographs Holo Gold,20,Larry Bird,Boston Celtics,10
+Elegance Retired Jersey Autographs Holo Silver,1,Mark Price,Cleveland Cavaliers,25
+Elegance Retired Jersey Autographs Holo Silver,7,Artis Gilmore,San Antonio Spurs,20
+Elegance Retired Jersey Autographs Holo Silver,9,B.J. Armstrong,Chicago Bulls,25
+Elegance Retired Jersey Autographs Holo Silver,11,Shawn Bradley,Philadelphia 76ers,25
+Elegance Retired Jersey Autographs Holo Silver,13,Detlef Schrempf,Dallas Mavericks,25
+Elegance Retired Jersey Autographs Holo Silver,17,Robert Parish,Boston Celtics,25
+Elegance Retired Jersey Autographs Holo Silver,19,Tom Gugliotta,Minnesota Timberwolves,15
+Elegance Retired Jersey Autographs Platinum,1,Mark Price,Cleveland Cavaliers,1
+Elegance Retired Jersey Autographs Platinum,2,Alonzo Mourning,Charlotte Hornets,1
+Elegance Retired Jersey Autographs Platinum,4,Clyde Drexler,Portland Trail Blazers,1
+Elegance Retired Jersey Autographs Platinum,5,Dominique Wilkins,Atlanta Hawks,1
+Elegance Retired Jersey Autographs Platinum,6,Kobe Bryant,Los Angeles Lakers,1
+Elegance Retired Jersey Autographs Platinum,7,Artis Gilmore,San Antonio Spurs,1
+Elegance Retired Jersey Autographs Platinum,8,Allen Iverson,Philadelphia 76ers,1
+Elegance Retired Jersey Autographs Platinum,9,B.J. Armstrong,Chicago Bulls,1
+Elegance Retired Jersey Autographs Platinum,10,Julius Erving,Philadelphia 76ers,1
+Elegance Retired Jersey Autographs Platinum,11,Shawn Bradley,Philadelphia 76ers,1
+Elegance Retired Jersey Autographs Platinum,12,David Robinson,San Antonio Spurs,1
+Elegance Retired Jersey Autographs Platinum,13,Detlef Schrempf,Dallas Mavericks,1
+Elegance Retired Jersey Autographs Platinum,14,Grant Hill,Detroit Pistons,1
+Elegance Retired Jersey Autographs Platinum,15,Christian Laettner,Washington Wizards,1
+Elegance Retired Jersey Autographs Platinum,16,Shaquille O'Neal,Phoenix Suns,1
+Elegance Retired Jersey Autographs Platinum,17,Robert Parish,Boston Celtics,1
+Elegance Retired Jersey Autographs Platinum,18,Karl Malone,Utah Jazz,1
+Elegance Retired Jersey Autographs Platinum,19,Tom Gugliotta,Minnesota Timberwolves,1
+Elegance Retired Jersey Autographs Platinum,20,Larry Bird,Boston Celtics,1
+Elegance Rookie Jersey Autographs,121,Semi Ojeleye,Boston Celtics,99
+Elegance Rookie Jersey Autographs,122,Dwayne Bacon,Charlotte Hornets,99
+Elegance Rookie Jersey Autographs,123,TJ Leaf,Indiana Pacers,99
+Elegance Rookie Jersey Autographs,124,Harry Giles,Sacramento Kings,99
+Elegance Rookie Jersey Autographs,125,Tyler Lydon,Denver Nuggets,99
+Elegance Rookie Jersey Autographs,126,John Collins,Atlanta Hawks,99
+Elegance Rookie Jersey Autographs,127,Josh Jackson,Phoenix Suns,99
+Elegance Rookie Jersey Autographs,128,Bam Adebayo,Miami Heat,99
+Elegance Rookie Jersey Autographs,129,Luke Kennard,Detroit Pistons,99
+Elegance Rookie Jersey Autographs,130,Dennis Smith Jr.,Dallas Mavericks,99
+Elegance Rookie Jersey Autographs,131,Sindarius Thornwell,Los Angeles Clippers,99
+Elegance Rookie Jersey Autographs,132,Frank Jackson,New Orleans Pelicans,99
+Elegance Rookie Jersey Autographs,133,Terrance Ferguson,Oklahoma City Thunder,99
+Elegance Rookie Jersey Autographs,135,Wes Iwundu,Orlando Magic,99
+Elegance Rookie Jersey Autographs,136,Jonathan Isaac,Orlando Magic,99
+Elegance Rookie Jersey Autographs,137,Justin Patton,Minnesota Timberwolves,99
+Elegance Rookie Jersey Autographs,138,Caleb Swanigan,Portland Trail Blazers,99
+Elegance Rookie Jersey Autographs,139,Malik Monk,Charlotte Hornets,99
+Elegance Rookie Jersey Autographs,140,Derrick White,San Antonio Spurs,99
+Elegance Rookie Jersey Autographs,141,Sterling Brown,Milwaukee Bucks,99
+Elegance Rookie Jersey Autographs,142,Frank Mason III,Sacramento Kings,99
+Elegance Rookie Jersey Autographs,143,Tony Bradley,Utah Jazz,99
+Elegance Rookie Jersey Autographs,144,Jarrett Allen,Brooklyn Nets,99
+Elegance Rookie Jersey Autographs,145,Zach Collins,Portland Trail Blazers,99
+Elegance Rookie Jersey Autographs,146,Jordan Bell,Golden State Warriors,99
+Elegance Rookie Jersey Autographs,147,Kyle Kuzma,Los Angeles Lakers,99
+Elegance Rookie Jersey Autographs,148,D.J. Wilson,Milwaukee Bucks,99
+Elegance Rookie Jersey Autographs,149,Markelle Fultz,Philadelphia 76ers,99
+Elegance Rookie Jersey Autographs,150,Donovan Mitchell,Utah Jazz,99
+Elegance Rookie Jersey Autographs,151,Jawun Evans,Los Angeles Clippers,99
+Elegance Rookie Jersey Autographs,152,Frank Ntilikina,New York Knicks,99
+Elegance Rookie Jersey Autographs,153,Tyler Dorsey,Atlanta Hawks,99
+Elegance Rookie Jersey Autographs,154,Jayson Tatum,Boston Celtics,99
+Elegance Rookie Jersey Autographs,155,Lauri Markkanen,Chicago Bulls,99
+Elegance Rookie Jersey Autographs,156,Josh Hart,Los Angeles Lakers,99
+Elegance Rookie Jersey Autographs,157,Lonzo Ball,Los Angeles Lakers,99
+Elegance Rookie Jersey Autographs,158,Davon Reed,Phoenix Suns,99
+Elegance Rookie Jersey Autographs,159,OG Anunoby,Toronto Raptors,99
+Elegance Rookie Jersey Autographs,160,De'Aaron Fox,Sacramento Kings,99
+Elegance Rookie Jersey Autographs Holo Gold,121,Semi Ojeleye,Boston Celtics,10
+Elegance Rookie Jersey Autographs Holo Gold,122,Dwayne Bacon,Charlotte Hornets,10
+Elegance Rookie Jersey Autographs Holo Gold,123,TJ Leaf,Indiana Pacers,10
+Elegance Rookie Jersey Autographs Holo Gold,124,Harry Giles,Sacramento Kings,10
+Elegance Rookie Jersey Autographs Holo Gold,125,Tyler Lydon,Denver Nuggets,10
+Elegance Rookie Jersey Autographs Holo Gold,126,John Collins,Atlanta Hawks,10
+Elegance Rookie Jersey Autographs Holo Gold,127,Josh Jackson,Phoenix Suns,10
+Elegance Rookie Jersey Autographs Holo Gold,128,Bam Adebayo,Miami Heat,10
+Elegance Rookie Jersey Autographs Holo Gold,129,Luke Kennard,Detroit Pistons,10
+Elegance Rookie Jersey Autographs Holo Gold,130,Dennis Smith Jr.,Dallas Mavericks,10
+Elegance Rookie Jersey Autographs Holo Gold,131,Sindarius Thornwell,Los Angeles Clippers,10
+Elegance Rookie Jersey Autographs Holo Gold,132,Frank Jackson,New Orleans Pelicans,10
+Elegance Rookie Jersey Autographs Holo Gold,133,Terrance Ferguson,Oklahoma City Thunder,10
+Elegance Rookie Jersey Autographs Holo Gold,135,Wes Iwundu,Orlando Magic,10
+Elegance Rookie Jersey Autographs Holo Gold,136,Jonathan Isaac,Orlando Magic,10
+Elegance Rookie Jersey Autographs Holo Gold,137,Justin Patton,Minnesota Timberwolves,10
+Elegance Rookie Jersey Autographs Holo Gold,138,Caleb Swanigan,Portland Trail Blazers,10
+Elegance Rookie Jersey Autographs Holo Gold,139,Malik Monk,Charlotte Hornets,10
+Elegance Rookie Jersey Autographs Holo Gold,140,Derrick White,San Antonio Spurs,10
+Elegance Rookie Jersey Autographs Holo Gold,141,Sterling Brown,Milwaukee Bucks,10
+Elegance Rookie Jersey Autographs Holo Gold,142,Frank Mason III,Sacramento Kings,10
+Elegance Rookie Jersey Autographs Holo Gold,143,Tony Bradley,Utah Jazz,10
+Elegance Rookie Jersey Autographs Holo Gold,144,Jarrett Allen,Brooklyn Nets,10
+Elegance Rookie Jersey Autographs Holo Gold,145,Zach Collins,Portland Trail Blazers,10
+Elegance Rookie Jersey Autographs Holo Gold,146,Jordan Bell,Golden State Warriors,10
+Elegance Rookie Jersey Autographs Holo Gold,147,Kyle Kuzma,Los Angeles Lakers,10
+Elegance Rookie Jersey Autographs Holo Gold,148,D.J. Wilson,Milwaukee Bucks,10
+Elegance Rookie Jersey Autographs Holo Gold,149,Markelle Fultz,Philadelphia 76ers,10
+Elegance Rookie Jersey Autographs Holo Gold,150,Donovan Mitchell,Utah Jazz,10
+Elegance Rookie Jersey Autographs Holo Gold,151,Jawun Evans,Los Angeles Clippers,10
+Elegance Rookie Jersey Autographs Holo Gold,152,Frank Ntilikina,New York Knicks,10
+Elegance Rookie Jersey Autographs Holo Gold,153,Tyler Dorsey,Atlanta Hawks,10
+Elegance Rookie Jersey Autographs Holo Gold,154,Jayson Tatum,Boston Celtics,10
+Elegance Rookie Jersey Autographs Holo Gold,155,Lauri Markkanen,Chicago Bulls,10
+Elegance Rookie Jersey Autographs Holo Gold,156,Josh Hart,Los Angeles Lakers,10
+Elegance Rookie Jersey Autographs Holo Gold,157,Lonzo Ball,Los Angeles Lakers,10
+Elegance Rookie Jersey Autographs Holo Gold,158,Davon Reed,Phoenix Suns,10
+Elegance Rookie Jersey Autographs Holo Gold,159,OG Anunoby,Toronto Raptors,10
+Elegance Rookie Jersey Autographs Holo Gold,160,De'Aaron Fox,Sacramento Kings,10
+Elegance Rookie Jersey Autographs Holo Silver,121,Semi Ojeleye,Boston Celtics,25
+Elegance Rookie Jersey Autographs Holo Silver,122,Dwayne Bacon,Charlotte Hornets,25
+Elegance Rookie Jersey Autographs Holo Silver,123,TJ Leaf,Indiana Pacers,25
+Elegance Rookie Jersey Autographs Holo Silver,124,Harry Giles,Sacramento Kings,25
+Elegance Rookie Jersey Autographs Holo Silver,125,Tyler Lydon,Denver Nuggets,25
+Elegance Rookie Jersey Autographs Holo Silver,126,John Collins,Atlanta Hawks,25
+Elegance Rookie Jersey Autographs Holo Silver,127,Josh Jackson,Phoenix Suns,25
+Elegance Rookie Jersey Autographs Holo Silver,128,Bam Adebayo,Miami Heat,25
+Elegance Rookie Jersey Autographs Holo Silver,129,Luke Kennard,Detroit Pistons,25
+Elegance Rookie Jersey Autographs Holo Silver,130,Dennis Smith Jr.,Dallas Mavericks,25
+Elegance Rookie Jersey Autographs Holo Silver,131,Sindarius Thornwell,Los Angeles Clippers,25
+Elegance Rookie Jersey Autographs Holo Silver,132,Frank Jackson,New Orleans Pelicans,25
+Elegance Rookie Jersey Autographs Holo Silver,133,Terrance Ferguson,Oklahoma City Thunder,25
+Elegance Rookie Jersey Autographs Holo Silver,135,Wes Iwundu,Orlando Magic,25
+Elegance Rookie Jersey Autographs Holo Silver,136,Jonathan Isaac,Orlando Magic,25
+Elegance Rookie Jersey Autographs Holo Silver,137,Justin Patton,Minnesota Timberwolves,25
+Elegance Rookie Jersey Autographs Holo Silver,138,Caleb Swanigan,Portland Trail Blazers,25
+Elegance Rookie Jersey Autographs Holo Silver,139,Malik Monk,Charlotte Hornets,25
+Elegance Rookie Jersey Autographs Holo Silver,140,Derrick White,San Antonio Spurs,25
+Elegance Rookie Jersey Autographs Holo Silver,141,Sterling Brown,Milwaukee Bucks,25
+Elegance Rookie Jersey Autographs Holo Silver,142,Frank Mason III,Sacramento Kings,25
+Elegance Rookie Jersey Autographs Holo Silver,143,Tony Bradley,Utah Jazz,25
+Elegance Rookie Jersey Autographs Holo Silver,144,Jarrett Allen,Brooklyn Nets,25
+Elegance Rookie Jersey Autographs Holo Silver,145,Zach Collins,Portland Trail Blazers,25
+Elegance Rookie Jersey Autographs Holo Silver,146,Jordan Bell,Golden State Warriors,22
+Elegance Rookie Jersey Autographs Holo Silver,147,Kyle Kuzma,Los Angeles Lakers,25
+Elegance Rookie Jersey Autographs Holo Silver,148,D.J. Wilson,Milwaukee Bucks,25
+Elegance Rookie Jersey Autographs Holo Silver,149,Markelle Fultz,Philadelphia 76ers,25
+Elegance Rookie Jersey Autographs Holo Silver,150,Donovan Mitchell,Utah Jazz,25
+Elegance Rookie Jersey Autographs Holo Silver,151,Jawun Evans,Los Angeles Clippers,25
+Elegance Rookie Jersey Autographs Holo Silver,152,Frank Ntilikina,New York Knicks,25
+Elegance Rookie Jersey Autographs Holo Silver,153,Tyler Dorsey,Atlanta Hawks,25
+Elegance Rookie Jersey Autographs Holo Silver,154,Jayson Tatum,Boston Celtics,25
+Elegance Rookie Jersey Autographs Holo Silver,155,Lauri Markkanen,Chicago Bulls,25
+Elegance Rookie Jersey Autographs Holo Silver,156,Josh Hart,Los Angeles Lakers,23
+Elegance Rookie Jersey Autographs Holo Silver,157,Lonzo Ball,Los Angeles Lakers,25
+Elegance Rookie Jersey Autographs Holo Silver,158,Davon Reed,Phoenix Suns,25
+Elegance Rookie Jersey Autographs Holo Silver,159,OG Anunoby,Toronto Raptors,25
+Elegance Rookie Jersey Autographs Holo Silver,160,De'Aaron Fox,Sacramento Kings,25
+Elegance Rookie Jersey Autographs Platinum,121,Semi Ojeleye,Boston Celtics,1
+Elegance Rookie Jersey Autographs Platinum,122,Dwayne Bacon,Charlotte Hornets,1
+Elegance Rookie Jersey Autographs Platinum,123,TJ Leaf,Indiana Pacers,1
+Elegance Rookie Jersey Autographs Platinum,124,Harry Giles,Sacramento Kings,1
+Elegance Rookie Jersey Autographs Platinum,125,Tyler Lydon,Denver Nuggets,1
+Elegance Rookie Jersey Autographs Platinum,126,John Collins,Atlanta Hawks,1
+Elegance Rookie Jersey Autographs Platinum,127,Josh Jackson,Phoenix Suns,1
+Elegance Rookie Jersey Autographs Platinum,128,Bam Adebayo,Miami Heat,1
+Elegance Rookie Jersey Autographs Platinum,129,Luke Kennard,Detroit Pistons,1
+Elegance Rookie Jersey Autographs Platinum,130,Dennis Smith Jr.,Dallas Mavericks,1
+Elegance Rookie Jersey Autographs Platinum,131,Sindarius Thornwell,Los Angeles Clippers,1
+Elegance Rookie Jersey Autographs Platinum,132,Frank Jackson,New Orleans Pelicans,1
+Elegance Rookie Jersey Autographs Platinum,133,Terrance Ferguson,Oklahoma City Thunder,1
+Elegance Rookie Jersey Autographs Platinum,135,Wes Iwundu,Orlando Magic,1
+Elegance Rookie Jersey Autographs Platinum,136,Jonathan Isaac,Orlando Magic,1
+Elegance Rookie Jersey Autographs Platinum,137,Justin Patton,Minnesota Timberwolves,1
+Elegance Rookie Jersey Autographs Platinum,138,Caleb Swanigan,Portland Trail Blazers,1
+Elegance Rookie Jersey Autographs Platinum,139,Malik Monk,Charlotte Hornets,1
+Elegance Rookie Jersey Autographs Platinum,140,Derrick White,San Antonio Spurs,1
+Elegance Rookie Jersey Autographs Platinum,141,Sterling Brown,Milwaukee Bucks,1
+Elegance Rookie Jersey Autographs Platinum,142,Frank Mason III,Sacramento Kings,1
+Elegance Rookie Jersey Autographs Platinum,143,Tony Bradley,Utah Jazz,1
+Elegance Rookie Jersey Autographs Platinum,144,Jarrett Allen,Brooklyn Nets,1
+Elegance Rookie Jersey Autographs Platinum,145,Zach Collins,Portland Trail Blazers,1
+Elegance Rookie Jersey Autographs Platinum,146,Jordan Bell,Golden State Warriors,1
+Elegance Rookie Jersey Autographs Platinum,147,Kyle Kuzma,Los Angeles Lakers,1
+Elegance Rookie Jersey Autographs Platinum,148,D.J. Wilson,Milwaukee Bucks,1
+Elegance Rookie Jersey Autographs Platinum,149,Markelle Fultz,Philadelphia 76ers,1
+Elegance Rookie Jersey Autographs Platinum,150,Donovan Mitchell,Utah Jazz,1
+Elegance Rookie Jersey Autographs Platinum,151,Jawun Evans,Los Angeles Clippers,1
+Elegance Rookie Jersey Autographs Platinum,152,Frank Ntilikina,New York Knicks,1
+Elegance Rookie Jersey Autographs Platinum,153,Tyler Dorsey,Atlanta Hawks,1
+Elegance Rookie Jersey Autographs Platinum,154,Jayson Tatum,Boston Celtics,1
+Elegance Rookie Jersey Autographs Platinum,155,Lauri Markkanen,Chicago Bulls,1
+Elegance Rookie Jersey Autographs Platinum,156,Josh Hart,Los Angeles Lakers,1
+Elegance Rookie Jersey Autographs Platinum,157,Lonzo Ball,Los Angeles Lakers,1
+Elegance Rookie Jersey Autographs Platinum,158,Davon Reed,Phoenix Suns,1
+Elegance Rookie Jersey Autographs Platinum,159,OG Anunoby,Toronto Raptors,1
+Elegance Rookie Jersey Autographs Platinum,160,De'Aaron Fox,Sacramento Kings,1
+Elegance Veteran Jersey Autographs,1,Kevin Durant,Golden State Warriors,25
+Elegance Veteran Jersey Autographs,2,Aaron Gordon,Orlando Magic,99
+Elegance Veteran Jersey Autographs,3,Kyrie Irving,Boston Celtics,25
+Elegance Veteran Jersey Autographs,4,Myles Turner,Indiana Pacers,99
+Elegance Veteran Jersey Autographs,5,Blake Griffin,Detroit Pistons,25
+Elegance Veteran Jersey Autographs,6,Thaddeus Young,Indiana Pacers,99
+Elegance Veteran Jersey Autographs,7,Brandon Ingram,Los Angeles Lakers,25
+Elegance Veteran Jersey Autographs,8,Allen Crabbe,Brooklyn Nets,99
+Elegance Veteran Jersey Autographs,9,Kristaps Porzingis,New York Knicks,25
+Elegance Veteran Jersey Autographs,10,Khris Middleton,Milwaukee Bucks,99
+Elegance Veteran Jersey Autographs,11,Damian Lillard,Portland Trail Blazers,25
+Elegance Veteran Jersey Autographs,12,Zach LaVine,Chicago Bulls,99
+Elegance Veteran Jersey Autographs,13,Dirk Nowitzki,Dallas Mavericks,25
+Elegance Veteran Jersey Autographs,14,Courtney Lee,New York Knicks,99
+Elegance Veteran Jersey Autographs,15,Giannis Antetokounmpo,Milwaukee Bucks,25
+Elegance Veteran Jersey Autographs,16,Seth Curry,Dallas Mavericks,99
+Elegance Veteran Jersey Autographs,17,Kevin Love,Cleveland Cavaliers,25
+Elegance Veteran Jersey Autographs,18,Rondae Hollis-Jefferson,Brooklyn Nets,99
+Elegance Veteran Jersey Autographs,19,Harrison Barnes,Dallas Mavericks,99
+Elegance Veteran Jersey Autographs,20,Mike Conley,Memphis Grizzlies,99
+Elegance Veteran Jersey Autographs Holo Gold,1,Kevin Durant,Golden State Warriors,10
+Elegance Veteran Jersey Autographs Holo Gold,2,Aaron Gordon,Orlando Magic,10
+Elegance Veteran Jersey Autographs Holo Gold,3,Kyrie Irving,Boston Celtics,10
+Elegance Veteran Jersey Autographs Holo Gold,4,Myles Turner,Indiana Pacers,10
+Elegance Veteran Jersey Autographs Holo Gold,5,Blake Griffin,Detroit Pistons,10
+Elegance Veteran Jersey Autographs Holo Gold,6,Thaddeus Young,Indiana Pacers,10
+Elegance Veteran Jersey Autographs Holo Gold,7,Brandon Ingram,Los Angeles Lakers,10
+Elegance Veteran Jersey Autographs Holo Gold,8,Allen Crabbe,Brooklyn Nets,10
+Elegance Veteran Jersey Autographs Holo Gold,9,Kristaps Porzingis,New York Knicks,10
+Elegance Veteran Jersey Autographs Holo Gold,10,Khris Middleton,Milwaukee Bucks,10
+Elegance Veteran Jersey Autographs Holo Gold,11,Damian Lillard,Portland Trail Blazers,10
+Elegance Veteran Jersey Autographs Holo Gold,12,Zach LaVine,Chicago Bulls,10
+Elegance Veteran Jersey Autographs Holo Gold,13,Dirk Nowitzki,Dallas Mavericks,10
+Elegance Veteran Jersey Autographs Holo Gold,14,Courtney Lee,New York Knicks,10
+Elegance Veteran Jersey Autographs Holo Gold,15,Giannis Antetokounmpo,Milwaukee Bucks,10
+Elegance Veteran Jersey Autographs Holo Gold,16,Seth Curry,Dallas Mavericks,10
+Elegance Veteran Jersey Autographs Holo Gold,17,Kevin Love,Cleveland Cavaliers,10
+Elegance Veteran Jersey Autographs Holo Gold,18,Rondae Hollis-Jefferson,Brooklyn Nets,10
+Elegance Veteran Jersey Autographs Holo Gold,19,Harrison Barnes,Dallas Mavericks,10
+Elegance Veteran Jersey Autographs Holo Gold,20,Mike Conley,Memphis Grizzlies,10
+Elegance Veteran Jersey Autographs Holo Silver,2,Aaron Gordon,Orlando Magic,25
+Elegance Veteran Jersey Autographs Holo Silver,4,Myles Turner,Indiana Pacers,25
+Elegance Veteran Jersey Autographs Holo Silver,6,Thaddeus Young,Indiana Pacers,25
+Elegance Veteran Jersey Autographs Holo Silver,8,Allen Crabbe,Brooklyn Nets,25
+Elegance Veteran Jersey Autographs Holo Silver,10,Khris Middleton,Milwaukee Bucks,25
+Elegance Veteran Jersey Autographs Holo Silver,12,Zach LaVine,Chicago Bulls,25
+Elegance Veteran Jersey Autographs Holo Silver,14,Courtney Lee,New York Knicks,25
+Elegance Veteran Jersey Autographs Holo Silver,16,Seth Curry,Dallas Mavericks,25
+Elegance Veteran Jersey Autographs Holo Silver,18,Rondae Hollis-Jefferson,Brooklyn Nets,25
+Elegance Veteran Jersey Autographs Holo Silver,19,Harrison Barnes,Dallas Mavericks,25
+Elegance Veteran Jersey Autographs Holo Silver,20,Mike Conley,Memphis Grizzlies,25
+Elegance Veteran Jersey Autographs Platinum,1,Kevin Durant,Golden State Warriors,1
+Elegance Veteran Jersey Autographs Platinum,2,Aaron Gordon,Orlando Magic,1
+Elegance Veteran Jersey Autographs Platinum,3,Kyrie Irving,Boston Celtics,1
+Elegance Veteran Jersey Autographs Platinum,4,Myles Turner,Indiana Pacers,1
+Elegance Veteran Jersey Autographs Platinum,6,Thaddeus Young,Indiana Pacers,1
+Elegance Veteran Jersey Autographs Platinum,7,Brandon Ingram,Los Angeles Lakers,1
+Elegance Veteran Jersey Autographs Platinum,8,Allen Crabbe,Brooklyn Nets,1
+Elegance Veteran Jersey Autographs Platinum,9,Kristaps Porzingis,New York Knicks,1
+Elegance Veteran Jersey Autographs Platinum,10,Khris Middleton,Milwaukee Bucks,1
+Elegance Veteran Jersey Autographs Platinum,11,Damian Lillard,Portland Trail Blazers,1
+Elegance Veteran Jersey Autographs Platinum,12,Zach LaVine,Chicago Bulls,1
+Elegance Veteran Jersey Autographs Platinum,13,Dirk Nowitzki,Dallas Mavericks,1
+Elegance Veteran Jersey Autographs Platinum,14,Courtney Lee,New York Knicks,1
+Elegance Veteran Jersey Autographs Platinum,15,Giannis Antetokounmpo,Milwaukee Bucks,1
+Elegance Veteran Jersey Autographs Platinum,16,Seth Curry,Dallas Mavericks,1
+Elegance Veteran Jersey Autographs Platinum,17,Kevin Love,Cleveland Cavaliers,1
+Elegance Veteran Jersey Autographs Platinum,18,Rondae Hollis-Jefferson,Brooklyn Nets,1
+Elegance Veteran Jersey Autographs Platinum,19,Harrison Barnes,Dallas Mavericks,1
+Elegance Veteran Jersey Autographs Platinum,20,Mike Conley,Memphis Grizzlies,1
+Gold NBA Logo,28,Stephen Curry,Golden State Warriors,10
+Gold NBA Logo,41,Charles Barkley,Philadelphia 76ers,10
+Gold NBA Logo,48,Kevin Durant,Golden State Warriors,10
+Gold NBA Logo,54,Jayson Tatum,Boston Celtics,10
+Gold NBA Logo,56,LeBron James,Cleveland Cavaliers,10
+Gold NBA Logo,61,Kobe Bryant,Los Angeles Lakers,10
+Gold NBA Logo,64,Kyle Kuzma,Los Angeles Lakers,10
+Gold NBA Logo,74,Donovan Mitchell,Utah Jazz,10
+Gold NBA Logo,84,Lonzo Ball,Los Angeles Lakers,10
+Gold NBA Logo,97,Markelle Fultz,Philadelphia 76ers,10
+Impeccable All-Stars Autographs,1,Anthony Davis,New Orleans Pelicans,5
+Impeccable All-Stars Autographs,2,Larry Bird,Boston Celtics,12
+Impeccable All-Stars Autographs,3,Stephen Curry,Golden State Warriors,5
+Impeccable All-Stars Autographs,4,Julius Erving,Philadelphia 76ers,16
+Impeccable All-Stars Autographs,5,David Robinson,San Antonio Spurs,10
+Impeccable All-Stars Autographs,6,Kareem Abdul-Jabbar,Los Angeles Lakers,19
+Impeccable All-Stars Autographs,7,John Stockton,Utah Jazz,10
+Impeccable All-Stars Autographs,8,Shaquille O'Neal,Los Angeles Lakers,15
+Impeccable All-Stars Autographs,9,Gary Payton,Seattle Supersonics,9
+Impeccable All-Stars Autographs,10,Dirk Nowitzki,Dallas Mavericks,13
+Impeccable All-Stars Autographs,11,Reggie Miller,Indiana Pacers,5
+Impeccable All-Stars Autographs,12,Allen Iverson,Philadelphia 76ers,11
+Impeccable All-Stars Autographs,13,George Gervin,San Antonio Spurs,12
+Impeccable All-Stars Autographs,14,Clyde Drexler,Portland Trail Blazers,10
+Impeccable All-Stars Autographs,15,Jason Kidd,Dallas Mavericks,10
+Impeccable All-Stars Autographs,16,Kobe Bryant,Los Angeles Lakers,18
+Impeccable All-Stars Autographs,17,Ray Allen,Seattle Supersonics,10
+Impeccable All-Stars Autographs,18,Karl Malone,Utah Jazz,14
+Impeccable All-Stars Autographs,19,Robert Parish,Boston Celtics,9
+Impeccable All-Stars Autographs,20,Hakeem Olajuwon,Houston Rockets,12
+Impeccable All-Stars Autographs,21,Charles Barkley,Philadelphia 76ers,11
+Impeccable Draft Pick Autographs,1,Kobe Bryant,Los Angeles Lakers,13
+Impeccable Draft Pick Autographs,2,Shaquille O'Neal,Orlando Magic,1
+Impeccable Draft Pick Autographs,3,Reggie Miller,Indiana Pacers,11
+Impeccable Draft Pick Autographs,4,Damian Lillard,Portland Trail Blazers,6
+Impeccable Draft Pick Autographs,5,Kyrie Irving,Cleveland Cavaliers,1
+Impeccable Draft Pick Autographs,6,Blake Griffin,Los Angeles Clippers,1
+Impeccable Draft Pick Autographs,7,Ray Allen,Milwaukee Bucks,5
+Impeccable Draft Pick Autographs,8,Jason Kidd,Dallas Mavericks,2
+Impeccable Draft Pick Autographs,9,Gordon Hayward,Utah Jazz,9
+Impeccable Draft Pick Autographs,10,Andre Drummond,Detroit Pistons,9
+Impeccable Draft Pick Autographs,11,Kyle Kuzma,Los Angeles Lakers,27
+Impeccable Draft Pick Autographs,12,Lauri Markkanen,Chicago Bulls,7
+Impeccable Draft Pick Autographs,13,Markelle Fultz,Philadelphia 76ers,1
+Impeccable Draft Pick Autographs,14,Jayson Tatum,Boston Celtics,3
+Impeccable Draft Pick Autographs,15,Donovan Mitchell,Utah Jazz,13
+Impeccable Draft Pick Autographs,16,Lonzo Ball,Los Angeles Lakers,2
+Impeccable Draft Pick Autographs,17,Kevin Durant,Seattle Supersonics,2
+Impeccable Draft Pick Autographs,18,Karl Malone,Utah Jazz,13
+Impeccable Draft Pick Autographs,19,Kevin Johnson,Cleveland Cavaliers,7
+Impeccable Draft Pick Autographs,20,Tracy McGrady,Toronto Raptors,9
+Impeccable Draft Pick Autographs,21,Charles Barkley,Philadelphia 76ers,5
+Impeccable Jersey Number Autographs,1,Chris Paul,Houston Rockets,3
+Impeccable Jersey Number Autographs,2,Gary Payton,Seattle Supersonics,20
+Impeccable Jersey Number Autographs,3,Anfernee Hardaway,Orlando Magic,1
+Impeccable Jersey Number Autographs,4,John Stockton,Utah Jazz,12
+Impeccable Jersey Number Autographs,5,Kobe Bryant,Los Angeles Lakers,8
+Impeccable Jersey Number Autographs,7,Kristaps Porzingis,New York Knicks,6
+Impeccable Jersey Number Autographs,8,Bernard King,New York Knicks,30
+Impeccable Jersey Number Autographs,9,Danny Manning,Los Angeles Clippers,5
+Impeccable Jersey Number Autographs,10,Blake Griffin,Detroit Pistons,23
+Impeccable Jersey Number Autographs,11,Allen Iverson,Philadelphia 76ers,3
+Impeccable Jersey Number Autographs,12,Nikola Jokic,Denver Nuggets,15
+Impeccable Jersey Number Autographs,13,Chauncey Billups,Detroit Pistons,1
+Impeccable Jersey Number Autographs,14,Kyrie Irving,Boston Celtics,11
+Impeccable Jersey Number Autographs,15,Latrell Sprewell,Minnesota Timberwolves,8
+Impeccable Jersey Number Autographs,16,Karl-Anthony Towns,Minnesota Timberwolves,32
+Impeccable Jersey Number Autographs,17,Bill Russell,Boston Celtics,6
+Impeccable Jersey Number Autographs,18,Steve Kerr,Chicago Bulls,25
+Impeccable Jersey Number Autographs,19,Joe Dumars,Detroit Pistons,4
+Impeccable Jersey Number Autographs,20,Clyde Drexler,Portland Trail Blazers,22
+Impeccable Jersey Number Autographs,22,Brandon Ingram,Los Angeles Lakers,14
+Impeccable Jersey Number Autographs,23,Oscar Robertson,Milwaukee Bucks,1
+Impeccable Jersey Number Autographs,24,Walt Frazier,New York Knicks,10
+Impeccable Jersey Number Autographs,25,Jeremy Lin,Brooklyn Nets,7
+Impeccable Jersey Number Autographs,26,Richard Hamilton,Detroit Pistons,32
+Impeccable Jersey Number Autographs,27,Jason Kidd,New Jersey Nets,5
+Impeccable Jersey Number Autographs,28,Sam Jones,Boston Celtics,24
+Impeccable Jersey Number Autographs,29,Ricky Rubio,Utah Jazz,3
+Impeccable Jersey Number Autographs,30,Gordon Hayward,Boston Celtics,20
+Impeccable Jersey Number Autographs,31,Charles Barkley,Philadelphia 76ers,34
+Impeccable Stats Autographs,1,Ernie DiGregorio,Buffalo Braves,25
+Impeccable Stats Autographs,2,Kevin Johnson,Phoenix Suns,25
+Impeccable Stats Autographs,3,John Stockton,Utah Jazz,28
+Impeccable Stats Autographs,4,Dennis Rodman,Detroit Pistons,34
+Impeccable Stats Autographs,6,Lou Williams,Los Angeles Clippers,50
+Impeccable Stats Autographs,7,Andre Drummond,Detroit Pistons,27
+Impeccable Stats Autographs,8,Bernard King,New York Knicks,55
+Impeccable Stats Autographs,9,Nate Archibald,Cincinnati Royals,55
+Impeccable Stats Autographs,10,Glen Rice,Miami Heat,56
+Impeccable Stats Autographs,11,Adrian Dantley,Utah Jazz,57
+Impeccable Stats Autographs,12,Jerry Stackhouse,Detroit Pistons,57
+Impeccable Stats Autographs,13,Purvis Short,Golden State Warriors,59
+Impeccable Stats Autographs,14,Tom Chambers,Phoenix Suns,60
+Impeccable Stats Autographs,15,Sam Jones,Boston Celtics,10
+Impeccable Stats Autographs,16,Steve Kerr,Chicago Bulls,5
+Impeccable Stats Autographs,17,Kareem Abdul-Jabbar,Los Angeles Lakers,6
+Impeccable Stats Autographs,18,Tom Heinsohn,Boston Celtics,8
+Impeccable Stats Autographs,19,Kobe Bryant,Los Angeles Lakers,5
+Impeccable Stats Autographs,20,Bill Russell,Boston Celtics,5
+Impeccable Stats Autographs,21,Dikembe Mutombo,Atlanta Hawks,4
+Impeccable Stats Autographs,23,Aaron Gordon,Orlando Magic,41
+Impeccable Stats Autographs,24,Kemba Walker,Charlotte Hornets,41
+Impeccable Stats Autographs,25,Khris Middleton,Milwaukee Bucks,40
+Impeccable Stats Autographs,26,Kristaps Porzingis,New York Knicks,40
+Impeccable Stats Autographs,27,Calvin Murphy,Houston Rockets,57
+Impeccable Stats Autographs,28,Magic Johnson,Los Angeles Lakers,3
+Impeccable Stats Autographs,29,Shaquille O'Neal,Los Angeles Lakers,3
+Impeccable Stats Autographs,30,Michael Cooper,Los Angeles Lakers,5
+Impeccable Stats Autographs,31,Charles Barkley,Houston Rockets,33
+Impeccable Victory Signatures,1,Dwyane Wade,Miami Heat,15
+Impeccable Victory Signatures,2,Antawn Jamison,Golden State Warriors,99
+Impeccable Victory Signatures,3,Dirk Nowitzki,Dallas Mavericks,25
+Impeccable Victory Signatures,4,Mark Aguirre,Detroit Pistons,99
+Impeccable Victory Signatures,5,Jason Kidd,Dallas Mavericks,99
+Impeccable Victory Signatures,6,Jamal Mashburn,Dallas Mavericks,99
+Impeccable Victory Signatures,7,Rick Barry,Golden State Warriors,99
+Impeccable Victory Signatures,8,Rick Fox,Los Angeles Lakers,99
+Impeccable Victory Signatures,9,Kevin Durant,Golden State Warriors,15
+Impeccable Victory Signatures,10,Dave Cowens,Boston Celtics,99
+Impeccable Victory Signatures,11,Kyrie Irving,Cleveland Cavaliers,25
+Impeccable Victory Signatures,12,Allan Houston,New York Knicks,99
+Impeccable Victory Signatures,14,Alex English,Denver Nuggets,99
+Impeccable Victory Signatures,15,Tony Parker,San Antonio Spurs,99
+Impeccable Victory Signatures,16,Shareef Abdur-Rahim,Atlanta Hawks,99
+Impeccable Victory Signatures,17,Richard Hamilton,Detroit Pistons,99
+Impeccable Victory Signatures,18,Jermaine O'Neal,Indiana Pacers,99
+Impeccable Victory Signatures,19,Shaquille O'Neal,Los Angeles Lakers,15
+Impeccable Victory Signatures,20,B.J. Armstrong,Chicago Bulls,99
+Impeccable Victory Signatures,21,Larry Bird,Boston Celtics,25
+Impeccable Victory Signatures,22,A.C. Green,Los Angeles Lakers,99
+Impeccable Victory Signatures,23,Hakeem Olajuwon,Houston Rockets,25
+Impeccable Victory Signatures,24,Cedric Maxwell,Boston Celtics,99
+Impeccable Victory Signatures,25,Dennis Rodman,Chicago Bulls,99
+Impeccable Victory Signatures,26,Spencer Haywood,Seattle Supersonics,99
+Impeccable Victory Signatures,27,Walt Frazier,New York Knicks,99
+Impeccable Victory Signatures,28,Gail Goodrich,Los Angeles Lakers,99
+Impeccable Victory Signatures,29,Reggie Miller,Indiana Pacers,15
+Impeccable Victory Signatures,30,Danny Green,San Antonio Spurs,99
+Impeccable Victory Signatures,31,Magic Johnson,Los Angeles Lakers,25
+Impeccable Victory Signatures,32,Bob McAdoo,Los Angeles Lakers,99
+Impeccable Victory Signatures,33,Clyde Drexler,Houston Rockets,25
+Impeccable Victory Signatures,34,Paul Silas,Boston Celtics,99
+Impeccable Victory Signatures,35,James Worthy,Los Angeles Lakers,99
+Impeccable Victory Signatures,36,Stephen Curry,Golden State Warriors,15
+Impeccable Victory Signatures,37,Avery Johnson,San Antonio Spurs,99
+Impeccable Victory Signatures,38,Joe Dumars,Detroit Pistons,99
+Impeccable Victory Signatures,39,Allen Iverson,Philadelphia 76ers,15
+Impeccable Victory Signatures,40,Michael Cooper,Los Angeles Lakers,99
+Impeccable Victory Signatures Holo Gold,1,Dwyane Wade,Miami Heat,10
+Impeccable Victory Signatures Holo Gold,2,Antawn Jamison,Golden State Warriors,10
+Impeccable Victory Signatures Holo Gold,3,Dirk Nowitzki,Dallas Mavericks,10
+Impeccable Victory Signatures Holo Gold,4,Mark Aguirre,Detroit Pistons,10
+Impeccable Victory Signatures Holo Gold,5,Jason Kidd,Dallas Mavericks,10
+Impeccable Victory Signatures Holo Gold,6,Jamal Mashburn,Dallas Mavericks,10
+Impeccable Victory Signatures Holo Gold,7,Rick Barry,Golden State Warriors,10
+Impeccable Victory Signatures Holo Gold,8,Rick Fox,Los Angeles Lakers,10
+Impeccable Victory Signatures Holo Gold,9,Kevin Durant,Golden State Warriors,10
+Impeccable Victory Signatures Holo Gold,10,Dave Cowens,Boston Celtics,10
+Impeccable Victory Signatures Holo Gold,11,Kyrie Irving,Cleveland Cavaliers,10
+Impeccable Victory Signatures Holo Gold,12,Allan Houston,New York Knicks,10
+Impeccable Victory Signatures Holo Gold,14,Alex English,Denver Nuggets,10
+Impeccable Victory Signatures Holo Gold,15,Tony Parker,San Antonio Spurs,10
+Impeccable Victory Signatures Holo Gold,16,Shareef Abdur-Rahim,Atlanta Hawks,10
+Impeccable Victory Signatures Holo Gold,17,Richard Hamilton,Detroit Pistons,10
+Impeccable Victory Signatures Holo Gold,18,Jermaine O'Neal,Indiana Pacers,10
+Impeccable Victory Signatures Holo Gold,19,Shaquille O'Neal,Los Angeles Lakers,10
+Impeccable Victory Signatures Holo Gold,20,B.J. Armstrong,Chicago Bulls,10
+Impeccable Victory Signatures Holo Gold,21,Larry Bird,Boston Celtics,10
+Impeccable Victory Signatures Holo Gold,22,A.C. Green,Los Angeles Lakers,10
+Impeccable Victory Signatures Holo Gold,23,Hakeem Olajuwon,Houston Rockets,10
+Impeccable Victory Signatures Holo Gold,24,Cedric Maxwell,Boston Celtics,10
+Impeccable Victory Signatures Holo Gold,25,Dennis Rodman,Chicago Bulls,10
+Impeccable Victory Signatures Holo Gold,26,Spencer Haywood,Seattle Supersonics,10
+Impeccable Victory Signatures Holo Gold,27,Walt Frazier,New York Knicks,10
+Impeccable Victory Signatures Holo Gold,28,Gail Goodrich,Los Angeles Lakers,10
+Impeccable Victory Signatures Holo Gold,29,Reggie Miller,Indiana Pacers,10
+Impeccable Victory Signatures Holo Gold,30,Danny Green,San Antonio Spurs,10
+Impeccable Victory Signatures Holo Gold,31,Magic Johnson,Los Angeles Lakers,10
+Impeccable Victory Signatures Holo Gold,32,Bob McAdoo,Los Angeles Lakers,10
+Impeccable Victory Signatures Holo Gold,33,Clyde Drexler,Houston Rockets,10
+Impeccable Victory Signatures Holo Gold,34,Paul Silas,Boston Celtics,10
+Impeccable Victory Signatures Holo Gold,35,James Worthy,Los Angeles Lakers,10
+Impeccable Victory Signatures Holo Gold,36,Stephen Curry,Golden State Warriors,10
+Impeccable Victory Signatures Holo Gold,37,Avery Johnson,San Antonio Spurs,10
+Impeccable Victory Signatures Holo Gold,38,Joe Dumars,Detroit Pistons,10
+Impeccable Victory Signatures Holo Gold,39,Allen Iverson,Philadelphia 76ers,10
+Impeccable Victory Signatures Holo Gold,40,Michael Cooper,Los Angeles Lakers,10
+Impeccable Victory Signatures Holo Silver,2,Antawn Jamison,Golden State Warriors,49
+Impeccable Victory Signatures Holo Silver,4,Mark Aguirre,Detroit Pistons,49
+Impeccable Victory Signatures Holo Silver,6,Jamal Mashburn,Dallas Mavericks,49
+Impeccable Victory Signatures Holo Silver,7,Rick Barry,Golden State Warriors,49
+Impeccable Victory Signatures Holo Silver,8,Rick Fox,Los Angeles Lakers,49
+Impeccable Victory Signatures Holo Silver,10,Dave Cowens,Boston Celtics,49
+Impeccable Victory Signatures Holo Silver,12,Allan Houston,New York Knicks,49
+Impeccable Victory Signatures Holo Silver,14,Alex English,Denver Nuggets,49
+Impeccable Victory Signatures Holo Silver,16,Shareef Abdur-Rahim,Atlanta Hawks,49
+Impeccable Victory Signatures Holo Silver,17,Richard Hamilton,Detroit Pistons,49
+Impeccable Victory Signatures Holo Silver,18,Jermaine O'Neal,Indiana Pacers,49
+Impeccable Victory Signatures Holo Silver,20,B.J. Armstrong,Chicago Bulls,49
+Impeccable Victory Signatures Holo Silver,22,A.C. Green,Los Angeles Lakers,49
+Impeccable Victory Signatures Holo Silver,24,Cedric Maxwell,Boston Celtics,49
+Impeccable Victory Signatures Holo Silver,26,Spencer Haywood,Seattle Supersonics,49
+Impeccable Victory Signatures Holo Silver,27,Walt Frazier,New York Knicks,49
+Impeccable Victory Signatures Holo Silver,28,Gail Goodrich,Los Angeles Lakers,49
+Impeccable Victory Signatures Holo Silver,30,Danny Green,San Antonio Spurs,49
+Impeccable Victory Signatures Holo Silver,32,Bob McAdoo,Los Angeles Lakers,49
+Impeccable Victory Signatures Holo Silver,34,Paul Silas,Boston Celtics,49
+Impeccable Victory Signatures Holo Silver,35,James Worthy,Los Angeles Lakers,49
+Impeccable Victory Signatures Holo Silver,37,Avery Johnson,San Antonio Spurs,49
+Impeccable Victory Signatures Holo Silver,38,Joe Dumars,Detroit Pistons,49
+Impeccable Victory Signatures Holo Silver,40,Michael Cooper,Los Angeles Lakers,49
+Impeccable Victory Signatures Platinum,1,Dwyane Wade,Miami Heat,1
+Impeccable Victory Signatures Platinum,2,Antawn Jamison,Golden State Warriors,1
+Impeccable Victory Signatures Platinum,3,Dirk Nowitzki,Dallas Mavericks,1
+Impeccable Victory Signatures Platinum,4,Mark Aguirre,Detroit Pistons,1
+Impeccable Victory Signatures Platinum,5,Jason Kidd,Dallas Mavericks,1
+Impeccable Victory Signatures Platinum,6,Jamal Mashburn,Dallas Mavericks,1
+Impeccable Victory Signatures Platinum,7,Rick Barry,Golden State Warriors,1
+Impeccable Victory Signatures Platinum,8,Rick Fox,Los Angeles Lakers,1
+Impeccable Victory Signatures Platinum,9,Kevin Durant,Golden State Warriors,1
+Impeccable Victory Signatures Platinum,10,Dave Cowens,Boston Celtics,1
+Impeccable Victory Signatures Platinum,11,Kyrie Irving,Cleveland Cavaliers,1
+Impeccable Victory Signatures Platinum,12,Allan Houston,New York Knicks,1
+Impeccable Victory Signatures Platinum,14,Alex English,Denver Nuggets,1
+Impeccable Victory Signatures Platinum,15,Tony Parker,San Antonio Spurs,1
+Impeccable Victory Signatures Platinum,16,Shareef Abdur-Rahim,Atlanta Hawks,1
+Impeccable Victory Signatures Platinum,17,Richard Hamilton,Detroit Pistons,1
+Impeccable Victory Signatures Platinum,18,Jermaine O'Neal,Indiana Pacers,1
+Impeccable Victory Signatures Platinum,19,Shaquille O'Neal,Los Angeles Lakers,1
+Impeccable Victory Signatures Platinum,20,B.J. Armstrong,Chicago Bulls,1
+Impeccable Victory Signatures Platinum,21,Larry Bird,Boston Celtics,1
+Impeccable Victory Signatures Platinum,22,A.C. Green,Los Angeles Lakers,1
+Impeccable Victory Signatures Platinum,23,Hakeem Olajuwon,Houston Rockets,1
+Impeccable Victory Signatures Platinum,24,Cedric Maxwell,Boston Celtics,1
+Impeccable Victory Signatures Platinum,25,Dennis Rodman,Chicago Bulls,1
+Impeccable Victory Signatures Platinum,26,Spencer Haywood,Seattle Supersonics,1
+Impeccable Victory Signatures Platinum,27,Walt Frazier,New York Knicks,1
+Impeccable Victory Signatures Platinum,28,Gail Goodrich,Los Angeles Lakers,1
+Impeccable Victory Signatures Platinum,29,Reggie Miller,Indiana Pacers,1
+Impeccable Victory Signatures Platinum,30,Danny Green,San Antonio Spurs,1
+Impeccable Victory Signatures Platinum,31,Magic Johnson,Los Angeles Lakers,1
+Impeccable Victory Signatures Platinum,32,Bob McAdoo,Los Angeles Lakers,1
+Impeccable Victory Signatures Platinum,33,Clyde Drexler,Houston Rockets,1
+Impeccable Victory Signatures Platinum,34,Paul Silas,Boston Celtics,1
+Impeccable Victory Signatures Platinum,35,James Worthy,Los Angeles Lakers,1
+Impeccable Victory Signatures Platinum,36,Stephen Curry,Golden State Warriors,1
+Impeccable Victory Signatures Platinum,37,Avery Johnson,San Antonio Spurs,1
+Impeccable Victory Signatures Platinum,38,Joe Dumars,Detroit Pistons,1
+Impeccable Victory Signatures Platinum,39,Allen Iverson,Philadelphia 76ers,1
+Impeccable Victory Signatures Platinum,40,Michael Cooper,Los Angeles Lakers,1
+Indelible Ink,1,Serge Ibaka,Toronto Raptors,99
+Indelible Ink,2,Kevin Durant,Golden State Warriors,15
+Indelible Ink,3,Stephen Jackson,San Antonio Spurs,99
+Indelible Ink,4,Jerry West,Los Angeles Lakers,25
+Indelible Ink,5,Lou Williams,Los Angeles Clippers,99
+Indelible Ink,6,Anfernee Hardaway,Orlando Magic,99
+Indelible Ink,7,Vlade Divac,Sacramento Kings,99
+Indelible Ink,8,Jayson Tatum,Boston Celtics,99
+Indelible Ink,9,Isaiah Rider,Minnesota Timberwolves,99
+Indelible Ink,10,Josh Jackson,Phoenix Suns,99
+Indelible Ink,11,Channing Frye,Los Angeles Lakers,99
+Indelible Ink,12,Bill Russell,Boston Celtics,15
+Indelible Ink,13,Patrick Beverley,Los Angeles Clippers,99
+Indelible Ink,14,Giannis Antetokounmpo,Milwaukee Bucks,25
+Indelible Ink,15,Gerald Henderson Sr.,Boston Celtics,99
+Indelible Ink,16,Isaiah Thomas,Los Angeles Lakers,99
+Indelible Ink,17,Antoine Walker,Boston Celtics,99
+Indelible Ink,18,Lonzo Ball,Los Angeles Lakers,99
+Indelible Ink,19,Jamal Mashburn,Charlotte Hornets,99
+Indelible Ink,20,Bam Adebayo,Miami Heat,99
+Indelible Ink,21,Danny Green,San Antonio Spurs,99
+Indelible Ink,22,Shaquille O'Neal,Orlando Magic,15
+Indelible Ink,23,Sam Cassell,Minnesota Timberwolves,99
+Indelible Ink,24,Karl-Anthony Towns,Minnesota Timberwolves,25
+Indelible Ink,25,Mike Bibby,Sacramento Kings,99
+Indelible Ink,26,Grant Hill,Detroit Pistons,99
+Indelible Ink,27,Bill Laimbeer,Detroit Pistons,99
+Indelible Ink,28,Kyle Kuzma,Los Angeles Lakers,99
+Indelible Ink,29,Kevin Johnson,Phoenix Suns,99
+Indelible Ink,30,Harry Giles,Sacramento Kings,99
+Indelible Ink,31,Juwan Howard,Washington Wizards,99
+Indelible Ink,32,Allen Iverson,Philadelphia 76ers,15
+Indelible Ink,33,Rik Smits,Indiana Pacers,99
+Indelible Ink,34,David Robinson,San Antonio Spurs,25
+Indelible Ink,35,Sam Perkins,Dallas Mavericks,99
+Indelible Ink,36,James Worthy,Los Angeles Lakers,99
+Indelible Ink,37,Detlef Schrempf,Seattle Supersonics,99
+Indelible Ink,38,Dennis Smith Jr.,Dallas Mavericks,99
+Indelible Ink,39,Shawn Bradley,Philadelphia 76ers,99
+Indelible Ink,40,Jordan Bell,Golden State Warriors,99
+Indelible Ink,41,Michael Cooper,Los Angeles Lakers,99
+Indelible Ink,42,Dwyane Wade,Miami Heat,25
+Indelible Ink,43,Rolando Blackman,Dallas Mavericks,99
+Indelible Ink,44,Brandon Ingram,Los Angeles Lakers,25
+Indelible Ink,45,Shareef Abdur-Rahim,Vancouver Grizzlies,99
+Indelible Ink,46,Kristaps Porzingis,New York Knicks,99
+Indelible Ink,47,Doug Collins,Philadelphia 76ers,99
+Indelible Ink,48,Markelle Fultz,Philadelphia 76ers,99
+Indelible Ink,49,Spud Webb,Atlanta Hawks,99
+Indelible Ink,50,Frank Ntilikina,New York Knicks,99
+Indelible Ink,51,Nene,Houston Rockets,99
+Indelible Ink,52,Magic Johnson,Los Angeles Lakers,25
+Indelible Ink,53,Tom Gugliotta,Phoenix Suns,99
+Indelible Ink,54,Clyde Drexler,Portland Trail Blazers,25
+Indelible Ink,55,Spencer Haywood,New York Knicks,99
+Indelible Ink,56,Donovan Mitchell,Utah Jazz,99
+Indelible Ink,57,Felipe Lopez,Minnesota Timberwolves,99
+Indelible Ink,58,De'Aaron Fox,Sacramento Kings,99
+Indelible Ink,59,Terrell Brandon,Cleveland Cavaliers,99
+Indelible Ink,60,Robert Horry,San Antonio Spurs,99
+Indelible Ink Holo Gold,1,Serge Ibaka,Toronto Raptors,10
+Indelible Ink Holo Gold,2,Kevin Durant,Golden State Warriors,10
+Indelible Ink Holo Gold,3,Stephen Jackson,San Antonio Spurs,10
+Indelible Ink Holo Gold,4,Jerry West,Los Angeles Lakers,10
+Indelible Ink Holo Gold,5,Lou Williams,Los Angeles Clippers,10
+Indelible Ink Holo Gold,6,Anfernee Hardaway,Orlando Magic,10
+Indelible Ink Holo Gold,7,Vlade Divac,Sacramento Kings,10
+Indelible Ink Holo Gold,8,Jayson Tatum,Boston Celtics,10
+Indelible Ink Holo Gold,9,Isaiah Rider,Minnesota Timberwolves,10
+Indelible Ink Holo Gold,10,Josh Jackson,Phoenix Suns,10
+Indelible Ink Holo Gold,11,Channing Frye,Los Angeles Lakers,10
+Indelible Ink Holo Gold,12,Bill Russell,Boston Celtics,10
+Indelible Ink Holo Gold,13,Patrick Beverley,Los Angeles Clippers,10
+Indelible Ink Holo Gold,14,Giannis Antetokounmpo,Milwaukee Bucks,10
+Indelible Ink Holo Gold,15,Gerald Henderson Sr.,Boston Celtics,10
+Indelible Ink Holo Gold,16,Isaiah Thomas,Los Angeles Lakers,10
+Indelible Ink Holo Gold,17,Antoine Walker,Boston Celtics,10
+Indelible Ink Holo Gold,18,Lonzo Ball,Los Angeles Lakers,10
+Indelible Ink Holo Gold,19,Jamal Mashburn,Charlotte Hornets,10
+Indelible Ink Holo Gold,20,Bam Adebayo,Miami Heat,10
+Indelible Ink Holo Gold,21,Danny Green,San Antonio Spurs,10
+Indelible Ink Holo Gold,22,Shaquille O'Neal,Orlando Magic,10
+Indelible Ink Holo Gold,23,Sam Cassell,Minnesota Timberwolves,10
+Indelible Ink Holo Gold,24,Karl-Anthony Towns,Minnesota Timberwolves,10
+Indelible Ink Holo Gold,25,Mike Bibby,Sacramento Kings,10
+Indelible Ink Holo Gold,26,Grant Hill,Detroit Pistons,10
+Indelible Ink Holo Gold,27,Bill Laimbeer,Detroit Pistons,10
+Indelible Ink Holo Gold,28,Kyle Kuzma,Los Angeles Lakers,10
+Indelible Ink Holo Gold,29,Kevin Johnson,Phoenix Suns,10
+Indelible Ink Holo Gold,30,Harry Giles,Sacramento Kings,10
+Indelible Ink Holo Gold,31,Juwan Howard,Washington Wizards,10
+Indelible Ink Holo Gold,32,Allen Iverson,Philadelphia 76ers,10
+Indelible Ink Holo Gold,33,Rik Smits,Indiana Pacers,10
+Indelible Ink Holo Gold,34,David Robinson,San Antonio Spurs,10
+Indelible Ink Holo Gold,35,Sam Perkins,Dallas Mavericks,10
+Indelible Ink Holo Gold,36,James Worthy,Los Angeles Lakers,10
+Indelible Ink Holo Gold,37,Detlef Schrempf,Seattle Supersonics,10
+Indelible Ink Holo Gold,38,Dennis Smith Jr.,Dallas Mavericks,10
+Indelible Ink Holo Gold,39,Shawn Bradley,Philadelphia 76ers,10
+Indelible Ink Holo Gold,40,Jordan Bell,Golden State Warriors,10
+Indelible Ink Holo Gold,41,Michael Cooper,Los Angeles Lakers,10
+Indelible Ink Holo Gold,42,Dwyane Wade,Miami Heat,10
+Indelible Ink Holo Gold,43,Rolando Blackman,Dallas Mavericks,10
+Indelible Ink Holo Gold,44,Brandon Ingram,Los Angeles Lakers,10
+Indelible Ink Holo Gold,45,Shareef Abdur-Rahim,Vancouver Grizzlies,10
+Indelible Ink Holo Gold,46,Kristaps Porzingis,New York Knicks,10
+Indelible Ink Holo Gold,47,Doug Collins,Philadelphia 76ers,10
+Indelible Ink Holo Gold,48,Markelle Fultz,Philadelphia 76ers,10
+Indelible Ink Holo Gold,49,Spud Webb,Atlanta Hawks,10
+Indelible Ink Holo Gold,50,Frank Ntilikina,New York Knicks,10
+Indelible Ink Holo Gold,51,Nene,Houston Rockets,10
+Indelible Ink Holo Gold,52,Magic Johnson,Los Angeles Lakers,10
+Indelible Ink Holo Gold,53,Tom Gugliotta,Phoenix Suns,10
+Indelible Ink Holo Gold,54,Clyde Drexler,Portland Trail Blazers,10
+Indelible Ink Holo Gold,55,Spencer Haywood,New York Knicks,10
+Indelible Ink Holo Gold,56,Donovan Mitchell,Utah Jazz,10
+Indelible Ink Holo Gold,57,Felipe Lopez,Minnesota Timberwolves,10
+Indelible Ink Holo Gold,58,De'Aaron Fox,Sacramento Kings,10
+Indelible Ink Holo Gold,59,Terrell Brandon,Cleveland Cavaliers,10
+Indelible Ink Holo Gold,60,Robert Horry,San Antonio Spurs,10
+Indelible Ink Holo Silver,1,Serge Ibaka,Toronto Raptors,49
+Indelible Ink Holo Silver,3,Stephen Jackson,San Antonio Spurs,49
+Indelible Ink Holo Silver,5,Lou Williams,Los Angeles Clippers,49
+Indelible Ink Holo Silver,7,Vlade Divac,Sacramento Kings,49
+Indelible Ink Holo Silver,8,Jayson Tatum,Boston Celtics,49
+Indelible Ink Holo Silver,9,Isaiah Rider,Minnesota Timberwolves,49
+Indelible Ink Holo Silver,11,Channing Frye,Los Angeles Lakers,49
+Indelible Ink Holo Silver,13,Patrick Beverley,Los Angeles Clippers,49
+Indelible Ink Holo Silver,15,Gerald Henderson Sr.,Boston Celtics,49
+Indelible Ink Holo Silver,17,Antoine Walker,Boston Celtics,49
+Indelible Ink Holo Silver,18,Lonzo Ball,Los Angeles Lakers,49
+Indelible Ink Holo Silver,19,Jamal Mashburn,Charlotte Hornets,49
+Indelible Ink Holo Silver,20,Bam Adebayo,Miami Heat,49
+Indelible Ink Holo Silver,21,Danny Green,San Antonio Spurs,49
+Indelible Ink Holo Silver,23,Sam Cassell,Minnesota Timberwolves,49
+Indelible Ink Holo Silver,25,Mike Bibby,Sacramento Kings,49
+Indelible Ink Holo Silver,26,Grant Hill,Detroit Pistons,49
+Indelible Ink Holo Silver,27,Bill Laimbeer,Detroit Pistons,49
+Indelible Ink Holo Silver,28,Kyle Kuzma,Los Angeles Lakers,49
+Indelible Ink Holo Silver,29,Kevin Johnson,Phoenix Suns,49
+Indelible Ink Holo Silver,30,Harry Giles,Sacramento Kings,49
+Indelible Ink Holo Silver,31,Juwan Howard,Washington Wizards,49
+Indelible Ink Holo Silver,33,Rik Smits,Indiana Pacers,49
+Indelible Ink Holo Silver,35,Sam Perkins,Dallas Mavericks,49
+Indelible Ink Holo Silver,36,James Worthy,Los Angeles Lakers,49
+Indelible Ink Holo Silver,37,Detlef Schrempf,Seattle Supersonics,49
+Indelible Ink Holo Silver,38,Dennis Smith Jr.,Dallas Mavericks,49
+Indelible Ink Holo Silver,39,Shawn Bradley,Philadelphia 76ers,49
+Indelible Ink Holo Silver,40,Jordan Bell,Golden State Warriors,49
+Indelible Ink Holo Silver,41,Michael Cooper,Los Angeles Lakers,49
+Indelible Ink Holo Silver,43,Rolando Blackman,Dallas Mavericks,49
+Indelible Ink Holo Silver,45,Shareef Abdur-Rahim,Vancouver Grizzlies,49
+Indelible Ink Holo Silver,46,Kristaps Porzingis,New York Knicks,49
+Indelible Ink Holo Silver,47,Doug Collins,Philadelphia 76ers,49
+Indelible Ink Holo Silver,49,Spud Webb,Atlanta Hawks,49
+Indelible Ink Holo Silver,50,Frank Ntilikina,New York Knicks,49
+Indelible Ink Holo Silver,51,Nene,Houston Rockets,49
+Indelible Ink Holo Silver,53,Tom Gugliotta,Phoenix Suns,49
+Indelible Ink Holo Silver,55,Spencer Haywood,New York Knicks,49
+Indelible Ink Holo Silver,56,Donovan Mitchell,Utah Jazz,49
+Indelible Ink Holo Silver,57,Felipe Lopez,Minnesota Timberwolves,49
+Indelible Ink Holo Silver,58,De'Aaron Fox,Sacramento Kings,49
+Indelible Ink Holo Silver,59,Terrell Brandon,Cleveland Cavaliers,49
+Indelible Ink Holo Silver,60,Robert Horry,San Antonio Spurs,49
+Indelible Ink Platinum,1,Serge Ibaka,Toronto Raptors,1
+Indelible Ink Platinum,2,Kevin Durant,Golden State Warriors,1
+Indelible Ink Platinum,3,Stephen Jackson,San Antonio Spurs,1
+Indelible Ink Platinum,4,Jerry West,Los Angeles Lakers,1
+Indelible Ink Platinum,5,Lou Williams,Los Angeles Clippers,1
+Indelible Ink Platinum,6,Anfernee Hardaway,Orlando Magic,1
+Indelible Ink Platinum,7,Vlade Divac,Sacramento Kings,1
+Indelible Ink Platinum,8,Jayson Tatum,Boston Celtics,1
+Indelible Ink Platinum,9,Isaiah Rider,Minnesota Timberwolves,1
+Indelible Ink Platinum,10,Josh Jackson,Phoenix Suns,1
+Indelible Ink Platinum,11,Channing Frye,Los Angeles Lakers,1
+Indelible Ink Platinum,12,Bill Russell,Boston Celtics,1
+Indelible Ink Platinum,13,Patrick Beverley,Los Angeles Clippers,1
+Indelible Ink Platinum,14,Giannis Antetokounmpo,Milwaukee Bucks,1
+Indelible Ink Platinum,15,Gerald Henderson Sr.,Boston Celtics,1
+Indelible Ink Platinum,16,Isaiah Thomas,Los Angeles Lakers,1
+Indelible Ink Platinum,17,Antoine Walker,Boston Celtics,1
+Indelible Ink Platinum,18,Lonzo Ball,Los Angeles Lakers,1
+Indelible Ink Platinum,19,Jamal Mashburn,Charlotte Hornets,1
+Indelible Ink Platinum,20,Bam Adebayo,Miami Heat,1
+Indelible Ink Platinum,21,Danny Green,San Antonio Spurs,1
+Indelible Ink Platinum,22,Shaquille O'Neal,Orlando Magic,1
+Indelible Ink Platinum,23,Sam Cassell,Minnesota Timberwolves,1
+Indelible Ink Platinum,24,Karl-Anthony Towns,Minnesota Timberwolves,1
+Indelible Ink Platinum,25,Mike Bibby,Sacramento Kings,1
+Indelible Ink Platinum,26,Grant Hill,Detroit Pistons,1
+Indelible Ink Platinum,27,Bill Laimbeer,Detroit Pistons,1
+Indelible Ink Platinum,28,Kyle Kuzma,Los Angeles Lakers,1
+Indelible Ink Platinum,29,Kevin Johnson,Phoenix Suns,1
+Indelible Ink Platinum,30,Harry Giles,Sacramento Kings,1
+Indelible Ink Platinum,31,Juwan Howard,Washington Wizards,1
+Indelible Ink Platinum,32,Allen Iverson,Philadelphia 76ers,1
+Indelible Ink Platinum,33,Rik Smits,Indiana Pacers,1
+Indelible Ink Platinum,34,David Robinson,San Antonio Spurs,1
+Indelible Ink Platinum,35,Sam Perkins,Dallas Mavericks,1
+Indelible Ink Platinum,36,James Worthy,Los Angeles Lakers,1
+Indelible Ink Platinum,37,Detlef Schrempf,Seattle Supersonics,1
+Indelible Ink Platinum,38,Dennis Smith Jr.,Dallas Mavericks,1
+Indelible Ink Platinum,39,Shawn Bradley,Philadelphia 76ers,1
+Indelible Ink Platinum,40,Jordan Bell,Golden State Warriors,1
+Indelible Ink Platinum,41,Michael Cooper,Los Angeles Lakers,1
+Indelible Ink Platinum,42,Dwyane Wade,Miami Heat,1
+Indelible Ink Platinum,43,Rolando Blackman,Dallas Mavericks,1
+Indelible Ink Platinum,44,Brandon Ingram,Los Angeles Lakers,1
+Indelible Ink Platinum,45,Shareef Abdur-Rahim,Vancouver Grizzlies,1
+Indelible Ink Platinum,46,Kristaps Porzingis,New York Knicks,1
+Indelible Ink Platinum,47,Doug Collins,Philadelphia 76ers,1
+Indelible Ink Platinum,48,Markelle Fultz,Philadelphia 76ers,1
+Indelible Ink Platinum,49,Spud Webb,Atlanta Hawks,1
+Indelible Ink Platinum,50,Frank Ntilikina,New York Knicks,1
+Indelible Ink Platinum,51,Nene,Houston Rockets,1
+Indelible Ink Platinum,52,Magic Johnson,Los Angeles Lakers,1
+Indelible Ink Platinum,53,Tom Gugliotta,Phoenix Suns,1
+Indelible Ink Platinum,54,Clyde Drexler,Portland Trail Blazers,1
+Indelible Ink Platinum,55,Spencer Haywood,New York Knicks,1
+Indelible Ink Platinum,56,Donovan Mitchell,Utah Jazz,1
+Indelible Ink Platinum,57,Felipe Lopez,Minnesota Timberwolves,1
+Indelible Ink Platinum,58,De'Aaron Fox,Sacramento Kings,1
+Indelible Ink Platinum,59,Terrell Brandon,Cleveland Cavaliers,1
+Indelible Ink Platinum,60,Robert Horry,San Antonio Spurs,1
+Rookie Autographs,101,Donovan Mitchell,Utah Jazz,99
+Rookie Autographs,102,Jayson Tatum,Boston Celtics,99
+Rookie Autographs,103,Lonzo Ball,Los Angeles Lakers,99
+Rookie Autographs,104,Kyle Kuzma,Los Angeles Lakers,99
+Rookie Autographs,105,Dennis Smith Jr.,Dallas Mavericks,99
+Rookie Autographs,106,Markelle Fultz,Philadelphia 76ers,99
+Rookie Autographs,107,De'Aaron Fox,Sacramento Kings,99
+Rookie Autographs,108,Josh Jackson,Phoenix Suns,99
+Rookie Autographs,109,Bam Adebayo,Miami Heat,99
+Rookie Autographs,110,Harry Giles,Sacramento Kings,99
+Rookie Autographs,111,Jordan Bell,Golden State Warriors,99
+Rookie Autographs,112,Frank Ntilikina,New York Knicks,99
+Rookie Autographs,113,Jarrett Allen,Brooklyn Nets,99
+Rookie Autographs,114,John Collins,Atlanta Hawks,99
+Rookie Autographs,115,Malik Monk,Charlotte Hornets,99
+Rookie Autographs,116,Zhou Qi,Houston Rockets,99
+Rookie Autographs,117,Maxi Kleber,Dallas Mavericks,99
+Rookie Autographs,118,Bogdan Bogdanovic,Sacramento Kings,99
+Rookie Autographs,119,Dillon Brooks,Memphis Grizzlies,99
+Rookie Autographs,120,Milos Teodosic,Los Angeles Clippers,99
+Rookie Autographs Holo Gold,101,Donovan Mitchell,Utah Jazz,10
+Rookie Autographs Holo Gold,102,Jayson Tatum,Boston Celtics,10
+Rookie Autographs Holo Gold,103,Lonzo Ball,Los Angeles Lakers,10
+Rookie Autographs Holo Gold,104,Kyle Kuzma,Los Angeles Lakers,10
+Rookie Autographs Holo Gold,105,Dennis Smith Jr.,Dallas Mavericks,10
+Rookie Autographs Holo Gold,106,Markelle Fultz,Philadelphia 76ers,10
+Rookie Autographs Holo Gold,107,De'Aaron Fox,Sacramento Kings,10
+Rookie Autographs Holo Gold,108,Josh Jackson,Phoenix Suns,10
+Rookie Autographs Holo Gold,109,Bam Adebayo,Miami Heat,10
+Rookie Autographs Holo Gold,110,Harry Giles,Sacramento Kings,10
+Rookie Autographs Holo Gold,111,Jordan Bell,Golden State Warriors,10
+Rookie Autographs Holo Gold,112,Frank Ntilikina,New York Knicks,10
+Rookie Autographs Holo Gold,113,Jarrett Allen,Brooklyn Nets,10
+Rookie Autographs Holo Gold,114,John Collins,Atlanta Hawks,10
+Rookie Autographs Holo Gold,115,Malik Monk,Charlotte Hornets,10
+Rookie Autographs Holo Gold,116,Zhou Qi,Houston Rockets,10
+Rookie Autographs Holo Gold,117,Maxi Kleber,Dallas Mavericks,10
+Rookie Autographs Holo Gold,118,Bogdan Bogdanovic,Sacramento Kings,10
+Rookie Autographs Holo Gold,119,Dillon Brooks,Memphis Grizzlies,10
+Rookie Autographs Holo Gold,120,Milos Teodosic,Los Angeles Clippers,10
+Rookie Autographs Holo Silver,101,Donovan Mitchell,Utah Jazz,25
+Rookie Autographs Holo Silver,102,Jayson Tatum,Boston Celtics,25
+Rookie Autographs Holo Silver,103,Lonzo Ball,Los Angeles Lakers,25
+Rookie Autographs Holo Silver,104,Kyle Kuzma,Los Angeles Lakers,25
+Rookie Autographs Holo Silver,105,Dennis Smith Jr.,Dallas Mavericks,25
+Rookie Autographs Holo Silver,106,Markelle Fultz,Philadelphia 76ers,25
+Rookie Autographs Holo Silver,107,De'Aaron Fox,Sacramento Kings,25
+Rookie Autographs Holo Silver,108,Josh Jackson,Phoenix Suns,25
+Rookie Autographs Holo Silver,109,Bam Adebayo,Miami Heat,25
+Rookie Autographs Holo Silver,110,Harry Giles,Sacramento Kings,25
+Rookie Autographs Holo Silver,111,Jordan Bell,Golden State Warriors,25
+Rookie Autographs Holo Silver,112,Frank Ntilikina,New York Knicks,25
+Rookie Autographs Holo Silver,113,Jarrett Allen,Brooklyn Nets,25
+Rookie Autographs Holo Silver,114,John Collins,Atlanta Hawks,25
+Rookie Autographs Holo Silver,115,Malik Monk,Charlotte Hornets,25
+Rookie Autographs Holo Silver,116,Zhou Qi,Houston Rockets,25
+Rookie Autographs Holo Silver,117,Maxi Kleber,Dallas Mavericks,25
+Rookie Autographs Holo Silver,118,Bogdan Bogdanovic,Sacramento Kings,25
+Rookie Autographs Holo Silver,119,Dillon Brooks,Memphis Grizzlies,25
+Rookie Autographs Holo Silver,120,Milos Teodosic,Los Angeles Clippers,25
+Rookie Autographs Platinum,101,Donovan Mitchell,Utah Jazz,1
+Rookie Autographs Platinum,102,Jayson Tatum,Boston Celtics,1
+Rookie Autographs Platinum,103,Lonzo Ball,Los Angeles Lakers,1
+Rookie Autographs Platinum,104,Kyle Kuzma,Los Angeles Lakers,1
+Rookie Autographs Platinum,105,Dennis Smith Jr.,Dallas Mavericks,1
+Rookie Autographs Platinum,106,Markelle Fultz,Philadelphia 76ers,1
+Rookie Autographs Platinum,107,De'Aaron Fox,Sacramento Kings,1
+Rookie Autographs Platinum,108,Josh Jackson,Phoenix Suns,1
+Rookie Autographs Platinum,109,Bam Adebayo,Miami Heat,1
+Rookie Autographs Platinum,110,Harry Giles,Sacramento Kings,1
+Rookie Autographs Platinum,111,Jordan Bell,Golden State Warriors,1
+Rookie Autographs Platinum,112,Frank Ntilikina,New York Knicks,1
+Rookie Autographs Platinum,113,Jarrett Allen,Brooklyn Nets,1
+Rookie Autographs Platinum,114,John Collins,Atlanta Hawks,1
+Rookie Autographs Platinum,115,Malik Monk,Charlotte Hornets,1
+Rookie Autographs Platinum,116,Zhou Qi,Houston Rockets,1
+Rookie Autographs Platinum,117,Maxi Kleber,Dallas Mavericks,1
+Rookie Autographs Platinum,118,Bogdan Bogdanovic,Sacramento Kings,1
+Rookie Autographs Platinum,119,Dillon Brooks,Memphis Grizzlies,1
+Rookie Autographs Platinum,120,Milos Teodosic,Los Angeles Clippers,1
+Silver NBA Logo,1,Shaquille O'Neal,Los Angeles Lakers,16
+Silver NBA Logo,2,Russell Westbrook,Oklahoma City Thunder,16
+Silver NBA Logo,3,Phil Jackson,New York Knicks,16
+Silver NBA Logo,4,Tony Parker,San Antonio Spurs,16
+Silver NBA Logo,5,Dillon Brooks,Memphis Grizzlies,16
+Silver NBA Logo,6,Dennis Schroder,Atlanta Hawks,16
+Silver NBA Logo,7,Frank Mason III,Sacramento Kings,16
+Silver NBA Logo,8,Nikola Jokic,Denver Nuggets,16
+Silver NBA Logo,9,Wilt Chamberlain,Los Angeles Lakers,16
+Silver NBA Logo,10,Brandon Ingram,Los Angeles Lakers,16
+Silver NBA Logo,11,Drazen Petrovic,Portland Trail Blazers,16
+Silver NBA Logo,12,Carmelo Anthony,Oklahoma City Thunder,16
+Silver NBA Logo,13,Scottie Pippen,Chicago Bulls,16
+Silver NBA Logo,14,DeMar DeRozan,Toronto Raptors,16
+Silver NBA Logo,15,Dennis Smith Jr.,Dallas Mavericks,16
+Silver NBA Logo,16,Kyrie Irving,Boston Celtics,16
+Silver NBA Logo,17,Jordan Bell,Golden State Warriors,16
+Silver NBA Logo,18,Andre Drummond,Detroit Pistons,16
+Silver NBA Logo,19,Tim Duncan,San Antonio Spurs,16
+Silver NBA Logo,20,Marc Gasol,Memphis Grizzlies,16
+Silver NBA Logo,21,Bill Russell,Boston Celtics,16
+Silver NBA Logo,22,Paul George,Oklahoma City Thunder,16
+Silver NBA Logo,23,Larry Bird,Boston Celtics,16
+Silver NBA Logo,24,Rudy Gobert,Utah Jazz,16
+Silver NBA Logo,25,Bogdan Bogdanovic,Sacramento Kings,16
+Silver NBA Logo,26,Jeremy Lin,Brooklyn Nets,16
+Silver NBA Logo,27,Malik Monk,Charlotte Hornets,16
+Silver NBA Logo,28,Stephen Curry,Golden State Warriors,16
+Silver NBA Logo,29,Julius Erving,Philadelphia 76ers,16
+Silver NBA Logo,30,Goran Dragic,Miami Heat,16
+Silver NBA Logo,31,Chris Webber,Sacramento Kings,16
+Silver NBA Logo,32,Aaron Gordon,Orlando Magic,16
+Silver NBA Logo,33,Kareem Abdul-Jabbar,Los Angeles Lakers,16
+Silver NBA Logo,34,John Wall,Washington Wizards,16
+Silver NBA Logo,35,Josh Jackson,Phoenix Suns,16
+Silver NBA Logo,36,Dwight Howard,Charlotte Hornets,16
+Silver NBA Logo,37,Milos Teodosic,Los Angeles Clippers,16
+Silver NBA Logo,38,Draymond Green,Golden State Warriors,16
+Silver NBA Logo,39,Patrick Ewing,New York Knicks,16
+Silver NBA Logo,40,Giannis Antetokounmpo,Milwaukee Bucks,16
+Silver NBA Logo,41,Charles Barkley,Philadelphia 76ers,16
+Silver NBA Logo,42,Ben Simmons,Philadelphia 76ers,16
+Silver NBA Logo,43,Oscar Robertson,Milwaukee Bucks,16
+Silver NBA Logo,44,Bradley Beal,Washington Wizards,16
+Silver NBA Logo,45,OG Anunoby,Toronto Raptors,16
+Silver NBA Logo,46,Zach LaVine,Chicago Bulls,16
+Silver NBA Logo,47,Zach Collins,Portland Trail Blazers,16
+Silver NBA Logo,48,Kevin Durant,Golden State Warriors,16
+Silver NBA Logo,49,Allen Iverson,Philadelphia 76ers,16
+Silver NBA Logo,50,Jimmy Butler,Minnesota Timberwolves,16
+Silver NBA Logo,51,Paul Pierce,Boston Celtics,16
+Silver NBA Logo,52,Joel Embiid,Philadelphia 76ers,16
+Silver NBA Logo,53,Jerry West,Los Angeles Lakers,16
+Silver NBA Logo,54,Jayson Tatum,Boston Celtics,16
+Silver NBA Logo,55,Frank Ntilikina,New York Knicks,16
+Silver NBA Logo,56,LeBron James,Cleveland Cavaliers,16
+Silver NBA Logo,57,Jonathan Isaac,Orlando Magic,16
+Silver NBA Logo,58,Klay Thompson,Golden State Warriors,16
+Silver NBA Logo,59,Dennis Johnson,Boston Celtics,16
+Silver NBA Logo,60,Andrew Wiggins,Minnesota Timberwolves,16
+Silver NBA Logo,61,Kobe Bryant,Los Angeles Lakers,16
+Silver NBA Logo,62,Devin Booker,Phoenix Suns,16
+Silver NBA Logo,63,Yao Ming,Houston Rockets,16
+Silver NBA Logo,64,Kyle Kuzma,Los Angeles Lakers,16
+Silver NBA Logo,65,John Collins,Atlanta Hawks,16
+Silver NBA Logo,66,Dwyane Wade,Miami Heat,16
+Silver NBA Logo,67,De'Aaron Fox,Sacramento Kings,16
+Silver NBA Logo,68,Chris Paul,Houston Rockets,16
+Silver NBA Logo,69,Magic Johnson,Los Angeles Lakers,16
+Silver NBA Logo,70,Karl-Anthony Towns,Minnesota Timberwolves,16
+Silver NBA Logo,71,Reggie Miller,Indiana Pacers,16
+Silver NBA Logo,72,Damian Lillard,Portland Trail Blazers,16
+Silver NBA Logo,73,John Havlicek,Boston Celtics,16
+Silver NBA Logo,74,Donovan Mitchell,Utah Jazz,16
+Silver NBA Logo,75,Maxi Kleber,Dallas Mavericks,16
+Silver NBA Logo,76,Dominique Wilkins,Atlanta Hawks,16
+Silver NBA Logo,77,Josh Hart,Los Angeles Lakers,16
+Silver NBA Logo,78,James Harden,Houston Rockets,16
+Silver NBA Logo,79,Pete Maravich,New Orleans Jazz,16
+Silver NBA Logo,80,Anthony Davis,New Orleans Pelicans,16
+Silver NBA Logo,81,Karl Malone,Utah Jazz,16
+Silver NBA Logo,82,Vince Carter,Sacramento Kings,16
+Silver NBA Logo,83,David Robinson,San Antonio Spurs,16
+Silver NBA Logo,84,Lonzo Ball,Los Angeles Lakers,16
+Silver NBA Logo,85,Luke Kennard,Detroit Pistons,16
+Silver NBA Logo,86,Isaiah Thomas,Los Angeles Lakers,16
+Silver NBA Logo,87,Terrance Ferguson,Oklahoma City Thunder,16
+Silver NBA Logo,88,Victor Oladipo,Indiana Pacers,16
+Silver NBA Logo,89,Stephon Marbury,Phoenix Suns,16
+Silver NBA Logo,90,DeMarcus Cousins,New Orleans Pelicans,16
+Silver NBA Logo,91,John Stockton,Utah Jazz,16
+Silver NBA Logo,92,Kawhi Leonard,San Antonio Spurs,16
+Silver NBA Logo,93,Alonzo Mourning,Miami Heat,16
+Silver NBA Logo,94,Lauri Markkanen,Chicago Bulls,16
+Silver NBA Logo,95,Bam Adebayo,Miami Heat,16
+Silver NBA Logo,96,Dirk Nowitzki,Dallas Mavericks,16
+Silver NBA Logo,97,Markelle Fultz,Philadelphia 76ers,16
+Silver NBA Logo,98,Blake Griffin,Detroit Pistons,16
+Silver NBA Logo,99,George Mikan,Minneapolis Lakers,16
+Silver NBA Logo,100,Kristaps Porzingis,New York Knicks,16
+Stainless Stars Autographs,1,Donovan Mitchell,Utah Jazz,5
+Stainless Stars Autographs,2,Magic Johnson,Los Angeles Lakers,5
+Stainless Stars Autographs,3,Lonzo Ball,Los Angeles Lakers,5
+Stainless Stars Autographs,4,Giannis Antetokounmpo,Milwaukee Bucks,5
+Stainless Stars Autographs,5,Kevin Durant,Golden State Warriors,5
+Stainless Stars Autographs,8,Dennis Smith Jr.,Dallas Mavericks,5
+Stainless Stars Autographs,13,Markelle Fultz,Philadelphia 76ers,5
+Stainless Stars Autographs,14,Charles Barkley,Philadelphia 76ers,5
+Stainless Stars Autographs,15,Jayson Tatum,Boston Celtics,5
+Stainless Stars Autographs,16,De'Aaron Fox,Sacramento Kings,5
+Stainless Stars Autographs,17,Kobe Bryant,Los Angeles Lakers,5
+Stainless Stars Autographs,18,Kyrie Irving,Boston Celtics,5
+Stainless Stars Autographs,19,Reggie Miller,Indiana Pacers,5
+Stainless Stars Autographs,20,Larry Bird,Boston Celtics,5
+Stainless Stars Autographs,21,Anthony Davis,New Orleans Pelicans,5
+Stainless Stars Autographs,22,Josh Jackson,Phoenix Suns,5
+Stainless Stars Autographs,23,Kristaps Porzingis,New York Knicks,5
+Stainless Stars Autographs,25,Frank Ntilikina,New York Knicks,5
+Stainless Stars Autographs,26,Shaquille O'Neal,Orlando Magic,5
+Stainless Stars Autographs,27,Kyle Kuzma,Los Angeles Lakers,5
+Stainless Stars Autographs,28,Jordan Bell,Golden State Warriors,5
+Stainless Stars Autographs,29,Damian Lillard,Portland Trail Blazers,5
+Stainless Stars Autographs,30,Stephen Curry,Golden State Warriors,5
+Stainless Stars,1,Donovan Mitchell,Utah Jazz,99
+Stainless Stars,2,Magic Johnson,Los Angeles Lakers,99
+Stainless Stars,3,Lonzo Ball,Los Angeles Lakers,99
+Stainless Stars,4,Giannis Antetokounmpo,Milwaukee Bucks,99
+Stainless Stars,5,Kevin Durant,Golden State Warriors,99
+Stainless Stars,6,Russell Westbrook,Oklahoma City Thunder,99
+Stainless Stars,7,LeBron James,Cleveland Cavaliers,99
+Stainless Stars,8,Dennis Smith Jr.,Dallas Mavericks,99
+Stainless Stars,9,Chris Paul,Houston Rockets,99
+Stainless Stars,10,Tim Duncan,San Antonio Spurs,99
+Stainless Stars,11,James Harden,Houston Rockets,99
+Stainless Stars,12,Kawhi Leonard,San Antonio Spurs,99
+Stainless Stars,13,Markelle Fultz,Philadelphia 76ers,99
+Stainless Stars,14,Charles Barkley,Philadelphia 76ers,99
+Stainless Stars,15,Jayson Tatum,Boston Celtics,99
+Stainless Stars,16,De'Aaron Fox,Sacramento Kings,99
+Stainless Stars,17,Kobe Bryant,Los Angeles Lakers,99
+Stainless Stars,18,Kyrie Irving,Boston Celtics,99
+Stainless Stars,19,Reggie Miller,Indiana Pacers,99
+Stainless Stars,20,Larry Bird,Boston Celtics,99
+Stainless Stars,21,Anthony Davis,New Orleans Pelicans,99
+Stainless Stars,22,Josh Jackson,Phoenix Suns,99
+Stainless Stars,23,Kristaps Porzingis,New York Knicks,99
+Stainless Stars,24,Ben Simmons,Philadelphia 76ers,99
+Stainless Stars,25,Frank Ntilikina,New York Knicks,99
+Stainless Stars,26,Shaquille O'Neal,Orlando Magic,99
+Stainless Stars,27,Kyle Kuzma,Los Angeles Lakers,99
+Stainless Stars,28,Jordan Bell,Golden State Warriors,99
+Stainless Stars,29,Damian Lillard,Portland Trail Blazers,99
+Stainless Stars,30,Stephen Curry,Golden State Warriors,99
+Stainless Stars Gold,1,Donovan Mitchell,Utah Jazz,10
+Stainless Stars Gold,2,Magic Johnson,Los Angeles Lakers,10
+Stainless Stars Gold,3,Lonzo Ball,Los Angeles Lakers,10
+Stainless Stars Gold,4,Giannis Antetokounmpo,Milwaukee Bucks,10
+Stainless Stars Gold,5,Kevin Durant,Golden State Warriors,10
+Stainless Stars Gold,6,Russell Westbrook,Oklahoma City Thunder,10
+Stainless Stars Gold,7,LeBron James,Cleveland Cavaliers,10
+Stainless Stars Gold,8,Dennis Smith Jr.,Dallas Mavericks,10
+Stainless Stars Gold,9,Chris Paul,Houston Rockets,10
+Stainless Stars Gold,10,Tim Duncan,San Antonio Spurs,10
+Stainless Stars Gold,11,James Harden,Houston Rockets,10
+Stainless Stars Gold,12,Kawhi Leonard,San Antonio Spurs,10
+Stainless Stars Gold,13,Markelle Fultz,Philadelphia 76ers,10
+Stainless Stars Gold,14,Charles Barkley,Philadelphia 76ers,10
+Stainless Stars Gold,15,Jayson Tatum,Boston Celtics,10
+Stainless Stars Gold,16,De'Aaron Fox,Sacramento Kings,10
+Stainless Stars Gold,17,Kobe Bryant,Los Angeles Lakers,10
+Stainless Stars Gold,18,Kyrie Irving,Boston Celtics,10
+Stainless Stars Gold,19,Reggie Miller,Indiana Pacers,10
+Stainless Stars Gold,20,Larry Bird,Boston Celtics,10
+Stainless Stars Gold,21,Anthony Davis,New Orleans Pelicans,10
+Stainless Stars Gold,22,Josh Jackson,Phoenix Suns,10
+Stainless Stars Gold,23,Kristaps Porzingis,New York Knicks,10
+Stainless Stars Gold,24,Ben Simmons,Philadelphia 76ers,10
+Stainless Stars Gold,25,Frank Ntilikina,New York Knicks,10
+Stainless Stars Gold,26,Shaquille O'Neal,Orlando Magic,10
+Stainless Stars Gold,27,Kyle Kuzma,Los Angeles Lakers,10
+Stainless Stars Gold,28,Jordan Bell,Golden State Warriors,10
+Stainless Stars Gold,29,Damian Lillard,Portland Trail Blazers,10
+Stainless Stars Gold,30,Stephen Curry,Golden State Warriors,10
