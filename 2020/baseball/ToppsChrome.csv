@@ -1,0 +1,535 @@
+Card Set,Number,Player,Team
+Base,1,Mike Trout,Los Angeles Angels
+Base,2,Liam Hendriks,Oakland Athletics
+Base,3,Bobby Bradley,Cleveland Indians
+Base,4,Rogelio Armenteros,Houston Astros
+Base,5,Jesus Luzardo,Oakland Athletics
+Base,6,Miguel Cabrera,Detroit Tigers
+Base,7,Trea Turner,Washington Nationals
+Base,8,Brendan McKay,Tampa Bay Rays
+Base,9,Joey Votto,Cincinnati Reds
+Base,10,Domingo Leyba,Arizona Diamondbacks
+Base,11,Austin Nola,Seattle Mariners
+Base,12,Juan Soto,Washington Nationals
+Base,13,Max Muncy,Los Angeles Dodgers
+Base,14,Archie Bradley,Arizona Diamondbacks
+Base,15,David Peralta,Arizona Diamondbacks
+Base,16,Luis Castillo,Cincinnati Reds
+Base,17,Bryan Reynolds,Pittsburgh Pirates
+Base,18,Michael Fulmer,Detroit Tigers
+Base,19,Jeimer Candelario,Detroit Tigers
+Base,20,Jorge Soler,Kansas City Royals
+Base,21,Shohei Ohtani,Los Angeles Angels
+Base,22,Cavan Biggio,Toronto Blue Jays
+Base,23,Seth Brown,Oakland Athletics
+Base,24,Nick Senzel,Cincinnati Reds
+Base,25,Keston Hiura,Milwaukee Brewers
+Base,26,Travis Demeritte,Detroit Tigers
+Base,27,Christian Walker,Arizona Diamondbacks
+Base,28,Andrew Heaney,Los Angeles Angels
+Base,29,Carlos Correa,Houston Astros
+Base,30,Dan Vogelbach,Seattle Mariners
+Base,31,Adalberto Mondesi,Kansas City Royals
+Base,32,Sean Murphy,Oakland Athletics
+Base,33,Nick Solak,Texas Rangers
+Base,34,Gio Urshela,New York Yankees
+Base,35,Michael Conforto,New York Mets
+Base,36,Ian Desmond,Colorado Rockies
+Base,37,Mitch Haniger,Seattle Mariners
+Base,38,Jean Segura,Philadelphia Phillies
+Base,39,Chris Paddack,San Diego Padres
+Base,40,Josh Hader,Milwaukee Brewers
+Base,41,Corey Kluber,Texas Rangers
+Base,42,Jose Altuve,Houston Astros
+Base,43,Dylan Cease,Chicago White Sox
+Base,44,German Marquez,Colorado Rockies
+Base,45,Gleyber Torres,New York Yankees
+Base,46,Lucas Giolito,Chicago White Sox
+Base,47,Jake Rogers,Detroit Tigers
+Base,48,Yusei Kikuchi,Seattle Mariners
+Base,49,Randy Arozarena,St. Louis Cardinals
+Base,50,Aaron Judge,New York Yankees
+Base,51,Danny Jansen,Toronto Blue Jays
+Base,52,Kyle Seager,Seattle Mariners
+Base,53,Kris Bryant,Chicago Cubs
+Base,54,Chris Archer,Pittsburgh Pirates
+Base,55,DJ LeMahieu,New York Yankees
+Base,56,Abraham Toro,Houston Astros
+Base,57,Andrew Benintendi,Boston Red Sox
+Base,58,Noah Syndergaard,New York Mets
+Base,59,Trevor Story,Colorado Rockies
+Base,60,Luis Robert,Chicago White Sox
+Base,61,Sheldon Neuse,Oakland Athletics
+Base,62,Ozzie Albies,Atlanta Braves
+Base,63,Hunter Dozier,Kansas City Royals
+Base,64,Scott Kingery,Philadelphia Phillies
+Base,65,Dansby Swanson,Atlanta Braves
+Base,66,Jose Abreu,Chicago White Sox
+Base,67,Sam Hilliard,Colorado Rockies
+Base,68,Blake Snell,Tampa Bay Rays
+Base,69,Nelson Cruz,Minnesota Twins
+Base,70,Jeff McNeil,New York Mets
+Base,71,Anthony Rizzo,Chicago Cubs
+Base,72,Andrelton Simmons,Los Angeles Angels
+Base,73,Charlie Blackmon,Colorado Rockies
+Base,74,Matthew Boyd,Detroit Tigers
+Base,75,Jonathan Villar,Miami Marlins
+Base,76,Manny Machado,San Diego Padres
+Base,77,Cody Bellinger,Los Angeles Dodgers
+Base,78,Eddie Rosario,Minnesota Twins
+Base,79,Hanser Alberto,Baltimore Orioles
+Base,80,Pete Alonso,New York Mets
+Base,81,Jacob deGrom,New York Mets
+Base,82,Jordan Yamamoto,Miami Marlins
+Base,83,Matt Thaiss,Los Angeles Angels
+Base,84,Fernando Tatis Jr.,San Diego Padres
+Base,85,Kyle Schwarber,Chicago Cubs
+Base,86,Adrian Morejon,San Diego Padres
+Base,87,Zack Collins,Chicago White Sox
+Base,88,Brandon Crawford,San Francisco Giants
+Base,89,Paul Goldschmidt,St. Louis Cardinals
+Base,90,Tim Anderson,Chicago White Sox
+Base,91,Brusdar Graterol,Los Angeles Dodgers
+Base,92,Nicky Lopez,Kansas City Royals
+Base,93,Rafael Devers,Boston Red Sox
+Base,94,Tommy Edman,St. Louis Cardinals
+Base,95,Edwin Rios,Los Angeles Dodgers
+Base,96,Mike Soroka,Atlanta Braves
+Base,97,Bryce Harper,Philadelphia Phillies
+Base,98,Kevin Newman,Pittsburgh Pirates
+Base,99,Colin Moran,Pittsburgh Pirates
+Base,100,Mookie Betts,Los Angeles Dodgers
+Base,101,Trent Grisham,San Diego Padres
+Base,102,Alex Bregman,Houston Astros
+Base,103,Mike Yastrzemski,San Francisco Giants
+Base,104,Walker Buehler,Los Angeles Dodgers
+Base,105,Miguel Rojas,Miami Marlins
+Base,106,Harold Ramirez,Miami Marlins
+Base,107,Dee Gordon,Seattle Mariners
+Base,108,Eric Hosmer,San Diego Padres
+Base,109,Nomar Mazara,Chicago White Sox
+Base,110,Adbert Alzolay,Chicago Cubs
+Base,111,Aristides Aquino,Cincinnati Reds
+Base,112,Ronald Acuña Jr.,Atlanta Braves
+Base,113,Austin Meadows,Tampa Bay Rays
+Base,114,Tony Gonsolin,Los Angeles Dodgers
+Base,115,Alex Young,Arizona Diamondbacks
+Base,116,A.J. Puk,Oakland Athletics
+Base,117,Logan Webb,San Francisco Giants
+Base,118,Tyler Glasnow,Tampa Bay Rays
+Base,119,Brandon Lowe,Tampa Bay Rays
+Base,120,Anthony Kay,Toronto Blue Jays
+Base,121,John Means,Baltimore Orioles
+Base,122,Clayton Kershaw,Los Angeles Dodgers
+Base,123,Jon Lester,Chicago Cubs
+Base,124,Max Kepler,Minnesota Twins
+Base,125,Jose Berrios,Minnesota Twins
+Base,126,Victor Reyes,Detroit Tigers
+Base,127,Albert Pujols,Los Angeles Angels
+Base,128,Eugenio Suarez,Cincinnati Reds
+Base,129,Ronald Guzman,Texas Rangers
+Base,130,Anthony Santander,Baltimore Orioles
+Base,131,Freddie Freeman,Atlanta Braves
+Base,132,Zac Gallen,Arizona Diamondbacks
+Base,133,Vladimir Guerrero Jr.,Toronto Blue Jays
+Base,134,Eloy Jimenez,Chicago White Sox
+Base,135,Jack Flaherty,St. Louis Cardinals
+Base,136,Justin Dunn,Seattle Mariners
+Base,137,Xander Bogaerts,Boston Red Sox
+Base,138,Christian Yelich,Milwaukee Brewers
+Base,139,Max Scherzer,Washington Nationals
+Base,140,Orlando Arcia,Milwaukee Brewers
+Base,141,Rowdy Tellez,Toronto Blue Jays
+Base,142,Jose Urquidy,Houston Astros
+Base,143,Aaron Civale,Cleveland Indians
+Base,144,Marcus Semien,Oakland Athletics
+Base,145,Yoan Moncada,Chicago White Sox
+Base,146,Brian Anderson,Miami Marlins
+Base,147,Brandon Belt,San Francisco Giants
+Base,148,Gavin Lux,Los Angeles Dodgers
+Base,149,Andres Muñoz,San Diego Padres
+Base,150,Bo Bichette,Toronto Blue Jays
+Base,151,Ketel Marte,Arizona Diamondbacks
+Base,152,Pablo Lopez,Miami Marlins
+Base,153,Lorenzo Cain,Milwaukee Brewers
+Base,154,Whit Merrifield,Kansas City Royals
+Base,155,Logan Allen,Cleveland Indians
+Base,156,Francisco Lindor,Cleveland Indians
+Base,157,Buster Posey,San Francisco Giants
+Base,158,Elvis Andrus,Texas Rangers
+Base,159,Brock Burke,Texas Rangers
+Base,160,Ramon Laureano,Oakland Athletics
+Base,161,Nico Hoerner,Chicago Cubs
+Base,162,Junior Fernandez,St. Louis Cardinals
+Base,163,Trevor Williams,Pittsburgh Pirates
+Base,164,Justin Verlander,Houston Astros
+Base,165,Carlos Santana,Cleveland Indians
+Base,166,Masahiro Tanaka,New York Yankees
+Base,167,Lourdes Gurriel Jr.,Toronto Blue Jays
+Base,168,Mauricio Dubon,San Francisco Giants
+Base,169,Luis Urias,Milwaukee Brewers
+Base,170,Isan Diaz,Miami Marlins
+Base,171,Carter Kieboom,Washington Nationals
+Base,172,Luis Arraez,Minnesota Twins
+Base,173,Yu Chang,Cleveland Indians
+Base,174,Nolan Arenado,Colorado Rockies
+Base,175,Raisel Iglesias,Cincinnati Reds
+Base,176,Dustin May,Los Angeles Dodgers
+Base,177,Shin-Soo Choo,Texas Rangers
+Base,178,Paul DeJong,St. Louis Cardinals
+Base,179,Willy Adames,Tampa Bay Rays
+Base,180,Miles Mikolas,St. Louis Cardinals
+Base,181,Robel Garcia,Chicago Cubs
+Base,182,Oscar Mercado,Cleveland Indians
+Base,183,Matt Olson,Oakland Athletics
+Base,184,Rhys Hoskins,Philadelphia Phillies
+Base,185,Jose Urena,Miami Marlins
+Base,186,Kyle Lewis,Seattle Mariners
+Base,187,Michel Baez,San Diego Padres
+Base,188,Trey Mancini,Baltimore Orioles
+Base,189,J.D. Martinez,Boston Red Sox
+Base,190,Jose Ramirez,Cleveland Indians
+Base,191,Joey Gallo,Texas Rangers
+Base,192,Robbie Ray,Arizona Diamondbacks
+Base,193,Matt Chapman,Oakland Athletics
+Base,194,George Springer,Houston Astros
+Base,195,Patrick Corbin,Washington Nationals
+Base,196,Corey Seager,Los Angeles Dodgers
+Base,197,Jeff Samardzija,San Francisco Giants
+Base,198,Javier Baez,Chicago Cubs
+Base,199,Aaron Nola,Philadelphia Phillies
+Base,200,Yordan Alvarez,Houston Astros
+Base SP Image Variations,1,Mike Trout,Los Angeles Angels
+Base SP Image Variations,12,Juan Soto,Washington Nationals
+Base SP Image Variations,50,Aaron Judge,New York Yankees
+Base SP Image Variations,60,Luis Robert,Chicago White Sox
+Base SP Image Variations,77,Cody Bellinger,Los Angeles Dodgers
+Base SP Image Variations,80,Pete Alonso,New York Mets
+Base SP Image Variations,81,Jacob deGrom,New York Mets
+Base SP Image Variations,84,Fernando Tatis Jr.,San Diego Padres
+Base SP Image Variations,97,Bryce Harper,Philadelphia Phillies
+Base SP Image Variations,111,Aristides Aquino,Cincinnati Reds
+Base SP Image Variations,112,Ronald Acuña Jr.,Atlanta Braves
+Base SP Image Variations,125,Jose Berrios,Minnesota Twins
+Base SP Image Variations,138,Christian Yelich,Milwaukee Brewers
+Base SP Image Variations,148,Gavin Lux,Los Angeles Dodgers
+Base SP Image Variations,150,Bo Bichette,Toronto Blue Jays
+Base SP Image Variations,161,Nico Hoerner,Chicago Cubs
+Base SP Image Variations,174,Nolan Arenado,Colorado Rockies
+Base SP Image Variations,186,Kyle Lewis,Seattle Mariners
+Base SP Image Variations,198,Javier Baez,Chicago Cubs
+Base SP Image Variations,200,Yordan Alvarez,Houston Astros
+Base SSP Image Variations,1,Mike Trout,Los Angeles Angels
+Base SSP Image Variations,50,Derek Jeter,New York Yankees
+Base SSP Image Variations,60,Luis Robert,Chicago White Sox
+Base SSP Image Variations,77,Jackie Robinson,Brooklyn Dodgers
+Base SSP Image Variations,157,Willie Mays,San Francisco Giants
+1985 Topps Baseball,85TC-1,Mike Trout,Los Angeles Angels
+1985 Topps Baseball,85TC-2,Bo Bichette,Toronto Blue Jays
+1985 Topps Baseball,85TC-3,Juan Soto,Washington Nationals
+1985 Topps Baseball,85TC-4,Yordan Alvarez,Houston Astros
+1985 Topps Baseball,85TC-5,Gavin Lux,Los Angeles Dodgers
+1985 Topps Baseball,85TC-6,Vladimir Guerrero Jr.,Toronto Blue Jays
+1985 Topps Baseball,85TC-7,Shohei Ohtani,Los Angeles Angels
+1985 Topps Baseball,85TC-8,Rafael Devers,Boston Red Sox
+1985 Topps Baseball,85TC-9,Kris Bryant,Chicago Cubs
+1985 Topps Baseball,85TC-10,Jesus Luzardo,Oakland Athletics
+1985 Topps Baseball,85TC-11,Eloy Jimenez,Chicago White Sox
+1985 Topps Baseball,85TC-12,Nico Hoerner,Chicago Cubs
+1985 Topps Baseball,85TC-13,Brendan McKay,Tampa Bay Rays
+1985 Topps Baseball,85TC-14,A.J. Puk,Oakland Athletics
+1985 Topps Baseball,85TC-15,Christian Yelich,Milwaukee Brewers
+1985 Topps Baseball,85TC-16,Keston Hiura,Milwaukee Brewers
+1985 Topps Baseball,85TC-17,Luis Robert,Chicago White Sox
+1985 Topps Baseball,85TC-18,Pete Alonso,New York Mets
+1985 Topps Baseball,85TC-19,Jose Altuve,Houston Astros
+1985 Topps Baseball,85TC-20,Rhys Hoskins,Philadelphia Phillies
+1985 Topps Baseball,85TC-21,Aristides Aquino,Cincinnati Reds
+1985 Topps Baseball,85TC-22,Kyle Lewis,Seattle Mariners
+1985 Topps Baseball,85TC-23,Austin Riley,Atlanta Braves
+1985 Topps Baseball,85TC-24,Nolan Arenado,Colorado Rockies
+1985 Topps Baseball,85TC-25,Ronald Acuña Jr.,Atlanta Braves
+Future Stars,FS-1,Pete Alonso,New York Mets
+Future Stars,FS-2,Will Smith,Los Angeles Dodgers
+Future Stars,FS-3,Eloy Jimenez,Chicago White Sox
+Future Stars,FS-4,Michael Chavis,Boston Red Sox
+Future Stars,FS-5,Mike Yastrzemski,San Francisco Giants
+Future Stars,FS-6,Carter Kieboom,Washington Nationals
+Future Stars,FS-7,Victor Robles,Washington Nationals
+Future Stars,FS-8,Chris Paddack,San Diego Padres
+Future Stars,FS-9,Bryan Reynolds,Pittsburgh Pirates
+Future Stars,FS-10,Mitch Keller,Pittsburgh Pirates
+Future Stars,FS-11,Fernando Tatis Jr.,San Diego Padres
+Future Stars,FS-12,Brendan Rodgers,Colorado Rockies
+Future Stars,FS-13,Cavan Biggio,Toronto Blue Jays
+Future Stars,FS-14,Ramon Laureano,Oakland Athletics
+Future Stars,FS-15,Keston Hiura,Milwaukee Brewers
+Future Stars,FS-16,Austin Riley,Atlanta Braves
+Future Stars,FS-17,Willians Astudillo,Minnesota Twins
+Future Stars,FS-18,John Means,Baltimore Orioles
+Future Stars,FS-19,Mike Tauchman,New York Yankees
+Future Stars,FS-20,Vladimir Guerrero Jr.,Toronto Blue Jays
+Freshman Flash,FF-1,Bo Bichette,Toronto Blue Jays
+Freshman Flash,FF-2,Aristides Aquino,Cincinnati Reds
+Freshman Flash,FF-3,Dylan Cease,Chicago White Sox
+Freshman Flash,FF-4,Dustin May,Los Angeles Dodgers
+Freshman Flash,FF-5,Luis Robert,Chicago White Sox
+Freshman Flash,FF-6,Brendan McKay,Tampa Bay Rays
+Freshman Flash,FF-7,Sheldon Neuse,Oakland Athletics
+Freshman Flash,FF-8,Jesus Luzardo,Oakland Athletics
+Freshman Flash,FF-9,A.J. Puk,Oakland Athletics
+Freshman Flash,FF-10,Nico Hoerner,Chicago Cubs
+Freshman Flash,FF-11,Sean Murphy,Oakland Athletics
+Freshman Flash,FF-12,Gavin Lux,Los Angeles Dodgers
+Freshman Flash,FF-13,Kyle Lewis,Seattle Mariners
+Freshman Flash,FF-14,Isan Diaz,Miami Marlins
+Freshman Flash,FF-15,Yordan Alvarez,Houston Astros
+Decade of Dominance Die Cut,DOD-1,Mike Trout,Los Angeles Angels
+Decade of Dominance Die Cut,DOD-2,Mariano Rivera,New York Yankees
+Decade of Dominance Die Cut,DOD-3,Rickey Henderson,Oakland Athletics
+Decade of Dominance Die Cut,DOD-4,Hank Aaron,Atlanta Braves
+Decade of Dominance Die Cut,DOD-5,Ted Williams,Boston Red Sox
+Decade of Dominance Die Cut,DOD-6,Johnny Bench,Cincinnati Reds
+Decade of Dominance Die Cut,DOD-7,Willie Mays,San Francisco Giants
+Decade of Dominance Die Cut,DOD-8,Sandy Koufax,Los Angeles Dodgers
+Decade of Dominance Die Cut,DOD-9,Randy Johnson,Arizona Diamondbacks
+Decade of Dominance Die Cut,DOD-10,Nolan Ryan,Texas Rangers
+Decade of Dominance Die Cut,DOD-11,Honus Wagner,Pittsburgh Pirates
+Decade of Dominance Die Cut,DOD-12,Mark McGwire,St. Louis Cardinals
+Decade of Dominance Die Cut,DOD-13,Alex Rodriguez,Texas Rangers
+Decade of Dominance Die Cut,DOD-14,Ichiro,Seattle Mariners
+Decade of Dominance Die Cut,DOD-15,Babe Ruth,New York Yankees
+Topps Gallery Preview,GP-1,Mike Trout,Los Angeles Angels
+Topps Gallery Preview,GP-2,Ronald Acuña Jr.,Atlanta Braves
+Topps Gallery Preview,GP-3,Fernando Tatis Jr.,San Diego Padres
+Topps Gallery Preview,GP-4,Aaron Judge,New York Yankees
+Topps Gallery Preview,GP-5,Christian Yelich,Milwaukee Brewers
+Topps Gallery Preview,GP-6,Bryce Harper,Philadelphia Phillies
+Topps Gallery Preview,GP-7,Juan Soto,Washington Nationals
+Topps Gallery Preview,GP-8,Pete Alonso,New York Mets
+Topps Gallery Preview,GP-9,Yordan Alvarez,Houston Astros
+Topps Gallery Preview,GP-10,Cody Bellinger,Los Angeles Dodgers
+Topps Fire Preview,FP-1,Aaron Judge,New York Yankees
+Topps Fire Preview,FP-2,Mike Trout,Los Angeles Angels
+Topps Fire Preview,FP-3,Ken Griffey Jr.,Seattle Mariners
+Topps Fire Preview,FP-4,Luis Robert,Chicago White Sox
+Topps Fire Preview,FP-5,Fernando Tatis Jr.,San Diego Padres
+Topps Fire Preview,FP-6,Juan Soto,Washington Nationals
+Topps Fire Preview,FP-7,Bryce Harper,Philadelphia Phillies
+Topps Fire Preview,FP-8,David Ortiz,Boston Red Sox
+Topps Fire Preview,FP-9,Pete Alonso,New York Mets
+Topps Updates Preview,UP-1,Bo Bichette,Toronto Blue Jays
+Topps Updates Preview,UP-2,Brendan McKay,Tampa Bay Rays
+Topps Updates Preview,UP-3,Yordan Alvarez,Houston Astros
+Topps Updates Preview,UP-4,Gavin Lux,Los Angeles Dodgers
+Topps Updates Preview,UP-5,Kyle Lewis,Seattle Mariners
+Topps Updates Preview,UP-6,Nico Hoerner,Chicago Cubs
+Topps Updates Preview,UP-7,Jesus Luzardo,Oakland Athletics
+Topps Updates Preview,UP-8,Aristides Aquino,Cincinnati Reds
+Rookie Autographs,RA-AA,Adbert Alzolay,Chicago Cubs
+Rookie Autographs,RA-AAQ,Aristides Aquino,Cincinnati Reds
+Rookie Autographs,RA-AC,Aaron Civale,Cleveland Indians
+Rookie Autographs,RA-AJP,A.J. Puk,Oakland Athletics
+Rookie Autographs,RA-AK,Anthony Kay,Toronto Blue Jays
+Rookie Autographs,RA-AMU,Andres Muñoz,San Diego Padres
+Rookie Autographs,RA-AN,Austin Nola,Seattle Mariners
+Rookie Autographs,RA-AT,Abraham Toro,Houston Astros
+Rookie Autographs,RA-AY,Alex Young,Arizona Diamondbacks
+Rookie Autographs,RA-BA,Bryan Abreu,Houston Astros
+Rookie Autographs,RA-BB,Bobby Bradley,Cleveland Indians
+Rookie Autographs,RA-BBI,Bo Bichette,Toronto Blue Jays
+Rookie Autographs,RA-BBU,Brock Burke,Texas Rangers
+Rookie Autographs,RA-BG,Brusdar Graterol,Los Angeles Dodgers
+Rookie Autographs,RA-BM,Brendan McKay,Tampa Bay Rays
+Rookie Autographs,RA-CPO,Colin Poche,Tampa Bay Rays
+Rookie Autographs,RA-DA,Dario Agrazal,Detroit Tigers
+Rookie Autographs,RA-DCE,Dylan Cease,Chicago White Sox
+Rookie Autographs,RA-DL,Domingo Leyba,Arizona Diamondbacks
+Rookie Autographs,RA-DM,Dustin May,Los Angeles Dodgers
+Rookie Autographs,RA-DME,Danny Mendick,Chicago White Sox
+Rookie Autographs,RA-DN,Dom Nunez,Colorado Rockies
+Rookie Autographs,RA-EC,Emmanuel Clase,Texas Rangers
+Rookie Autographs,RA-GL,Gavin Lux,Los Angeles Dodgers
+Rookie Autographs,RA-HH,Hunter Harvey,Baltimore Orioles
+Rookie Autographs,RA-ID,Isan Diaz,Miami Marlins
+Rookie Autographs,RA-JD,Justin Dunn,Seattle Mariners
+Rookie Autographs,RA-JDA,Jaylin Davis,San Francisco Giants
+Rookie Autographs,RA-JF,Jake Fraley,Seattle Mariners
+Rookie Autographs,RA-JFE,Junior Fernandez,St. Louis Cardinals
+Rookie Autographs,RA-JH,Jonathan Hernandez,Texas Rangers
+Rookie Autographs,RA-JL,Jesus Luzardo,Oakland Athletics
+Rookie Autographs,RA-JMA,James Marvel,Pittsburgh Pirates
+Rookie Autographs,RA-JPO,Joe Palumbo,Texas Rangers
+Rookie Autographs,RA-JR,Jake Rogers,Detroit Tigers
+Rookie Autographs,RA-JRO,Jose Rodriguez,Los Angeles Angels
+Rookie Autographs,RA-JS,Josh Staumont,Kansas City Royals
+Rookie Autographs,RA-JT,Jesus Tinoco,Colorado Rockies
+Rookie Autographs,RA-JU,Jose Urquidy,Houston Astros
+Rookie Autographs,RA-JW,Jacob Waguespack,Toronto Blue Jays
+Rookie Autographs,RA-JY,Jordan Yamamoto,Miami Marlins
+Rookie Autographs,RA-KG,Kyle Garlick,Los Angeles Dodgers
+Rookie Autographs,RA-KL,Kyle Lewis,Seattle Mariners
+Rookie Autographs,RA-KW,Kean Wong,San Francisco Giants
+Rookie Autographs,RA-LA,Logan Allen,Cleveland Indians
+Rookie Autographs,RA-LR,Luis Robert,Chicago White Sox
+Rookie Autographs,RA-LT,Lewis Thorpe,Minnesota Twins
+Rookie Autographs,RA-LW,Logan Webb,San Francisco Giants
+Rookie Autographs,RA-MB,Michel Baez,San Diego Padres
+Rookie Autographs,RA-MBR,Michael Brosseau,Tampa Bay Rays
+Rookie Autographs,RA-MD,Mauricio Dubon,San Francisco Giants
+Rookie Autographs,RA-MK,Mike King,New York Yankees
+Rookie Autographs,RA-MT,Matt Thaiss,Los Angeles Angels
+Rookie Autographs,RA-NH,Nico Hoerner,Chicago Cubs
+Rookie Autographs,RA-NS,Nick Solak,Texas Rangers
+Rookie Autographs,RA-RA,Rogelio Armenteros,Houston Astros
+Rookie Autographs,RA-RAR,Randy Arozarena,St. Louis Cardinals
+Rookie Autographs,RA-RD,Robert Dugger,Miami Marlins
+Rookie Autographs,RA-RG,Robel Garcia,Chicago Cubs
+Rookie Autographs,RA-RR,Rangel Ravelo,St. Louis Cardinals
+Rookie Autographs,RA-SA,Shogo Akiyama,Cincinnati Reds
+Rookie Autographs,RA-SB,Seth Brown,Oakland Athletics
+Rookie Autographs,RA-SH,Sam Hilliard,Colorado Rockies
+Rookie Autographs,RA-SM,Sean Murphy,Oakland Athletics
+Rookie Autographs,RA-SN,Sheldon Neuse,Oakland Athletics
+Rookie Autographs,RA-TA,Tyler Alexander,Detroit Tigers
+Rookie Autographs,RA-TD,Travis Demeritte,Detroit Tigers
+Rookie Autographs,RA-TE,Tom Eshelman,Baltimore Orioles
+Rookie Autographs,RA-TG,Tony Gonsolin,Los Angeles Dodgers
+Rookie Autographs,RA-TGR,Trent Grisham,San Diego Padres
+Rookie Autographs,RA-TL,Tim Lopes,Seattle Mariners
+Rookie Autographs,RA-TLA,Travis Lakins,Boston Red Sox
+Rookie Autographs,RA-TZ,T.J. Zeuch,Toronto Blue Jays
+Rookie Autographs,RA-WC,Willi Castro,Detroit Tigers
+Rookie Autographs,RA-YA,Yordan Alvarez,Houston Astros
+Rookie Autographs,RA-ZC,Zack Collins,Chicago White Sox
+Rookie Autographs,RA-ZG,Zac Gallen,Arizona Diamondbacks
+1985 Topps Baseball Autographs,85TCA-AA,Aristides Aquino,Cincinnati Reds
+1985 Topps Baseball Autographs,85TCA-AR,Austin Riley,Atlanta Braves
+1985 Topps Baseball Autographs,85TCA-BB,Bo Bichette,Toronto Blue Jays
+1985 Topps Baseball Autographs,85TCA-GL,Gavin Lux,Los Angeles Dodgers
+1985 Topps Baseball Autographs,85TCA-JA,Jose Altuve,Houston Astros
+1985 Topps Baseball Autographs,85TCA-JL,Jesus Luzardo,Oakland Athletics
+1985 Topps Baseball Autographs,85TCA-JS,Juan Soto,Washington Nationals
+1985 Topps Baseball Autographs,85TCA-KB,Kris Bryant,Chicago Cubs
+1985 Topps Baseball Autographs,85TCA-KH,Keston Hiura,Milwaukee Brewers
+1985 Topps Baseball Autographs,85TCA-KL,Kyle Lewis,Seattle Mariners
+1985 Topps Baseball Autographs,85TCA-MT,Mike Trout,Los Angeles Angels
+1985 Topps Baseball Autographs,85TCA-NH,Nico Hoerner,Chicago Cubs
+1985 Topps Baseball Autographs,85TCA-PA,Pete Alonso,New York Mets
+1985 Topps Baseball Autographs,85TCA-RAJ,Ronald Acuña Jr.,Atlanta Braves
+1985 Topps Baseball Autographs,85TCA-RH,Rhys Hoskins,Philadelphia Phillies
+1985 Topps Baseball Autographs,85TCA-SO,Shohei Ohtani,Los Angeles Angels
+1985 Topps Baseball Autographs,85TCA-YA,Yordan Alvarez,Houston Astros
+Freshman Flash Autographs,FFA-AA,Aristides Aquino,Cincinnati Reds
+Freshman Flash Autographs,FFA-AAL,Adbert Alzolay,Chicago Cubs
+Freshman Flash Autographs,FFA-AT,Abraham Toro,Houston Astros
+Freshman Flash Autographs,FFA-BB,Bo Bichette,Toronto Blue Jays
+Freshman Flash Autographs,FFA-BM,Brendan McKay,Tampa Bay Rays
+Freshman Flash Autographs,FFA-DC,Dylan Cease,Chicago White Sox
+Freshman Flash Autographs,FFA-DM,Dustin May,Los Angeles Dodgers
+Freshman Flash Autographs,FFA-GL,Gavin Lux,Los Angeles Dodgers
+Freshman Flash Autographs,FFA-ID,Isan Diaz,Miami Marlins
+Freshman Flash Autographs,FFA-JL,Jesus Luzardo,Oakland Athletics
+Freshman Flash Autographs,FFA-JY,Jordan Yamamoto,Miami Marlins
+Freshman Flash Autographs,FFA-KL,Kyle Lewis,Seattle Mariners
+Freshman Flash Autographs,FFA-MD,Mauricio Dubon,San Francisco Giants
+Freshman Flash Autographs,FFA-NH,Nico Hoerner,Chicago Cubs
+Freshman Flash Autographs,FFA-SB,Seth Brown,Oakland Athletics
+Freshman Flash Autographs,FFA-SM,Sean Murphy,Oakland Athletics
+Freshman Flash Autographs,FFA-SN,Sheldon Neuse,Oakland Athletics
+Freshman Flash Autographs,FFA-YA,Yordan Alvarez,Houston Astros
+Future Stars Autographs,FSA-AR,Austin Riley,Atlanta Braves
+Future Stars Autographs,FSA-BR,Bryan Reynolds,Pittsburgh Pirates
+Future Stars Autographs,FSA-BRE,Brendan Rodgers,Colorado Rockies
+Future Stars Autographs,FSA-CB,Cavan Biggio,Toronto Blue Jays
+Future Stars Autographs,FSA-CK,Carter Kieboom,Washington Nationals
+Future Stars Autographs,FSA-CP,Chris Paddack,San Diego Padres
+Future Stars Autographs,FSA-EJ,Eloy Jimenez,Chicago White Sox
+Future Stars Autographs,FSA-FTJ,Fernando Tatis Jr.,San Diego Padres
+Future Stars Autographs,FSA-JM,John Means,Baltimore Orioles
+Future Stars Autographs,FSA-KH,Keston Hiura,Milwaukee Brewers
+Future Stars Autographs,FSA-MC,Michael Chavis,Boston Red Sox
+Future Stars Autographs,FSA-MK,Mitch Keller,Pittsburgh Pirates
+Future Stars Autographs,FSA-MT,Mike Tauchman,New York Yankees
+Future Stars Autographs,FSA-MY,Mike Yastrzemski,San Francisco Giants
+Future Stars Autographs,FSA-PA,Pete Alonso,New York Mets
+Future Stars Autographs,FSA-RL,Ramon Laureano,Oakland Athletics
+Future Stars Autographs,FSA-VR,Victor Robles,Washington Nationals
+Future Stars Autographs,FSA-WS,Will Smith,Los Angeles Dodgers
+Topps All-Star Rookie Team Autographs,RCTA-AJ,Aaron Judge,New York Yankees
+Topps All-Star Rookie Team Autographs,RCTA-AR,Anthony Rizzo,Chicago Cubs
+Topps All-Star Rookie Team Autographs,RCTA-BH,Bryce Harper,Washington Nationals
+Topps All-Star Rookie Team Autographs,RCTA-CJ,Chipper Jones,Atlanta Braves
+Topps All-Star Rookie Team Autographs,RCTA-CRJ,Cal Ripken Jr.,Baltimore Orioles
+Topps All-Star Rookie Team Autographs,RCTA-I,Ichiro,Seattle Mariners
+Topps All-Star Rookie Team Autographs,RCTA-JB,Johnny Bench,Cincinnati Reds
+Topps All-Star Rookie Team Autographs,RCTA-KB,Kris Bryant,Chicago Cubs
+Topps All-Star Rookie Team Autographs,RCTA-MM,Mark McGwire,Oakland Athletics
+Topps All-Star Rookie Team Autographs,RCTA-MT,Mike Trout,Los Angeles Angels
+Topps All-Star Rookie Team Autographs,RCTA-MTE,Mark Teixeira,Texas Rangers
+Topps All-Star Rookie Team Autographs,RCTA-OS,Ozzie Smith,San Diego Padres
+Topps All-Star Rookie Team Autographs,RCTA-RAJ,Ronald Acuña Jr.,Atlanta Braves
+Topps All-Star Rookie Team Autographs,RCTA-RS,Ryne Sandberg,Chicago Cubs
+Dual Rookie Autographs,DRA-AT,Yordan Alvarez,Houston Astros
+Dual Rookie Autographs,DRA-AT,Abraham Toro,Houston Astros
+Dual Rookie Autographs,DRA-HG,Robel Garcia,Chicago Cubs
+Dual Rookie Autographs,DRA-HG,Nico Hoerner,Chicago Cubs
+Dual Rookie Autographs,DRA-LD,Justin Dunn,Seattle Mariners
+Dual Rookie Autographs,DRA-LD,Kyle Lewis,Seattle Mariners
+Dual Rookie Autographs,DRA-ML,Dustin May,Los Angeles Dodgers
+Dual Rookie Autographs,DRA-ML,Gavin Lux,Los Angeles Dodgers
+Dual Rookie Autographs,DRA-NM,Sheldon Neuse,Oakland Athletics
+Dual Rookie Autographs,DRA-NM,Sean Murphy,Oakland Athletics
+Retro Rookie Chrome Autograph Relics,ARRCR-AJ,Aaron Judge,New York Yankees
+Retro Rookie Chrome Autograph Relics,ARRCR-BH,Bryce Harper,Washington Nationals
+Retro Rookie Chrome Autograph Relics,ARRCR-CJ,Chipper Jones,Atlanta Braves
+Retro Rookie Chrome Autograph Relics,ARRCR-CRJ,Cal Ripken Jr.,Baltimore Orioles
+Retro Rookie Chrome Autograph Relics,ARRCR-CY,Carl Yastrzemski,Boston Red Sox
+Retro Rookie Chrome Autograph Relics,ARRCR-DM,Don Mattingly,New York Yankees
+Retro Rookie Chrome Autograph Relics,ARRCR-FT,Frank Thomas,Chicago White Sox
+Retro Rookie Chrome Autograph Relics,ARRCR-GT,Gleyber Torres,New York Yankees
+Retro Rookie Chrome Autograph Relics,ARRCR-I,Ichiro,Seattle Mariners
+Retro Rookie Chrome Autograph Relics,ARRCR-JA,Jose Altuve,Houston Astros
+Retro Rookie Chrome Autograph Relics,ARRCR-JS,Juan Soto,Washington Nationals
+Retro Rookie Chrome Autograph Relics,ARRCR-KB,Kris Bryant,Chicago Cubs
+Retro Rookie Chrome Autograph Relics,ARRCR-KGJ,Ken Griffey Jr.,Seattle Mariners
+Retro Rookie Chrome Autograph Relics,ARRCR-MT,Mark Teixeira,Texas Rangers
+Retro Rookie Chrome Autograph Relics,ARRCR-MTR,Mike Trout,Los Angeles Angels
+Retro Rookie Chrome Autograph Relics,ARRCR-RAJ,Ronald Acuña Jr.,Atlanta Braves
+Retro Rookie Chrome Autograph Relics,ARRCR-RH,Rickey Henderson,Oakland Athletics
+Retro Rookie Chrome Autograph Relics,ARRCR-RJ,Reggie Jackson,Kansas City Athletics
+Retro Rookie Chrome Relics,RRCR-AB,Alex Bregman,Houston Astros
+Retro Rookie Chrome Relics,RRCR-AJ,Aaron Judge,New York Yankees
+Retro Rookie Chrome Relics,RRCR-AP,Albert Pujols,St. Louis Cardinals
+Retro Rookie Chrome Relics,RRCR-AR,Anthony Rizzo,San Diego Padres
+Retro Rookie Chrome Relics,RRCR-BH,Bryce Harper,Washington Nationals
+Retro Rookie Chrome Relics,RRCR-BP,Buster Posey,San Francisco Giants
+Retro Rookie Chrome Relics,RRCR-CB,Cody Bellinger,Los Angeles Dodgers
+Retro Rookie Chrome Relics,RRCR-CJ,Chipper Jones,Atlanta Braves
+Retro Rookie Chrome Relics,RRCR-CK,Clayton Kershaw,Los Angeles Dodgers
+Retro Rookie Chrome Relics,RRCR-CRJ,Cal Ripken Jr.,Baltimore Orioles
+Retro Rookie Chrome Relics,RRCR-CY,Carl Yastrzemski,Boston Red Sox
+Retro Rookie Chrome Relics,RRCR-DM,Don Mattingly,New York Yankees
+Retro Rookie Chrome Relics,RRCR-EM,Eddie Mathews,Milwaukee Braves
+Retro Rookie Chrome Relics,RRCR-FT,Frank Thomas,Chicago White Sox
+Retro Rookie Chrome Relics,RRCR-GB,George Brett,Kansas City Royals
+Retro Rookie Chrome Relics,RRCR-GT,Gleyber Torres,New York Yankees
+Retro Rookie Chrome Relics,RRCR-I,Ichiro,Seattle Mariners
+Retro Rookie Chrome Relics,RRCR-JA,Jose Altuve,Houston Astros
+Retro Rookie Chrome Relics,RRCR-JB,Johnny Bench,Cincinnati Reds
+Retro Rookie Chrome Relics,RRCR-JBA,Javier Baez,Chicago Cubs
+Retro Rookie Chrome Relics,RRCR-JV,Justin Verlander,Detroit Tigers
+Retro Rookie Chrome Relics,RRCR-JVO,Joey Votto,Cincinnati Reds
+Retro Rookie Chrome Relics,RRCR-KB,Kris Bryant,Chicago Cubs
+Retro Rookie Chrome Relics,RRCR-KGJ,Ken Griffey Jr.,Seattle Mariners
+Retro Rookie Chrome Relics,RRCR-MB,Mookie Betts,Boston Red Sox
+Retro Rookie Chrome Relics,RRCR-MT,Mark Teixeira,Texas Rangers
+Retro Rookie Chrome Relics,RRCR-MTA,Masahiro Tanaka,New York Yankees
+Retro Rookie Chrome Relics,RRCR-MTR,Mike Trout,Los Angeles Angels
+Retro Rookie Chrome Relics,RRCR-OS,Ozzie Smith,San Diego Padres
+Retro Rookie Chrome Relics,RRCR-RAJ,Ronald Acuña Jr.,Atlanta Braves
+Retro Rookie Chrome Relics,RRCR-RC,Roberto Clemente,Pittsburgh Pirates
+Retro Rookie Chrome Relics,RRCR-RH,Rickey Henderson,Oakland Athletics
+Retro Rookie Chrome Relics,RRCR-RJ,Reggie Jackson,Oakland Athletics
+Retro Rookie Chrome Relics,RRCR-TG,Tony Gwynn,San Diego Padres
+Retro Rookie Chrome Relics,RRCR-TW,Ted Williams,Boston Red Sox
