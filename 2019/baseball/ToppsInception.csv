@@ -1,0 +1,391 @@
+Card Set,Number,Player,Team
+Base,1,Mike Trout,Los Angeles Angels
+Base,2,Max Scherzer,Washington Nationals
+Base,3,Nicholas Ciuffo,Tampa Bay Rays
+Base,4,Freddie Freeman,Atlanta Braves
+Base,5,Francisco Arcia,Chicago Cubs
+Base,6,Aaron Nola,Philadelphia Phillies
+Base,7,Luis Urias,San Diego Padres
+Base,8,Carlos Correa,Houston Astros
+Base,9,Kohl Stewart,Minnesota Twins
+Base,10,Eddie Rosario,Minnesota Twins
+Base,11,Clayton Kershaw,Los Angeles Dodgers
+Base,12,Nick Burdi,Pittsburgh Pirates
+Base,13,Khris Davis,Oakland Athletics
+Base,14,Enyel De Los Santos,Philadelphia Phillies
+Base,15,Michael Kopech,Chicago White Sox
+Base,16,Bryce Harper,Washington Nationals
+Base,17,Francisco Lindor,Cleveland Indians
+Base,18,Dawel Lugo,Detroit Tigers
+Base,19,Daniel Poncedeleon,St. Louis Cardinals
+Base,20,Cedric Mullins,Baltimore Orioles
+Base,21,Christian Yelich,Milwaukee Brewers
+Base,22,Bryse Wilson,Atlanta Braves
+Base,23,Kyle Wright,Atlanta Braves
+Base,24,George Springer,Houston Astros
+Base,25,Kyle Tucker,Houston Astros
+Base,26,Javier Baez,Chicago Cubs
+Base,27,Sean Reid-Foley,Toronto Blue Jays
+Base,28,Miguel Andujar,New York Yankees
+Base,29,Justin Verlander,Houston Astros
+Base,30,Chris Shaw,San Francisco Giants
+Base,31,Corey Seager,Los Angeles Dodgers
+Base,32,Ryan Borucki,Toronto Blue Jays
+Base,33,Aramis Garcia,San Francisco Giants
+Base,34,Mitch Haniger,Seattle Mariners
+Base,35,Kolby Allard,Atlanta Braves
+Base,36,Kevin Newman,Pittsburgh Pirates
+Base,37,Dennis Santana,Los Angeles Dodgers
+Base,38,Paul Goldschmidt,St. Louis Cardinals
+Base,39,Alex Bregman,Houston Astros
+Base,40,Mookie Betts,Boston Red Sox
+Base,41,Blake Snell,Tampa Bay Rays
+Base,42,Giancarlo Stanton,New York Yankees
+Base,43,Noah Syndergaard,New York Mets
+Base,44,Rhys Hoskins,Philadelphia Phillies
+Base,45,Trevor Richards,Miami Marlins
+Base,46,Trea Turner,Washington Nationals
+Base,47,Edwin Encarnacion,Seattle Mariners
+Base,48,Kevin Kramer,Pittsburgh Pirates
+Base,49,Jonathan Loaisiga,New York Yankees
+Base,50,Shohei Ohtani,Los Angeles Angels
+Base,51,Edwin Diaz,New York Mets
+Base,52,Whit Merrifield,Kansas City Royals
+Base,53,David Fletcher,Los Angeles Angels
+Base,54,Heath Fillmyer,Kansas City Royals
+Base,55,Jake Cave,Minnesota Twins
+Base,56,Joey Votto,Cincinnati Reds
+Base,57,Ramon Laureano,Oakland Athletics
+Base,58,Steven Duggar,San Francisco Giants
+Base,59,Chance Adams,New York Yankees
+Base,60,Ozzie Albies,Atlanta Braves
+Base,61,Touki Toussaint,Atlanta Braves
+Base,62,Jose Ramirez,Cleveland Indians
+Base,63,Adolis Garcia,St. Louis Cardinals
+Base,64,Corbin Burnes,Milwaukee Brewers
+Base,65,Matt Carpenter,St. Louis Cardinals
+Base,66,Jeff McNeil,New York Mets
+Base,67,Luis Severino,New York Yankees
+Base,68,Pablo Lopez,Miami Marlins
+Base,69,Josh Hader,Milwaukee Brewers
+Base,70,Josh Rogers,Baltimore Orioles
+Base,71,Jacob deGrom,New York Mets
+Base,72,Eugenio Suarez,Cincinnati Reds
+Base,73,Ray Black,San Francisco Giants
+Base,74,Masahiro Tanaka,New York Yankees
+Base,75,Juan Soto,Washington Nationals
+Base,76,Charlie Blackmon,Colorado Rockies
+Base,77,Jacob Nix,San Diego Padres
+Base,78,Christin Stewart,Detroit Tigers
+Base,79,Jose Altuve,Houston Astros
+Base,80,Rowdy Tellez,Toronto Blue Jays
+Base,81,Aaron Judge,New York Yankees
+Base,82,Taylor Ward,Los Angeles Angels
+Base,83,Nolan Arenado,Colorado Rockies
+Base,84,Andrew Benintendi,Boston Red Sox
+Base,85,Brandon Lowe,Tampa Bay Rays
+Base,86,Jake Bauers,Cleveland Indians
+Base,87,Jalen Beeks,Tampa Bay Rays
+Base,88,Gerrit Cole,Houston Astros
+Base,89,Adam Cimber,Cleveland Indians
+Base,90,Anthony Rizzo,Chicago Cubs
+Base,91,Josh James,Houston Astros
+Base,92,Chris Sale,Boston Red Sox
+Base,93,J.D. Martinez,Boston Red Sox
+Base,94,Justus Sheffield,Seattle Mariners
+Base,95,Ryan O'Hearn,Kansas City Royals
+Base,96,Brad Keller,Kansas City Royals
+Base,97,Kris Bryant,Chicago Cubs
+Base,98,Gleyber Torres,New York Yankees
+Base,99,Danny Jansen,Toronto Blue Jays
+Base,100,Ronald Acuña Jr.,Atlanta Braves
+Autograph Patch,IAP-AB,Alex Bregman,Houston Astros
+Autograph Patch,IAP-AG,Aramis Garcia,San Francisco Giants
+Autograph Patch,IAP-AJ,Aaron Judge,New York Yankees
+Autograph Patch,IAP-AM,Austin Meadows,Pittsburgh Pirates
+Autograph Patch,IAP-BK,Brad Keller,Kansas City Royals
+Autograph Patch,IAP-BL,Brandon Lowe,Tampa Bay Rays
+Autograph Patch,IAP-BN,Brandon Nimmo,New York Mets
+Autograph Patch,IAP-BT,Blake Treinen,Oakland Athletics
+Autograph Patch,IAP-BW,Bryse Wilson,Atlanta Braves
+Autograph Patch,IAP-CA,Chance Adams,New York Yankees
+Autograph Patch,IAP-CB,Corbin Burnes,Milwaukee Brewers
+Autograph Patch,IAP-CM,Cedric Mullins,Baltimore Orioles
+Autograph Patch,IAP-CS,Chris Shaw,San Francisco Giants
+Autograph Patch,IAP-DC,Dylan Cozens,Philadelphia Phillies
+Autograph Patch,IAP-DF,David Fletcher,Los Angeles Angels
+Autograph Patch,IAP-DH,Dakota Hudson,St. Louis Cardinals
+Autograph Patch,IAP-DJ,Danny Jansen,Toronto Blue Jays
+Autograph Patch,IAP-DL,Dawel Lugo,Detroit Tigers
+Autograph Patch,IAP-DS,Dennis Santana,Los Angeles Dodgers
+Autograph Patch,IAP-HD,Hunter Dozier,Kansas City Royals
+Autograph Patch,IAP-HF,Heath Fillmyer,Kansas City Royals
+Autograph Patch,IAP-IKF,Isiah Kiner-Falefa,Texas Rangers
+Autograph Patch,IAP-JA,Jesus Aguilar,Milwaukee Brewers
+Autograph Patch,IAP-JB,Jake Bauers,Tampa Bay Rays
+Autograph Patch,IAP-JM,Jeff McNeil,New York Mets
+Autograph Patch,IAP-JN,Jacob Nix,San Diego Padres
+Autograph Patch,IAP-JSH,Justus Sheffield,New York Yankees
+Autograph Patch,IAP-KA,Kolby Allard,Atlanta Braves
+Autograph Patch,IAP-KT,Kyle Tucker,Houston Astros
+Autograph Patch,IAP-KWR,Kyle Wright,Atlanta Braves
+Autograph Patch,IAP-LGJ,Lourdes Gurriel Jr.,Toronto Blue Jays
+Autograph Patch,IAP-LU,Luis Urias,San Diego Padres
+Autograph Patch,IAP-MH,Mitch Haniger,Seattle Mariners
+Autograph Patch,IAP-MK,Michael Kopech,Chicago White Sox
+Autograph Patch,IAP-MM,Miles Mikolas,St. Louis Cardinals
+Autograph Patch,IAP-MT,Mike Trout,Los Angeles Angels
+Autograph Patch,IAP-NK,Nick Kingham,Pittsburgh Pirates
+Autograph Patch,IAP-OA,Ozzie Albies,Atlanta Braves
+Autograph Patch,IAP-RAJ,Ronald Acuña Jr.,Atlanta Braves
+Autograph Patch,IAP-RB,Ryan Borucki,Toronto Blue Jays
+Autograph Patch,IAP-RH,Rhys Hoskins,Philadelphia Phillies
+Autograph Patch,IAP-RL,Ramon Laureano,Oakland Athletics
+Autograph Patch,IAP-ROH,Ryan O'Hearn,Kansas City Royals
+Autograph Patch,IAP-RT,Rowdy Tellez,Toronto Blue Jays
+Autograph Patch,IAP-SD,Steven Duggar,San Francisco Giants
+Autograph Patch,IAP-SK,Scott Kingery,Philadelphia Phillies
+Autograph Patch,IAP-SO,Shohei Ohtani,Los Angeles Angels
+Autograph Patch,IAP-TA,Tim Anderson,Chicago White Sox
+Autograph Patch,IAP-TM,Tyler Mahle,Cincinnati Reds
+Autograph Patch,IAP-TP,Tommy Pham,Tampa Bay Rays
+Autograph Patch,IAP-TW,Taylor Ward,Los Angeles Angels
+Autograph Jumbo Patch,IAJ-AB,Alex Bregman,Houston Astros
+Autograph Jumbo Patch,IAJ-AJ,Aaron Judge,New York Yankees
+Autograph Jumbo Patch,IAJ-AM,Austin Meadows,Pittsburgh Pirates
+Autograph Jumbo Patch,IAJ-BK,Brad Keller,Kansas City Royals
+Autograph Jumbo Patch,IAJ-BN,Brandon Nimmo,New York Mets
+Autograph Jumbo Patch,IAJ-BW,Bryse Wilson,Atlanta Braves
+Autograph Jumbo Patch,IAJ-CA,Chance Adams,New York Yankees
+Autograph Jumbo Patch,IAJ-CB,Corbin Burnes,Milwaukee Brewers
+Autograph Jumbo Patch,IAJ-CM,Cedric Mullins,Baltimore Orioles
+Autograph Jumbo Patch,IAJ-CS,Chris Shaw,San Francisco Giants
+Autograph Jumbo Patch,IAJ-DJ,Danny Jansen,Toronto Blue Jays
+Autograph Jumbo Patch,IAJ-JA,Jesus Aguilar,Milwaukee Brewers
+Autograph Jumbo Patch,IAJ-JB,Jake Bauers,Tampa Bay Rays
+Autograph Jumbo Patch,IAJ-JSH,Justus Sheffield,New York Yankees
+Autograph Jumbo Patch,IAJ-KA,Kolby Allard,Atlanta Braves
+Autograph Jumbo Patch,IAJ-KT,Kyle Tucker,Houston Astros
+Autograph Jumbo Patch,IAJ-KW,Kyle Wright,Atlanta Braves
+Autograph Jumbo Patch,IAJ-LU,Luis Urias,San Diego Padres
+Autograph Jumbo Patch,IAJ-MH,Mitch Haniger,Seattle Mariners
+Autograph Jumbo Patch,IAJ-MK,Michael Kopech,Chicago White Sox
+Autograph Jumbo Patch,IAJ-MM,Miles Mikolas,St. Louis Cardinals
+Autograph Jumbo Patch,IAJ-MT,Mike Trout,Los Angeles Angels
+Autograph Jumbo Patch,IAJ-OA,Ozzie Albies,Atlanta Braves
+Autograph Jumbo Patch,IAJ-RAJ,Ronald Acuña Jr.,Atlanta Braves
+Autograph Jumbo Patch,IAJ-RH,Rhys Hoskins,Philadelphia Phillies
+Autograph Jumbo Patch,IAJ-ROH,Ryan O'Hearn,Kansas City Royals
+Autograph Jumbo Patch,IAJ-RT,Rowdy Tellez,Toronto Blue Jays
+Autograph Jumbo Patch,IAJ-SO,Shohei Ohtani,Los Angeles Angels
+Autograph Jumbo Patch,IAJ-TM,Trey Mancini,Baltimore Orioles
+Autograph Jumbo Hat Patch,IAH-BK,Brad Keller,Kansas City Royals
+Autograph Jumbo Hat Patch,IAH-CA,Chance Adams,New York Yankees
+Autograph Jumbo Hat Patch,IAH-DL,Dawel Lugo,Detroit Tigers
+Autograph Jumbo Hat Patch,IAH-JB,Jake Bauers,Tampa Bay Rays
+Autograph Jumbo Hat Patch,IAH-JSH,Justus Sheffield,New York Yankees
+Autograph Jumbo Hat Patch,IAH-LU,Luis Urias,San Diego Padres
+Autograph Jumbo Hat Patch,IAH-TW,Taylor Ward,Los Angeles Angels
+Autograph Team Logo Patch Book,IATL-AB,Alex Bregman,Houston Astros
+Autograph Team Logo Patch Book,IATL-BN,Brandon Nimmo,New York Mets
+Autograph Team Logo Patch Book,IATL-JA,Jesus Aguilar,Milwaukee Brewers
+Autograph Team Logo Patch Book,IATL-JB,Jake Bauers,Tampa Bay Rays
+Autograph Team Logo Patch Book,IATL-KA,Kolby Allard,Atlanta Braves
+Autograph Team Logo Patch Book,IATL-KT,Kyle Tucker,Houston Astros
+Autograph Team Logo Patch Book,IATL-LGJ,Lourdes Gurriel Jr.,Toronto Blue Jays
+Autograph Team Logo Patch Book,IATL-LS,Luis Severino,New York Yankees
+Autograph Team Logo Patch Book,IATL-MH,Mitch Haniger,Seattle Mariners
+Autograph Team Logo Patch Book,IATL-MK,Michael Kopech,Chicago White Sox
+Autograph Team Logo Patch Book,IATL-MM,Miles Mikolas,St. Louis Cardinals
+Autograph Team Logo Patch Book,IATL-RAJ,Ronald Acuña Jr.,Atlanta Braves
+Autograph Team Logo Patch Book,IATL-RH,Rhys Hoskins,Philadelphia Phillies
+Autograph Team Logo Patch Book,IATL-SK,Scott Kingery,Philadelphia Phillies
+Autograph Team Logo Patch Book,IATL-SO,Shohei Ohtani,Los Angeles Angels
+Autograph Team Logo Patch Book,IATL-TA,Tim Anderson,Chicago White Sox
+Autograph Team Logo Patch Book,IATL-TP,Tommy Pham,Tampa Bay Rays
+Autograph Letters Book,IALP-AB,Alex Bregman,Houston Astros
+Autograph Letters Book,IALP-BN,Brandon Nimmo,New York Mets
+Autograph Letters Book,IALP-DC,Dylan Cozens,Philadelphia Phillies
+Autograph Letters Book,IALP-JA,Jesus Aguilar,Milwaukee Brewers
+Autograph Letters Book,IALP-JB,Jake Bauers,Tampa Bay Rays
+Autograph Letters Book,IALP-KA,Kolby Allard,Atlanta Braves
+Autograph Letters Book,IALP-KT,Kyle Tucker,Houston Astros
+Autograph Letters Book,IALP-LGJ,Lourdes Gurriel Jr.,Toronto Blue Jays
+Autograph Letters Book,IALP-MH,Mitch Haniger,Seattle Mariners
+Autograph Letters Book,IALP-MK,Michael Kopech,Chicago White Sox
+Autograph Letters Book,IALP-MM,Miles Mikolas,St. Louis Cardinals
+Autograph Letters Book,IALP-RAJ,Ronald Acuña Jr.,Atlanta Braves
+Autograph Letters Book,IALP-RH,Rhys Hoskins,Philadelphia Phillies
+Autograph Letters Book,IALP-SK,Scott Kingery,Philadelphia Phillies
+Autograph Letters Book,IALP-SO,Shohei Ohtani,Los Angeles Angels
+Autograph Letters Book,IALP-TA,Tim Anderson,Chicago White Sox
+Autograph Letters Book,IALP-TP,Tommy Pham,Tampa Bay Rays
+Autograph Laundry Tag Book,IALT-AB,Alex Bregman,Houston Astros
+Autograph Laundry Tag Book,IALT-AJ,Aaron Judge,New York Yankees
+Autograph Laundry Tag Book,IALT-JA,Jesus Aguilar,Milwaukee Brewers
+Autograph Laundry Tag Book,IALT-JB,Jake Bauers,Tampa Bay Rays
+Autograph Laundry Tag Book,IALT-KB,Kris Bryant,Chicago Cubs
+Autograph Laundry Tag Book,IALT-KT,Kyle Tucker,Houston Astros
+Autograph Laundry Tag Book,IALT-LS,Luis Severino,New York Yankees
+Autograph Laundry Tag Book,IALT-MK,Michael Kopech,Chicago White Sox
+Autograph Laundry Tag Book,IALT-RAJ,Ronald Acuña Jr.,Atlanta Braves
+Autograph Laundry Tag Book,IALT-RD,Rafael Devers,Boston Red Sox
+Autograph Laundry Tag Book,IALT-RH,Rhys Hoskins,Philadelphia Phillies
+Autograph Laundry Tag Book,IALT-SO,Shohei Ohtani,Los Angeles Angels
+Autograph MLB Batterman Patch Book,IMLP-AB,Alex Bregman,Houston Astros
+Autograph MLB Batterman Patch Book,IMLP-AJ,Aaron Judge,New York Yankees
+Autograph MLB Batterman Patch Book,IMLP-JA,Jesus Aguilar,Milwaukee Brewers
+Autograph MLB Batterman Patch Book,IMLP-JB,Jake Bauers,Tampa Bay Rays
+Autograph MLB Batterman Patch Book,IMLP-KB,Kris Bryant,Chicago Cubs
+Autograph MLB Batterman Patch Book,IMLP-KT,Kyle Tucker,Houston Astros
+Autograph MLB Batterman Patch Book,IMLP-LS,Luis Severino,New York Yankees
+Autograph MLB Batterman Patch Book,IMLP-MK,Michael Kopech,Chicago White Sox
+Autograph MLB Batterman Patch Book,IMLP-RAJ,Ronald Acuña Jr.,Atlanta Braves
+Autograph MLB Batterman Patch Book,IMLP-RD,Rafael Devers,Boston Red Sox
+Autograph MLB Batterman Patch Book,IMLP-RH,Rhys Hoskins,Philadelphia Phillies
+Autograph MLB Batterman Patch Book,IMLP-SO,Shohei Ohtani,Los Angeles Angels
+Rookie and Emerging Star Autographs,RES-AC,Adam Cimber,Cleveland Indians
+Rookie and Emerging Star Autographs,RES-AG,Adolis Garcia,St. Louis Cardinals
+Rookie and Emerging Star Autographs,RES-AGA,Aramis Garcia,San Francisco Giants
+Rookie and Emerging Star Autographs,RES-AJ,Aaron Judge,New York Yankees
+Rookie and Emerging Star Autographs,RES-AM,Austin Meadows,Tampa Bay Rays
+Rookie and Emerging Star Autographs,RES-AR,Amed Rosario,New York Mets
+Rookie and Emerging Star Autographs,RES-BA,Brian Anderson,Miami Marlins
+Rookie and Emerging Star Autographs,RES-BK,Brad Keller,Kansas City Royals
+Rookie and Emerging Star Autographs,RES-BKE,Brad Keller,Kansas City Royals
+Rookie and Emerging Star Autographs,RES-BL,Brandon Lowe,Tampa Bay Rays
+Rookie and Emerging Star Autographs,RES-BW,Bryse Wilson,Atlanta Braves
+Rookie and Emerging Star Autographs,RES-CA,Chance Adams,New York Yankees
+Rookie and Emerging Star Autographs,RES-CB,Corbin Burnes,Milwaukee Brewers
+Rookie and Emerging Star Autographs,RES-CK,Carson Kelly,St. Louis Cardinals
+Rookie and Emerging Star Autographs,RES-CM,Cedric Mullins,Baltimore Orioles
+Rookie and Emerging Star Autographs,RES-CS,Christin Stewart,Detroit Tigers
+Rookie and Emerging Star Autographs,RES-CSH,Chris Shaw,San Francisco Giants
+Rookie and Emerging Star Autographs,RES-DC,Dylan Cozens,Philadelphia Phillies
+Rookie and Emerging Star Autographs,RES-DJ,Danny Jansen,Toronto Blue Jays
+Rookie and Emerging Star Autographs,RES-DL,Dawel Lugo,Detroit Tigers
+Rookie and Emerging Star Autographs,RES-DP,Daniel Poncedeleon,St. Louis Cardinals
+Rookie and Emerging Star Autographs,RES-DS,Dennis Santana,Los Angeles Dodgers
+Rookie and Emerging Star Autographs,RES-EDL,Enyel De Los Santos,Philadelphia Phillies
+Rookie and Emerging Star Autographs,RES-FA,Francisco Arcia,Los Angeles Angels
+Rookie and Emerging Star Autographs,RES-FL,Francisco Lindor,Cleveland Indians
+Rookie and Emerging Star Autographs,RES-FP,Freddy Peralta,Milwaukee Brewers
+Rookie and Emerging Star Autographs,RES-FR,Franmil Reyes,San Diego Padres
+Rookie and Emerging Star Autographs,RES-HB,Harrison Bader,St. Louis Cardinals
+Rookie and Emerging Star Autographs,RES-HF,Heath Fillmyer,Kansas City Royals
+Rookie and Emerging Star Autographs,RES-IKF,Isiah Kiner-Falefa,Texas Rangers
+Rookie and Emerging Star Autographs,RES-JB,Jake Bauers,Tampa Bay Rays
+Rookie and Emerging Star Autographs,RES-JBE,Jalen Beeks,Tampa Bay Rays
+Rookie and Emerging Star Autographs,RES-JC,Johan Camargo,Atlanta Braves
+Rookie and Emerging Star Autographs,RES-JCA,Jake Cave,Minnesota Twins
+Rookie and Emerging Star Autographs,RES-JF,Jack Flaherty,St. Louis Cardinals
+Rookie and Emerging Star Autographs,RES-JM,Jeff McNeil,New York Mets
+Rookie and Emerging Star Autographs,RES-JN,Jacob Nix,San Diego Padres
+Rookie and Emerging Star Autographs,RES-JR,Josh Rogers,Baltimore Orioles
+Rookie and Emerging Star Autographs,RES-JS,Juan Soto,Washington Nationals
+Rookie and Emerging Star Autographs,RES-JSH,Justus Sheffield,New York Yankees
+Rookie and Emerging Star Autographs,RES-KA,Kolby Allard,Atlanta Braves
+Rookie and Emerging Star Autographs,RES-KB,Kris Bryant,Chicago Cubs
+Rookie and Emerging Star Autographs,RES-KK,Kevin Kramer,Pittsburgh Pirates
+Rookie and Emerging Star Autographs,RES-KN,Kevin Newman,Pittsburgh Pirates
+Rookie and Emerging Star Autographs,RES-KS,Kohl Stewart,Minnesota Twins
+Rookie and Emerging Star Autographs,RES-KT,Kyle Tucker,Houston Astros
+Rookie and Emerging Star Autographs,RES-KW,Kyle Wright,Atlanta Braves
+Rookie and Emerging Star Autographs,RES-LGJ,Lourdes Gurriel Jr.,Toronto Blue Jays
+Rookie and Emerging Star Autographs,RES-LU,Luis Urias,San Diego Padres
+Rookie and Emerging Star Autographs,RES-MC,Matt Chapman,Oakland Athletics
+Rookie and Emerging Star Autographs,RES-MK,Michael Kopech,Chicago White Sox
+Rookie and Emerging Star Autographs,RES-MM,Miles Mikolas,St. Louis Cardinals
+Rookie and Emerging Star Autographs,RES-MT,Mike Trout,Los Angeles Angels
+Rookie and Emerging Star Autographs,RES-NB,Nick Burdi,Pittsburgh Pirates
+Rookie and Emerging Star Autographs,RES-ND,Nicky Delmonico,Chicago White Sox
+Rookie and Emerging Star Autographs,RES-NK,Nick Kingham,Pittsburgh Pirates
+Rookie and Emerging Star Autographs,RES-NW,Nick Williams,Philadelphia Phillies
+Rookie and Emerging Star Autographs,RES-PL,Pablo Lopez,Miami Marlins
+Rookie and Emerging Star Autographs,RES-PW,Patrick Wisdom,St. Louis Cardinals
+Rookie and Emerging Star Autographs,RES-RAJ,Ronald Acuña Jr.,Atlanta Braves
+Rookie and Emerging Star Autographs,RES-RB,Ryan Borucki,Toronto Blue Jays
+Rookie and Emerging Star Autographs,RES-RBL,Ray Black,San Francisco Giants
+Rookie and Emerging Star Autographs,RES-RL,Ramon Laureano,Oakland Athletics
+Rookie and Emerging Star Autographs,RES-RMG,Reese McGuire,Toronto Blue Jays
+Rookie and Emerging Star Autographs,RES-ROH,Ryan O'Hearn,Kansas City Royals
+Rookie and Emerging Star Autographs,RES-RT,Rowdy Tellez,Toronto Blue Jays
+Rookie and Emerging Star Autographs,RES-SA,Sandy Alcantara,Miami Marlins
+Rookie and Emerging Star Autographs,RES-SD,Steven Duggar,San Francisco Giants
+Rookie and Emerging Star Autographs,RES-SK,Scott Kingery,Philadelphia Phillies
+Rookie and Emerging Star Autographs,RES-SM,Sean Manaea,Oakland Athletics
+Rookie and Emerging Star Autographs,RES-SO,Shohei Ohtani,Los Angeles Angels
+Rookie and Emerging Star Autographs,RES-SRF,Sean Reid-Foley,Toronto Blue Jays
+Rookie and Emerging Star Autographs,RES-TT,Touki Toussaint,Atlanta Braves
+Rookie and Emerging Star Autographs,RES-TW,Tyler Wade,New York Yankees
+Rookie and Emerging Star Autographs,RES-TWA,Taylor Ward,Los Angeles Angels
+Rookie and Emerging Star Autographs,RES-WA,Willy Adames,Tampa Bay Rays
+Silver Signings,SS-AJ,Aaron Judge,New York Yankees
+Silver Signings,SS-AM,Austin Meadows,Tampa Bay Rays
+Silver Signings,SS-AR,Amed Rosario,New York Mets
+Silver Signings,SS-BA,Brian Anderson,Miami Marlins
+Silver Signings,SS-CA,Chance Adams,New York Yankees
+Silver Signings,SS-CB,Corbin Burnes,Milwaukee Brewers
+Silver Signings,SS-CM,Cedric Mullins,Baltimore Orioles
+Silver Signings,SS-CS,Christin Stewart,Detroit Tigers
+Silver Signings,SS-CSH,Chris Shaw,San Francisco Giants
+Silver Signings,SS-DC,Dylan Cozens,Philadelphia Phillies
+Silver Signings,SS-DJ,Danny Jansen,Toronto Blue Jays
+Silver Signings,SS-FA,Francisco Arcia,Los Angeles Angels
+Silver Signings,SS-FL,Francisco Lindor,Cleveland Indians
+Silver Signings,SS-HB,Harrison Bader,St. Louis Cardinals
+Silver Signings,SS-JB,Jake Bauers,Tampa Bay Rays
+Silver Signings,SS-JF,Jack Flaherty,St. Louis Cardinals
+Silver Signings,SS-JL,Jonathan Loaisiga,New York Yankees
+Silver Signings,SS-JS,Juan Soto,Washington Nationals
+Silver Signings,SS-JSH,Justus Sheffield,New York Yankees
+Silver Signings,SS-KA,Kolby Allard,Atlanta Braves
+Silver Signings,SS-KB,Kris Bryant,Chicago Cubs
+Silver Signings,SS-KT,Kyle Tucker,Houston Astros
+Silver Signings,SS-KW,Kyle Wright,Atlanta Braves
+Silver Signings,SS-LGJ,Lourdes Gurriel Jr.,Toronto Blue Jays
+Silver Signings,SS-LU,Luis Urias,San Diego Padres
+Silver Signings,SS-MK,Michael Kopech,Chicago White Sox
+Silver Signings,SS-MM,Miles Mikolas,St. Louis Cardinals
+Silver Signings,SS-MT,Mike Trout,Los Angeles Angels
+Silver Signings,SS-RAJ,Ronald Acuña Jr.,Atlanta Braves
+Silver Signings,SS-RB,Ryan Borucki,Toronto Blue Jays
+Silver Signings,SS-SD,Steven Duggar,San Francisco Giants
+Silver Signings,SS-SK,Scott Kingery,Philadelphia Phillies
+Silver Signings,SS-SM,Sean Manaea,Oakland Athletics
+Silver Signings,SS-SO,Shohei Ohtani,Los Angeles Angels
+Silver Signings,SS-TT,Touki Toussaint,Atlanta Braves
+Silver Signings,SS-WA,Willy Adames,Tampa Bay Rays
+Legendary Debut Autographs,LDA-AJ,Aaron Judge,New York Yankees
+Legendary Debut Autographs,LDA-AM,Andrew McCutchen,Pittsburgh Pirates
+Legendary Debut Autographs,LDA-AP,Andy Pettitte,New York Yankees
+Legendary Debut Autographs,LDA-APU,Albert Pujols,St. Louis Cardinals
+Legendary Debut Autographs,LDA-DG,Didi Gregorius,Cincinnati Reds
+Legendary Debut Autographs,LDA-DO,David Ortiz,Minnesota Twins
+Legendary Debut Autographs,LDA-ER,Eddie Rosario,Minnesota Twins
+Legendary Debut Autographs,LDA-HM,Hideki Matsui,New York Yankees
+Legendary Debut Autographs,LDA-JA,Jesus Aguilar,Cleveland Indians
+Legendary Debut Autographs,LDA-JD,Jacob deGrom,New York Mets
+Legendary Debut Autographs,LDA-JU,Justin Upton,Arizona Diamondbacks
+Legendary Debut Autographs,LDA-KD,Khris Davis,Milwaukee Brewers
+Legendary Debut Autographs,LDA-MH,Mitch Haniger,Arizona Diamondbacks
+Legendary Debut Autographs,LDA-SO,Shohei Ohtani,Los Angeles Angels
+Legendary Debut Autographs,LDA-TH,Torii Hunter,Minnesota Twins
+Legendary Debut Autographs,LDA-TS,Trevor Story,Colorado Rockies
+Legendary Debut Autographs,LDA-VG,Yadier Molina,St. Louis Cardinals
+Autograph Short Prints,SPA-AJ,Aaron Judge,New York Yankees
+Autograph Short Prints,SPA-AM,Andrew McCutchen,New York Yankees
+Autograph Short Prints,SPA-AP,Albert Pujols,Los Angeles Angels
+Autograph Short Prints,SPA-AR,Anthony Rizzo,Chicago Cubs
+Autograph Short Prints,SPA-FL,Francisco Lindor,Cleveland Indians
+Autograph Short Prints,SPA-GS,George Springer,Houston Astros
+Autograph Short Prints,SPA-JA,Jose Altuve,Houston Astros
+Autograph Short Prints,SPA-JD,Jacob deGrom,New York Mets
+Autograph Short Prints,SPA-KB,Kris Bryant,Chicago Cubs
+Autograph Short Prints,SPA-LS,Juan Soto,Washington Nationals
+Autograph Short Prints,SPA-MT,Mike Trout,Los Angeles Angels
+Autograph Short Prints,SPA-RAJ,Ronald Acuña Jr.,Atlanta Braves
+Autograph Short Prints,SPA-SO,Shohei Ohtani,Los Angeles Angels
+Autograph Short Prints,SPA-YM,Yadier Molina,St. Louis Cardinals
+Mystery Redemption Autographs,A,Vladimir Guerrero Jr.,Toronto Blue Jays
+Mystery Redemption Autographs,B,Eloy Jimenez,Chicago White Sox
